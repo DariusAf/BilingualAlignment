@@ -286,7 +286,7 @@ class Model(VirtualModel):
     
     # -- Bind texts
     
-    def mvc_link_texts(self,v,c):
+    def mvc_link_texts(self):
         self.mvc_check()
         self.txt1.mvc_link_views(self._views)
         self.txt2.mvc_link_views(self._views)

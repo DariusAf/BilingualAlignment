@@ -21,6 +21,7 @@ view = View()
 controller = Controller()
 model.mvc_link_controller(controller)
 model.mvc_link_views([view])
+model.mvc_link_texts()
 controller.mvc_link_model(model)
 controller.mvc_link_views([view])
 view.mvc_link_model(model)
@@ -62,9 +63,9 @@ print("-- Tests")
 print('Chat ->',model.dist_word('chat'))
 
 
-# view.change_task("Exporting Dictionary")
-# start_time = time.time()
-# model.compute_dictionary("Dictionnary.txt")
-# model.save_dists("Result.txt")
-# elapsed_time = time.time() - start_time
-# print("Done ! in {} seconds".format(elapsed_time))
+view.change_task("Exporting Dictionary")
+start_time = time.time()
+model.compute_dictionary("Dictionnary.txt")
+model.save_dists("Result.txt")
+elapsed_time = time.time() - start_time
+print("Done ! in {} seconds".format(elapsed_time))
