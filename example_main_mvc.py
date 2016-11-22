@@ -19,7 +19,12 @@ def graphDist(l):
 model = Model()
 view = View()
 controller = Controller()
-link_mvc(model,[view],controller)
+model.mvc_link_controller(controller)
+model.mvc_link_views([view])
+controller.mvc_link_model(model)
+controller.mvc_link_views([view])
+view.mvc_link_model(model)
+view.mvc_link_controller(controller)
 
 computeFromRawFiles = False
 

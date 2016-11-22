@@ -61,13 +61,4 @@ class VirtualController(VirtualPattern):
     def mvc_link_model(self,m):
         self._models = m
         self._isLinked[1] = True
-
-
-def link_mvc(m,vs,c):
-    m.mvc_link_views(v)
-    m.mvc_link_controller(c)
-    for v in vs:
-        v.mvc_link_model(m)
-        v.mvc_link_controller(c)
-    c.mvc_link_model(m)
-    c.mvc_link_views(v)
+    
