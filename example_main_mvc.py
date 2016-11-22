@@ -18,7 +18,8 @@ def graphDist(l):
 
 model = Model()
 view = View()
-model.mvc_link(view)
+controller = Controller()
+link_mvc(model,[view],controller)
 
 computeFromRawFiles = False
 
@@ -56,9 +57,9 @@ print("-- Tests")
 print('Chat ->',model.dist_word('chat'))
 
 
-view.change_task("Exporting Dictionary")
-start_time = time.time()
-model.compute_dictionary("Dictionnary.txt")
-model.save_dists("Result.txt")
-elapsed_time = time.time() - start_time
-print("Done ! in {} seconds".format(elapsed_time))
+# view.change_task("Exporting Dictionary")
+# start_time = time.time()
+# model.compute_dictionary("Dictionnary.txt")
+# model.save_dists("Result.txt")
+# elapsed_time = time.time() - start_time
+# print("Done ! in {} seconds".format(elapsed_time))

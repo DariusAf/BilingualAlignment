@@ -2,6 +2,8 @@
 import re
 import math
 
+from virtual_mvc import *
+
 # ------------------------------ MODEL ------------------------------
 
 class FileNotFound(Exception):
@@ -28,14 +30,6 @@ class DataNotProcessed(Exception):
 
     def __str__(self):
         return "Database not processed !"
-
-
-class LinkErrorMVC(Exception):
-    def __init__(self):
-        super.__init__()
-
-    def __str__(self):
-        return "No link found !"
 
 
 class Word:
@@ -141,17 +135,14 @@ class Word:
         return "{} (f={})".format(self._str, self._frequency)
 
 
-class Text:
+class Text(VirtualModel):
     def __init__(self):
+        super().__init__()
         self._length = 0
         self._words = []
         self._txt = ""  # useful for the gui
         self._data = {}
         self._canOperate = False
-        
-        # MVC
-        self._isLinked = False
-        self._view = 0
 
     @property
     def length(self):
@@ -166,17 +157,6 @@ class Text:
         if not self._canOperate:
             raise DataNotProcessed
         return self._data[key]
-    
-    # -- MVC
-
-    def mvc_link(self,v):
-        self._view = v
-        self._isLinked = True
-    
-    @staticmethod
-    def mvc_check(self):
-        if not self._isLinked:
-            raise LinkErrorMVC
 
     # -- Methods
 
@@ -239,8 +219,9 @@ class Text:
                         if self._data[str2].dist_jaro(str1) > offset:
                             newcluster += self._data[str2]
                             cluster_list.append(str2)
-
-                            self._view.notify_progress(1/self._length)
+                            
+                            for view in self._views:
+                                view.notify_progress(1/self._length)
 
                     newcluster.update()
                     newdata[newcluster.str] = newcluster
@@ -249,7 +230,8 @@ class Text:
                     for el in cluster_list:
                         self._data.pop(el)
 
-                    self._view.notify_progress(1/self._length)
+                    for view in self._views:
+                        view.notify_progress(1/self._length)
 
             self._data = newdata
         self._length = len(self._data)
@@ -285,17 +267,14 @@ def str_tuple(item):
     return "{}:{}".format(item[0], item[1])
 
 
-class Model:
+class Model(VirtualModel):
     def __init__(self):
+        super().__init__()
         self._txt1 = Text()
         self._txt2 = Text()
 
         self._distWords = {}  # associated words and their distance
         self._groupFactor = 1  # quantifies how words are associated
-        
-        # MVC
-        self._isLinked = False
-        self._view = 0
 
     @property
     def txt1(self):
@@ -305,18 +284,14 @@ class Model:
     def txt2(self):
         return self._txt2
     
-    # -- MVC
-
-    def mvc_link(self,v):
-        self._view = v
-        self._txt1.mvc_link(v)
-        self._txt2.mvc_link(v)
-        self._isLinked = True
+    # -- Bind texts
     
-    @staticmethod
-    def mvc_check(self):
-        if not self._isLinked:
-            raise LinkErrorMVC
+    def mvc_link_texts(self,v,c):
+        self.mvc_check()
+        self.txt1.mvc_link_views(self._views)
+        self.txt2.mvc_link_views(self._views)
+        self.txt1.mvc_link_controller(self._controller)
+        self.txt2.mvc_link_controller(self._controller)
 
     # -- Methods
 
@@ -384,7 +359,8 @@ class Model:
             for word in self._distWords:
                 dist, aligned_word = self.dist_word(word)
                 f.write("{} -> ({}) {}\n".format(word, dist, aligned_word))
-                self._view.notify_progress(1/self._txt1.length)
+                for view in self._views:
+                    view.notify_progress(1/self._txt1.length)
 
     def save_dists(self, name):
         """Save the data into a txt file"""
@@ -396,8 +372,9 @@ class Model:
 # ------------------------------ VIEW ------------------------------
 
 
-class View:
+class View(VirtualView):
     def __init__(self):
+        super().__init__()
         self._current_task = ""
         self._progress_bar = 0
         self._offset_bar = 0
@@ -416,3 +393,11 @@ class View:
         
             # DISPLAY ON GUI
             print("{} : {}%".format(self._current_task, math.floor(self._progress_bar*100)))
+            
+            
+# ------------------------------ CONTROL ------------------------------
+
+
+class Controller(VirtualController):
+    def __init__(self):
+        super().__init__()
