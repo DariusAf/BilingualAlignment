@@ -1,15 +1,11 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'test1.ui'
-#
-# Created by: PyQt4 UI code generator 4.11.4
-#
-# WARNING! All changes made in this file will be lost!
-
 import sys
 from PyQt4 import QtCore, QtGui
 from PyQt4.Qt import Qt
 from PyQt4.QtGui import QFileDialog
+
+import re
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -68,7 +64,7 @@ class CodeEditor(QtGui.QPlainTextEdit):
         self.setStyleSheet("CodeEditor {font-size:13px;border:none;border-left:5px solid #DCC;padding-top:0;margin-top:0;}")
         self.cursorPositionChanged.connect(self.highlightCurrentLine)
         self.currentLine = 0
-        self.setLineWrapMode(0)
+        # self.setLineWrapMode(0)
         self.currentWord = "a"
     
     def lineNumberAreaWidth(self):
@@ -90,6 +86,14 @@ class CodeEditor(QtGui.QPlainTextEdit):
             block.next()
         return 0
     
+    def isAcceptable(self,w,side=0):
+        if w != "":
+            l = [" ",",","'",";",":","$","%","!","?"]
+            for sep in l:
+                if w[side] == sep:
+                    return False
+        return True
+    
     def highlightCurrentLine(self):
         hi_selection = QtGui.QTextEdit.ExtraSelection()
         #hi_selection.format.setBackground(QtGui.QColor(255, 255, 0))
@@ -99,8 +103,27 @@ class CodeEditor(QtGui.QPlainTextEdit):
         hi_selection.cursor.clearSelection()
     
         cursor = self.textCursor()
-        self.setTextCursor(cursor)
+        goOn = True
+        nLeft = 0
+        while goOn:
+            a = cursor.movePosition(QtGui.QTextCursor.Left,mode=QtGui.QTextCursor.KeepAnchor)
+            b = cursor.selectedText()
+            goOn = a and self.isAcceptable(str(b))
+            nLeft += 1
+        cursor.movePosition(QtGui.QTextCursor.Left,mode=QtGui.QTextCursor.MoveAnchor)
+        cursor.movePosition(QtGui.QTextCursor.Right,mode=QtGui.QTextCursor.MoveAnchor)
+        cursor.movePosition(QtGui.QTextCursor.Right,mode=QtGui.QTextCursor.KeepAnchor,n=nLeft-1)
+        
+        goOn = True
+        while goOn:
+            a = cursor.movePosition(QtGui.QTextCursor.Right,mode=QtGui.QTextCursor.KeepAnchor)
+            b = cursor.selectedText()
+            goOn = a and self.isAcceptable(str(b),side=-1)
+        cursor.movePosition(QtGui.QTextCursor.Left,mode=QtGui.QTextCursor.KeepAnchor)
+        
         word = cursor.selectedText()
+        #self.setTextCursor(cursor)
+        
         if self.currentWord != word and word != "" :
             self.currentWord = word
             print(word)
@@ -197,15 +220,15 @@ class Ui_MainWindow(object):
 
     def Browse(self):
         file_name = QFileDialog.getOpenFileName()
-        reader = open(file_name,'r').read()
+        reader = open(file_name,'r',encoding="utf-8").read()
         self.plainTextEdit.setText(reader)
 
     def Select(self):
         cursor = self.plainTextEdit.textCursor()
         textSelected = cursor.selectedText()
         s = textSelected.lower()
-        #self.plainTextEdit.appendPlainText(s)
-        print(s)
+        # self.plainTextEdit.appendPlainText(s)
+        # print(s)
 
 if __name__ == '__main__':
     app = QtGui.QApplication(sys.argv)
