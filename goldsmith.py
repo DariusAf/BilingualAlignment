@@ -20,7 +20,9 @@ class Goldsmith:
         self._words_in_signatures = None
         self._suffixes = None
         self._stems = None
+        
         self._signatures = None
+        self._sorted_sig = None
 
         self._ngram = None 
         self._number_of_words_analized = 0
@@ -31,6 +33,10 @@ class Goldsmith:
         
         self._sorted_suffixes = None        
         
+        self._stem_to_best_sig = None
+        self._best_sig_to_stem = None
+        self._word_best_split = None
+        self._best_sig_word = None
         #Text is list of words
         self._text = None
         self._model = None
@@ -56,7 +62,7 @@ class Goldsmith:
         for word in self._text:
             length = len(word)
             if length > 4:
-                c = 0
+                c = 1
                 self._number_of_words_analized += 1
                 while c < 5:
                     suff = word[length - c : length]
@@ -97,7 +103,7 @@ class Goldsmith:
         """Returns a word containing all letters that are not suffixes."""
         self._letters = dict()
         word = []
-        for letter in "abcdefghijklmnopqrstuvwxyz":
+        for letter in "abcdefghijklmnopqrstuvwxyzdÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñœ":
             for word in self._text:
                 length = len(word)
                 if letter not in self._letters:
@@ -238,44 +244,121 @@ class Goldsmith:
 
         self._sorted_suffixes = qck.quick_sort_dict(self._suffix_likelihood, list_suff, 0, len(list_suff)-1, 0)
         
-        def compute_all_lengths(self):
+    def compute_all_lengths(self):
+        """
+        Compute the length of the morphology model
+        """
+        """            
+        if self._signatures is None:
+            self._signatures = dict()
+        
+        for sig in self._signatures_to_stems:
+            if sig not in self._signatures:
+                self._signatures[sig] = dict()
+            for suffix in sig:
+                self._signatures[sig]["Suffix list"] += log(26,2)*len(suffix) 
+                + log(self._number_of_words_analized/self._suffixes[suffix],2)
+            for stem in self._signatures_to_stems[sig]:
+                self._signatures[sig][1] += log(26,2)*len(stem)
+                + log(self._number_of_words_analized/self._stems[stem],2)
             """
-            Compute the length of the morphology model
-            """
-            """            
-            if self._signatures is None:
-                self._signatures = dict()
+        self._model = dict()
+        self._model["Suffix list"] = 0
+        self._model["Stem list"] = 0
+        self._model["Signature list"] = 0
+        
+        for suffix in self._suffixes:
+            self._model["Suffix list"] += log(26,2)*len(suffix) \
+            + log(self._number_of_words_analized/self._suffixes[suffix],2)
+        for stem in self._stems:
+            self._model["Stem list"] += log(26,2)*len(stem) \
+            + log(self._number_of_words_analized/self._stems[stem],2)
+        for sig in self._signatures_to_stems:
+            # Size of the count of the number of stems plus the size of the count of the number of suffixes.
+            self._model["Signature list"] += log(26,2)*(len(sig) + len(self._signatures_to_stems[sig]))
             
-            for sig in self._signatures_to_stems:
-                if sig not in self._signatures:
-                    self._signatures[sig] = dict()
-                for suffix in sig:
-                    self._signatures[sig]["Suffix list"] += log(26,2)*len(suffix) 
-                                                + log(self._number_of_words_analized/self._suffixes[suffix],2)
-                for stem in self._signatures_to_stems[sig]:
-                    self._signatures[sig][1] += log(26,2)*len(stem)
-                                                + log(self._number_of_words_analized/self._stems[stem],2)
-            """
-            self._model = dict()
-            self._model["Suffix list"] = 0
-            self._model["Stem list"] = 0
-            self._model["Signature list"] = 0
-            
-            for suffix in self._suffixes:
-                self._model["Suffix list"] += log(26,2)*len(suffix) \
-                                                + log(self._number_of_words_analized/self._suffixes[suffix],2)
-            for stem in self._stems:
-                self._model["Stem list"] += log(26,2)*len(stem) \
-                                                + log(self._number_of_words_analized/self._stems[stem],2)
-            for sig in self._signatures_to_stems:
-                # Size of the count of the number of stems plus the size of the count of the number of suffixes.
-                self._model["Signature list"] += log(26,2)*(len(sig) + len(self._signatures_to_stems[sig]))
-                
-                for stem in self._signatures_to_stems[sig]:
-                    # No complex stem here for now
-                    self._model["Signature list"] += log(len(self._text)/self.stems[stem],2)
-
+            for stem in self._signatures_to_stems[sig]:
+                # No complex stem here for now
+                self._model["Signature list"] += log(len(self._text)/self.stems[stem],2)
                 """                
                 for suffix in sig:
                     self._model["Signature list"] += 
                 """
+    def signatures_info(self):
+        """
+        Using the wighted mutual information for the suffixes we deduce one for the signatures
+        """
+        if self._signatures is None:
+            self._signatures = dict()
+        for sig in self._signatures_to_stems:
+            if sig not in self._signatures:
+                self._signatures[sig] = 1
+            s = 1
+            p = 1
+            for suff in sig:
+                if suff != "NULL":
+                    s += self._suffix_likelihood[suff]
+                    p *= self._suffix_likelihood[suff]
+            self._signatures[sig] = p/s
+    
+    def sort_sig(self):
+        """
+        Given their likelihood this method sorts suffixes/stems
+        """
+        sys.setrecursionlimit(10000)
+        self._sorted_sig = list()
+        
+        list_sig = [ " " for suff in range(len(self._signatures))]
+        i = 0
+        while i < len(self._signatures):
+            for sig in self._signatures:            
+                list_sig[i] = sig
+                i += 1
+
+        self._sorted_sig = qck.quick_sort_dict(self._signatures, list_sig, 0, len(list_sig)-1, 0)
+    
+    def best_sig(self):
+        """
+        For each stem, this method associate the best signature.
+        """
+        if self._stem_to_best_sig is None:
+            self._stem_to_best_sig = dict()
+        if self._best_sig_to_stem is None:
+            self._best_sig_to_stem = dict()
+        for stem in self._stems_to_signatures:
+            argsig = None
+            wmi = 0
+            for sig in self._stems_to_signatures[stem]:
+                if wmi < self._signatures[sig]:
+                    wmi = self._signatures[sig]
+                    argsig = sig
+            self._stem_to_best_sig[stem] = argsig
+            if argsig not in self._best_sig_to_stem:
+                self._best_sig_to_stem[argsig] = list()
+            self._best_sig_to_stem[argsig].append(stem)
+    
+    def best_split(self):
+        """
+        For a given word returns the best slit : stem + signature
+        """
+        if self._word_best_split is None:
+            self._word_best_split = dict()
+        if self._best_sig_word is None:
+            self._best_sig_word = dict()
+        for word in self._words_to_stems:
+            if len(word) > 4:
+                if word not in self._word_best_split:
+                    self._word_best_split[word] = tuple()
+                argstem = None
+                argsig = None
+                wmi = 0
+                for stem in self._words_to_stems[word]:
+                    if wmi < self._signatures[self._stem_to_best_sig[stem]]:
+                        argstem = stem
+                        argsig = self._stem_to_best_sig[stem]
+                        wmi = self._signatures[self._stem_to_best_sig[stem]]
+                self._word_best_split[word] = (argstem, argsig)
+                if argsig not in self._best_sig_word:
+                    self._best_sig_word[argsig] = list()
+                self._best_sig_word[argsig].append((word, stem))
+                
