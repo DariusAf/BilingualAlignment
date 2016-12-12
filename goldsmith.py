@@ -6,7 +6,7 @@ http://www.aclweb.org/anthology/J01-2001
 @author: Toulemont
 """
 from math import log
-import quick_sort as qck
+import functions as func
 import sys
 class Goldsmith:
     def __init__(self):
@@ -33,10 +33,16 @@ class Goldsmith:
         
         self._sorted_suffixes = None        
         
+        
+        #Classification
         self._stem_to_best_sig = None
         self._best_sig_to_stem = None
         self._word_best_split = None
         self._best_sig_word = None
+        self._stable_sig = None
+        #An attempt to cluster verbs
+        self._groups = None
+        self._rate = None
         #Text is list of words
         self._text = None
         self._model = None
@@ -204,7 +210,7 @@ class Goldsmith:
 
     def compute_morpheme_likelihood(self):
         """
-        Compute the morpheme likelihood.
+        Compute the morpheme likelihood. ( Wighted mutual information)
         
         -[#morpheme]*log([#morpheme]/(product of [#letter] for letter in morpheme))/ [#text]
         """
@@ -242,48 +248,8 @@ class Goldsmith:
                 list_suff[i] = suff
                 i += 1
 
-        self._sorted_suffixes = qck.quick_sort_dict(self._suffix_likelihood, list_suff, 0, len(list_suff)-1, 0)
-        
-    def compute_all_lengths(self):
-        """
-        Compute the length of the morphology model
-        """
-        """            
-        if self._signatures is None:
-            self._signatures = dict()
-        
-        for sig in self._signatures_to_stems:
-            if sig not in self._signatures:
-                self._signatures[sig] = dict()
-            for suffix in sig:
-                self._signatures[sig]["Suffix list"] += log(26,2)*len(suffix) 
-                + log(self._number_of_words_analized/self._suffixes[suffix],2)
-            for stem in self._signatures_to_stems[sig]:
-                self._signatures[sig][1] += log(26,2)*len(stem)
-                + log(self._number_of_words_analized/self._stems[stem],2)
-            """
-        self._model = dict()
-        self._model["Suffix list"] = 0
-        self._model["Stem list"] = 0
-        self._model["Signature list"] = 0
-        
-        for suffix in self._suffixes:
-            self._model["Suffix list"] += log(26,2)*len(suffix) \
-            + log(self._number_of_words_analized/self._suffixes[suffix],2)
-        for stem in self._stems:
-            self._model["Stem list"] += log(26,2)*len(stem) \
-            + log(self._number_of_words_analized/self._stems[stem],2)
-        for sig in self._signatures_to_stems:
-            # Size of the count of the number of stems plus the size of the count of the number of suffixes.
-            self._model["Signature list"] += log(26,2)*(len(sig) + len(self._signatures_to_stems[sig]))
-            
-            for stem in self._signatures_to_stems[sig]:
-                # No complex stem here for now
-                self._model["Signature list"] += log(len(self._text)/self.stems[stem],2)
-                """                
-                for suffix in sig:
-                    self._model["Signature list"] += 
-                """
+        self._sorted_suffixes = func.quick_sort_dict(self._suffix_likelihood, list_suff, 0, len(list_suff)-1, 0)
+
     def signatures_info(self):
         """
         Using the wighted mutual information for the suffixes we deduce one for the signatures
@@ -299,7 +265,13 @@ class Goldsmith:
                 if suff != "NULL":
                     s += self._suffix_likelihood[suff]
                     p *= self._suffix_likelihood[suff]
-            self._signatures[sig] = p/s
+            d = 1
+            m = 1
+            for stem in self._signatures_to_stems[sig]:
+                if len(stem) > 1:
+                    d += self._stem_likelihood[stem]
+                    m *= self._stem_likelihood[stem]
+            self._signatures[sig] = p/s + m/d
     
     def sort_sig(self):
         """
@@ -315,7 +287,7 @@ class Goldsmith:
                 list_sig[i] = sig
                 i += 1
 
-        self._sorted_sig = qck.quick_sort_dict(self._signatures, list_sig, 0, len(list_sig)-1, 0)
+        self._sorted_sig = func.quick_sort_dict(self._signatures, list_sig, 0, len(list_sig)-1, 0)
     
     def best_sig(self):
         """
@@ -336,7 +308,8 @@ class Goldsmith:
             if argsig not in self._best_sig_to_stem:
                 self._best_sig_to_stem[argsig] = list()
             self._best_sig_to_stem[argsig].append(stem)
-    
+
+        
     def best_split(self):
         """
         For a given word returns the best slit : stem + signature
@@ -360,5 +333,43 @@ class Goldsmith:
                 self._word_best_split[word] = (argstem, argsig)
                 if argsig not in self._best_sig_word:
                     self._best_sig_word[argsig] = list()
-                self._best_sig_word[argsig].append((word, stem))
-                
+                self._best_sig_word[argsig].append((word, argstem))
+
+    def rate_sig(self, sig):
+        """
+        An attempt to group morpheme that look alike according to the Jaro Winkler distance.
+        """
+        groups = set()
+        for i in self._stable_sig[sig]:
+            for j in self._stable_sig[sig]:
+                if func.jaro_winkler(i[0], j[0]) == 1.0 and i != j \
+                    and (i[0], j[0]) not in groups \
+                    and (j[0], i[0]) not in groups:
+                    groups.add((i[0], j[0]))
+        return groups
+    
+
+    def check_stability(self):
+        """
+        
+        """
+        self._stable_sig = dict()
+        self._stable_split = dict()
+        for word in self._word_best_split:
+            (stem, sig) = self._word_best_split[word]
+            suffix_set = set()
+            for suff in sig:
+                if self._word_best_split[stem+suff][1] == sig:
+                    suffix_set.add(suff)
+            if word not in self._stable_split:
+                self._stable_split[word] = tuple()
+            signature = tuple(sorted(suffix_set))
+            self._stable_split[word] = (stem, signature)
+            if signature not in self._stable_sig:
+                self._stable_sig[signature] = list()
+            self._stable_sig[signature].append((word, stem))
+        
+    
+
+            
+        
