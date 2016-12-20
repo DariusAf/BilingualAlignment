@@ -5,6 +5,11 @@ In this code we implement the algorithm defined by Goldsmith & al at :
 http://www.aclweb.org/anthology/J01-2001
 @author: Toulemont
 """
+
+# TODO : Build a function that computes the similarity between two signatures. 
+# TODO : Build a User interface that shows the properties of the word cliked.
+# TODO : Show other signatures that coud be linked to the word use. 
+# TODO : Give the possibility to the user to eliminate translations, or associated words.
 from math import log
 import functions as func
 import sys
@@ -40,6 +45,9 @@ class Goldsmith:
         self._word_best_split = None
         self._best_sig_word = None
         self._stable_sig = None
+        
+        #Similar signatures
+        self._super_sig = None
         #An attempt to cluster verbs
         self._groups = None
         self._rate = None
@@ -195,7 +203,7 @@ class Goldsmith:
                     self._suffixes_to_signatures[suffix] =set()
                 if sig not in self._suffixes_to_signatures[suffix]:
                     self._suffixes_to_signatures[suffix].add(sig)
-    
+
     def make_all_sigs(self, words_list):
         """
         Makes all signatures
@@ -272,7 +280,7 @@ class Goldsmith:
                     d += self._stem_likelihood[stem]
                     m *= self._stem_likelihood[stem]
             self._signatures[sig] = p/s + m/d
-    
+
     def sort_sig(self):
         """
         Given their likelihood this method sorts suffixes/stems
@@ -288,7 +296,7 @@ class Goldsmith:
                 i += 1
 
         self._sorted_sig = func.quick_sort_dict(self._signatures, list_sig, 0, len(list_sig)-1, 0)
-    
+
     def best_sig(self):
         """
         For each stem, this method associate the best signature.
@@ -309,7 +317,7 @@ class Goldsmith:
                 self._best_sig_to_stem[argsig] = list()
             self._best_sig_to_stem[argsig].append(stem)
 
-        
+
     def best_split(self):
         """
         For a given word returns the best slit : stem + signature
@@ -351,7 +359,7 @@ class Goldsmith:
 
     def check_stability(self):
         """
-        
+        Creates stable signatures.
         """
         self._stable_sig = dict()
         self._stable_split = dict()
@@ -368,7 +376,28 @@ class Goldsmith:
             if signature not in self._stable_sig:
                 self._stable_sig[signature] = list()
             self._stable_sig[signature].append((word, stem))
+
+    def super_sig(self, alpha = 0.5):
+        """
+        Returns a dict containing groups of signatures.
+        """
+        self._super_sig = dict()
+        for sig in self._stable_sig:
+            l = len(sig)
+            if sig not in self._super_sig:
+                self._super_sig[sig] = list()
+            for sig2 in self._stable_sig:
+                sim = 0
+                l2 = len(sig2)
+                if sig != sig2:
+                    if sig2 not in sig and sig not in sig2:
+                        for suff1 in sig: 
+                            if suff1 in sig2:
+                                sim+=1
+                if sim == l:
+                    self._super_sig[sig].append(sig2)
         
+
     
 
             
