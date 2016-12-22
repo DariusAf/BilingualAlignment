@@ -4,12 +4,12 @@ from mvc import *
 # DEBUG
 
 import time
-import matplotlib.pyplot as plt
 
-def graphDist(l):
-    for i,s in enumerate(l):
+
+def graph_dist(l):
+    for i, s in enumerate(l):
         w = Word(s)
-        for j in range(i,len(l)):
+        for j in range(i, len(l)):
             if l[j] != s:
                 print("{},{} : {}".format(s, l[j], w.dist_jaro(Word(l[j]))))
 
@@ -36,8 +36,6 @@ if computeFromRawFiles:
         model.txt2.open_raw("../livres/HP1_en.txt")
     except FileNotFound as err:
         print(err)
-    except:
-        print("Error")
 
     view.change_task("Clustering french text")
     model.txt1.process_raw()
@@ -58,10 +56,8 @@ else:
 print("-- Associating close words")
 model.associate_words(1.5)
 
-
 print("-- Tests")
-print('Chat ->',model.dist_word('chat'))
-
+print('Chat ->', model.dist_word('chat'))
 
 view.change_task("Exporting Dictionary")
 start_time = time.time()

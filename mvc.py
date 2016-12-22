@@ -3,8 +3,11 @@ import re
 import math
 
 from virtual_mvc import *
+from GUI_widgets import *
+
 
 # ------------------------------ MODEL ------------------------------
+
 
 class FileNotFound(Exception):
     def __init__(self, s):
@@ -81,7 +84,7 @@ class Word:
         for i in range(len(self._position)):
             while j < l_x:
                 if x.pos[j] < self._position[i]:
-                    self._position.insert(i+j, x.pos[j])
+                    self._position.insert(i + j, x.pos[j])
                     j += 1
                 else:
                     break
@@ -101,19 +104,19 @@ class Word:
                 self._position[i] = float(self._position[i])
             self._recency = [self._position[0]]
             for i in range(1, self._frequency):
-                self._recency.append(self._position[i]-self._position[i-1])
-            self._recency.append(1-self._position[self._frequency-1])
+                self._recency.append(self._position[i] - self._position[i - 1])
+            self._recency.append(1 - self._position[self._frequency - 1])
             self._isUpdated = True
 
     def dist_jaro(self, str2, alpha=0.8):
         """Jaro Winkler distance
            alpha to adjust the weight of the prefix """
-        max_corr = int(max(len(self._str), len(str2))/2) - 1
+        max_corr = int(max(len(self._str), len(str2)) / 2) - 1
         m = 0
         t = 0
         last_corr = -1
         for i, chr1 in enumerate(self._str):
-            for j in range(max(i-max_corr, 0), min(i+max_corr+1, len(str2))):
+            for j in range(max(i - max_corr, 0), min(i + max_corr + 1, len(str2))):
                 if chr1 == str2[j]:
                     m += 1
                     if j > last_corr:
@@ -121,7 +124,7 @@ class Word:
                     else:
                         t += 1
                         last_corr = j
-        dist = (m/len(self._str) + m/len(str2) + (m-t)/max(1, m))/3
+        dist = (m / len(self._str) + m / len(str2) + (m - t) / max(1, m)) / 3
 
         # prefix
         common_prefix = 0
@@ -129,7 +132,7 @@ class Word:
                 and self._str[common_prefix] == str2[common_prefix]:
             common_prefix += 1
 
-        return dist*alpha + (1-dist*alpha)*common_prefix/5
+        return dist * alpha + (1 - dist * alpha) * common_prefix / 5
 
     def __str__(self):
         return "{} (f={})".format(self._str, self._frequency)
@@ -185,9 +188,9 @@ class Text(VirtualModel):
         # count
         for i in range(self._length):
             word = self._words[i].lower()
-            if not word in self._data:
+            if word not in self._data:
                 self._data[word] = Word(word)
-            self._data[word].add_occurrence(i/self._length)
+            self._data[word].add_occurrence(i / self._length)
 
         # process
         for word in self._data:
@@ -195,21 +198,21 @@ class Text(VirtualModel):
 
         # allow access
         self._canOperate = True
-    
+
     def select_range(self, minfreq=0, maxfreq=float("inf")):
         if self._canOperate:
             poplist = []
-            for str in self._data:
-                if not minfreq < self._data[str].freq < maxfreq:
-                    poplist.append(str)
-            for str in poplist:
-                self._data.pop(str)
+            for word in self._data:
+                if not minfreq < self._data[word].freq < maxfreq:
+                    poplist.append(word)
+            for word in poplist:
+                self._data.pop(word)
             self._length = len(self._data)
-    
+
     def cluster_data(self, method="jaro", offset=0.95):
         """Group words with respect to a chosen metric"""
         self.mvc_check()
-        if self._canOperate and method == "jaro":            
+        if self._canOperate and method == "jaro":
             newdata = {}
             for str1 in list(self._data.keys()):
                 if str1 in self._data:
@@ -219,9 +222,9 @@ class Text(VirtualModel):
                         if self._data[str2].dist_jaro(str1) > offset:
                             newcluster += self._data[str2]
                             cluster_list.append(str2)
-                            
+
                             for view in self._views:
-                                view.notify_progress(1/self._length)
+                                view.notify_progress(1 / self._length)
 
                     newcluster.update()
                     newdata[newcluster.str] = newcluster
@@ -231,7 +234,7 @@ class Text(VirtualModel):
                         self._data.pop(el)
 
                     for view in self._views:
-                        view.notify_progress(1/self._length)
+                        view.notify_progress(1 / self._length)
 
             self._data = newdata
         self._length = len(self._data)
@@ -283,9 +286,9 @@ class Model(VirtualModel):
     @property
     def txt2(self):
         return self._txt2
-    
+
     # -- Bind texts
-    
+
     def mvc_link_texts(self):
         self.mvc_check()
         self.txt1.mvc_link_views(self._views)
@@ -308,7 +311,7 @@ class Model(VirtualModel):
             self._distWords[str1] = {}
             f1 = self._txt1[str1].freq
             for str2 in self._txt2.data:
-                if f1/factor < self._txt2[str2].freq < f1*factor:
+                if f1 / factor < self._txt2[str2].freq < f1 * factor:
                     self._distWords[str1][str2] = float("inf")
 
     @staticmethod
@@ -325,10 +328,10 @@ class Model(VirtualModel):
 
         # recurrence
         if mode == "naive":
-            for i in range(len(v1)-1):
-                for j in range(len(v2)-1):
-                    warp[i+1][j+1] = abs(v1[i]-v2[j]) + min([warp[i][j+1], warp[i+1][j], warp[i][j]])
-            return warp[len(v1)-1][len(v2)-1]
+            for i in range(len(v1) - 1):
+                for j in range(len(v2) - 1):
+                    warp[i + 1][j + 1] = abs(v1[i] - v2[j]) + min([warp[i][j + 1], warp[i + 1][j], warp[i][j]])
+            return warp[len(v1) - 1][len(v2) - 1]
         else:
             return float("inf")
 
@@ -341,8 +344,8 @@ class Model(VirtualModel):
 
         if str1 in self._txt1.data:
             # allocate list for computation of the maximum size
-            warp = [[1 for j in range(int(self._txt1[str1].freq*self._groupFactor)+1)]
-                    for i in range(self._txt1[str1].freq+1)]
+            warp = [[1 for j in range(int(self._txt1[str1].freq * self._groupFactor) + 1)]
+                    for i in range(self._txt1[str1].freq + 1)]
 
             for str2 in self._distWords[str1]:
                 dist = self.dtw(warp, self.txt1[str1].rec, self.txt2[str2].rec)
@@ -360,7 +363,7 @@ class Model(VirtualModel):
                 dist, aligned_word = self.dist_word(word)
                 f.write("{} -> ({}) {}\n".format(word, dist, aligned_word))
                 for view in self._views:
-                    view.notify_progress(1/self._txt1.length)
+                    view.notify_progress(1 / self._txt1.length)
 
     def save_dists(self, name):
         """Save the data into a txt file"""
@@ -378,23 +381,23 @@ class View(VirtualView):
         self._current_task = ""
         self._progress_bar = 0
         self._offset_bar = 0
-    
-    def change_task(self,ref):
+
+    def change_task(self, ref):
         """Change the current task and the corresponding progress bar"""
         self._current_task = ref
         self._progress_bar = 0
         self._offset_bar = 0
-    
-    def notify_progress(self,ratio):
+
+    def notify_progress(self, ratio):
         """Update the current progress bar if one associated with the task"""
         self._progress_bar += ratio
         while self._progress_bar > self._offset_bar:
             self._offset_bar += 0.01
-        
+
             # DISPLAY ON GUI
-            print("{} : {}%".format(self._current_task, math.floor(self._progress_bar*100)))
-            
-            
+            print("{} : {}%".format(self._current_task, math.floor(self._progress_bar * 100)))
+
+
 # ------------------------------ CONTROL ------------------------------
 
 

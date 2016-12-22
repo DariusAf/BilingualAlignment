@@ -10,13 +10,12 @@ class LinkErrorMVC(Exception):
 
 class VirtualPattern:
     def __init__(self):
-        self._isLinked = [False,False]
-    
-    @staticmethod
+        self._isLinked = [False, False]
+
     def mvc_check(self):
         if not self._isLinked[0] and self._isLinked[1]:
             raise LinkErrorMVC
-    
+
 
 class VirtualModel(VirtualPattern):
     def __init__(self):
@@ -24,11 +23,11 @@ class VirtualModel(VirtualPattern):
         self._views = []
         self._controller = None
 
-    def mvc_link_views(self,v):
+    def mvc_link_views(self, v):
         self._views = v
         self._isLinked[0] = True
-    
-    def mvc_link_controller(self,c):
+
+    def mvc_link_controller(self, c):
         self._controller = c
         self._isLinked[1] = True
 
@@ -39,11 +38,11 @@ class VirtualView(VirtualPattern):
         self._model = None
         self._controller = None
 
-    def mvc_link_model(self,m):
-        self._models = m
+    def mvc_link_model(self, m):
+        self._model = m
         self._isLinked[0] = True
-    
-    def mvc_link_controller(self,c):
+
+    def mvc_link_controller(self, c):
         self._controller = c
         self._isLinked[1] = True
 
@@ -54,11 +53,10 @@ class VirtualController(VirtualPattern):
         self._views = []
         self._model = None
 
-    def mvc_link_views(self,v):
+    def mvc_link_views(self, v):
         self._views = v
         self._isLinked[0] = True
-    
-    def mvc_link_model(self,m):
-        self._models = m
+
+    def mvc_link_model(self, m):
+        self._model = m
         self._isLinked[1] = True
-    
