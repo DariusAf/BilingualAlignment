@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# a = ui.textEdit.lineNumber
+
 import sys
 from PyQt4 import QtCore, QtGui
 from PyQt4.Qt import Qt
@@ -22,87 +24,87 @@ except AttributeError:
         return QtGui.QApplication.translate(context, text, disambig)
 
 class LineNumberArea(QtGui.QFrame):
-    # inspired by http://doc.qt.io/qt-5/qtwidgets-widgets-codeeditor-example.html
-    
     def __init__(self,editor):
         super().__init__()
-        self.codeEditor = editor
-        self.setFixedWidth(40)
-        self.setStyleSheet("LineNumberArea {background-color:#F3E0CC; margin:0; padding-top:5px;}"
-                           "QLabel {font-size:13px;padding:0px 5px;color:#866}")
         
-        self.text = QtGui.QLabel("")
-        self.text.setMinimumHeight(1)
-        vbox = QtGui.QVBoxLayout(self)
-        vbox.setSpacing(0)
-        vbox.setMargin(0)
-        vbox.addWidget(self.text)
-        vbox.addStretch(1)
-        self.setLayout(vbox)
-                
-        self.updateNumbers(0,0)
-    
-    def updateNumbers(self,mini,offset=22,currentLine=0):
-        strT = ""
-        if mini>1:
-            self.setStyleSheet("QFrame {background-color:#F3E0CC; margin:0; padding-top:1px;}"
-                               "QLabel {font-size:13px;padding:0px 4px;color:#866}")
-        else:
-            self.setStyleSheet("QFrame {background-color:#F3E0CC; margin:0; padding-top:5px;}"
-                               "QLabel {font-size:13px;padding:0px 4px;color:#866}")
-        for i in range(mini,mini+offset+1):
-            if i == currentLine+1:
-                strT += "<b>"+str(i)+"</b><br>"
-            else:
-                strT += str(i)+"<br>"
-        self.text.setText(strT)
+        # private
+        self.editor = editor
+        self.currentVect = [0,0.1,0.3,0.6,0.8,0.9,1] # TODO : adapt
+        
+        # style
+        self.setFixedWidth(20)
+        self.setStyleSheet("QFrame {background-color:#e7dede; margin:0;}"
+        "QGraphicsView {border: none; margin:0; padding:0;}")
+        
+        # graphics container
+        self.gView = QtGui.QGraphicsView(self)
+        self.scene = QtGui.QGraphicsScene(self)
+        self.scene.setSceneRect(QtCore.QRectF())
+        self.gView.setScene(self.scene)
+        
+        # pens
+        self.cursorPen = QtGui.QPen(QtGui.QColor(255,239,115))
+        self.cursorPen.setWidth(1)
+        self.defaultPen = QtGui.QPen(QtGui.QColor(220,75,92))
+        self.defaultPen.setWidth(2)
+        self.matchPen = QtGui.QPen(QtGui.QColor(50,150,255))
+        self.matchPen.setWidth(2)
 
-        
+    def resizeContent(self,h):
+        self.gView.setFixedSize(20,h)
+        self.gView.fitInView(0,0,20,h,Qt.KeepAspectRatio);
+        self.scene.setSceneRect(0,0,20,h)
+    
+    def drawVector(self):
+        h = self.frameRect().height()
+        self.resizeContent(h)
+        self.scene.clear()
+        for it in self.currentVect:
+            p1 = self.gView.mapToScene(QtCore.QPoint(0,h*it))
+            p2 = self.gView.mapToScene(QtCore.QPoint(20,h*it))
+            l = QtGui.QGraphicsLineItem(p1.x(),p1.y(),p2.x(),p2.y())
+            l.setPen(self.defaultPen)
+            self.scene.addItem(l)
+        self.gView.update()
+    
+    def mousePressEvent(self,QMouseEvent):
+        hEditor = self.editor.document().size().height()
+        clickedFreq = float(QMouseEvent.pos().y())/self.frameRect().height()
+        # find closest value
+        imin = 0
+        min = 1
+        for k in range(len(self.currentVect)):
+            if abs(self.currentVect[k]-clickedFreq)<min:
+                min = abs(self.currentVect[k]-clickedFreq)
+                imin = k
+        # if close enough of a indicator, adjust click
+        if min<0.02:
+            self.editor.verticalScrollBar().setValue(self.currentVect[imin]*hEditor)
+        else:
+            self.editor.verticalScrollBar().setValue(clickedFreq*hEditor)
+
+
 class CodeEditor(QtGui.QPlainTextEdit):
     def __init__(self):
         super().__init__()
-        self.setStyleSheet("CodeEditor {font-size:13px;border:none;border-left:5px solid #DCC;padding-top:0;margin-top:0;}")
-        self.cursorPositionChanged.connect(self.highlightCurrentLine)
-        self.currentLine = 0
-        # self.setLineWrapMode(0)
-        self.currentWord = "a"
-    
-    def lineNumberAreaWidth(self):
-        digits = 2
-        maxi = max(1,self.blockCount())
-        while maxi >= 10:
-            maxi /= 10
-            digits += 1
-        return 20 + self.fontMetrics().width('9')*digits
-    
-    def blockNumberVisible(self):
-        block = self.firstVisibleBlock()
-        blockNumber = block.blockNumber()
+        self.setStyleSheet("CodeEditor {font-size:13px;border:none;border-left:1px solid #d6c2c5;padding-top:0;margin-top:0;}")
+        
+        # TODO : pour le debug, à supprimer
+        reader = open("livres/HP1_en.txt",'r',encoding="utf-8").read()
+        self.setPlainText(reader)
 
-        while block.isValid():
-            blockNumber += 1
-            if block.isVisible():
-                return int(blockNumber)
-            block.next()
-        return 0
-    
     def isAcceptable(self,w,side=0):
         if w != "":
-            l = [" ",",","'",";",":","$","%","!","?"]
-            for sep in l:
-                if w[side] == sep:
-                    return False
-        return True
+            match = re.search("[\w\dÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñ]+",w)
+            if match:
+                if match.group(0) == w:
+                    return True
+        return False
     
-    def highlightCurrentLine(self):
-        hi_selection = QtGui.QTextEdit.ExtraSelection()
-        #hi_selection.format.setBackground(QtGui.QColor(255, 255, 0))
-        #hi_selection.format.setProperty(QtGui.QTextFormat.FullWidthSelection, True)
-        hi_selection.cursor = self.textCursor()
-        self.currentLine = hi_selection.cursor.blockNumber()
-        hi_selection.cursor.clearSelection()
-    
+    def getClickedWord(self):
         cursor = self.textCursor()
+        
+        # go left until special caracter
         goOn = True
         nLeft = 0
         while goOn:
@@ -110,10 +112,14 @@ class CodeEditor(QtGui.QPlainTextEdit):
             b = cursor.selectedText()
             goOn = a and self.isAcceptable(str(b))
             nLeft += 1
+        
+        # TODO : gérer le cas du premier et dernier mot du texte avec un if
+        # come back home
         cursor.movePosition(QtGui.QTextCursor.Left,mode=QtGui.QTextCursor.MoveAnchor)
         cursor.movePosition(QtGui.QTextCursor.Right,mode=QtGui.QTextCursor.MoveAnchor)
         cursor.movePosition(QtGui.QTextCursor.Right,mode=QtGui.QTextCursor.KeepAnchor,n=nLeft-1)
         
+        # go right until special caracter
         goOn = True
         while goOn:
             a = cursor.movePosition(QtGui.QTextCursor.Right,mode=QtGui.QTextCursor.KeepAnchor)
@@ -121,18 +127,18 @@ class CodeEditor(QtGui.QPlainTextEdit):
             goOn = a and self.isAcceptable(str(b),side=-1)
         cursor.movePosition(QtGui.QTextCursor.Left,mode=QtGui.QTextCursor.KeepAnchor)
         
-        word = cursor.selectedText()
-        #self.setTextCursor(cursor)
-        
-        if self.currentWord != word and word != "" :
-            self.currentWord = word
-            print(word)
+        # output clicked word
+        return cursor.selectedText().lower()
     
 
 class LNTextEdit(QtGui.QWidget):
     def __init__(self):
         super().__init__()
         
+        # Private
+        self.currentWord = ""
+        
+        # GUI
         self.edit = CodeEditor()
         self.lineNumber = LineNumberArea(self.edit)
         self.setStyleSheet("LNTextEdit {border:1px solid #000}")
@@ -145,24 +151,28 @@ class LNTextEdit(QtGui.QWidget):
         
         self.setLayout(hbox)
         
-        self.updateLineNumberAreaWidth()
-        self.edit.blockCountChanged.connect(self.updateLineNumberAreaWidth)
-        self.edit.updateRequest.connect(self.updateLineNumberArea)
-    
-    def updateLineNumberAreaWidth(self):
-        self.lineNumber.setFixedWidth(self.edit.lineNumberAreaWidth())
-    
-    def updateLineNumberArea(self,event):
-        self.lineNumber.updateNumbers(self.edit.blockNumberVisible(),offset=int(self.edit.height()/12),currentLine=self.edit.currentLine)
-    
+        # Event
+        self.edit.cursorPositionChanged.connect(self.cursorChanged)
+
     def setText(self,txt):
         self.edit.setPlainText(txt)
+    
+    def cursorChanged(self):
+        w = self.edit.getClickedWord()
+        if w and w != "" and w != self.currentWord:
+            self.currentWord = w
+            
+            # TODO : get Vector through model
+            print(self.currentWord)
+            self.lineNumber.drawVector()
+    
+    def resizeEvent(self,resizeEvent):
+        self.lineNumber.drawVector()
     
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName(_fromUtf8("MainWindow"))
-        MainWindow.resize(480, 408)
-        #MainWindow.setMaximumHeight(900)
+        MainWindow.resize(500, 480)
         
         self.centralwidget = QtGui.QWidget(MainWindow)
         self.centralwidget.setObjectName(_fromUtf8("centralwidget"))
@@ -177,35 +187,21 @@ class Ui_MainWindow(object):
         self.verticalLayout.setSpacing(0)
         self.verticalLayout.setMargin(0)
         
+        # bouton Browse
         self.pushButton = QtGui.QPushButton(self.centralwidget)
         self.pushButton.setObjectName(_fromUtf8("pushButton"))
         self.verticalLayout.addWidget(self.pushButton)
+        self.verticalLayout.addItem(QtGui.QSpacerItem(500,5,QtGui.QSizePolicy.Minimum,QtGui.QSizePolicy.Minimum))
         
-        self.pushButton_2 = QtGui.QPushButton(self.centralwidget)
-        self.pushButton_2.setObjectName(_fromUtf8("pushButton_2"))
-        self.verticalLayout.addWidget(self.pushButton_2)
-        self.verticalLayout.addItem(QtGui.QSpacerItem(10,5,QtGui.QSizePolicy.Minimum,QtGui.QSizePolicy.Minimum))
-        
-        # self.plainTextEdit = QtGui.QPlainTextEdit(self.centralwidget)
-        # self.plainTextEdit.setObjectName(_fromUtf8("plainTextEdit"))
-        # self.verticalLayout.addWidget(self.plainTextEdit)
-        
-        self.plainTextEdit = LNTextEdit()
-        self.plainTextEdit.setObjectName(_fromUtf8("LNTextEdit"))
-        self.verticalLayout.addWidget(self.plainTextEdit)
-        
+        # éditeur de texte
+        self.textEdit = LNTextEdit()
+        self.textEdit.setObjectName(_fromUtf8("LNTextEdit"))
+        self.verticalLayout.addWidget(self.textEdit)
+        self.verticalLayout.addItem(QtGui.QSpacerItem(500,5,QtGui.QSizePolicy.Minimum,QtGui.QSizePolicy.Minimum))
+
         self.horizontalLayout_2.addLayout(self.verticalLayout)
         
         MainWindow.setCentralWidget(self.centralwidget)
-        
-        self.menubar = QtGui.QMenuBar(MainWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 480, 21))
-        self.menubar.setObjectName(_fromUtf8("menubar"))
-        MainWindow.setMenuBar(self.menubar)
-        
-        self.statusbar = QtGui.QStatusBar(MainWindow)
-        self.statusbar.setObjectName(_fromUtf8("statusbar"))
-        MainWindow.setStatusBar(self.statusbar)
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
@@ -214,21 +210,13 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow", None))
         self.pushButton.setText(_translate("MainWindow", "Browse", None))
         self.pushButton.clicked.connect(self.Browse)
-        self.pushButton_2.setText(_translate("MainWindow", "Select", None))
-        self.pushButton_2.clicked.connect(self.Select)
-        self.plainTextEdit.edit.setReadOnly(True)
+        self.textEdit.edit.setReadOnly(True)
 
     def Browse(self):
         file_name = QFileDialog.getOpenFileName()
         reader = open(file_name,'r',encoding="utf-8").read()
-        self.plainTextEdit.setText(reader)
+        self.textEdit.setText(reader)
 
-    def Select(self):
-        cursor = self.plainTextEdit.textCursor()
-        textSelected = cursor.selectedText()
-        s = textSelected.lower()
-        # self.plainTextEdit.appendPlainText(s)
-        # print(s)
 
 if __name__ == '__main__':
     app = QtGui.QApplication(sys.argv)
