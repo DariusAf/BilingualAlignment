@@ -176,5 +176,5 @@ class AlignmentDisplay(QtGui.QWidget):
             print(self.currentWord)
             self.sidebar.draw_vector()
 
-    def resizeEvent(self, resizeEvent):
+    def resizeEvent(self, resize_event):
         self.sidebar.draw_vector()

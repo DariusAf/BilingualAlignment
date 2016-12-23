@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
-import re
-import math
 
+import math
+import re
 from virtual_mvc import *
-from GUI_widgets import *
+from widgets import *
 
 
 # ------------------------------ MODEL ------------------------------
@@ -96,7 +96,7 @@ class Word:
 
     def update(self):
         """Process the position vector
-           To be called after each operation """
+           To be called after each operation between words """
         if self._position:
             self._frequency = len(self._position)
             for i in range(len(self._position)):
@@ -248,7 +248,10 @@ class Text(VirtualModel):
                         f.write("{}\n{}\n".format(self._data[word].str, ",".join(map(str, self._data[word].pos))))
 
     def open_data(self, name):
-        """Read self.data from a file"""
+        """
+        Read the pre-calculated self.data from a file.
+        Do not use this method to open a raw file !
+        """
         self._data = {}
         with open(name, "r", encoding="utf-8") as f:
             line_is_name = True
