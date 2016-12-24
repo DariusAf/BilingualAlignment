@@ -19,15 +19,9 @@ def graph_dist(l):
 model = Model()
 view = View()
 controller = Controller()
-model.mvc_link_controller(controller)
-model.mvc_link_views([view])
-model.mvc_link_texts()
-controller.mvc_link_model(model)
-controller.mvc_link_views([view])
-view.mvc_link_model(model)
-view.mvc_link_controller(controller)
+link_mvc(model, [view], controller)
 
-computeFromRawFiles = False
+computeFromRawFiles = True
 
 if computeFromRawFiles:
     print("-- Opening files, clustering data and saving")

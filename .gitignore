@@ -16,3 +16,5 @@ __pycache__/GUI_widgets.cpython-35.pyc
 .idea/workspace.xml
 
 __pycache__/widgets.cpython-35.pyc
+
+*.pyc

@@ -5,6 +5,13 @@ import re
 from PyQt4 import QtCore, QtGui
 from PyQt4.Qt import Qt
 
+"""
+A widget that allow to display the occurrences vector of words on a sidebar.
+You can click on the sidebar to scroll directly to the occurrence.
+
+Also a widget that displays info.
+"""
+
 
 class OccurrenceSideBar(QtGui.QFrame):
     """
@@ -20,7 +27,7 @@ class OccurrenceSideBar(QtGui.QFrame):
         self.currentVect = [0, 1]
 
         # style
-        self.setFixedWidth(20)
+        self.setFixedWidth(15)
         self.setStyleSheet("QFrame {background-color:#e7dede; margin:0;}"
                            "QGraphicsView {border: none; margin:0; padding:0;}")
 
@@ -35,8 +42,6 @@ class OccurrenceSideBar(QtGui.QFrame):
         self.cursorPen.setWidth(1)
         self.defaultPen = QtGui.QPen(QtGui.QColor(220, 75, 92))
         self.defaultPen.setWidth(2)
-        self.matchPen = QtGui.QPen(QtGui.QColor(255, 255, 0))
-        self.matchPen.setWidth(2)
 
     def resize_content(self, h):
         """
@@ -58,12 +63,16 @@ class OccurrenceSideBar(QtGui.QFrame):
             p2 = self.gView.mapToScene(QtCore.QPoint(20, h * it))
             l = QtGui.QGraphicsLineItem(p1.x(), p1.y(), p2.x(), p2.y())
             l.setPen(self.defaultPen)
+            if len(self.currentVect) > 50:
+                small_pen = QtGui.QPen(QtGui.QColor(220, 75, 92, max(1, (255*h/2)/max(h, len(self.currentVect)))))
+                small_pen.setWidth(1)
+                l.setPen(small_pen)
             self.scene.addItem(l)
         self.gView.update()
 
     def mousePressEvent(self, mouse_event):
         """
-        Scrolljump to the selected iteration.
+        Scroll-jump to the selected iteration.
         If the click is far from a line, just scroll to the clicked area.
         """
         h_editor = self.editor.document().size().height()
@@ -90,7 +99,8 @@ class TextEditor(QtGui.QPlainTextEdit):
     def __init__(self):
         super().__init__()
         self.setStyleSheet(
-            "TextEditor {font-size:13px;border:none;border-left:1px solid #d6c2c5;padding-top:0;margin-top:0;}")
+            "TextEditor {font-size:13px;border:none;padding-top:0;margin-top:0;}")
+        self.setReadOnly(True)
 
     @staticmethod
     def is_word(w):
@@ -110,7 +120,7 @@ class TextEditor(QtGui.QPlainTextEdit):
         """
         cursor = self.textCursor()
 
-        # go left until special caracter
+        # go left until special character
         go_on = True
         n_left = 0
         while go_on:
@@ -125,7 +135,7 @@ class TextEditor(QtGui.QPlainTextEdit):
             cursor.movePosition(QtGui.QTextCursor.Right, mode=QtGui.QTextCursor.MoveAnchor)
             cursor.movePosition(QtGui.QTextCursor.Right, mode=QtGui.QTextCursor.KeepAnchor, n=n_left - 1)
 
-        # go right until special caracter
+        # go right until special character
         go_on = True
         while go_on:
             a = cursor.movePosition(QtGui.QTextCursor.Right, mode=QtGui.QTextCursor.KeepAnchor)
@@ -139,7 +149,7 @@ class TextEditor(QtGui.QPlainTextEdit):
 
 class AlignmentDisplay(QtGui.QWidget):
     """
-    A super-widget that combines TextEditor and the matching OccurenceSideBar
+    A super-widget that combines TextEditor and the matching OccurrenceSideBar
     """
 
     def __init__(self):
@@ -151,30 +161,99 @@ class AlignmentDisplay(QtGui.QWidget):
         # Sub-widgets
         self.editor = TextEditor()
         self.sidebar = OccurrenceSideBar(self.editor)
-        self.setStyleSheet("AlignmentDisplay {border:1px solid #000}")
+        self.setStyleSheet("QtGui.QWidget {border:1px solid #000}")
 
         hbox = QtGui.QHBoxLayout(self)
         hbox.setSpacing(0)
         hbox.setMargin(0)
-        hbox.addWidget(self.sidebar)
         hbox.addWidget(self.editor)
+        hbox.addWidget(self.sidebar)
 
         self.setLayout(hbox)
-
-        # Event
-        self.editor.cursorPositionChanged.connect(self.cursor_changed)
 
     def set_text(self, txt):
         self.editor.setPlainText(txt)
 
-    def cursor_changed(self):
-        w = self.editor.get_clicked_word()
-        if w and w != "" and w != self.currentWord:
-            self.currentWord = w
-
-            # TODO : call controler
-            print(self.currentWord)
-            self.sidebar.draw_vector()
-
     def resizeEvent(self, resize_event):
         self.sidebar.draw_vector()
+
+    def draw_vector(self):
+        self.sidebar.draw_vector()
+
+
+class TextInfo(QtGui.QTextEdit):
+    """
+    A HTML text box to display information
+    """
+    def __init__(self, title="", default_text=""):
+        super(TextInfo, self).__init__()
+        self.setReadOnly(True)
+        self.head = title
+        self.set_text(default_text)
+        self.setStyleSheet("TextInfo {padding: 10px; border:1px solid #BAA; background: transparent;}")
+        self.setFixedHeight(150)
+
+    def set_word(self, w):
+        self.head = "Informations sur «<em>{}</em>»".format(w)
+
+    def set_text(self, text):
+        self.setHtml('<p style="font-weight:bold; font-size:12px; color:#555;">{}</p>{}'.format(self.head, text))
+
+
+class UiColumn(QtGui.QVBoxLayout):
+    def __init__(self, name):
+        super(UiColumn, self).__init__()
+        self.setSpacing(5)
+        self.setMargin(0)
+
+        # init Widgets
+        self.label = QtGui.QLabel("<b>{}</b>".format(name))
+        self.browse = QtGui.QPushButton("Ouvrir")
+        self.align_disp = AlignmentDisplay()
+        self.info_word = TextInfo("Information sur le mot")
+        self.see_also = TextInfo("Autres déclinaisons")
+
+        # organize
+        self.addItem(QtGui.QSpacerItem(350, 5, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Minimum))
+        self.addWidget(self.label)
+        self.addWidget(self.browse)
+        self.addWidget(self.align_disp)
+        self.addWidget(self.info_word)
+        self.addWidget(self.see_also)
+        self.addItem(QtGui.QSpacerItem(350, 5, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Minimum))
+
+
+class UiWindow(QtGui.QWidget):
+    def __init__(self):
+        super(UiWindow, self).__init__()
+
+        self.resize(800, 600)
+        self.grid = QtGui.QHBoxLayout()
+        self.grid.setSpacing(0)
+        self.grid.setMargin(0)
+
+        # add widgets
+        self.column1 = UiColumn("Texte 1")
+        self.column2 = UiColumn("Texte 2")
+        self.grid.addLayout(self.column1)
+        self.grid.addLayout(self.column2)
+
+        # launch
+        self.setLayout(self.grid)
+
+
+class LoadingWindow(QtGui.QDialog):
+    def __init__(self, title):
+        super(LoadingWindow, self).__init__()
+        self.resize(300, 100)
+        self.grid = QtGui.QVBoxLayout()
+        self.label = QtGui.QLabel(title)
+        self.progress_bar = QtGui.QProgressBar()
+        self.grid.addWidget(self.label)
+        self.grid.addWidget(self.progress_bar)
+        self.setLayout(self.grid)
+        self.show()
+
+    def progress(self, value):
+        self.progress_bar.setValue(int(value))
+        QtGui.QApplication.processEvents()

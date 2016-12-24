@@ -1,17 +1,25 @@
 # -*- coding:utf-8 -*-
-
 import math
 import re
 from virtual_mvc import *
 from widgets import *
 
+"""
+Here is the place everything happens.
+"""
 
-# ------------------------------ MODEL ------------------------------
+# Const var
+LEFT_TEXT = 1
+RIGHT_TEXT = 2
+
+# ---------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------- MODEL ------------------------------------------------------------
+# ---------------------------------------------------------------------------------------------------------------------
 
 
 class FileNotFound(Exception):
     def __init__(self, s):
-        super.__init__()
+        super().__init__()
         self.name = s
 
     def __str__(self):
@@ -20,7 +28,7 @@ class FileNotFound(Exception):
 
 class WordNotUpdated(Exception):
     def __init__(self, s):
-        super.__init__()
+        super().__init__()
         self.name = s
 
     def __str__(self):
@@ -29,7 +37,7 @@ class WordNotUpdated(Exception):
 
 class DataNotProcessed(Exception):
     def __init__(self):
-        super.__init__()
+        super().__init__()
 
     def __str__(self):
         return "Database not processed !"
@@ -152,6 +160,10 @@ class Text(VirtualModel):
         return self._length
 
     @property
+    def str(self):
+        return self._txt
+
+    @property
     def data(self):
         return self._data.keys()
 
@@ -176,6 +188,7 @@ class Text(VirtualModel):
                     else:
                         # paragraphing
                         self._txt += "\n"
+
             # cut the source into words
             self._words = re.findall("[\w\dÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñ]+", self._txt)
             self._length = len(self._words)
@@ -183,7 +196,7 @@ class Text(VirtualModel):
             raise FileNotFound(name)
 
     def process_raw(self):
-        """Compute the recency vector for each word with a linear complexity """
+        """Compute the recency vector for each word with a nLog(n) complexity """
 
         # count
         for i in range(self._length):
@@ -191,6 +204,10 @@ class Text(VirtualModel):
             if word not in self._data:
                 self._data[word] = Word(word)
             self._data[word].add_occurrence(i / self._length)
+
+            # Notify view
+            for view in self._views:
+                view.notify_progress(1 / self._length)
 
         # process
         for word in self._data:
@@ -302,10 +319,10 @@ class Model(VirtualModel):
     # -- Methods
 
     def associate_words(self, factor):
-        """Naive heuristical association between the words of the first database
-           and the second database based on the frequence of the words.
+        """Naive heuristic association between the words of the first database
+           and the second database based on the frequencies of the words.
            We associate each word w1 of the first database to those of the second
-           if its frequence is in [1/factor,factor]*w1.freq.
+           if its frequencies is in [1/factor,factor]*w1.freq.
            We add an initial distance of infinity. """
 
         self._groupFactor = factor
@@ -375,7 +392,9 @@ class Model(VirtualModel):
                 f.write("{} | {}\n".format(word, ",".join(map(str_tuple, self._distWords[word].items()))))
 
 
-# ------------------------------ VIEW ------------------------------
+# ---------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------- VIEW -------------------------------------------------------------
+# ---------------------------------------------------------------------------------------------------------------------
 
 
 class View(VirtualView):
@@ -384,26 +403,128 @@ class View(VirtualView):
         self._current_task = ""
         self._progress_bar = 0
         self._offset_bar = 0
+        self._progress_window = None
+        self._window = UiWindow()
+        self._connect_ui()
+        self._window.show()
+
+    # -- GUI
+
+    def _connect_ui(self):
+        """
+        Connect events
+        """
+        self._window.column1.browse.clicked.connect(self.open_dialog1)
+        self._window.column2.browse.clicked.connect(self.open_dialog2)
+        self._window.column1.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed1)
+        self._window.column2.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed2)
+
+    # -- Callback functions
+
+    def open_dialog1(self):
+        """ Open new file in column 1 """
+        file_name = QtGui.QFileDialog.getOpenFileName()
+        self.change_task("Computing recency vectors of text 1")
+        txt = self.controller.process_raw_text(file_name, LEFT_TEXT)
+        self.end_task()
+        self._window.column1.align_disp.set_text(txt)
+
+    def open_dialog2(self):
+        """ Open new file in column 2 """
+        file_name = QtGui.QFileDialog.getOpenFileName()
+        self.change_task("Computing recency vectors of text 2")
+        txt = self.controller.process_raw_text(file_name, RIGHT_TEXT)
+        self.end_task()
+        self._window.column2.align_disp.set_text(txt)
+
+    def cursor_changed(self, column, column_side):
+        """ Process a clicked word """
+        w = column.align_disp.editor.get_clicked_word()
+        if w and w != "" and w != column.align_disp.currentWord:
+
+            # TODO : Highlight the words (Fatine)
+
+            word, align_rslt, goldsmith_rslt = self.controller.process_word(w, column_side)
+
+            # TODO : Goldsmith callback (Toulemont)
+
+            column.info_word.set_word(w)
+            column.info_word.set_text("Alignment results")
+            column.see_also.set_text("Goldsmith algorithm results")
+            column.align_disp.currentWord = word.str
+            column.align_disp.sidebar.currentVect = word.pos
+            column.align_disp.sidebar.draw_vector()
+
+    def cursor_changed1(self):
+        self.cursor_changed(self._window.column1, LEFT_TEXT)
+
+    def cursor_changed2(self):
+        self.cursor_changed(self._window.column2, RIGHT_TEXT)
+
+    # -- Update the view
 
     def change_task(self, ref):
         """Change the current task and the corresponding progress bar"""
         self._current_task = ref
         self._progress_bar = 0
         self._offset_bar = 0
+        # display a progress bar
+        self._progress_window = LoadingWindow(self._current_task)
+
+    def end_task(self):
+        if self._progress_window:
+            self._progress_window.close()
 
     def notify_progress(self, ratio):
         """Update the current progress bar if one associated with the task"""
         self._progress_bar += ratio
         while self._progress_bar > self._offset_bar:
             self._offset_bar += 0.01
-
-            # DISPLAY ON GUI
-            print("{} : {}%".format(self._current_task, math.floor(self._progress_bar * 100)))
+            self._progress_window.progress(100 * self._progress_bar)
 
 
-# ------------------------------ CONTROL ------------------------------
+# ---------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- CONTROLLER ----------------------------------------------------------
+# ---------------------------------------------------------------------------------------------------------------------
 
 
 class Controller(VirtualController):
     def __init__(self):
         super().__init__()
+
+    def process_raw_text(self, file_name, column_side):
+        """ Open a file and process the text """
+        self.mvc_check()
+
+        model_txt = None
+        if column_side == LEFT_TEXT:
+            model_txt = self.model.txt1
+        elif column_side == RIGHT_TEXT:
+            model_txt = self.model.txt2
+
+        model_txt.open_raw(file_name)
+        model_txt.process_raw()
+
+        # TODO Cluster using goldsmith
+
+        return model_txt.str
+
+    def process_word(self, str_word, column_side):
+        """ Return the result of the model for a given string from the text str_word.
+            Compute if the word doesn't exist. """
+        self.mvc_check()
+
+        model_txt = None
+        if column_side == LEFT_TEXT:
+            model_txt = self.model.txt1
+        elif column_side == RIGHT_TEXT:
+            model_txt = self.model.txt2
+
+        # TODO : Align...
+
+        if str_word in model_txt.data:
+            # the selected word is a regular word, just display the informations
+            return model_txt[str_word], "Alignment results", "Goldsmith algorithm results"
+        else:
+            # a new entry, compute everything
+            return Word("None"),  "Alignment results", "Goldsmith algorithm results"
