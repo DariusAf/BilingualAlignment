@@ -445,6 +445,7 @@ class View(VirtualView):
             # TODO : Highlight the words (Fatine)
 
             word, align_rslt, goldsmith_rslt = self.controller.process_word(w, column_side)
+            column.align_disp.editor.highlightWordOccurrences(w)
 
             # TODO : Goldsmith callback (Toulemont)
 

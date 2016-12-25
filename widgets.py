@@ -146,6 +146,29 @@ class TextEditor(QtGui.QPlainTextEdit):
         # output clicked word
         return cursor.selectedText().lower()
 
+    def highlightWordOccurrences(self,word):
+        # Undoes the last operation.
+        self.undo()
+
+        cursor = self.textCursor()
+        format = QtGui.QTextCharFormat()
+        format.setBackground((QtGui.QBrush(QtGui.QColor("yellow"))))
+
+        regex = QtCore.QRegExp(word)
+        # Process the displayed document
+        pos = 0
+        index = regex.indexIn(self.toPlainText().lower(), pos)
+        cursor.beginEditBlock()
+        while (index != -1):
+            # Select the matched word and apply the desired format
+            cursor.setPosition(index)
+            if not (cursor.isNull()):
+                cursor.movePosition(QtGui.QTextCursor.WordRight, QtGui.QTextCursor.KeepAnchor)
+                cursor.mergeCharFormat(format)
+                # Move to the next match
+                pos = index + regex.matchedLength()
+                index = regex.indexIn(self.toPlainText().lower(), pos)
+        cursor.endEditBlock()
 
 class AlignmentDisplay(QtGui.QWidget):
     """
