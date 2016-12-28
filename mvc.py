@@ -42,6 +42,8 @@ class DataNotProcessed(Exception):
     def __str__(self):
         return "Database not processed !"
 
+# TODO : add a cluster type, addition is not suitable for the selection...
+
 
 class Word:
     def __init__(self, s):
@@ -198,7 +200,6 @@ class Text(VirtualModel):
     def process_raw(self):
         """Compute the recency vector for each word with a nLog(n) complexity """
 
-        # count
         for i in range(self._length):
             word = self._words[i].lower()
             if word not in self._data:
@@ -418,6 +419,8 @@ class View(VirtualView):
         self._window.column2.browse.clicked.connect(self.open_dialog2)
         self._window.column1.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed1)
         self._window.column2.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed2)
+        self._window.column1.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight1)
+        self._window.column2.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight2)
 
     # -- Callback functions
 
@@ -441,15 +444,16 @@ class View(VirtualView):
         """ Process a clicked word """
         w = column.align_disp.editor.get_clicked_word()
         if w and w != "" and w != column.align_disp.currentWord:
-
-            # TODO : Highlight the words (Fatine)
-
             word, align_rslt, goldsmith_rslt = self.controller.process_word(w, column_side)
-            column.align_disp.editor.highlightWordOccurrences(w)
+
+            # Highlighting
+            column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
+                                                     last_pos=column.align_disp.editor.last_highlighted_block)
+            column.align_disp.editor.refresh_highlight(word.str)
 
             # TODO : Goldsmith callback (Toulemont)
 
-            column.info_word.set_word(w)
+            column.info_word.set_word(word.str)
             column.info_word.set_text("Alignment results")
             column.see_also.set_text("Goldsmith algorithm results")
             column.align_disp.currentWord = word.str
@@ -462,7 +466,13 @@ class View(VirtualView):
     def cursor_changed2(self):
         self.cursor_changed(self._window.column2, RIGHT_TEXT)
 
-    # -- Update the view
+    def scroll_highlight1(self):
+        self._window.column1.align_disp.editor.scroll_highlight(self._window.column1.align_disp.currentWord)
+
+    def scroll_highlight2(self):
+        self._window.column2.align_disp.editor.scroll_highlight(self._window.column2.align_disp.currentWord)
+
+    # -- progress bar
 
     def change_task(self, ref):
         """Change the current task and the corresponding progress bar"""
@@ -521,7 +531,7 @@ class Controller(VirtualController):
         elif column_side == RIGHT_TEXT:
             model_txt = self.model.txt2
 
-        # TODO : Align...
+        # TODO : Align... and process new entries
 
         if str_word in model_txt.data:
             # the selected word is a regular word, just display the informations

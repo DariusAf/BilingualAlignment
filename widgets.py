@@ -15,7 +15,7 @@ Also a widget that displays info.
 
 class OccurrenceSideBar(QtGui.QFrame):
     """
-    A widget that display the occurence vector of a word.
+    A widget that display the occurrence vector of a word.
     Can be clicked to scroll quickly to the iteration
     """
 
@@ -64,6 +64,7 @@ class OccurrenceSideBar(QtGui.QFrame):
             l = QtGui.QGraphicsLineItem(p1.x(), p1.y(), p2.x(), p2.y())
             l.setPen(self.defaultPen)
             if len(self.currentVect) > 50:
+                # A transparent pen if there is too much occurrences
                 small_pen = QtGui.QPen(QtGui.QColor(220, 75, 92, max(1, (255*h/2)/max(h, len(self.currentVect)))))
                 small_pen.setWidth(1)
                 l.setPen(small_pen)
@@ -98,6 +99,8 @@ class TextEditor(QtGui.QPlainTextEdit):
 
     def __init__(self):
         super().__init__()
+        self.first_highlighted_block = 0
+        self.last_highlighted_block = 0
         self.setStyleSheet(
             "TextEditor {font-size:13px;border:none;padding-top:0;margin-top:0;}")
         self.setReadOnly(True)
@@ -119,6 +122,9 @@ class TextEditor(QtGui.QPlainTextEdit):
         Enlarge the selection to get the word under cursor
         """
         cursor = self.textCursor()
+
+        # Doesn't work if the word isn't surrounded by spaces :
+        # cursor.select(QtGui.QTextCursor.WordUnderCursor)
 
         # go left until special character
         go_on = True
@@ -146,29 +152,72 @@ class TextEditor(QtGui.QPlainTextEdit):
         # output clicked word
         return cursor.selectedText().lower()
 
-    def highlightWordOccurrences(self,word):
-        # Undoes the last operation.
-        self.undo()
-
+    def clean_highlight(self, first_pos=-1, last_pos=-1):
+        """ Erases the background style """
         cursor = self.textCursor()
-        format = QtGui.QTextCharFormat()
-        format.setBackground((QtGui.QBrush(QtGui.QColor("yellow"))))
+        format_text = QtGui.QTextCharFormat()
+        format_text.setBackground(QtGui.QBrush(QtGui.QColor("white")))
+        if first_pos == -1 or last_pos == -1:
+            # if default value, use coordinate on screen
+            first_pos = self.firstVisibleBlock().position()
+            last_pos = self.cursorForPosition(QtCore.QPoint(self.viewport().width() - 1,
+                                                            self.viewport().height() - 1)).position()
+        cursor.setPosition(first_pos)
+        cursor.movePosition(QtGui.QTextCursor.Right, mode=QtGui.QTextCursor.KeepAnchor, n=last_pos-first_pos)
+        cursor.mergeCharFormat(format_text)
 
-        regex = QtCore.QRegExp(word)
-        # Process the displayed document
-        pos = 0
-        index = regex.indexIn(self.toPlainText().lower(), pos)
-        cursor.beginEditBlock()
-        while (index != -1):
-            # Select the matched word and apply the desired format
-            cursor.setPosition(index)
-            if not (cursor.isNull()):
-                cursor.movePosition(QtGui.QTextCursor.WordRight, QtGui.QTextCursor.KeepAnchor)
-                cursor.mergeCharFormat(format)
-                # Move to the next match
-                pos = index + regex.matchedLength()
-                index = regex.indexIn(self.toPlainText().lower(), pos)
-        cursor.endEditBlock()
+    def refresh_highlight(self, word_str, color="yellow", first_pos=-1, last_pos=-1):
+        """ Highlights word_str """
+        if word_str != "":
+            cursor = self.textCursor()
+
+            format_text = QtGui.QTextCharFormat()
+            format_text.setBackground(QtGui.QBrush(QtGui.QColor(color)))
+
+            if first_pos == -1 or last_pos == -1:
+                # if default value, use coordinate on screen
+                first_pos = self.firstVisibleBlock().position()
+                last_pos = self.cursorForPosition(QtCore.QPoint(self.viewport().width() - 1,
+                                                                self.viewport().height() - 1)).position()
+                self.first_highlighted_block = first_pos
+                self.last_highlighted_block = last_pos
+            pos = int(first_pos)
+            pattern = re.compile("[^\w\dÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñ]" +
+                                 word_str +
+                                 "[^\w\dÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿÑñ]")
+            # only search on a small part of the text to fasten
+            reduced_text = " " + self.toPlainText()[int(pos):int(last_pos)+1].lower() + " "
+
+            viewport_pos = 0
+            index = pattern.search(reduced_text, viewport_pos)
+
+            while index:
+                cursor.setPosition(index.start()+pos)
+                cursor.movePosition(QtGui.QTextCursor.Right, mode=QtGui.QTextCursor.KeepAnchor, n=len(word_str))
+                cursor.mergeCharFormat(format_text)
+                viewport_pos = index.start() + len(word_str)
+                index = pattern.search(reduced_text, viewport_pos)
+
+    def scroll_highlight(self, current_word):
+        if current_word != "":
+            first_pos = self.firstVisibleBlock().position()
+            last_pos = self.cursorForPosition(QtCore.QPoint(self.viewport().width() - 1,
+                                                            self.viewport().height() - 1)).position()
+            if self.first_highlighted_block < first_pos:
+                self.clean_highlight(first_pos=self.first_highlighted_block,
+                                     last_pos=first_pos)
+                self.refresh_highlight(current_word, color="yellow",
+                                       first_pos=max(first_pos, self.last_highlighted_block),
+                                       last_pos=last_pos)
+            elif first_pos < self.first_highlighted_block:
+                self.clean_highlight(first_pos=last_pos,
+                                     last_pos=self.last_highlighted_block)
+                self.refresh_highlight(current_word, color="yellow",
+                                       first_pos=first_pos,
+                                       last_pos=min(last_pos, self.first_highlighted_block))
+            self.first_highlighted_block = first_pos
+            self.last_highlighted_block = last_pos
+
 
 class AlignmentDisplay(QtGui.QWidget):
     """
