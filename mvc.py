@@ -3,7 +3,7 @@ import math
 import re
 from virtual_mvc import *
 from widgets import *
-
+import goldsmith as gold
 """
 Here is the place everything happens.
 """
@@ -158,6 +158,7 @@ class Text(VirtualModel):
         self._txt = ""  # useful for the gui
         self._data = {}
         self._canOperate = False
+        self._gold = gold.Goldsmith() # Goldsmith object (signature clustering)
 
     @property
     def length(self):
@@ -170,7 +171,18 @@ class Text(VirtualModel):
     @property
     def data(self):
         return self._data.keys()
-
+    
+    @property 
+    def gold(self):
+        return self._gold
+    @property
+    def sig(self):
+        return self._gold._stable_sig
+    
+    @property
+    def word_split(self):
+        return self._gold._stable_split
+        
     def __getitem__(self, key):
         """Quick access"""
         if not self._canOperate:
@@ -288,6 +300,24 @@ class Text(VirtualModel):
                 line_is_name = not line_is_name
             self._canOperate = True
 
+    def apply_goldsmith(self):
+        """
+        Goldsmith takes a list of words in lower case as an input. 
+        """
+        
+        # First step : Lowering
+        wordlist = list()
+        for word in self._words:
+            wordlist.append(word.lower())
+        
+        # Second step : Clustering 
+        self._gold.goldsmith_clustering(wordlist)
+        
+        # The information is contained inside _stable_sig and _stable_split
+        # You can get it through self.sig and self.split
+        
+        
+        
 
 def str_tuple(item):
     return "{}:{}".format(item[0], item[1])
@@ -301,7 +331,6 @@ class Model(VirtualModel):
 
         self._distWords = {}  # associated words and their distance
         self._groupFactor = 1  # quantifies how words are associated
-
     @property
     def txt1(self):
         return self._txt1
@@ -394,7 +423,6 @@ class Model(VirtualModel):
             for word in self._distWords:
                 f.write("{} | {}\n".format(word, ",".join(map(str_tuple, self._distWords[word].items()))))
 
-
 # ---------------------------------------------------------------------------------------------------------------------
 # -------------------------------------------------- VIEW -------------------------------------------------------------
 # ---------------------------------------------------------------------------------------------------------------------
@@ -455,10 +483,10 @@ class View(VirtualView):
             column.align_disp.editor.refresh_highlight(word.str)
 
             # TODO : Goldsmith callback (Toulemont)
-
+            
             column.info_word.set_word(word.str)
             column.info_word.set_text("Alignment results")
-            column.see_also.set_text("Goldsmith algorithm results")
+            column.see_also.set_text(goldsmith_rslt)
             column.align_disp.currentWord = word.str
             column.align_disp.sidebar.currentVect = word.pos
             column.align_disp.sidebar.draw_vector()
@@ -547,9 +575,10 @@ class Controller(VirtualController):
 
         model_txt.open_raw(file_name)
         model_txt.process_raw()
-
+        
         # TODO Cluster using goldsmith
-
+        model_txt.apply_goldsmith()
+        
         return model_txt.str
 
     def process_word(self, str_word, column_side):
@@ -564,10 +593,11 @@ class Controller(VirtualController):
             model_txt = self.model.txt2
 
         # TODO : Align... and process new entries
-
+        word_info = model_txt.gold.build_word_info(str_word)
         if str_word in model_txt.data:
             # the selected word is a regular word, just display the informations
-            return model_txt[str_word], "Alignment results", "Goldsmith algorithm results"
+            return model_txt[str_word], "Alignment results", word_info
         else:
             # a new entry, compute everything
-            return Word("None"),  "Alignment results", "Goldsmith algorithm results"
+            return Word("None"),  "Alignment results", "Golsmith algorithm results "
+    

@@ -45,6 +45,7 @@ class Goldsmith:
         self._word_best_split = None
         self._best_sig_word = None
         self._stable_sig = None
+        self._stable_split = None        
         
         #Similar signatures
         self._super_sig = None
@@ -204,17 +205,6 @@ class Goldsmith:
                 if sig not in self._suffixes_to_signatures[suffix]:
                     self._suffixes_to_signatures[suffix].add(sig)
 
-    def make_all_sigs(self, words_list):
-        """
-        Makes all signatures
-        """
-        self.initialize_model(words_list)
-        self.make_letter_count()
-        self.make_signatures_to_stems()
-        self.make_stems_to_signatures()
-        self.make_words_to_signatures()
-        self.make_signatures_to_words()
-        self.make_suffixes_to_signatures()
 
     def compute_morpheme_likelihood(self):
         """
@@ -308,13 +298,16 @@ class Goldsmith:
         for stem in self._stems_to_signatures:
             argsig = None
             wmi = 0
+
             for sig in self._stems_to_signatures[stem]:
                 if wmi < self._signatures[sig]:
                     wmi = self._signatures[sig]
                     argsig = sig
+
             self._stem_to_best_sig[stem] = argsig
             if argsig not in self._best_sig_to_stem:
                 self._best_sig_to_stem[argsig] = list()
+
             self._best_sig_to_stem[argsig].append(stem)
 
 
@@ -324,23 +317,30 @@ class Goldsmith:
         """
         if self._word_best_split is None:
             self._word_best_split = dict()
+
         if self._best_sig_word is None:
             self._best_sig_word = dict()
+
         for word in self._words_to_stems:
             if len(word) > 4:
                 if word not in self._word_best_split:
                     self._word_best_split[word] = tuple()
+
                 argstem = None
                 argsig = None
                 wmi = 0
+
                 for stem in self._words_to_stems[word]:
                     if wmi < self._signatures[self._stem_to_best_sig[stem]]:
                         argstem = stem
                         argsig = self._stem_to_best_sig[stem]
                         wmi = self._signatures[self._stem_to_best_sig[stem]]
+
                 self._word_best_split[word] = (argstem, argsig)
+
                 if argsig not in self._best_sig_word:
                     self._best_sig_word[argsig] = list()
+
                 self._best_sig_word[argsig].append((word, argstem))
 
     def rate_sig(self, sig):
@@ -366,18 +366,22 @@ class Goldsmith:
         for word in self._word_best_split:
             (stem, sig) = self._word_best_split[word]
             suffix_set = set()
+
             for suff in sig:
                 if self._word_best_split[stem+suff][1] == sig:
                     suffix_set.add(suff)
+
             if word not in self._stable_split:
                 self._stable_split[word] = tuple()
+
             signature = tuple(sorted(suffix_set))
             self._stable_split[word] = (stem, signature)
+            
             if signature not in self._stable_sig:
                 self._stable_sig[signature] = list()
             self._stable_sig[signature].append((word, stem))
 
-    def super_sig(self, alpha = 0.5):
+    def super_sig(self):
         """
         Returns a dict containing groups of signatures.
         """
@@ -388,7 +392,6 @@ class Goldsmith:
                 self._super_sig[sig] = list()
             for sig2 in self._stable_sig:
                 sim = 0
-                l2 = len(sig2)
                 if sig != sig2:
                     if sig2 not in sig and sig not in sig2:
                         for suff1 in sig: 
@@ -396,9 +399,66 @@ class Goldsmith:
                                 sim+=1
                 if sim == l:
                     self._super_sig[sig].append(sig2)
+
+    def build_sim_info(self, word):
+        """
+        Here we build a list s.t. : 
         
+        list = [(word, stable_sig),
+                (word, super_sig1),
+                (word, super_sig2),
+                        ...
+                ]
+        """
+        (root, suffixes) = self._stable_split[word]
+        if self._super_sig is None:
+            self.super_sig()
+        super_sigs = self._super_sig[suffixes]
+        stable_set = set()
+        for suff in suffixes: 
+            stable_set.add(suff)
 
-    
+        aset = set()
+        for suff_tuple in super_sigs:
+            for suff in suff_tuple:
+                if suff not in stable_set and suff not in aset:
+                    aset.add(suff)
+        atuple = tuple(sorted(aset))
+        return (root, atuple)
 
+    def build_word_info(self, word):
+        """
+        We assume all the information is contained inside the atuple object. 
+        Where  : atuple = (word, signature)
+        """
+        if len(word) > 4:
+            (radical, suffixes) = self._stable_split[word]
+            text_info = "Goldsmith algorithm results on : {} : ".format(word)
+            for suff in suffixes:
+                info = "{}".format(radical)+"{}".format(suff)
+                if info != word:
+                    text_info = text_info + "{}{}{}".format(" \n ", "    - ", info)
+        else:
+            text_info = "'" + word + "'" + " is too short, try a longer word."
+        return text_info
+
+    def goldsmith_clustering(self, words_list):
+        """
+        Cluster words into signatures.
+        """
+        self.initialize_model(words_list)
+        self.make_letter_count()
+        self.make_signatures_to_stems()
+        self.make_stems_to_signatures()
+        self.make_words_to_signatures()
+        self.make_signatures_to_words()
+        self.make_suffixes_to_signatures()
+        self.compute_morpheme_likelihood()
+        self.sort_suffixes()
+        self.signatures_info()
+        self.best_sig()
+        self.best_split()
+        self.check_stability()
+        self.super_sig()
             
         
