@@ -4,6 +4,7 @@ import re
 from virtual_mvc import *
 from widgets import *
 import goldsmith as gold
+from multiprocessing import pool
 """
 Here is the place everything happens.
 """
@@ -159,7 +160,8 @@ class Text(VirtualModel):
         self._data = {}
         self._canOperate = False
         self._gold = gold.Goldsmith() # Goldsmith object (signature clustering)
-
+        self._gold_recency = None
+    
     @property
     def length(self):
         return self._length
@@ -178,11 +180,15 @@ class Text(VirtualModel):
     @property
     def sig(self):
         return self._gold._stable_sig
-    
+
     @property
     def word_split(self):
         return self._gold._stable_split
-        
+
+    @property 
+    def gold_recency(self):
+        return self._gold_recency
+
     def __getitem__(self, key):
         """Quick access"""
         if not self._canOperate:
@@ -315,9 +321,35 @@ class Text(VirtualModel):
         
         # The information is contained inside _stable_sig and _stable_split
         # You can get it through self.sig and self.split
+    
+    def compute_gold_recency(self):
+        """
+        This method computes the recency vector of a split. 
+        For example if we have the following split : ('mang', ('er', 'ea', 'eons'))
+        The recency of the split is the sum of the recency of each word : 'manger'
+        'mangea', 'mangeons'.
+        """
         
+        if self._gold_recency is None:
+            self._gold_recency = dict()
         
-        
+        for (word,split) in self.gold.stable_split.items():
+            word = Word("")
+            (rad, suffixes) = split
+            # If only one suffix the only one word.
+            if len(suffixes) > 1:
+                for suff in suffixes:
+                    # The string defining the word = radsuff
+                    w = rad + suff
+                    # We add the positions of this word
+                    word += self._data[w]
+
+                # sort position vector, then compute the recency vector
+                word._pos = gold.func.quick_sort_list(word.pos, 0, len(word.pos) - 1, 0)
+                word.update()
+                # store the information
+                self._gold_recency[split] = word
+
 
 def str_tuple(item):
     return "{}:{}".format(item[0], item[1])
@@ -330,7 +362,13 @@ class Model(VirtualModel):
         self._txt2 = Text()
 
         self._distWords = {}  # associated words and their distance
-        self._groupFactor = 1  # quantifies how words are associated
+        self._groupFactor = 1.5  # quantifies how words are associated
+        
+        self._wordGold12 = None # For each word associates a bunch of signatures in the other langage
+        self._wordGold21 = None
+        self._GoldClusters12 = None
+        self._GoldClusters21 = None
+        self._gold1_to_2 = None
     @property
     def txt1(self):
         return self._txt1
@@ -338,7 +376,10 @@ class Model(VirtualModel):
     @property
     def txt2(self):
         return self._txt2
-
+    
+    @property
+    def gold1to2(self):
+        return self._gold1_to_2
     # -- Bind texts
 
     def mvc_link_texts(self):
@@ -365,6 +406,66 @@ class Model(VirtualModel):
             for str2 in self._txt2.data:
                 if f1 / factor < self._txt2[str2].freq < f1 * factor:
                     self._distWords[str1][str2] = float("inf")
+    
+    def associate_wordGold(self, factor):
+        """
+        Same as above but between words and signatures in the second language. 
+        """
+        self._groupFactor = factor
+        
+        if self._wordGold12 is None:
+            self._wordGold12 = dict()
+        if self._wordGold21 is None:
+            self._wordGold21 = dict()
+
+        for str1 in self._txt1.data:
+            self._wordGold12[str1] = list()
+            f1 = self._txt1[str1].freq
+            for (split2, w2) in self.txt2.gold_recency.items():
+                f2 = w2.freq
+                if f1 / factor < f2 < f1 * factor:
+                    self._wordGold12[str1].append(split2)
+        for str2 in self._txt2.data:
+            self._wordGold21[str2] = list()
+            f2 = self._txt2[str2].freq
+            for (split1, w1) in self.txt1.gold_recency.items():
+                f1 = w1.freq
+                if f2 / factor < f1 < f2 * factor:
+                    self._wordGold21[str2].append(split1)
+        
+        
+    def associate_goldclusters(self, factor):
+        """
+        Same as above but for word splits.
+        """
+        self._groupFactor = factor
+        if self.txt1.gold_recency is None:
+            self.txt1.compute_gold_recency()
+
+        if self.txt2.gold_recency is None:
+            self.txt2.compute_gold_recency()
+
+        if self._GoldClusters12 is None:
+            self._GoldClusters12 = dict()
+
+        if self._GoldClusters21 is None:
+            self._GoldClusters21 = dict()
+        
+        for split1 in self.txt1.gold_recency:
+            self._GoldClusters12[split1] = list()
+            f1 = self.txt1.gold_recency[split1].freq
+
+            for split2 in self.txt2.gold_recency:
+                if split2 not in self._GoldClusters21:
+                    self._GoldClusters21[split2] = list()
+
+                f2 = self.txt2.gold_recency[split2].freq
+
+                if f1 / factor < f2 < f1 * factor:
+                    self._GoldClusters12[split1].append(split2)
+                if f2 / factor < f1 < f2 * factor:
+                    self._GoldClusters21[split2].append(split1)
+
 
     @staticmethod
     def dtw(warp, v1, v2, mode="naive"):
@@ -422,7 +523,76 @@ class Model(VirtualModel):
         with open(name, "w", encoding="utf-8") as f:
             for word in self._distWords:
                 f.write("{} | {}\n".format(word, ",".join(map(str_tuple, self._distWords[word].items()))))
+    def goldcluster_translate(self):
+        """
+        Check if there is any probable translation between bags of words from
+        one langage to the other.
+        """
+        # TODO : Trop long, cette méthod ne peut marcher. Calculer la distance
+        # de chaque signature avec toutes les autres signatures implique plus 
+        # de 300 000 calculs de distance.
+        if self.txt1.gold_recency is None:
+            self.txt1._gold_recency.compute_gold_recency()
+        if self.txt2.gold_recency is None:
+            self.txt2._gold_recency.compute_gold_recency()
+        if self._distGoldClusters is None:
+            self.associate_goldclusters(1.5)
 
+        if self._gold1_to_2 is None:
+            self._gold1_to_2 = dict()
+        for split1 in self.txt1.gold_recency:
+            if split1 not in self.gold1to2:
+                self._gold1_to_2[split1] = tuple()
+
+            min_dist = float("inf")
+            min_split = "('None',)"
+            
+            warp = [[1 for j in range(int(self._txt1.gold_recency[split1].freq * self._groupFactor) + 1)]
+                    for i in range(self._txt1.gold_recency[split1].freq + 1)]
+
+            for split2 in self._distGoldClusters[split1]:
+                dist = self.dtw(warp,
+                            self.txt1.gold_recency[split1].rec,
+                            self.txt2.gold_recency[split2].rec)
+                if dist < min_dist:
+                    min_dist = dist
+                    min_split = str(split2)
+
+            self._gold1_to_2[split1] = eval(min_split)
+
+    def word_to_cluster(self, column_side, word):
+        """
+        Find a cluster that could be a translation of the word.
+        """
+        if self._GoldClusters12 is None:
+            self.associate_goldclusters(self._groupFactor)
+        
+        if column_side == LEFT_TEXT:
+            model_txt = self.txt1
+            other_txt = self.txt2
+            word_cluster = self._wordGold12[word]
+
+        elif column_side == RIGHT_TEXT:
+            model_txt = self.txt2
+            other_txt = self.txt1
+            word_cluster = self._wordGold21[word]
+            
+        freq = model_txt[word].freq
+        rec = model_txt[word].rec
+        warp = [[1 for j in range(int(freq * self._groupFactor) + 1)]
+                for i in range(freq + 1)]
+        min_dist = float("inf")
+        min_split = "('None',)"
+        for split in word_cluster:
+            dist = self.dtw(warp, rec, other_txt.gold_recency[split].rec)
+            if dist < min_dist:
+                min_dist = dist
+                min_split = str(split)
+        return (min_dist, eval(min_split))
+                
+            
+        
+        
 # ---------------------------------------------------------------------------------------------------------------------
 # -------------------------------------------------- VIEW -------------------------------------------------------------
 # ---------------------------------------------------------------------------------------------------------------------
@@ -578,6 +748,7 @@ class Controller(VirtualController):
         
         # TODO Cluster using goldsmith
         model_txt.apply_goldsmith()
+        model_txt.compute_gold_recency()
         
         return model_txt.str
 
@@ -600,4 +771,4 @@ class Controller(VirtualController):
         else:
             # a new entry, compute everything
             return Word("None"),  "Alignment results", "Golsmith algorithm results "
-    
+
