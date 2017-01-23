@@ -4,6 +4,7 @@ import re
 
 from PyQt4 import QtCore, QtGui
 from PyQt4.Qt import Qt
+from PyQt4.QtGui import QIcon
 
 """
 A widget that allow to display the occurrences vector of words on a sidebar.
@@ -268,8 +269,48 @@ class TextInfo(QtGui.QTextEdit):
     def set_word(self, w):
         self.head = "Informations sur «<em>{}</em>»".format(w)
 
+
     def set_text(self, text):
         self.setHtml('<p style="font-weight:bold; font-size:12px; color:#555;">{}</p>{}'.format(self.head, text))
+
+class check_choices(QtGui.QVBoxLayout):
+    def __init__(self):
+        super(check_choices, self).__init__()
+        self.oneWordTranslation = QtGui.QCheckBox("Traduire par un seul mot")
+        self.grougWordTranslation = QtGui.QCheckBox("Traduire par un ensemble de mots")
+
+        #organize
+        self.addWidget(self.oneWordTranslation)
+        self.addWidget(self.grougWordTranslation)
+
+class ColumnInfo(QtGui.QHBoxLayout):
+    def __init__(self,name):
+        super(ColumnInfo, self).__init__()
+        self.setSpacing(5)
+        self.setMargin(2)
+        #Open Icon
+        self.open = QtGui.QToolButton()
+        self.open.setIcon(QIcon("./images/open.png"))
+
+        #Search bar
+        self.searchLine = QtGui.QLineEdit()
+        self.searchLine.setPlaceholderText("Search...")
+        self.search = QtGui.QToolButton()
+        self.search.setIcon(QIcon("./images/search.png"))
+
+        #align button
+        self.alignBtn = QtGui.QPushButton("Aligner")
+
+        #Translation mode
+        self.translationMode = check_choices()
+
+        #organize
+        self.addWidget(self.open)
+        self.addWidget(self.searchLine)
+        self.addWidget(self.search)
+        self.addWidget(self.alignBtn)
+        self.addItem(self.translationMode)
+
 
 
 class UiColumn(QtGui.QVBoxLayout):
@@ -280,7 +321,7 @@ class UiColumn(QtGui.QVBoxLayout):
 
         # init Widgets
         self.label = QtGui.QLabel("<b>{}</b>".format(name))
-        self.browse = QtGui.QPushButton("Ouvrir")
+        self.columnInfo = ColumnInfo(name)
         self.align_disp = AlignmentDisplay()
         self.info_word = TextInfo("Information sur le mot")
         self.see_also = TextInfo("Autres déclinaisons")
@@ -288,12 +329,11 @@ class UiColumn(QtGui.QVBoxLayout):
         # organize
         self.addItem(QtGui.QSpacerItem(350, 5, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Minimum))
         self.addWidget(self.label)
-        self.addWidget(self.browse)
+        self.addItem(self.columnInfo)
         self.addWidget(self.align_disp)
         self.addWidget(self.info_word)
         self.addWidget(self.see_also)
         self.addItem(QtGui.QSpacerItem(350, 5, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Minimum))
-
 
 class UiWindow(QtGui.QWidget):
     def __init__(self):

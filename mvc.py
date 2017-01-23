@@ -148,6 +148,8 @@ class Word:
         return "{} (f={})".format(self._str, self._frequency)
 
 
+
+
 class Text(VirtualModel):
     def __init__(self):
         super().__init__()
@@ -415,13 +417,14 @@ class View(VirtualView):
         """
         Connect events
         """
-        self._window.column1.browse.clicked.connect(self.open_dialog1)
-        self._window.column2.browse.clicked.connect(self.open_dialog2)
+        self._window.column1.columnInfo.open.clicked.connect(self.open_dialog1)
+        self._window.column2.columnInfo.open.clicked.connect(self.open_dialog2)
         self._window.column1.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed1)
         self._window.column2.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed2)
         self._window.column1.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight1)
         self._window.column2.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight2)
-
+        self._window.column1.columnInfo.search.clicked.connect(self.search_highlight1)
+        self._window.column2.columnInfo.search.clicked.connect(self.search_highlight2)
     # -- Callback functions
 
     def open_dialog1(self):
@@ -471,6 +474,35 @@ class View(VirtualView):
 
     def scroll_highlight2(self):
         self._window.column2.align_disp.editor.scroll_highlight(self._window.column2.align_disp.currentWord)
+
+    def search_highlight1(self):
+        self._window.column1.columnInfo.searchLine.selectAll()
+        word = self._window.column1.columnInfo.searchLine.text().lower()
+        if word and word != "" and word != self._window.column1.align_disp.currentWord:
+            word, align_rslt, goldsmith_rslt = self.controller.process_word(word, 1)
+            # highlight text
+            self._window.column1.align_disp.editor.clean_highlight(first_pos=self._window.column1.align_disp.editor.first_highlighted_block,
+                                                     last_pos=self._window.column1.align_disp.editor.last_highlighted_block)
+            self._window.column1.align_disp.editor.refresh_highlight(word.str)
+            #occurences on scrollbar
+            self._window.column1.align_disp.currentWord = word.str
+            self._window.column1.align_disp.sidebar.currentVect = word.pos
+            self._window.column1.align_disp.sidebar.draw_vector()
+
+
+    def search_highlight2(self):
+        self._window.column2.columnInfo.searchLine.selectAll()
+        word = self._window.column2.columnInfo.searchLine.text().lower()
+        if word and word != "" and word != self._window.column2.align_disp.currentWord:
+            word, align_rslt, goldsmith_rslt = self.controller.process_word(word, 2)
+            # highlight text
+            self._window.column2.align_disp.editor.clean_highlight(first_pos=self._window.column2.align_disp.editor.first_highlighted_block,
+                                                     last_pos=self._window.column2.align_disp.editor.last_highlighted_block)
+            self._window.column2.align_disp.editor.refresh_highlight(word.str)
+            #occurences on scrollbar
+            self._window.column2.align_disp.currentWord = word.str
+            self._window.column2.align_disp.sidebar.currentVect = word.pos
+            self._window.column2.align_disp.sidebar.draw_vector()
 
     # -- progress bar
 
