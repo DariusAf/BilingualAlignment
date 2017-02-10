@@ -273,15 +273,6 @@ class TextInfo(QtGui.QTextEdit):
     def set_text(self, text):
         self.setHtml('<p style="font-weight:bold; font-size:12px; color:#555;">{}</p>{}'.format(self.head, text))
 
-class check_choices(QtGui.QVBoxLayout):
-    def __init__(self):
-        super(check_choices, self).__init__()
-        self.oneWordTranslation = QtGui.QCheckBox("Traduire par un seul mot")
-        self.grougWordTranslation = QtGui.QCheckBox("Traduire par un ensemble de mots")
-
-        #organize
-        self.addWidget(self.oneWordTranslation)
-        self.addWidget(self.grougWordTranslation)
 
 class ColumnInfo(QtGui.QHBoxLayout):
     def __init__(self,name):
@@ -301,16 +292,11 @@ class ColumnInfo(QtGui.QHBoxLayout):
         #align button
         self.alignBtn = QtGui.QPushButton("Aligner")
 
-        #Translation mode
-        self.translationMode = check_choices()
-
         #organize
         self.addWidget(self.open)
         self.addWidget(self.searchLine)
         self.addWidget(self.search)
         self.addWidget(self.alignBtn)
-        self.addItem(self.translationMode)
-
 
 
 class UiColumn(QtGui.QVBoxLayout):
