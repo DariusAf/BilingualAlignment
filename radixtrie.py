@@ -1,7 +1,20 @@
 # -*- coding:utf-8 -*-
+"""
+This module was orinally coded by Mr Xavier CLERC before being completed by Matthieu
+TOULEMONT.
+
+We define a Trie class that enables the user to build a usual trie, a direct patricia trie,
+and a reverse patricia trie.
+
+@author Xavier CLERC and Matthieu TOULEMONT.
+"""
 import copy
 
 def common_prefix_length(str1, str2):
+    """
+    Find the length of the common prefix between str1, and str2
+    @author XC
+    """
     if len(str1) > len(str2):
         return common_prefix_length(str2, str1)
     else:
@@ -13,10 +26,18 @@ def common_prefix_length(str1, str2):
                 break
         return m
 def common_prefix(str1, str2):
-     m = common_prefix_length(str1, str2)
-     return str1[:m]
+    """
+    Find the common prefix of str1 and str2
+    @author MT
+    """
+    m = common_prefix_length(str1, str2)
+    return str1[:m]
 
 def common_suffix_length(str1, str2):
+    """
+    Find the length of the common suffix between str1, and str2
+    @author MT
+    """
     if len(str1) > len(str2):
         return common_suffix_length(str2, str1)
     else:
@@ -29,10 +50,18 @@ def common_suffix_length(str1, str2):
         return m
 
 def common_suffix(str1, str2):
+    """
+    Find the common suffix between str1, and str2
+    @author MT
+    """
     m = common_suffix_length(str1, str2)
     return str1[len(str1)  - m :]
 
 def find_common_prefix(adict,word):
+    """
+    Find common prefix of word and a list of keys in adict
+    @author MT
+    """
     isin = 0
     mm = 0
     mkey = ''
@@ -48,6 +77,10 @@ def find_common_prefix(adict,word):
     return mkey, mm
 
 def find_common_suffix(adict, word):
+    """
+    Find common suffix between word and the list of keys from adict.
+    @author MT
+    """
     isin = 0
     mm = 0
     mkey = ''
@@ -63,6 +96,10 @@ def find_common_suffix(adict, word):
     return mkey, mm
 
 def symm_word(word):
+    """
+    Return the opposite word : 'life' -> 'efil'
+    @author MT
+    """
     m = len(word)
     tom= ""
     for i in range(m):
@@ -70,6 +107,11 @@ def symm_word(word):
     return tom
 
 class Noeud:
+    """
+    Represent a node in the patricia trie. Holds a string and the information on wether
+    the node marks the end of a word or not.
+    @author XC
+    """
     def __init__(self, mot):
         self.mot = mot
         self.present = False
@@ -82,12 +124,23 @@ class Noeud:
             return "_"
 ###
 class Trie:
+    """
+    Patricia Trie
+    @author XC and MT
+    """
     def __init__(self, kind):
         self.racine = Noeud("")
         self.feuilles = None
         self.type = kind #direct or inverse
     def ajoute(self, mot):
+        """
+        Add a word to the trie
+        @author XC and MT
+        """
         def ajoute_noeud_direct(noeud, suffixe, prefixe):
+            """
+            Useful if you want to build a direct patricia trie.
+            """
             if suffixe == "":
                 noeud.present = True
                 noeud.leaf = True
@@ -100,6 +153,9 @@ class Trie:
                     noeud.enfants[lettre] = enfant
                 ajoute_noeud_direct(enfant, suffixe[1:], prefixe + lettre)
         def ajoute_noeud_inverse(noeud, prefixe, suffixe):
+            """
+            Useful if you want to build a reverse patricia trie
+            """
             m = len(prefixe)
             if prefixe == "":
                 noeud.present = True
@@ -118,7 +174,14 @@ class Trie:
             ajoute_noeud_inverse(self.racine, mot, "")
 ###
     def concatene_trie(self):
+        """
+        Useful if you to want to go from a usual trie to a patricia trie
+        @author MT
+        """
         def concatene(GP):
+            """
+            If two consecutive nodes only have one children we merge them into one.
+            """
             if len(GP.enfants) != 0:
                 Oncle = ""
                 for (Pere, P) in GP.enfants.items():
@@ -138,6 +201,10 @@ class Trie:
         concatene(self.racine)
 ###
     def est_present(self, mot):
+        """
+        Check if a word is in the trie.
+        @author XC
+        """
         def trouve(noeud, suffixe):
             if suffixe == "":
                 return noeud.present
@@ -154,6 +221,10 @@ class Trie:
             return trouve(self.racine, symm_word(mot))
 ###
     def trouve_feuilles(self):
+        """
+        Check if the node is a leaf and stores them inside self._feuilles.
+        @author MT
+        """
         if self.feuilles is None:
             self.feuilles = dict()
         def parcourt(noeud):
@@ -168,6 +239,10 @@ class Trie:
         parcourt(self.racine)
 ###
     def trouve_rad_max(self, mot, min_stem_length):
+        """
+        Find the longest stem for a word in the trie.
+        @author MT
+        """
         m = 0
         for i in range(len(mot)):
             if self.est_present(mot[:i]) and i >= min_stem_length:
@@ -177,6 +252,10 @@ class Trie:
 
 ###
     def est_present_prefixe(self, mot):
+        """
+        Check if a prefixe is in the trie.
+        @author XC
+        """
         def trouve(noeud, suffixe):
             if suffixe == "":
                 return noeud.present, len(noeud.enfants) > 0
@@ -189,6 +268,15 @@ class Trie:
         return trouve(self.racine, mot)
 ###
 def lit_dictionnaire(nom_fichier):
+    """
+    Build a trie from a dictionnary :
+    word1
+    word2
+    word3
+    ...
+
+    @author XC
+    """
     res = Trie()
     with open(nom_fichier, "r") as fichier:
         for ligne in fichier:
@@ -196,6 +284,10 @@ def lit_dictionnaire(nom_fichier):
     return res
 ###
 def ecrit_dictionnaire(nom_fichier, trie):
+    """
+    Store the trie inside a .txt file under the form of a dictionnary.
+    @author XC and MT
+    """
     def parcourt(noeud, f):
         if noeud.present:
             shape = "(O)"
@@ -213,6 +305,10 @@ def ecrit_dictionnaire(nom_fichier, trie):
         fichier.write("}")
 
 def ecrit_segmentation(nom_fichier, se, itrie, dtrie):
+    """
+    Store the segmentation of each word in se in a .txt file for later analysis.
+    @author XC and MT
+    """
     with open(nom_fichier, "w") as fichier:
         for w in tuple(sorted(se)):
             p = dtrie.trouve_rad_max(w, 3)

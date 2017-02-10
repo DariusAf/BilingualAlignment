@@ -27,7 +27,7 @@ A signature is defined as follows :
 Where for all 'i' and 'j' we have stem'i' + suffix'j' = a word in the text.
 
 A word can not be encoded in more than one signature.
-@author: Toulemont
+@author: TOULEMONT Matthieu
 """
 
 from math import log
@@ -578,7 +578,9 @@ class Gold:
                         if stem + suff == word:
                             radical = stem
                             break
-                if self._sig_info[sig] > a:
+                if log(len(self._signatures_to_stems[sig]))*log(len(sig))*self._sig_info[sig] >= a:
+                    # The term : log(len(sig))*log(len(self._signatures_to_stems[sig]))
+                    # enables us to keep big signatures : many suffixes and many stems .
                     a = self._sig_info[sig]
                     arg = []
                     arg.append(sig)
@@ -698,16 +700,19 @@ class Gold:
 
             words = self._signatures_to_words[suffixes]
             # TODO : find the radical and the suffixes
-            text_info = "Morpheme clustering algorithm results on : {} : ".format(word)
+            text_info = "Morpheme clustering algorithm results on : {} : \n cluster : {}  \n \n \n ".format(word, suffixes)
             if len(suffixes) >= 1:
 
                 for suff in suffixes:
+                    for stem in self._signatures_to_stems[suffixes]:
 
-                    info = "{}".format(radical)+"  {}".format(suff) + " appears : {}".format(self._words[radical + suff])  + "\n"
+                        info = "{}".format(stem)+"  {}".format(suff)   + "\n \n \n "
 
-                    if info != word:
+                        if info != word:
 
-                        text_info = text_info + "{}{}{}".format(" \n ", "    - ", info)
+                            text_info = text_info + "{}{}{}".format(" \n ", "    - ", info)
+
+
 
             else:
 
@@ -726,15 +731,19 @@ class Gold:
         Saves each signatures in a file :
         Sig'k'
 
-        Word'i' | stem'i'
+        Word'i' | stem'i' number of times the word appears in the text.
 
         Sig 'k+1'
         """
         with open(wfile, "w") as f:
+            f.write("Signature ('suffixe 1', 'suffixe 2', ...) \n")
+            f.write("mot | radical   nombre d'occurences du mot \n")
+            f.write("    ....   \n\n")
             for (sig, couple) in self._bsig_word.items():
                 f.write("{} : \n".format(sig))
                 for (word, radical) in couple:
-                    f.write(" {} | {}\n".format(word, radical))
+                    m = art.common_prefix_length(word, radical)
+                    f.write(" {} | {}-{}  {} \n".format(word, radical, word[m:], self._words[word]))
                 f.write("\n \n")
 ###
 
