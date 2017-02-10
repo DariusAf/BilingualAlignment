@@ -1,0 +1,2629 @@
+('riz',) : 
+ nariz | na
+
+ 
+('a', 'o') : 
+ fresca | fresc
+ sencillo | sencill
+ vuelta | vuelt
+ formulado | formulad
+ amenazado | amenazad
+ olvidado | olvidad
+ hermoso | hermos
+ único | únic
+ segura | segur
+ comienzo | comienz
+ olvidada | olvidad
+ misteriosa | misterios
+ vejada | vejad
+ alguno | algun
+ pálido | pálid
+ seria | seri
+ pasea | pase
+ segunda | segund
+ caída | caíd
+ perdida | perdid
+ habita | habit
+ mucha | much
+ consolado | consolad
+ serio | seri
+ olvidarla | olvidarl
+ formo | form
+ seguro | segur
+ tranquilo | tranquil
+ forma | form
+ agitada | agitad
+ necesaria | necesari
+ consolada | consolad
+ única | únic
+ espléndida | espléndid
+ perdido | perdid
+ vuelto | vuelt
+ vieja | viej
+ caído | caíd
+ bonita | bonit
+ tonta | tont
+ nuestro | nuestr
+ paseo | pase
+ fresco | fresc
+ nuevo | nuev
+ extraña | extrañ
+ pálida | pálid
+ cuenta | cuent
+ tranquila | tranquil
+ orgulloso | orgullos
+ segundo | segund
+ ligera | liger
+ derecho | derech
+ magnífica | magnífic
+ tonto | tont
+ hermosa | hermos
+ magnífico | magnífic
+ reconocerla | reconocerl
+ nueva | nuev
+ derecha | derech
+ nuestra | nuestr
+ reconocerlo | reconocerl
+ agitado | agitad
+ primera | primer
+ sencilla | sencill
+ necesario | necesari
+ extraño | extrañ
+ próximo | próxim
+ formulada | formulad
+ complicado | complicad
+ canta | cant
+ próxima | próxim
+ complicada | complicad
+ puesto | puest
+ puesta | puest
+ amenazada | amenazad
+ vejado | vejad
+ comienza | comienz
+ ligero | liger
+ misterioso | misterios
+ primero | primer
+ alguna | algun
+ canto | cant
+ viejo | viej
+ orgullosa | orgullos
+ cuento | cuent
+ mucho | much
+ habito | habit
+ espléndido | espléndid
+ bonito | bonit
+ olvidarlo | olvidarl
+
+ 
+('idad',) : 
+ navidad | nav
+ necesidad | neces
+
+ 
+('gado',) : 
+ llegado | lle
+
+ 
+('ocía',) : 
+ conocía | con
+
+ 
+('o',) : 
+ oprimido | oprimid
+ iluminado | iluminad
+ contando | contand
+ luego | lueg
+ junto | junt
+ efecto | efect
+ falto | falt
+ turno | turn
+ conmigo | conmig
+ retraso | retras
+ cálculo | cálcul
+ razonamiento | razonamient
+ aburro | aburr
+ recorrido | recorrid
+ veintiocho | veintioch
+ salto | salt
+ administro | administr
+ anillo | anill
+ sueño | sueñ
+ ingenioso | ingenios
+ dorado | dorad
+ puntiagudo | puntiagud
+ geógrafo | geógraf
+ mundo | mund
+ aburriendo | aburriend
+ compadecido | compadecid
+ simplificado | simplificad
+ debajo | debaj
+ bendito | bendit
+ aspecto | aspect
+ pesado | pesad
+ habiendo | habiend
+ tengo | teng
+ conocido | conocid
+ rábano | rában
+ fracaso | fracas
+ modelo | model
+ manzano | manzan
+ sexto | sext
+ rápido | rápid
+ crepúsculo | crepúscul
+ trabajado | trabajad
+ rechazado | rechazad
+ tomado | tomad
+ satisfecho | satisfech
+ equivocado | equivocad
+ ánimo | ánim
+ sucedido | sucedid
+ séptimo | séptim
+ cuarto | cuart
+ vigilado | vigilad
+ emocionado | emocionad
+ vidrio | vidri
+ blanco | blanc
+ caminando | caminand
+ relámpago | relámpag
+ súbdito | súbdit
+ secreto | secret
+ bebiendo | bebiend
+ intento | intent
+ agotando | agotand
+ tejado | tejad
+ animado | animad
+ cuánto | cuánt
+ abejorro | abejorr
+ conozco | conozc
+ poderoso | poderos
+ manto | mant
+ existido | existid
+ suplico | suplic
+ minuto | minut
+ ensueño | ensueñ
+ decepcionado | decepcionad
+ ancho | anch
+ pueblo | puebl
+ guardo | guard
+ vistazo | vistaz
+ honesto | honest
+ cinco | cinc
+ colorado | colorad
+ absurdo | absurd
+ descubrirlo | descubrirl
+ congreso | congres
+ metálico | metálic
+ apretado | apretad
+ desconocido | desconocid
+ volviendo | volviend
+ ejercicio | ejercici
+ propuso | propus
+ bicho | bich
+ querido | querid
+ carnero | carner
+ misterio | misteri
+ sacando | sacand
+ obedecido | obedecid
+ consultando | consultand
+ preciso | precis
+ pacífico | pacífic
+ pienso | piens
+ cigarro | cigarr
+ preocupado | preocupad
+ preguntando | preguntand
+ saberlo | saberl
+ agitando | agitand
+ pañuelo | pañuel
+ corderillo | corderill
+ tenido | tenid
+ retenerlo | retenerl
+ demasiado | demasiad
+ impuso | impus
+ convencimiento | convencimient
+ veinticuatro | veinticuatr
+ largo | larg
+ océano | océan
+ confiado | confiad
+ habitado | habitad
+ náufrago | náufrag
+ fondo | fond
+ resultado | resultad
+ ruido | ruid
+ conocimiento | conocimient
+ sombrero | sombrer
+ globo | glob
+ confieso | confies
+ tiempo | tiemp
+ encenderlo | encenderl
+ enfermo | enferm
+ titubeo | titube
+ inventando | inventand
+ contigo | contig
+ poético | poétic
+ pronto | pront
+ acercando | acercand
+ veneno | venen
+ sorprendido | sorprendid
+ capullo | capull
+ cuajado | cuajad
+ trono | tron
+ comido | comid
+ sometido | sometid
+ crecimiento | crecimient
+ ejército | ejércit
+ irritado | irritad
+ germinado | germinad
+ inclinado | inclinad
+ oyendo | oyend
+ riendo | riend
+ admiro | admir
+ domesticado | domesticad
+ confuso | confus
+ orgullo | orgull
+ mirando | mirand
+ buscarlo | buscarl
+ recuento | recuent
+ ejemplo | ejempl
+ vengo | veng
+ muchísimo | muchísim
+ mecánico | mecánic
+ delgado | delgad
+ viento | vient
+ quinto | quint
+ alimento | aliment
+ salado | salad
+ bajando | bajand
+ quiso | quis
+ injusto | injust
+ registro | registr
+ dentro | dentr
+ resto | rest
+ perezoso | perezos
+ majestuoso | majestuos
+ esfuerzo | esfuerz
+ ridículo | ridícul
+ persiguiendo | persiguiend
+ borracho | borrach
+ estupefacto | estupefact
+ empeño | empeñ
+ sentado | sentad
+ juicio | juici
+ necesito | necesit
+ camino | camin
+ inquieto | inquiet
+ debido | debid
+ helado | helad
+ contento | content
+ podido | podid
+ aniversario | aniversari
+ banco | banc
+ dichoso | dichos
+ equivoco | equivoc
+ absoluto | absolut
+ cielo | ciel
+ renunciado | renunciad
+ lúcido | lúcid
+ hombrecito | hombrecit
+ herido | herid
+ soltado | soltad
+ tendido | tendid
+ repitiendo | repitiend
+ granito | granit
+ poniendo | poniend
+ cuerpo | cuerp
+ mejorado | mejorad
+ despreciado | despreciad
+ principio | principi
+ verlo | verl
+ enrojeciendo | enrojeciend
+ desapareciendo | desapareciend
+ diciendo | diciend
+ sentido | sentid
+ sinnúmero | sinnúmer
+ regalo | regal
+ cansancio | cansanci
+ dueño | dueñ
+ telescopio | telescopi
+ príncipito | príncipit
+ conjunto | conjunt
+ aburrido | aburrid
+ armiño | armiñ
+ ciento | cient
+ infestado | infestad
+ interrogarlo | interrogarl
+ abrigo | abrig
+ fastidioso | fastidios
+ salvo | salv
+ atravesado | atravesad
+ trigo | trig
+ divertido | divertid
+ entretengo | entreteng
+ rabillo | rabill
+ trueno | truen
+ martillo | martill
+ desayuno | desayun
+ descubrimiento | descubrimient
+ pensando | pensand
+ perdonármelo | perdonármel
+ exacto | exact
+ maravilloso | maravillos
+ cuándo | cuánd
+ arrastrando | arrastrand
+ riesgo | riesg
+ bostezando | bostezand
+ comprenderlo | comprenderl
+ fabricando | fabricand
+ tesoro | tesor
+ evitarlo | evitarl
+ decidido | decidid
+ recuerdo | recuerd
+ cuatro | cuatr
+ incluso | inclus
+ florecido | florecid
+ momento | moment
+ ministro | ministr
+ preámbulo | preámbul
+ meditado | meditad
+ reparado | reparad
+ inverso | invers
+ desgraciado | desgraciad
+ parecido | parecid
+ tratando | tratand
+ extendiendo | extendiend
+ ignoro | ignor
+ cuando | cuand
+ muchachito | muchachit
+ levantando | levantand
+ navío | naví
+ curioso | curios
+ calendario | calendari
+ hablando | habland
+ retrato | retrat
+ maravillado | maravillad
+ punto | punt
+ aprendido | aprendid
+ colgando | colgand
+ describirlo | describirl
+ recordarlo | recordarl
+ sabio | sabi
+ cuidado | cuidad
+ lograrlo | lograrl
+ corrijo | corrij
+ número | númer
+ medio | medi
+ despacho | despach
+ estropeado | estropead
+ estudiado | estudiad
+ arbusto | arbust
+ biombo | biomb
+ astrónomo | astrónom
+ acuerdo | acuerd
+ escondido | escondid
+ gordo | gord
+ tobillo | tobill
+ logrado | lograd
+ nacido | nacid
+ bolsillo | bolsill
+ prohíbo | prohíb
+ hecho | hech
+ atarlo | atarl
+ desierto | desiert
+ comprado | comprad
+ octavo | octav
+ comprensivo | comprensiv
+ convencido | convencid
+ farolero | faroler
+ soñando | soñand
+ dormido | dormid
+ vanidoso | vanidos
+ jugado | jugad
+ cierto | ciert
+ deseoso | deseos
+ comprendiendo | comprendiend
+ vestido | vestid
+ cordero | corder
+ echando | echand
+ tampoco | tampoc
+ trapo | trap
+ cuanto | cuant
+ pasajero | pasajer
+ turco | turc
+ claro | clar
+ rostro | rostr
+ principito | principit
+ cuero | cuer
+ rebaño | rebañ
+ dicho | dich
+ malhumorado | malhumorad
+ juego | jueg
+ volado | volad
+ resuelvo | resuelv
+ recogiendo | recogiend
+ cuello | cuell
+ tolero | toler
+ reino | rein
+ peligro | peligr
+ escuchado | escuchad
+ desilusionado | desilusionad
+ verdadero | verdader
+ olido | olid
+ acaso | acas
+ perplejo | perplej
+ intrigado | intrigad
+ amarillo | amarill
+ martillazo | martillaz
+ riego | rieg
+ pajarillo | pajarill
+ atárselo | atársel
+ encontrarlo | encontrarl
+ sufro | sufr
+ contado | contad
+ llevando | llevand
+ sitio | siti
+ aplaudiendo | aplaudiend
+ reumatismo | reumatism
+ abriendo | abriend
+ abstraído | abstraíd
+ hongo | hong
+ desconcertado | desconcertad
+ sentimiento | sentimient
+ grandioso | grandios
+ regado | regad
+ silencio | silenci
+ zorro | zorr
+ extinguido | extinguid
+ ladrillo | ladrill
+ embargo | embarg
+ perfecto | perfect
+ pensamiento | pensamient
+ atormentado | atormentad
+ libro | libr
+ anciano | ancian
+ revelado | revelad
+ suelo | suel
+ acabo | acab
+ aislado | aislad
+ abajo | abaj
+ rugiendo | rugiend
+ conservado | conservad
+ brinco | brinc
+ gesto | gest
+ oficio | ofici
+ miedo | mied
+ fuego | fueg
+
+ 
+('o', 'ía') : 
+ escribía | escrib
+ escribo | escrib
+
+ 
+('aba', 'ado') : 
+ pasado | pas
+ pasaba | pas
+
+ 
+('é', 'í', 'ó') : 
+ senté | sent
+ sentó | sent
+ sentí | sent
+
+ 
+('a', 'as', 'o') : 
+ bello | bell
+ pequeñas | pequeñ
+ mismas | mism
+ pequeño | pequeñ
+ tantas | tant
+ bella | bell
+ bueno | buen
+ mismo | mism
+ pequeña | pequeñ
+ tanto | tant
+ buenas | buen
+ aquella | aquell
+ tanta | tant
+ misma | mism
+ aquello | aquell
+ aquellas | aquell
+ buena | buen
+ bellas | bell
+
+ 
+('al', 'o') : 
+ universal | univers
+ universo | univers
+
+ 
+('do', 's') : 
+ ganas | gana
+ ganado | gana
+
+ 
+('res',) : 
+ mares | ma
+
+ 
+('l',) : 
+ farol | faro
+ aquel | aque
+ papel | pape
+ general | genera
+ difícil | difíci
+ igual | igua
+ árbol | árbo
+ fácil | fáci
+ internacional | internaciona
+ inmóvil | inmóvi
+ inútil | inúti
+ frágil | frági
+ brocal | broca
+ débil | débi
+ bozal | boza
+ esencial | esencia
+ fanal | fana
+
+ 
+('rá',) : 
+ servirá | servi
+ podrá | pod
+
+ 
+('a', 'aba', 'ad', 'o', 'é') : 
+ esperad | esper
+ esperé | esper
+ espero | esper
+ espera | esper
+ esperaba | esper
+
+ 
+('etas',) : 
+ planetas | plan
+
+ 
+('ado', 'es', 'é', 'ó') : 
+ calló | call
+ calles | call
+ callado | call
+ callé | call
+
+ 
+('let',) : 
+ ballet | bal
+
+ 
+('ido', 'laba', 'rá') : 
+ hablaba | hab
+ habrá | hab
+ habido | hab
+
+ 
+('n', 'r', 'rá', 's') : 
+ parecer | parece
+ comprenden | comprende
+ parecen | parece
+ comprendes | comprende
+ parecerá | parece
+ comprender | comprende
+ comprenderá | comprende
+ pareces | parece
+
+ 
+('o', 'é') : 
+ trabajo | trabaj
+ trabajé | trabaj
+
+ 
+('e',) : 
+ desembarazarse | desembarazars
+ hacerme | hacerm
+ respetuosamente | respetuosament
+ decirme | decirm
+ despertarse | despertars
+ señalarte | señalart
+ especie | especi
+ noche | noch
+ inocente | inocent
+ visitarme | visitarm
+ dulce | dulc
+ saludarle | saludarl
+ añadiste | añadist
+ verdaderamente | verdaderament
+ morderte | mordert
+ sentarme | sentarm
+ indudable | indudabl
+ pertenece | pertenec
+ escribidme | escribidm
+ desde | desd
+ nuevamente | nuevament
+ regularmente | regularment
+ hacerle | hacerl
+ catástrofe | catástrof
+ melancólicamente | melancólicament
+ déjame | déjam
+ diste | dist
+ resplandece | resplandec
+ exactamente | exactament
+ llave | llav
+ fuente | fuent
+ detalle | detall
+ obstante | obstant
+ diciéndome | diciéndom
+ reíste | reíst
+ perfectamente | perfectament
+ defenderse | defenders
+ tiene | tien
+ haberme | haberm
+ imaginarse | imaginars
+ perdóneme | perdónem
+ absolutamente | absolutament
+ juzgarte | juzgart
+ elefante | elefant
+ rápidamente | rápidament
+ donde | dond
+ aproxímate | aproxímat
+ indudablemente | indudablement
+ inteligente | inteligent
+ impresionante | impresionant
+ irreparable | irreparabl
+ juzgarme | juzgarm
+ breve | brev
+ veinte | veint
+ diciéndole | diciéndol
+ siete | siet
+ trasladarse | trasladars
+ miente | mient
+ hombre | hombr
+ distingue | distingu
+ suficiente | suficient
+ precisamente | precisament
+ marte | mart
+ largamente | largament
+ encogiéndose | encogiéndos
+ soporte | soport
+ aunque | aunqu
+ dijiste | dijist
+ conocerle | conocerl
+ porque | porqu
+ ayudarte | ayudart
+ fingirle | fingirl
+ consiguiente | consiguient
+ duerme | duerm
+ durante | durant
+ diciéndose | diciéndos
+ invariablemente | invariablement
+ recibe | recib
+ naturalmente | naturalment
+ tímidamente | tímidament
+ aparte | apart
+ juiciosamente | juiciosament
+ implacable | implacabl
+ nieve | niev
+ ayudarle | ayudarl
+ grande | grand
+ príncipe | príncip
+ frecuentemente | frecuentement
+ obedeciese | obedecies
+ frente | frent
+ únicamente | únicament
+ ordénele | ordénel
+ sentirme | sentirm
+ domestícame | domestícam
+ suavemente | suavement
+ invisible | invisibl
+ tratándose | tratándos
+ entre | entr
+ gobernante | gobernant
+ viene | vien
+ cuidadosamente | cuidadosament
+ mantenerme | mantenerm
+ ocuparme | ocuparm
+ arreglarse | arreglars
+ dedicarse | dedicars
+ hacerte | hacert
+ silenciosamente | silenciosament
+ sucede | suced
+ decidme | decidm
+ indiferente | indiferent
+ domestique | domestiqu
+ diamante | diamant
+ hablarme | hablarm
+ confesarse | confesars
+ norte | nort
+ verte | vert
+ ejerce | ejerc
+ detenidamente | detenidament
+ paisaje | paisaj
+ elegante | elegant
+ simple | simpl
+ mansedumbre | mansedumbr
+ balde | bald
+ diferente | diferent
+ alabarse | alabars
+ evidente | evident
+ razonable | razonabl
+ suerte | suert
+ fiebre | fiebr
+ traje | traj
+ tranquilamente | tranquilament
+ terrible | terribl
+ distrae | distra
+ sentarse | sentars
+ apresurarse | apresurars
+ juzgarse | juzgars
+ quedarse | quedars
+ existe | exist
+ seguramente | segurament
+ tarde | tard
+ detuve | detuv
+ solamente | solament
+ pareciste | parecist
+ viese | vies
+ especialmente | especialment
+ serpiente | serpient
+ asombrarme | asombrarm
+ moverme | moverm
+ instintivamente | instintivament
+ vacilante | vacilant
+ lenguaje | lenguaj
+ padre | padr
+ inmediatamente | inmediatament
+ agradable | agradabl
+ triste | trist
+ comerciante | comerciant
+ obedece | obedec
+ ingenuamente | ingenuament
+ consolarle | consolarl
+ efectivamente | efectivament
+ cortésmente | cortésment
+ siempre | siempr
+ mente | ment
+ instruirse | instruirs
+ embellece | embellec
+ atraerse | atraers
+ sirve | sirv
+ humillarme | humillarm
+ tratarse | tratars
+ parecerme | parecerm
+ callarse | callars
+ despertarme | despertarm
+ cubre | cubr
+ rectamente | rectament
+ brazalete | brazalet
+ realmente | realment
+ quejarse | quejars
+ perderse | perders
+ enorme | enorm
+ bruscamente | bruscament
+ exige | exig
+ abundantemente | abundantement
+ permite | permit
+ insoportable | insoportabl
+ quitándose | quitándos
+ poniéndome | poniéndom
+ acordarse | acordars
+ llevase | llevas
+ ordenarme | ordenarm
+ ciertamente | ciertament
+ ejecutase | ejecutas
+ semejante | semejant
+ parte | part
+ avance | avanc
+ rehice | rehic
+ pierde | pierd
+ instante | instant
+ inconveniente | inconvenient
+ atentamente | atentament
+ felizmente | felizment
+ finalmente | finalment
+ bridge | bridg
+ siguiente | siguient
+ haberse | habers
+ taburete | taburet
+ suministre | suministr
+ totalmente | totalment
+ amontonarse | amontonars
+ grave | grav
+ sigue | sigu
+ bajarme | bajarm
+ gravemente | gravement
+ medianoche | medianoch
+ lúgubre | lúgubr
+ perdóname | perdónam
+ responsable | responsabl
+ imposible | imposibl
+ ponerse | poners
+ ocuparse | ocupars
+ doble | dobl
+ fielmente | fielment
+ verde | verd
+ parece | parec
+ enternecerme | enternecerm
+ decirle | decirl
+ píntame | píntam
+ darse | dars
+ nadie | nadi
+ torpe | torp
+ explicarse | explicars
+ quince | quinc
+ transformarse | transformars
+ dejarse | dejars
+ moverse | movers
+ resiste | resist
+ darle | darl
+ extremadamente | extremadament
+ puntualmente | puntualment
+ admírame | admíram
+ equivoque | equivoqu
+ desgraciadamente | desgraciadament
+ fácilmente | fácilment
+ encontrarme | encontrarm
+ lentamente | lentament
+ interesante | interesant
+ sobre | sobr
+ esperarme | esperarm
+ comunicarle | comunicarl
+ importante | important
+ rodeándome | rodeándom
+ hambre | hambr
+ dónde | dónd
+ súbitamente | súbitament
+ simplemente | simplement
+ gente | gent
+ majestuosamente | majestuosament
+ llevarte | llevart
+ prefiere | prefier
+ decididamente | decididament
+ hubiese | hubies
+ previamente | previament
+ describirme | describirm
+ hazme | hazm
+ inútilmente | inútilment
+ próximamente | próximament
+ digiere | digier
+ islote | islot
+ sentarte | sentart
+ bastante | bastant
+ punzante | punzant
+ modestamente | modestament
+ definitivamente | definitivament
+ atreverme | atreverm
+ presente | present
+ añadirle | añadirl
+ dulcemente | dulcement
+
+ 
+('a', 'idad') : 
+ ingenuidad | ingenu
+ ingenua | ingenu
+
+ 
+('a', 'r') : 
+ correr | corre
+ correa | corre
+
+ 
+('a', 'ado', 'e', 'é', 'ó') : 
+ quedé | qued
+ quedó | qued
+ quede | qued
+ quedado | qued
+ queda | qued
+
+ 
+('r', 'rá', 's') : 
+ estará | esta
+ estar | esta
+ estas | esta
+
+ 
+('a', 'ad', 'e', 'es', 'o', 'é', 'ó') : 
+ pregunto | pregunt
+ pregunte | pregunt
+ pregunta | pregunt
+ pregunté | pregunt
+ preguntad | pregunt
+ preguntó | pregunt
+ preguntes | pregunt
+
+ 
+('th',) : 
+ werth | wer
+
+ 
+('as', 'o') : 
+ amigo | amig
+ extraordinarias | extraordinari
+ ordeno | orden
+ extraordinario | extraordinari
+ amigas | amig
+ ordenas | orden
+
+ 
+('las',) : 
+ solas | so
+
+ 
+('ría',) : 
+ daría | da
+ diría | di
+ sería | se
+
+ 
+('ntes', 'se') : 
+ fuese | fue
+ fuentes | fue
+
+ 
+('a', 'es') : 
+ razones | razon
+ razona | razon
+
+ 
+('jas',) : 
+ viejas | vie
+
+ 
+('á',) : 
+ arreglará | arreglar
+ quizá | quiz
+
+ 
+('paz',) : 
+ capaz | ca
+
+ 
+('ado', 'o', 'é') : 
+ dibujo | dibuj
+ dibujado | dibuj
+ dibujé | dibuj
+
+ 
+('a', 'o', 'ía') : 
+ poseía | pose
+ poseo | pose
+ posea | pose
+
+ 
+('d',) : 
+ exactitud | exactitu
+ posibilidad | posibilida
+ usted | uste
+ inmensidad | inmensida
+ suavidad | suavida
+ felicidad | felicida
+ multitud | multitu
+ electricidad | electricida
+ fidelidad | fidelida
+ voluntad | volunta
+ actividad | activida
+ autoridad | autorida
+ humanidad | humanida
+ casualidad | casualida
+
+ 
+('ias', 'vido') : 
+ servido | ser
+ serias | ser
+
+ 
+('aba', 'ó') : 
+ olvidaba | olvid
+ olvidó | olvid
+
+ 
+('o', 'ues') : 
+ consigues | consig
+ consigo | consig
+
+ 
+('a', 'ado') : 
+ terminado | termin
+ termina | termin
+
+ 
+('cía',) : 
+ hacía | ha
+
+ 
+('tado',) : 
+ tratado | tra
+
+ 
+('dría',) : 
+ tendría | ten
+
+ 
+('drá', 'ido') : 
+ salido | sal
+ saldrá | sal
+
+ 
+('taba',) : 
+ habitaba | habi
+
+ 
+('a', 'antes') : 
+ importantes | import
+ importa | import
+
+ 
+('dad',) : 
+ gravedad | grave
+ bondad | bon
+ moralidad | morali
+ verdad | ver
+ maldad | mal
+
+ 
+('l', 's') : 
+ rosas | rosa
+ rosal | rosa
+
+ 
+('vías',) : 
+ volvías | vol
+
+ 
+('e', 'o') : 
+ dispuse | dispus
+ nombre | nombr
+ nombro | nombr
+ muere | muer
+ enciendo | enciend
+ siento | sient
+ vuelvo | vuelv
+ viste | vist
+ vuelve | vuelv
+ visto | vist
+ adelante | adelant
+ corre | corr
+ siente | sient
+ adelanto | adelant
+ muerte | muert
+ muerto | muert
+ muero | muer
+ enciende | enciend
+ dispuso | dispus
+ corro | corr
+
+ 
+('s',) : 
+ iglesias | iglesia
+ mirarlas | mirarla
+ ideas | idea
+ baobabs | baobab
+ algunas | alguna
+ vacías | vacía
+ exploradores | exploradore
+ vuestras | vuestra
+ viajeros | viajero
+ dorados | dorado
+ geografías | geografía
+ chimeneas | chimenea
+ tonterías | tontería
+ volverás | volverá
+ caminarás | caminará
+ ritos | rito
+ flores | flore
+ viajáis | viajái
+ burlamos | burlamo
+ setecientos | seteciento
+ unidos | unido
+ antes | ante
+ campos | campo
+ zorros | zorro
+ rocas | roca
+ través | travé
+ reflexiones | reflexione
+ habitantes | habitante
+ vosotros | vosotro
+ olerlas | olerla
+ noches | noche
+ tantos | tanto
+ cuadros | cuadro
+ animales | animale
+ vínculos | vínculo
+ francos | franco
+ admiradores | admiradore
+ semejantes | semejante
+ ciertos | cierto
+ raíces | raíce
+ pruebas | prueba
+ tomamos | tomamo
+ arbustos | arbusto
+ decimos | decimo
+ estarás | estará
+ continentes | continente
+ deshollinados | deshollinado
+ primeros | primero
+ insignificantes | insignificante
+ dimensiones | dimensione
+ algunos | alguno
+ zancadas | zancada
+ trenes | trene
+ citas | cita
+ peligros | peligro
+ tiros | tiro
+ mariposas | mariposa
+ sollozos | sollozo
+ cuatrocientas | cuatrocienta
+ éstas | ésta
+ holgazanes | holgazane
+ quinientos | quiniento
+ otras | otra
+ doscientas | doscienta
+ cumplas | cumpla
+ momentos | momento
+ buenos | bueno
+ dulces | dulce
+ expertos | experto
+ bostezos | bostezo
+ agujeros | agujero
+ pusimos | pusimo
+ malos | malo
+ preparativos | preparativo
+ sepáis | sepái
+ últimos | último
+ razonables | razonable
+ desiertos | desierto
+ indulgentes | indulgente
+ vacaciones | vacacione
+ juegos | juego
+ hemos | hemo
+ ellos | ello
+ semillas | semilla
+ orejas | oreja
+ cuatrocientos | cuatrociento
+ volcánicas | volcánica
+ venus | venu
+ adivinaréis | adivinaréi
+ retratos | retrato
+ pequeños | pequeño
+ cuentos | cuento
+ tenemos | tenemo
+ lejos | lejo
+ imaginaos | imaginao
+ lágrimas | lágrima
+ trescientos | tresciento
+ bosteces | bostece
+ además | ademá
+ faroleros | farolero
+ paquetes | paquete
+ silvestres | silvestre
+ pocas | poca
+ colores | colore
+ pobres | pobre
+ eternas | eterna
+ elefantes | elefante
+ encendidas | encendida
+ teníamos | teníamo
+ jamás | jamá
+ gracias | gracia
+ apresuréis | apresuréi
+ brotes | brote
+ amapolas | amapola
+ números | número
+ pozos | pozo
+ vividas | vivida
+ negocios | negocio
+ cazadores | cazadore
+ serpientes | serpiente
+ nosotros | nosotro
+ otros | otro
+ interesantes | interesante
+ habíamos | habíamo
+ trabajos | trabajo
+ niños | niño
+ podrás | podrá
+ amigos | amigo
+ reyes | reye
+ vueltas | vuelta
+ erupciones | erupcione
+ lugares | lugare
+ indicaciones | indicacione
+ luces | luce
+ extinguidos | extinguido
+ palabras | palabra
+ imagináos | imagináo
+ extrañas | extraña
+ hierbas | hierba
+ vamos | vamo
+ ingenuas | ingenua
+ corrientes | corriente
+ ciudades | ciudade
+ negros | negro
+ redondos | redondo
+ explicaciones | explicacione
+ geógrafos | geógrafo
+ únicos | único
+ malas | mala
+ borrachos | borracho
+ recuerdos | recuerdo
+ tiendas | tienda
+ hablarles | hablarle
+ abrirás | abrirá
+ mayores | mayore
+ centenares | centenare
+ terribles | terrible
+ ventanas | ventana
+ entonces | entonce
+ hombros | hombro
+ meses | mese
+ llegáis | llegái
+ veces | vece
+ indultarás | indultará
+ suficientes | suficiente
+ llenos | lleno
+ hayas | haya
+ pequeñitos | pequeñito
+ escopetas | escopeta
+ aviones | avione
+ rosales | rosale
+ libros | libro
+ convencidas | convencida
+ pensamientos | pensamiento
+ proyectos | proyecto
+ entusiasmados | entusiasmado
+ iguales | iguale
+ largas | larga
+ sabios | sabio
+ reproches | reproche
+ estos | esto
+ guías | guía
+ cuántos | cuánto
+ descanses | descanse
+ volcanes | volcane
+ geranios | geranio
+ tuvieras | tuviera
+ semanas | semana
+ tenéis | tenéi
+ demás | demá
+ alabanzas | alabanza
+ contactos | contacto
+ fieras | fiera
+ gallinas | gallina
+ detalles | detalle
+ bonitos | bonito
+ moscas | mosca
+ saharianos | sahariano
+ comprenderás | comprenderá
+ movimientos | movimiento
+ desgracias | desgracia
+ cerrados | cerrado
+ píldoras | píldora
+ brazos | brazo
+ metros | metro
+ hacerlos | hacerlo
+ ellas | ella
+ numerosos | numeroso
+ caminos | camino
+ relatos | relato
+ garras | garra
+ orugas | oruga
+ apenas | apena
+ juzgarás | juzgará
+ verás | verá
+ cascabelitos | cascabelito
+ apretados | apretado
+ protegerlas | protegerla
+ llenas | llena
+ amáis | amái
+ mismos | mismo
+ cuidados | cuidado
+ pétalos | pétalo
+ piernas | pierna
+ seiscientos | seisciento
+ dedos | dedo
+ mientras | mientra
+ puestas | puesta
+ astucias | astucia
+ molestas | molesta
+ meterás | meterá
+ distinguirlos | distinguirlo
+ poseerlas | poseerla
+ enigmas | enigma
+ adiós | adió
+ tendrás | tendrá
+ aquellos | aquello
+ dibujos | dibujo
+ débiles | débile
+ tristes | triste
+ actos | acto
+ tendremos | tendremo
+ segundos | segundo
+ asombrados | asombrado
+ tigres | tigre
+ contentos | contento
+ disgustos | disgusto
+ contradictorias | contradictoria
+ cortezas | corteza
+ deseabas | deseaba
+ nieves | nieve
+ estrellas | estrella
+ después | despué
+ guardarles | guardarle
+ condiciones | condicione
+ indias | india
+ amarillas | amarilla
+ pronunciadas | pronunciada
+ confundes | confunde
+ novecientos | noveciento
+ horas | hora
+ repollos | repollo
+ cerradas | cerrada
+ poderosas | poderosa
+ útiles | útile
+ nuestras | nuestra
+ océanos | océano
+ necesarios | necesario
+ abejas | abeja
+ árboles | árbole
+ efímeras | efímera
+ maravillosos | maravilloso
+ interés | interé
+ diciéndoles | diciéndole
+ apagarlas | apagarla
+ perfeccionadas | perfeccionada
+ hadas | hada
+ botellas | botella
+ veintidós | veintidó
+ minutos | minuto
+ grandiosos | grandioso
+ lámparas | lámpara
+ tiempos | tiempo
+ pasos | paso
+ cifras | cifra
+ montañas | montaña
+ sepas | sepa
+ hermanos | hermano
+ adornadas | adornada
+ manos | mano
+ corbatas | corbata
+ pliegues | pliegue
+ ustedes | ustede
+ muchachitos | muchachito
+ prolongues | prolongue
+ herramientas | herramienta
+ acuerdas | acuerda
+ todas | toda
+ espinas | espina
+ vinieras | viniera
+ simples | simple
+ muchas | mucha
+ preciados | preciado
+ personas | persona
+ lápices | lápice
+ veréis | veréi
+ compañeros | compañero
+ rápidos | rápido
+ problemas | problema
+ anteriores | anteriore
+ mirarás | mirará
+ mezclas | mezcla
+ piedras | piedra
+ millones | millone
+ rojos | rojo
+ somos | somo
+ corderos | cordero
+ órdenes | órdene
+ cosas | cosa
+ tuyas | tuya
+ proporciones | proporcione
+ cuernos | cuerno
+ condenarás | condenará
+ vendes | vende
+ súbditos | súbdito
+ agitados | agitado
+ bastidores | bastidore
+ cascabeles | cascabele
+ pájaros | pájaro
+ sentarás | sentará
+ darles | darle
+ jueves | jueve
+ entendidos | entendido
+ entreabiertos | entreabierto
+ errores | errore
+ mundos | mundo
+ gusanos | gusano
+ escribimos | escribimo
+ vistos | visto
+ dejéis | dejéi
+ puntas | punta
+ esbozos | esbozo
+ dejabas | dejaba
+ lucecitas | lucecita
+ grandes | grande
+ tuyos | tuyo
+ servirles | servirle
+ abiertas | abierta
+ quiénes | quiéne
+ aventuras | aventura
+ quizás | quizá
+ cabellos | cabello
+ encontrarlos | encontrarlo
+ sonrisas | sonrisa
+ pasarlos | pasarlo
+ remordimientos | remordimiento
+ hombres | hombre
+ estamos | estamo
+ patas | pata
+ diferentes | diferente
+ sumas | suma
+ favorables | favorable
+ colocarlas | colocarla
+ regulados | regulado
+ estados | estado
+ vanidosos | vanidoso
+ vidrios | vidrio
+ faroles | farole
+ explicarás | explicará
+ domestiques | domestique
+ vayas | vaya
+ labios | labio
+ invisibles | invisible
+ ciegos | ciego
+ palomas | paloma
+ cositas | cosita
+ guardavías | guardavía
+ oídos | oído
+ casas | casa
+ cuales | cuale
+ hermosas | hermosa
+ vengas | venga
+ visitarlos | visitarlo
+ sabemos | sabemo
+ todos | todo
+ paseabas | paseaba
+ vienes | viene
+ amables | amable
+ decirles | decirle
+ únicas | única
+ crisis | crisi
+
+ 
+('a', 'e', 'o') : 
+ puede | pued
+ puedo | pued
+ quiera | quier
+ quiero | quier
+ pueda | pued
+ quiere | quier
+
+ 
+('n', 's') : 
+ informen | informe
+ están | está
+ quieres | quiere
+ encuentras | encuentra
+ quieren | quiere
+ estás | está
+ deben | debe
+ tienen | tiene
+ debes | debe
+ puedes | puede
+ estén | esté
+ estés | esté
+ dirás | dirá
+ encuentran | encuentra
+ serán | será
+ pueden | puede
+ informes | informe
+ tienes | tiene
+ dirán | dirá
+ serás | será
+
+ 
+('ado', 'e') : 
+ viajado | viaj
+ viaje | viaj
+
+ 
+('a', 'e') : 
+ trate | trat
+ visita | visit
+ visite | visit
+ trata | trat
+
+ 
+('sado',) : 
+ cansado | can
+
+ 
+('ad',) : 
+ vanidad | vanid
+ majestad | majest
+
+ 
+('é',) : 
+ estreché | estrech
+ logré | logr
+ enseñé | enseñ
+ habré | habr
+ quité | quit
+ sentiré | sentir
+ lloraré | llorar
+ esforcé | esforc
+ garabateé | garabate
+ reflexioné | reflexion
+ esperaré | esperar
+ trataré | tratar
+ amaré | amar
+ regalaré | regalar
+ separaré | separar
+ apreté | apret
+ miraré | mirar
+ podré | podr
+ descubriré | descubrir
+ estaré | estar
+ dibujaré | dibujar
+ conoceré | conocer
+ saqué | saqu
+ agregué | agregu
+ alcancé | alcanc
+ abrigué | abrigu
+ sabré | sabr
+ experimenté | experiment
+ froté | frot
+ exigiré | exigir
+
+ 
+('ado', 'ó') : 
+ pensó | pens
+ despertado | despert
+ despertó | despert
+ pensado | pens
+
+ 
+('ó',) : 
+ exclamó | exclam
+ domesticó | domestic
+ apareció | apareci
+ apresuró | apresur
+ enrojeció | enrojeci
+ afiló | afil
+ decidió | decidi
+ confesó | confes
+ centelleó | centelle
+ pareció | pareci
+ replicó | replic
+ aplaudió | aplaudi
+ tranquilizó | tranquiliz
+ cogió | cogi
+ atrevió | atrevi
+ roció | roci
+ revolvió | revolvi
+ atormentó | atorment
+ prosiguió | prosigui
+ emprendió | emprendi
+ iluminó | ilumin
+ informó | inform
+ gimió | gimi
+ inquirió | inquiri
+ sonrió | sonri
+ hundió | hundi
+ sonrojó | sonroj
+ costó | cost
+ enjugó | enjug
+ enroscó | enrosc
+ rugió | rugi
+ respondió | respondi
+ señaló | señal
+ arrepintió | arrepinti
+ descubrió | descubri
+ avergonzó | avergonz
+ intrigó | intrig
+ comenzó | comenz
+ dirigió | dirigi
+ aceptó | acept
+ observó | observ
+ volvió | volvi
+ estalló | estall
+ añadió | añadi
+ soltó | solt
+ insistió | insisti
+ lloró | llor
+ tosió | tosi
+ inclinó | inclin
+ elevó | elev
+ escurrió | escurri
+ irritó | irrit
+ escaló | escal
+ alcanzó | alcanz
+ encerró | encerr
+ interrumpió | interrumpi
+ recobró | recobr
+ repitió | repiti
+ sorprendió | sorprendi
+ concluyó | concluy
+ perdió | perdi
+ concedió | concedi
+ lanzó | lanz
+ afirmó | afirm
+ sintió | sinti
+ comprendió | comprendi
+ atravesó | atraves
+ agregó | agreg
+ aprovechó | aprovech
+ sucedió | sucedi
+ contó | cont
+ creyó | crey
+ mostró | mostr
+ encendió | encendi
+ bebió | bebi
+ abrió | abri
+ saludó | salud
+ ruborizó | ruboriz
+ adivinó | adivin
+ descuidó | descuid
+
+ 
+('tas',) : 
+ partas | par
+
+ 
+('ado', 'o', 'ó') : 
+ buscó | busc
+ buscado | busc
+ busco | busc
+
+ 
+('endo', 'ó') : 
+ siguió | sigui
+ siguiendo | sigui
+
+ 
+('ndo', 'nes') : 
+ siendo | sie
+ sienes | sie
+
+ 
+('ado', 'aras', 'é', 'ó') : 
+ encontrado | encontr
+ encontró | encontr
+ encontraras | encontr
+ encontré | encontr
+
+ 
+('n', 'rá') : 
+ comerá | come
+ comen | come
+ gustará | gusta
+ gustan | gusta
+
+ 
+('n', 'r') : 
+ pasan | pasa
+ viajar | viaja
+ poseen | posee
+ llevar | lleva
+ conocer | conoce
+ exclaman | exclama
+ reinan | reina
+ brillar | brilla
+ reinar | reina
+ brillan | brilla
+ llevan | lleva
+ bostezar | bosteza
+ llegar | llega
+ bostezan | bosteza
+ exclamar | exclama
+ llorar | llora
+ lloran | llora
+ pasar | pasa
+ viajan | viaja
+ poseer | posee
+ comprar | compra
+ conocen | conoce
+ compran | compra
+ llegan | llega
+
+ 
+('o', 'ó') : 
+ reposó | repos
+ gritó | grit
+ reposo | repos
+ deshollino | deshollin
+ vaciló | vacil
+ contesto | contest
+ abismo | abism
+ abismó | abism
+ vacilo | vacil
+ grito | grit
+ suspiro | suspir
+ suspiró | suspir
+ contestó | contest
+ deshollinó | deshollin
+
+ 
+('e', 'ido') : 
+ ocurre | ocurr
+ ocurrido | ocurr
+
+ 
+('r', 'ó') : 
+ distinguir | distingui
+ salir | sali
+ ocurrir | ocurri
+ partir | parti
+ salió | sali
+ ocurrió | ocurri
+ partió | parti
+ distinguió | distingui
+
+ 
+('ido', 'o', 'í') : 
+ comprendo | comprend
+ comprendido | comprend
+ comprendí | comprend
+
+ 
+('drá', 'ía') : 
+ vendrá | ven
+ venía | ven
+
+ 
+('a', 'ó') : 
+ aconseja | aconsej
+ interroga | interrog
+ interrogó | interrog
+ marcha | march
+ bosteza | bostez
+ cansa | cans
+ arranca | arranc
+ bostezó | bostez
+ llegó | lleg
+ aconsejó | aconsej
+ marchó | march
+ llega | lleg
+ arrancó | arranc
+ cansó | cans
+
+ 
+('a',) : 
+ ajustaba | ajustab
+ basta | bast
+ esperanza | esperanz
+ lucía | lucí
+ contra | contr
+ geografía | geografí
+ sonaba | sonab
+ balsa | bals
+ oculta | ocult
+ tosería | toserí
+ melancólica | melancólic
+ sesenta | sesent
+ eterna | etern
+ vocecita | vocecit
+ hacia | haci
+ ciencia | cienci
+ pesadilla | pesadill
+ europea | europe
+ monarca | monarc
+ planta | plant
+ carabina | carabin
+ bufanda | bufand
+ aniquilarla | aniquilarl
+ jungla | jungl
+ acordaba | acordab
+ vuela | vuel
+ carrera | carrer
+ planeta | planet
+ página | págin
+ melancolía | melancolí
+ dicta | dict
+ enmohecida | enmohecid
+ titulaba | titulab
+ peligrosa | peligros
+ estrella | estrell
+ izquierda | izquierd
+ simularía | simularí
+ mostraba | mostrab
+ disfrutara | disfrutar
+ cuerda | cuerd
+ carroza | carroz
+ indisciplina | indisciplin
+ vivía | viví
+ mediodía | mediodí
+ entrada | entrad
+ ahora | ahor
+ ajada | ajad
+ conservarla | conservarl
+ faltaba | faltab
+ valía | valí
+ cualquiera | cualquier
+ partida | partid
+ representaba | representab
+ simpatía | simpatí
+ bastaba | bastab
+ sonrisa | sonris
+ dispusiera | dispusier
+ humillada | humillad
+ marchaba | marchab
+ parecía | parecí
+ sonreía | sonreí
+ paciencia | pacienci
+ danza | danz
+ ruina | ruin
+ nunca | nunc
+ reconozca | reconozc
+ mirada | mirad
+ sabía | sabí
+ distancia | distanci
+ cuarenta | cuarent
+ sorpresa | sorpres
+ importancia | importanci
+ lejanía | lejaní
+ promesa | promes
+ drama | dram
+ procura | procur
+ volaba | volab
+ lloraba | llorab
+ racha | rach
+ abierta | abiert
+ política | polític
+ semilla | semill
+ dedicara | dedicar
+ corta | cort
+ graciosa | gracios
+ cabeza | cabez
+ roldana | roldan
+ resfriada | resfriad
+ tristeza | tristez
+ ojeada | ojead
+ alarga | alarg
+ gustaría | gustarí
+ golpea | golpe
+ cincuenta | cincuent
+ acababa | acabab
+ gozaba | gozab
+ erguía | erguí
+ preciosa | precios
+ reclama | reclam
+ montaña | montañ
+ masticarla | masticarl
+ manera | maner
+ ocultaba | ocultab
+ cerca | cerc
+ veleta | velet
+ podía | podí
+ decía | decí
+ hubiera | hubier
+ había | habí
+ crezca | crezc
+ pudiera | pudier
+ formaba | formab
+ tocaba | tocab
+ aprovecharla | aprovecharl
+ experiencia | experienci
+ etiqueta | etiquet
+ hasta | hast
+ pondría | pondrí
+ zelanda | zeland
+ siberia | siberi
+ belleza | bellez
+ música | músic
+ ventana | ventan
+ tinta | tint
+ huella | huell
+ guerra | guerr
+ sentía | sentí
+ siquiera | siquier
+ presa | pres
+ selva | selv
+ pensaba | pensab
+ efímera | efímer
+ comenzaba | comenzab
+ lograría | lograrí
+ américa | améric
+ ordenara | ordenar
+ transformara | transformar
+ firmeza | firmez
+ naturaleza | naturalez
+ conmovedora | conmovedor
+ hablara | hablar
+ problema | problem
+ quisiera | quisier
+ movía | moví
+ prueba | prueb
+ resulta | result
+ llema | llem
+ leyenda | leyend
+ todavía | todaví
+ morada | morad
+ lenta | lent
+ gramática | gramátic
+ copia | copi
+ amarla | amarl
+ continuaba | continuab
+ francia | franci
+ ramita | ramit
+ circunstancia | circunstanci
+ fuera | fuer
+ última | últim
+ treinta | treint
+ juzgarla | juzgarl
+ hierba | hierb
+ evidencia | evidenci
+ consuela | consuel
+ escena | escen
+ ordinaria | ordinari
+ púrpura | púrpur
+ emociona | emocion
+ inofensiva | inofensiv
+ alegra | alegr
+ estilográfica | estilográfic
+ tercera | tercer
+ explicaba | explicab
+ persona | person
+ llevaba | llevab
+ volvía | volví
+ falsa | fals
+ afirmativa | afirmativ
+ descendía | descendí
+ cortarla | cortarl
+ arizona | arizon
+ áfrica | áfric
+ monótona | monóton
+ máquina | máquin
+ estuviera | estuvier
+ estaba | estab
+ encantada | encantad
+ ponerla | ponerl
+ estaca | estac
+ lámpara | lámpar
+ seguida | seguid
+ vestía | vestí
+ coqueta | coquet
+ picada | picad
+ arrancarla | arrancarl
+ vergüenza | vergüenz
+ plaza | plaz
+ cerrada | cerrad
+ elegía | elegí
+ locomotora | locomotor
+ cabina | cabin
+ habría | habrí
+ mintiera | mintier
+ iluminaba | iluminab
+ apoya | apoy
+ profunda | profund
+ enseguida | enseguid
+ encuentra | encuentr
+ ausencia | ausenci
+ cumplía | cumplí
+ ternura | ternur
+ debía | debí
+ silla | sill
+ palabra | palabr
+ economiza | economiz
+ moralista | moralist
+ urgencia | urgenci
+ ignoraba | ignorab
+ inteligencia | inteligenci
+ conociera | conocier
+ frustrada | frustrad
+ lograba | lograb
+ sahara | sahar
+ colega | coleg
+ tenía | tení
+ avería | averí
+ madriguera | madriguer
+ encantadora | encantador
+ manda | mand
+ tartamudeaba | tartamudeab
+ despeinada | despeinad
+ piedra | piedr
+ obediencia | obedienci
+ ayuda | ayud
+ mariposa | maripos
+ lamentaba | lamentab
+ marina | marin
+ regadera | regader
+ llegada | llegad
+ apagaba | apagab
+ ponérmela | ponérmel
+ llevármela | llevármel
+ pasada | pasad
+ encima | encim
+ caravana | caravan
+ abstenía | abstení
+ causa | caus
+ bebiera | bebier
+ antigua | antigu
+ perfumaba | perfumab
+ carcajada | carcajad
+ resistencia | resistenci
+ parezca | parezc
+ proseguía | proseguí
+ presencia | presenci
+ respetada | respetad
+ justicia | justici
+ indulgencia | indulgenci
+ semiconfidencia | semiconfidenci
+ excusa | excus
+ llama | llam
+ rodilla | rodill
+ confianza | confianz
+ limpieza | limpiez
+ consigna | consign
+ modesta | modest
+ apariencia | aparienci
+ dedicatoria | dedicatori
+ cólera | cóler
+ ponga | pong
+ envoltura | envoltur
+ setenta | setent
+ tuviera | tuvier
+ seguía | seguí
+ pareciera | parecier
+ bandada | bandad
+ oponía | oponí
+ culpa | culp
+ dependería | dependerí
+ deseara | desear
+ utilizaba | utilizab
+ diera | dier
+ traga | trag
+ dormía | dormí
+ significa | signific
+ tragedia | tragedi
+ quedaba | quedab
+ vigila | vigil
+ habla | habl
+ caiga | caig
+ afirmaba | afirmab
+ europa | europ
+ hiciera | hicier
+ astronomía | astronomí
+ ninguna | ningun
+ lámina | lámin
+ milagrosa | milagros
+ dulzura | dulzur
+ miraba | mirab
+ mordedura | mordedur
+ fiera | fier
+ quería | querí
+ sacudía | sacudí
+ vuestra | vuestr
+ muñeca | muñec
+ despedida | despedid
+ china | chin
+ ociosa | ocios
+ respondiera | respondier
+ entera | enter
+ encendía | encendí
+ tierra | tierr
+ mentira | mentir
+ corteza | cortez
+ aprendía | aprendí
+ atrevía | atreví
+ armadura | armadur
+ fiesta | fiest
+ ópera | óper
+ interesa | interes
+ perfora | perfor
+ grasa | gras
+ disciplina | disciplin
+ australia | australi
+ tragaba | tragab
+ dejara | dejar
+ podría | podrí
+ diferenciaba | diferenciab
+ empezaría | empezarí
+ traiga | traig
+ significaba | significab
+ prisa | pris
+ monotonía | monotoní
+ rusia | rusi
+ respuesta | respuest
+ permitía | permití
+ callaba | callab
+ gracia | graci
+ recibida | recibid
+ charla | charl
+ fantasía | fantasí
+ suelta | suelt
+ sentiría | sentirí
+ tentativa | tentativ
+ completa | complet
+ semana | seman
+ llena | llen
+ caminaría | caminarí
+ altura | altur
+ lástima | lástim
+ encontraba | encontrab
+
+ 
+('erá',) : 
+ perderá | perd
+
+ 
+('é', 'ó') : 
+ levantó | levant
+ recordé | record
+ continué | continu
+ continuó | continu
+ levanté | levant
+ divisó | divis
+ divisé | divis
+ recordó | record
+
+ 
+('r', 's') : 
+ beber | bebe
+ echar | echa
+ hablar | habla
+ hablas | habla
+ menor | meno
+ acabar | acaba
+ echas | echa
+ bebes | bebe
+ admiras | admira
+ admirar | admira
+ menos | meno
+ acabas | acaba
+
+ 
+('í',) : 
+ seguí | segu
+ aprendí | aprend
+ dirigí | dirig
+ proseguí | prosegu
+ conocí | conoc
+ humedecí | humedec
+ interrumpí | interrump
+ añadí | añad
+ volví | volv
+ dormí | dorm
+
+ 
+('n',) : 
+ comenzaron | comenzaro
+ importaban | importaba
+ alguien | alguie
+ atención | atenció
+ cuentan | cuenta
+ contestaban | contestaba
+ reflexión | reflexió
+ consideración | consideració
+ fueron | fuero
+ cultivan | cultiva
+ existen | existe
+ región | regió
+ encogerán | encogerá
+ hacían | hacía
+ interesan | interesa
+ volcán | volcá
+ precisión | precisió
+ virgen | virge
+ preocuparán | preocupará
+ exponen | expone
+ invención | invenció
+ hicieron | hiciero
+ convierten | convierte
+ proposición | proposició
+ sienten | siente
+ aplastan | aplasta
+ llegaban | llegaba
+ imaginación | imaginació
+ jardín | jardí
+ revolución | revolució
+ imagen | image
+ ningún | ningú
+ sentían | sentía
+ entienden | entiende
+ pierden | pierde
+ arden | arde
+ servirían | serviría
+ equivocaban | equivocaba
+ estaban | estaba
+ origen | orige
+ cabían | cabía
+ callan | calla
+ callaron | callaro
+ aparecían | aparecía
+ sirven | sirve
+ persiguen | persigue
+ vuelven | vuelve
+ escriben | escribe
+ investigación | investigació
+ cuestión | cuestió
+ desanimaron | desanimaro
+ tomen | tome
+ desaparición | desaparició
+ molestaban | molestaba
+ contemplación | contemplació
+ imaginan | imagina
+ bailaran | bailara
+ ocupan | ocupa
+ llevaban | llevaba
+ aparición | aparició
+ adoran | adora
+ ocupación | ocupació
+ pierdan | pierda
+ ocultaban | ocultaba
+ comieran | comiera
+ defienden | defiende
+ carecen | carece
+ opinión | opinió
+ admiración | admiració
+ recuerdan | recuerda
+ bailan | baila
+ quedarán | quedará
+ respondieron | respondiero
+ dirección | direcció
+ parecían | parecía
+ apagaran | apagara
+ faldón | faldó
+ crían | cría
+ hagan | haga
+ avión | avió
+ algún | algú
+ seguían | seguía
+ joven | jove
+ perdón | perdó
+ cabrían | cabría
+ orden | orde
+ meten | mete
+ encendían | encendía
+ coman | coma
+ provisión | provisió
+ población | població
+ corazón | corazó
+ llegarán | llegará
+ digestión | digestió
+ mitin | miti
+ quitan | quita
+ agitan | agita
+ bulón | buló
+ danzaban | danzaba
+ parecerían | parecería
+ daban | daba
+ revelaron | revelaro
+ trabajaban | trabajaba
+ quién | quié
+ riesen | riese
+ cambiaron | cambiaro
+ cazan | caza
+ salían | salía
+ cajón | cajó
+ abren | abre
+ distracción | distracció
+ ocupaban | ocupaba
+ dijeran | dijera
+ alegran | alegra
+ esbozaron | esbozaro
+ faltan | falta
+ migración | migració
+ razón | razó
+ parecieron | pareciero
+ relación | relació
+ pudieran | pudiera
+ duermen | duerme
+ vendan | venda
+ llamarán | llamará
+ reparación | reparació
+ según | segú
+ creerán | creerá
+ quien | quie
+ obedecen | obedece
+ fueran | fuera
+ preparación | preparació
+ excepción | excepció
+ aconsejaron | aconsejaro
+ pueblan | puebla
+ ahorran | ahorra
+ podrían | podría
+ aclaman | aclama
+ lección | lecció
+ extinguían | extinguía
+ reputación | reputació
+ escabullían | escabullía
+ darán | dará
+ evasión | evasió
+ dejaran | dejara
+ también | tambié
+ pusieran | pusiera
+ matan | mata
+ demostración | demostració
+
+ 
+('n', 'r', 's') : 
+ buscar | busca
+ preguntas | pregunta
+ sabes | sabe
+ creen | cree
+ crees | cree
+ buscan | busca
+ hacer | hace
+ preguntar | pregunta
+ preguntan | pregunta
+ creer | cree
+ domesticar | domestica
+ hacen | hace
+ saber | sabe
+ domestican | domestica
+ saben | sabe
+ haces | hace
+ domesticas | domestica
+ buscas | busca
+
+ 
+('d', 'do', 'r') : 
+ mirar | mira
+ mirad | mira
+ mirado | mira
+
+ 
+('r',) : 
+ resplandor | resplando
+ escribir | escribi
+ gritar | grita
+ olvidar | olvida
+ condenar | condena
+ rencor | renco
+ escapar | escapa
+ evitar | evita
+ deambular | deambula
+ destornillar | destornilla
+ articular | articula
+ dictador | dictado
+ desobedecer | desobedece
+ arrastrar | arrastra
+ nacer | nace
+ crecer | crece
+ asistir | asisti
+ patentar | patenta
+ volver | volve
+ marchar | marcha
+ esconder | esconde
+ cualquier | cualquie
+ primer | prime
+ amanecer | amanece
+ contener | contene
+ conductor | conducto
+ dudar | duda
+ tener | tene
+ rumor | rumo
+ elegir | elegi
+ pesar | pesa
+ poner | pone
+ chocar | choca
+ vestir | vesti
+ interlocutor | interlocuto
+ dibujar | dibuja
+ estallar | estalla
+ sorprender | sorprende
+ favor | favo
+ rayar | raya
+ comenzar | comenza
+ divisar | divisa
+ vivir | vivi
+ realizar | realiza
+ anterior | anterio
+ reconocer | reconoce
+ soportar | soporta
+ adivinar | adivina
+ entrar | entra
+ placer | place
+ coleccionar | colecciona
+ asustar | asusta
+ repetir | repeti
+ terminar | termina
+ crear | crea
+ pintor | pinto
+ recordar | recorda
+ pensar | pensa
+ esperar | espera
+ averiguar | averigua
+ decir | deci
+ poder | pode
+ color | colo
+ apagar | apaga
+ señor | seño
+ arrancar | arranca
+ deshollinar | deshollina
+ deslizar | desliza
+ presenciar | presencia
+ dormir | dormi
+ temblar | tembla
+ gozar | goza
+ sacar | saca
+ caminar | camina
+ disfrutar | disfruta
+ preparar | prepara
+ advertir | adverti
+ quedar | queda
+ volar | vola
+ pilotar | pilota
+ embajador | embajado
+ esplendor | esplendo
+ meditar | medita
+ lugar | luga
+ calor | calo
+ aprender | aprende
+ mantener | mantene
+ morder | morde
+ admirador | admirado
+ mejor | mejo
+ desmontar | desmonta
+ motor | moto
+ venir | veni
+ mayor | mayo
+ haber | habe
+ calentar | calenta
+ cometer | comete
+ morir | mori
+ sufrir | sufri
+ desayunar | desayuna
+ callejear | callejea
+ desvariar | desvaria
+ pedir | pedi
+ envejecer | envejece
+ mover | move
+ revólver | revólve
+ exigir | exigi
+ júpiter | júpite
+ querer | quere
+ contar | conta
+ surtidor | surtido
+ tercer | terce
+ disgustar | disgusta
+ rubor | rubo
+ trabajar | trabaja
+ ejemplar | ejempla
+ saludar | saluda
+ explorador | explorado
+ trazar | traza
+ bebedor | bebedo
+ encender | encende
+ aparecer | aparece
+ exhalar | exhala
+ alrededor | alrededo
+ solicitar | solicita
+ consolar | consola
+ valor | valo
+ reposar | reposa
+ latir | lati
+ saltar | salta
+ jugar | juga
+ abandonar | abandona
+ interior | interio
+ desaparecer | desaparece
+ temer | teme
+ encantador | encantado
+ descansar | descansa
+ juzgar | juzga
+ recibir | recibi
+
+ 
+('e', 'es') : 
+ asteroides | asteroid
+ asteroide | asteroid
+ posible | posibl
+ posibles | posibl
+
+ 
+('a', 'ado', 'e', 'o') : 
+ cambiado | cambi
+ cambia | cambi
+ cambio | cambi
+ cambie | cambi
+
+ 
+('adas',) : 
+ doradas | dor
+
+ 
+('ía',) : 
+ creía | cre
+ sombría | sombr
+
+ 
+('abas', 'oy') : 
+ estoy | est
+ estabas | est
+
+ 
+('eras',) : 
+ maneras | man
+ quieras | qui
+
+ 
+('ido',) : 
+ sabido | sab
+ bebido | beb
+
+ 
+('r', 'rá') : 
+ encontrar | encontra
+ encontrará | encontra
+
+ 
+('es',) : 
+ mires | mir
+
+ 
+('ba', 'n', 'rá') : 
+ duran | dura
+ duraba | dura
+ durará | dura
+
+ 
+('e', 'ido', 'í', 'ía') : 
+ responde | respond
+ respondí | respond
+ respondía | respond
+ respondido | respond
+
+ 
+('a', 'ado', 'é', 'ó') : 
+ abandonó | abandon
+ abandonado | abandon
+ abandona | abandon
+ abandoné | abandon
+
+ 
+('as',) : 
+ millas | mill
+ muchachas | muchach
+
+ 
+('ab',) : 
+ baobab | baob
+
+ 
+('a', 'ado', 'o', 'ó') : 
+ apagó | apag
+ molesta | molest
+ molestado | molest
+ gusta | gust
+ gustó | gust
+ apaga | apag
+ gusto | gust
+ apagado | apag
+ molestó | molest
+ apago | apag
+ gustado | gust
+ molesto | molest
+
+ 
+('e', 'í') : 
+ descubrí | descubr
+ descubre | descubr
+
+ 
+('z',) : 
+ lápiz | lápi
+ feliz | feli
+ sencillez | sencille
+
+ 
+('do', 'r') : 
+ dejar | deja
+ dejado | deja
+ dedicado | dedica
+ dedicar | dedica
+
+ 
+('a', 'as') : 
+ arena | aren
+ historia | histori
+ historias | histori
+ mañanas | mañan
+ arenas | aren
+ mañana | mañan
+
+ 
+('e', 'é') : 
+ llegué | llegu
+ llegue | llegu
+
+ 
+('a', 'ado', 'o') : 
+ ocupado | ocup
+ ocupo | ocup
+ ocupa | ocup
+
+ 

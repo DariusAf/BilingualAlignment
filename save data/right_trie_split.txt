@@ -1,0 +1,5810 @@
+  |  | 1909 
+ 
+  |  | 1920 
+ 
+  |  | 325 
+ 
+ 325 |  | 1 
+ 
+  |  | 326 
+ 
+  |  | 327 
+ 
+  |  | 328 
+ 
+  |  | 329 
+ 
+  |  | 330 
+ 
+  |  | 612 
+ 
+  |  | A 
+ 
+  |  | Abejas 
+ 
+  |  | Adiós 
+ 
+  |  | Admirar 
+ 
+  |  | Ah 
+ 
+  |  | Ahora 
+ 
+  |  | Ahí 
+ 
+  |  | Al 
+ 
+  |  | Algo 
+ 
+  |  | Alguien 
+ 
+  |  | Alguna 
+ 
+  |  | Algunas 
+ 
+  |  | Allá 
+ 
+  |  | América 
+ 
+  |  | Anda 
+ 
+  |  | Apagar 
+ 
+  |  | Aparecían 
+ 
+  |  | Aprendí 
+ 
+  |  | Aproxímate 
+ 
+  |  | Aquel 
+ 
+  |  | Aquella 
+ 
+  |  | Aquí 
+ 
+  |  | Arizona 
+ 
+  |  | Astronomía 
+ 
+  |  | Así 
+ 
+  |  | Atarlo 
+ 
+  |  | Aunque 
+ 
+  |  | Australia 
+ 
+  |  | B 
+ 
+  |  | Baobab 
+ 
+  |  | Baobabs 
+ 
+  |  | Bebo 
+ 
+  |  | Bien 
+ 
+  |  | Buenas 
+ 
+  |  | Bueno 
+ 
+  |  | Buenos 
+ 
+  |  | Busco 
+ 
+  |  | Cada 
+ 
+  |  | Cazo 
+ 
+  |  | Caí 
+ 
+  |  | China 
+ 
+  |  | Ciertamente 
+ 
+  |  | Cinco 
+ 
+  |  | Claro 
+ 
+  |  | Comienzo 
+ 
+  |  | Como 
+ 
+  |  | Comprendes 
+ 
+  |  | Comprendí 
+ 
+  |  | Con 
+ 
+  |  | Confieso 
+ 
+  |  | Conoceré 
+ 
+  |  | Conozco 
+ 
+  |  | Continué 
+ 
+  |  | Corrijo 
+ 
+  |  | Crear 
+ 
+  |  | Crees 
+ 
+  |  | Creo 
+ 
+  |  | Creía 
+ 
+  |  | Cualquiera 
+ 
+  |  | Cuando 
+ 
+  |  | Cuanto 
+ 
+  |  | Cuernos 
+ 
+  |  | Cuánto 
+ 
+  |  | Cuántos 
+ 
+  |  | Cómo 
+ 
+  |  | De 
+ 
+  |  | Debes 
+ 
+  |  | Debí 
+ 
+  |  | Decididamente 
+ 
+  |  | Decía 
+ 
+  |  | Deme 
+ 
+  |  | Derecho 
+ 
+  |  | Desde 
+ 
+  |  | Desgraciadamente 
+ 
+  |  | Deshollinó 
+ 
+  |  | Después 
+ 
+  |  | Dibujé 
+ 
+  |  | Dijo 
+ 
+  |  | Dios 
+ 
+  |  | Dirigió 
+ 
+  |  | Dirigí 
+ 
+  |  | Divisé 
+ 
+  |  | Doce 
+ 
+  |  | Dos 
+ 
+  |  | Dudo 
+ 
+  |  | Durante 
+ 
+  |  | Déjame 
+ 
+  |  | Dónde 
+ 
+  |  | E 
+ 
+  |  | Echando 
+ 
+  |  | Efectivamente 
+ 
+  |  | Eh 
+ 
+  |  | Ejem 
+ 
+  |  | El 
+ 
+  |  | Elegía 
+ 
+  |  | Ellos 
+ 
+  |  | En 
+ 
+  |  | Encendían 
+ 
+  |  | Enciendo 
+ 
+  |  | Enseñé 
+ 
+  |  | Entonces 
+ 
+  |  | Entre 
+ 
+  |  | Era 
+ 
+  |  | Eres 
+ 
+  |  | Es 
+ 
+  |  | Escribidme 
+ 
+  |  | Ese 
+ 
+  |  | Eso 
+ 
+  |  | Esperar 
+ 
+  |  | Esperé 
+ 
+  |  | Esta 
+ 
+  |  | Estaba 
+ 
+  |  | Estados 
+ 
+  |  | Este 
+ 
+  |  | Esto 
+ 
+  |  | Estos 
+ 
+  |  | Estoy 
+ 
+  |  | Estreché 
+ 
+  |  | Estrellas 
+ 
+  |  | Está 
+ 
+  |  | Estás 
+ 
+  |  | Europa 
+ 
+  |  | Exactamente 
+ 
+  |  | Falto 
+ 
+  |  | Felizmente 
+ 
+  |  | Formo 
+ 
+  |  | Francia 
+ 
+  |  | Fue 
+ 
+  |  | Fueron 
+ 
+  |  | Gano 
+ 
+  |  | Golpea 
+ 
+  |  | Gritó 
+ 
+  |  | Hablas 
+ 
+  |  | Habría 
+ 
+  |  | Había 
+ 
+  |  | Hace 
+ 
+  |  | Hacía 
+ 
+  |  | Has 
+ 
+  |  | Hasta 
+ 
+  |  | Hay 
+ 
+  |  | Haz 
+ 
+  |  | Hazme 
+ 
+  |  | He 
+ 
+  |  | Hemos 
+ 
+  |  | Historias 
+ 
+  |  | Hombrecito 
+ 
+  |  | Hubiera 
+ 
+  |  | Hum 
+ 
+  |  | Humillada 
+ 
+  |  | Iba 
+ 
+  |  | Ignoraba 
+ 
+  |  | Imaginaos 
+ 
+  |  | Imagináos 
+ 
+  |  | Indias 
+ 
+  |  | Indudablemente 
+ 
+  |  | Insistió 
+ 
+  |  | Internacional 
+ 
+  |  | Irritado 
+ 
+  |  | Jamás 
+ 
+  |  | Júpiter 
+ 
+  |  | LEON 
+ 
+  |  | La 
+ 
+  |  | Lamentaba 
+ 
+  |  | Lanzó 
+ 
+  |  | Las 
+ 
+  |  | Le 
+ 
+  |  | Lentamente 
+ 
+  |  | Les 
+ 
+  |  | Levanté 
+ 
+  |  | Llegué 
+ 
+  |  | Lo 
+ 
+  |  | Los 
+ 
+  |  | Luego 
+ 
+  |  | Majestad 
+ 
+  |  | Marte 
+ 
+  |  | Mañana 
+ 
+  |  | Me 
+ 
+  |  | Mi 
+ 
+  |  | Miedo 
+ 
+  |  | Mientras 
+ 
+  |  | Millones 
+ 
+  |  | Ministro 
+ 
+  |  | Mira 
+ 
+  |  | Miraba 
+ 
+  |  | Mirad 
+ 
+  |  | Miré 
+ 
+  |  | Moscas 
+ 
+  |  | Nada 
+ 
+  |  | Nadie 
+ 
+  |  | Naturalmente 
+ 
+  |  | Navidad 
+ 
+  |  | Necesito 
+ 
+  |  | Ni 
+ 
+  |  | Ninguna 
+ 
+  |  | Niños 
+ 
+  |  | No 
+ 
+  |  | Norte 
+ 
+  |  | Nueva 
+ 
+  |  | Nunca 
+ 
+  |  | Oh 
+ 
+  |  | Ordénele 
+ 
+  |  | Oyes 
+ 
+  |  | Pacífico 
+ 
+  |  | Para 
+ 
+  |  | Parecerá 
+ 
+  |  | Pareciste 
+ 
+  |  | Pensaba 
+ 
+  |  | Perdóname 
+ 
+  |  | Pero 
+ 
+  |  | Pido 
+ 
+  |  | Pierden 
+ 
+  |  | Podría 
+ 
+  |  | Podía 
+ 
+  |  | Polo 
+ 
+  |  | Poniéndome 
+ 
+  |  | Por 
+ 
+  |  | Porque 
+ 
+  |  | Precisamente 
+ 
+  |  | Primero 
+ 
+  |  | Principito 
+ 
+  |  | Procura 
+ 
+  |  | Proseguí 
+ 
+  |  | Puede 
+ 
+  |  | Pueden 
+ 
+  |  | Puedo 
+ 
+  |  | Puesto 
+ 
+  |  | Píntame 
+ 
+  |  | Que 
+ 
+  |  | Quedó 
+ 
+  |  | Querer 
+ 
+  |  | Quería 
+ 
+  |  | Quiere 
+ 
+  |  | Quiero 
+ 
+  |  | Quince 
+ 
+  |  | Quinientos 
+ 
+  |  | Quiso 
+ 
+  |  | Quizá 
+ 
+  |  | Quién 
+ 
+  |  | Quiénes 
+ 
+  |  | Qué 
+ 
+  |  | Realmente 
+ 
+  |  | Recordé 
+ 
+  |  | Recordó 
+ 
+  |  | Reflexioné 
+ 
+  |  | Rehice 
+ 
+  |  | Reinan 
+ 
+  |  | Representaba 
+ 
+  |  | Respondí 
+ 
+  |  | Rusia 
+ 
+  |  | Sabes 
+ 
+  |  | Sabía 
+ 
+  |  | Sahara 
+ 
+  |  | Saqué 
+ 
+  |  | Se 
+ 
+  |  | Sed 
+ 
+  |  | Seguro 
+ 
+  |  | Seguí 
+ 
+  |  | Según 
+ 
+  |  | Sentí 
+ 
+  |  | Sentía 
+ 
+  |  | Será 
+ 
+  |  | Serás 
+ 
+  |  | Sería 
+ 
+  |  | Señor 
+ 
+  |  | Si 
+ 
+  |  | Siberia 
+ 
+  |  | Siempre 
+ 
+  |  | Siento 
+ 
+  |  | Significa 
+ 
+  |  | Siguiendo 
+ 
+  |  | Sin 
+ 
+  |  | Sobre 
+ 
+  |  | Solamente 
+ 
+  |  | Somos 
+ 
+  |  | Son 
+ 
+  |  | Soy 
+ 
+  |  | Su 
+ 
+  |  | Sur 
+ 
+  |  | Sí 
+ 
+  |  | Sólo 
+ 
+  |  | Súbitamente 
+ 
+  |  | Tal 
+ 
+  |  | También 
+ 
+  |  | Tampoco 
+ 
+  |  | Tartamudeaba 
+ 
+  |  | Te 
+ 
+  |  | Tendremos 
+ 
+  |  | Tendrás 
+ 
+  |  | Tengo 
+ 
+  |  | Tenía 
+ 
+  |  | Tiene 
+ 
+  |  | Tienen 
+ 
+  |  | Tienes 
+ 
+  |  | Tierra 
+ 
+  |  | Titubeo 
+ 
+  |  | Todas 
+ 
+  |  | Todo 
+ 
+  |  | Todos 
+ 
+  |  | Trata 
+ 
+  |  | Treinta 
+ 
+  |  | Tres 
+ 
+  |  | Tu 
+ 
+  |  | Tus 
+ 
+  |  | Tuve 
+ 
+  |  | Tuya 
+ 
+  |  | Tú 
+ 
+  |  | Uf 
+ 
+  |  | Un 
+ 
+  |  | Una 
+ 
+  |  | Unas 
+ 
+  |  | Unidos 
+ 
+  |  | Uno 
+ 
+  |  | Vaciló 
+ 
+  |  | Vamos 
+ 
+  |  | Van 
+ 
+  |  | Vas 
+ 
+  |  | Veintidós 
+ 
+  |  | Veintiocho 
+ 
+  |  | Ven 
+ 
+  |  | Venus 
+ 
+  |  | Verdad 
+ 
+  |  | Vergüenza 
+ 
+  |  | Ves 
+ 
+  |  | Vete 
+ 
+  |  | Vi 
+ 
+  |  | Vistos 
+ 
+  |  | Viví 
+ 
+  |  | Volverás 
+ 
+  |  | Volví 
+ 
+  |  | Vuelve 
+ 
+  |  | Vuestra 
+ 
+  |  | WERTH 
+ 
+  |  | Y 
+ 
+  |  | Ya 
+ 
+  |  | Yo 
+ 
+  |  | Zelanda 
+ 
+  |  | a 
+ 
+  |  | abajo 
+ 
+  |  | abandona 
+ 
+ abandona |  | do 
+ 
+ abandona |  | r 
+ 
+  |  | abandoné 
+ 
+  |  | abandonó 
+ 
+  |  | abejorro 
+ 
+  |  | abierta 
+ 
+ abierta |  | s 
+ 
+  |  | abismo 
+ 
+  |  | abismó 
+ 
+  |  | abren 
+ 
+  |  | abriendo 
+ 
+  |  | abrigo 
+ 
+  |  | abrigué 
+ 
+  |  | abrirás 
+ 
+  |  | abrió 
+ 
+  |  | absolutamente 
+ 
+  |  | absoluto 
+ 
+  |  | abstenía 
+ 
+  |  | abstraído 
+ 
+  |  | absurdo 
+ 
+  |  | abundantemente 
+ 
+  |  | aburrido 
+ 
+  |  | aburriendo 
+ 
+  |  | aburro 
+ 
+  |  | acababa 
+ 
+  |  | acabar 
+ 
+  |  | acabas 
+ 
+  |  | acabo 
+ 
+  |  | acaso 
+ 
+  |  | aceptó 
+ 
+  |  | acercando 
+ 
+  |  | aclaman 
+ 
+  |  | aconseja 
+ 
+ aconseja |  | ron 
+ 
+  |  | aconsejó 
+ 
+  |  | acordaba 
+ 
+  |  | acordarse 
+ 
+  |  | actividad 
+ 
+  |  | actos 
+ 
+  |  | acuerdas 
+ 
+  |  | acuerdo 
+ 
+  |  | acá 
+ 
+  |  | adelante 
+ 
+  |  | adelanto 
+ 
+  |  | además 
+ 
+  |  | adivinar 
+ 
+ adivinar |  | éis 
+ 
+  |  | adivinó 
+ 
+  |  | adiós 
+ 
+  |  | administro 
+ 
+  |  | admiración 
+ 
+  |  | admirador 
+ 
+ admirador |  | es 
+ 
+  |  | admirar 
+ 
+  |  | admiras 
+ 
+  |  | admiro 
+ 
+  |  | admírame 
+ 
+  |  | adoran 
+ 
+  |  | adornadas 
+ 
+  |  | advertir 
+ 
+  |  | afiló 
+ 
+  |  | afirmaba 
+ 
+  |  | afirmativa 
+ 
+  |  | afirmó 
+ 
+  |  | agitada 
+ 
+  |  | agitado 
+ 
+ agitado |  | s 
+ 
+  |  | agitan 
+ 
+ agitan |  | do 
+ 
+  |  | agotando 
+ 
+  |  | agradable 
+ 
+  |  | agregué 
+ 
+  |  | agregó 
+ 
+  |  | agua 
+ 
+  |  | agujeros 
+ 
+  |  | ahora 
+ 
+  |  | ahorran 
+ 
+  |  | ahí 
+ 
+  |  | aire 
+ 
+  |  | aislado 
+ 
+  |  | ajada 
+ 
+  |  | ajustaba 
+ 
+  |  | al 
+ 
+  |  | alabanzas 
+ 
+  |  | alabarse 
+ 
+  |  | alarga 
+ 
+  |  | alba 
+ 
+  |  | alcancé 
+ 
+  |  | alcanzó 
+ 
+  |  | alegra 
+ 
+ alegra |  | n 
+ 
+  |  | algo 
+ 
+  |  | alguien 
+ 
+  |  | alguna 
+ 
+ alguna |  | s 
+ 
+  |  | alguno 
+ 
+ alguno |  | s 
+ 
+  |  | algún 
+ 
+  |  | alimento 
+ 
+  |  | allá 
+ 
+  |  | allí 
+ 
+  |  | alrededor 
+ 
+  |  | alta 
+ 
+  |  | alto 
+ 
+  |  | altura 
+ 
+  |  | ama 
+ 
+ ama |  | bles 
+ 
+ ama |  | necer 
+ 
+ ama |  | polas 
+ 
+ ama |  | rillas 
+ 
+ ama |  | rillo 
+ 
+ ama |  | rla 
+ 
+ ama |  | ré 
+ 
+  |  | amenazada 
+ 
+  |  | amenazado 
+ 
+  |  | amigas 
+ 
+  |  | amigo 
+ 
+ amigo |  | s 
+ 
+  |  | amontonarse 
+ 
+  |  | amor 
+ 
+  |  | amáis 
+ 
+  |  | ancho 
+ 
+  |  | anciano 
+ 
+  |  | anillo 
+ 
+  |  | animado 
+ 
+  |  | animales 
+ 
+  |  | aniquilarla 
+ 
+  |  | aniversario 
+ 
+  |  | ante 
+ 
+ ante |  | rior 
+ 
+ ante |  | riores 
+ 
+ ante |  | s 
+ 
+  |  | antigua 
+ 
+  |  | apaga 
+ 
+ apaga |  | ba 
+ 
+ apaga |  | do 
+ 
+ apaga |  | r 
+ 
+ apaga |  | ran 
+ 
+ apaga |  | rlas 
+ 
+  |  | apago 
+ 
+  |  | apagó 
+ 
+  |  | aparecer 
+ 
+  |  | apareció 
+ 
+  |  | aparición 
+ 
+  |  | apariencia 
+ 
+  |  | aparte 
+ 
+  |  | apenas 
+ 
+  |  | aplastan 
+ 
+  |  | aplaudiendo 
+ 
+  |  | aplaudió 
+ 
+  |  | apoya 
+ 
+  |  | aprender 
+ 
+  |  | aprendido 
+ 
+  |  | aprendí 
+ 
+ aprendí |  | a 
+ 
+  |  | apresurarse 
+ 
+  |  | apresuréis 
+ 
+  |  | apresuró 
+ 
+  |  | apretado 
+ 
+ apretado |  | s 
+ 
+  |  | apreté 
+ 
+  |  | aprovecharla 
+ 
+  |  | aprovechó 
+ 
+  |  | aquel 
+ 
+ aquel |  | la 
+ 
+ aquel |  | las 
+ 
+ aquel |  | lo 
+ 
+ aquel |  | los 
+ 
+  |  | aquí 
+ 
+  |  | arbusto 
+ 
+ arbusto |  | s 
+ 
+  |  | arden 
+ 
+  |  | arena 
+ 
+ arena |  | s 
+ 
+  |  | armadura 
+ 
+  |  | armiño 
+ 
+  |  | arranca 
+ 
+ arranca |  | r 
+ 
+ arranca |  | rla 
+ 
+  |  | arrancó 
+ 
+  |  | arrastrando 
+ 
+  |  | arrastrar 
+ 
+  |  | arreglarse 
+ 
+  |  | arreglará 
+ 
+  |  | arrepintió 
+ 
+  |  | arte 
+ 
+  |  | articular 
+ 
+  |  | as 
+ 
+  |  | asistir 
+ 
+  |  | asombrados 
+ 
+  |  | asombrarme 
+ 
+  |  | aspecto 
+ 
+  |  | asteroide 
+ 
+ asteroide |  | s 
+ 
+  |  | astrónomo 
+ 
+  |  | astucias 
+ 
+  |  | asustar 
+ 
+  |  | así 
+ 
+  |  | atarlo 
+ 
+  |  | atas 
+ 
+  |  | atención 
+ 
+  |  | atentamente 
+ 
+  |  | atormentado 
+ 
+  |  | atormentó 
+ 
+  |  | atraerse 
+ 
+  |  | atravesado 
+ 
+  |  | atravesó 
+ 
+  |  | atreverme 
+ 
+  |  | atrevió 
+ 
+  |  | atrevía 
+ 
+  |  | atárselo 
+ 
+  |  | aun 
+ 
+ aun |  | que 
+ 
+  |  | ausencia 
+ 
+  |  | autoridad 
+ 
+  |  | avance 
+ 
+  |  | ave 
+ 
+ ave |  | nturas 
+ 
+ ave |  | rgonzó 
+ 
+ ave |  | riguar 
+ 
+ ave |  | ría 
+ 
+  |  | aviones 
+ 
+  |  | avión 
+ 
+  |  | ayuda 
+ 
+ ayuda |  | rle 
+ 
+ ayuda |  | rte 
+ 
+  |  | azar 
+ 
+  |  | añadirle 
+ 
+  |  | añadiste 
+ 
+  |  | añadió 
+ 
+  |  | añadí 
+ 
+  |  | año 
+ 
+ año |  | s 
+ 
+  |  | aún 
+ 
+  |  | bailan 
+ 
+  |  | bailaran 
+ 
+  |  | bajando 
+ 
+  |  | bajarme 
+ 
+  |  | bajo 
+ 
+  |  | balde 
+ 
+  |  | ballet 
+ 
+  |  | balsa 
+ 
+  |  | banco 
+ 
+  |  | bandada 
+ 
+  |  | baobab 
+ 
+ baobab |  | s 
+ 
+  |  | basta 
+ 
+ basta |  | ba 
+ 
+ basta |  | nte 
+ 
+  |  | bastidores 
+ 
+  |  | bebedor 
+ 
+  |  | beber 
+ 
+  |  | bebes 
+ 
+  |  | bebido 
+ 
+  |  | bebiendo 
+ 
+  |  | bebiera 
+ 
+  |  | bebió 
+ 
+  |  | bella 
+ 
+ bella |  | s 
+ 
+  |  | belleza 
+ 
+  |  | bello 
+ 
+  |  | bendito 
+ 
+  |  | bicho 
+ 
+  |  | bien 
+ 
+  |  | biombo 
+ 
+  |  | blanco 
+ 
+  |  | boa 
+ 
+ boa |  | s 
+ 
+  |  | boca 
+ 
+  |  | bolsillo 
+ 
+  |  | bondad 
+ 
+  |  | bonita 
+ 
+  |  | bonito 
+ 
+ bonito |  | s 
+ 
+  |  | borracho 
+ 
+ borracho |  | s 
+ 
+  |  | bosteces 
+ 
+  |  | bosteza 
+ 
+ bosteza |  | n 
+ 
+ bosteza |  | ndo 
+ 
+ bosteza |  | r 
+ 
+  |  | bostezos 
+ 
+  |  | bostezó 
+ 
+  |  | botellas 
+ 
+  |  | bozal 
+ 
+  |  | brazalete 
+ 
+  |  | brazos 
+ 
+  |  | breve 
+ 
+  |  | bridge 
+ 
+  |  | brillan 
+ 
+  |  | brillar 
+ 
+  |  | brinco 
+ 
+  |  | brocal 
+ 
+  |  | brotes 
+ 
+  |  | bruscamente 
+ 
+  |  | buen 
+ 
+ buen |  | a 
+ 
+ buen |  | as 
+ 
+ buen |  | o 
+ 
+  |  | bufanda 
+ 
+  |  | bulón 
+ 
+  |  | burlamos 
+ 
+  |  | buscado 
+ 
+  |  | buscan 
+ 
+  |  | buscar 
+ 
+ buscar |  | lo 
+ 
+  |  | buscas 
+ 
+  |  | buscó 
+ 
+  |  | cabellos 
+ 
+  |  | cabeza 
+ 
+  |  | cabina 
+ 
+  |  | cabrían 
+ 
+  |  | cabían 
+ 
+  |  | cada 
+ 
+  |  | cae 
+ 
+  |  | caiga 
+ 
+  |  | caja 
+ 
+  |  | cajón 
+ 
+  |  | calendario 
+ 
+  |  | calentar 
+ 
+  |  | callaba 
+ 
+  |  | callado 
+ 
+  |  | callan 
+ 
+  |  | callaron 
+ 
+  |  | callarse 
+ 
+  |  | callejear 
+ 
+  |  | calles 
+ 
+  |  | callé 
+ 
+  |  | calló 
+ 
+  |  | calor 
+ 
+  |  | cambia 
+ 
+ cambia |  | do 
+ 
+ cambia |  | ron 
+ 
+  |  | cambie 
+ 
+  |  | cambio 
+ 
+  |  | caminando 
+ 
+  |  | caminar 
+ 
+ caminar |  | ás 
+ 
+ caminar |  | ía 
+ 
+  |  | camino 
+ 
+ camino |  | s 
+ 
+  |  | campos 
+ 
+  |  | cansa 
+ 
+ cansa |  | do 
+ 
+ cansa |  | ncio 
+ 
+  |  | cansó 
+ 
+  |  | canta 
+ 
+  |  | canto 
+ 
+  |  | capaz 
+ 
+  |  | capullo 
+ 
+  |  | carabina 
+ 
+  |  | caravana 
+ 
+  |  | carcajada 
+ 
+  |  | carecen 
+ 
+  |  | carnero 
+ 
+  |  | carrera 
+ 
+  |  | carroza 
+ 
+  |  | casa 
+ 
+ casa |  | s 
+ 
+  |  | cascabeles 
+ 
+  |  | cascabelitos 
+ 
+  |  | caso 
+ 
+  |  | casualidad 
+ 
+  |  | catástrofe 
+ 
+  |  | causa 
+ 
+  |  | cayó 
+ 
+  |  | cazadores 
+ 
+  |  | cazan 
+ 
+  |  | caí 
+ 
+ caí |  | da 
+ 
+ caí |  | do 
+ 
+  |  | centelleó 
+ 
+  |  | centenares 
+ 
+  |  | cerca 
+ 
+  |  | cerrada 
+ 
+ cerrada |  | s 
+ 
+  |  | cerrados 
+ 
+  |  | cesó 
+ 
+  |  | charla 
+ 
+  |  | chimeneas 
+ 
+  |  | chocar 
+ 
+  |  | ciegos 
+ 
+  |  | cielo 
+ 
+  |  | cien 
+ 
+ cien |  | cia 
+ 
+ cien |  | to 
+ 
+  |  | ciertamente 
+ 
+  |  | cierto 
+ 
+ cierto |  | s 
+ 
+  |  | cifras 
+ 
+  |  | cigarro 
+ 
+  |  | cima 
+ 
+  |  | cinco 
+ 
+  |  | cincuenta 
+ 
+  |  | circunstancia 
+ 
+  |  | citas 
+ 
+  |  | ciudades 
+ 
+  |  | cogió 
+ 
+  |  | coleccionar 
+ 
+  |  | colega 
+ 
+  |  | colgando 
+ 
+  |  | colocarlas 
+ 
+  |  | color 
+ 
+ color |  | ado 
+ 
+ color |  | es 
+ 
+  |  | coman 
+ 
+  |  | come 
+ 
+ come |  | n 
+ 
+ come |  | nzaba 
+ 
+ come |  | nzar 
+ 
+ come |  | nzaron 
+ 
+ come |  | nzó 
+ 
+ come |  | rciante 
+ 
+ come |  | rá 
+ 
+ come |  | ter 
+ 
+  |  | comido 
+ 
+  |  | comienza 
+ 
+  |  | comieran 
+ 
+  |  | como 
+ 
+  |  | compadecido 
+ 
+  |  | compañeros 
+ 
+  |  | completa 
+ 
+  |  | complicada 
+ 
+  |  | complicado 
+ 
+  |  | comprado 
+ 
+  |  | compran 
+ 
+  |  | comprar 
+ 
+  |  | comprenden 
+ 
+  |  | comprender 
+ 
+ comprender |  | lo 
+ 
+ comprender |  | á 
+ 
+ comprender |  | ás 
+ 
+  |  | comprendido 
+ 
+  |  | comprendiendo 
+ 
+  |  | comprendió 
+ 
+  |  | comprendo 
+ 
+  |  | comprendí 
+ 
+  |  | comprensivo 
+ 
+  |  | comunicarle 
+ 
+  |  | con 
+ 
+ con |  | cedió 
+ 
+ con |  | cluyó 
+ 
+ con |  | denar 
+ 
+ con |  | denarás 
+ 
+ con |  | diciones 
+ 
+ con |  | ductor 
+ 
+ con |  | fesarse 
+ 
+ con |  | fesó 
+ 
+ con |  | fiado 
+ 
+ con |  | fianza 
+ 
+ con |  | fundes 
+ 
+ con |  | fuso 
+ 
+ con |  | greso 
+ 
+ con |  | junto 
+ 
+ con |  | migo 
+ 
+ con |  | movedora 
+ 
+ con |  | ocen 
+ 
+ con |  | ocer 
+ 
+ con |  | ocerle 
+ 
+ con |  | ocido 
+ 
+ con |  | ociera 
+ 
+ con |  | ocimiento 
+ 
+ con |  | ocí 
+ 
+ con |  | ocía 
+ 
+ con |  | ozco 
+ 
+ con |  | servado 
+ 
+ con |  | servarla 
+ 
+ con |  | sideración 
+ 
+ con |  | signa 
+ 
+ con |  | sigo 
+ 
+ con |  | sigues 
+ 
+ con |  | siguiente 
+ 
+ con |  | solada 
+ 
+ con |  | solado 
+ 
+ con |  | solar 
+ 
+ con |  | solarle 
+ 
+ con |  | suela 
+ 
+ con |  | sultando 
+ 
+ con |  | tactos 
+ 
+ con |  | tado 
+ 
+ con |  | tando 
+ 
+ con |  | tar 
+ 
+ con |  | templación 
+ 
+ con |  | tener 
+ 
+ con |  | tento 
+ 
+ con |  | tentos 
+ 
+ con |  | testaban 
+ 
+ con |  | testo 
+ 
+ con |  | testó 
+ 
+ con |  | tigo 
+ 
+ con |  | tinentes 
+ 
+ con |  | tinuaba 
+ 
+ con |  | tinuó 
+ 
+ con |  | tra 
+ 
+ con |  | tradictorias 
+ 
+ con |  | tó 
+ 
+ con |  | vencidas 
+ 
+ con |  | vencido 
+ 
+ con |  | vencimiento 
+ 
+ con |  | vierten 
+ 
+  |  | copia 
+ 
+  |  | coqueta 
+ 
+  |  | corazón 
+ 
+  |  | corbatas 
+ 
+  |  | corderillo 
+ 
+  |  | cordero 
+ 
+ cordero |  | s 
+ 
+  |  | corre 
+ 
+ corre |  | a 
+ 
+ corre |  | r 
+ 
+  |  | corrientes 
+ 
+  |  | corro 
+ 
+  |  | corta 
+ 
+ corta |  | rla 
+ 
+  |  | corteza 
+ 
+ corteza |  | s 
+ 
+  |  | cortésmente 
+ 
+  |  | cosa 
+ 
+ cosa |  | s 
+ 
+  |  | cositas 
+ 
+  |  | costó 
+ 
+  |  | crear 
+ 
+  |  | crecer 
+ 
+  |  | crecimiento 
+ 
+  |  | creen 
+ 
+  |  | creer 
+ 
+ creer |  | án 
+ 
+  |  | crees 
+ 
+  |  | creo 
+ 
+  |  | crepúsculo 
+ 
+  |  | creyó 
+ 
+  |  | crezca 
+ 
+  |  | creía 
+ 
+  |  | crisis 
+ 
+  |  | crían 
+ 
+  |  | cuadros 
+ 
+  |  | cuajado 
+ 
+  |  | cual 
+ 
+ cual |  | es 
+ 
+ cual |  | quier 
+ 
+ cual |  | quiera 
+ 
+  |  | cuando 
+ 
+  |  | cuanto 
+ 
+  |  | cuarenta 
+ 
+  |  | cuarto 
+ 
+  |  | cuatro 
+ 
+ cuatro |  | cientas 
+ 
+ cuatro |  | cientos 
+ 
+  |  | cubo 
+ 
+  |  | cubre 
+ 
+  |  | cuello 
+ 
+  |  | cuenta 
+ 
+ cuenta |  | n 
+ 
+  |  | cuento 
+ 
+ cuento |  | s 
+ 
+  |  | cuerda 
+ 
+  |  | cuernos 
+ 
+  |  | cuero 
+ 
+  |  | cuerpo 
+ 
+  |  | cuestión 
+ 
+  |  | cuidado 
+ 
+ cuidado |  | s 
+ 
+ cuidado |  | samente 
+ 
+  |  | culpa 
+ 
+  |  | cultivan 
+ 
+  |  | cumplas 
+ 
+  |  | cumplía 
+ 
+  |  | curioso 
+ 
+  |  | cuándo 
+ 
+  |  | cálculo 
+ 
+  |  | cólera 
+ 
+  |  | cómo 
+ 
+  |  | da 
+ 
+  |  | daba 
+ 
+ daba |  | n 
+ 
+  |  | dado 
+ 
+  |  | dame 
+ 
+  |  | dan 
+ 
+ dan |  | za 
+ 
+ dan |  | zaban 
+ 
+  |  | dar 
+ 
+ dar |  | le 
+ 
+ dar |  | les 
+ 
+ dar |  | se 
+ 
+ dar |  | án 
+ 
+ dar |  | é 
+ 
+ dar |  | ía 
+ 
+  |  | das 
+ 
+  |  | daño 
+ 
+  |  | de 
+ 
+  |  | deambular 
+ 
+  |  | debajo 
+ 
+  |  | debe 
+ 
+ debe |  | n 
+ 
+ debe |  | s 
+ 
+  |  | debido 
+ 
+  |  | debo 
+ 
+  |  | debí 
+ 
+ debí |  | a 
+ 
+  |  | decepcionado 
+ 
+  |  | decididamente 
+ 
+  |  | decidido 
+ 
+  |  | decidió 
+ 
+  |  | decidme 
+ 
+  |  | decimos 
+ 
+  |  | decir 
+ 
+ decir |  | le 
+ 
+ decir |  | les 
+ 
+ decir |  | me 
+ 
+  |  | decía 
+ 
+  |  | dedicado 
+ 
+  |  | dedicar 
+ 
+ dedicar |  | a 
+ 
+ dedicar |  | se 
+ 
+  |  | dedicatoria 
+ 
+  |  | dedo 
+ 
+ dedo |  | s 
+ 
+  |  | defenderse 
+ 
+  |  | defienden 
+ 
+  |  | definitivamente 
+ 
+  |  | deja 
+ 
+ deja |  | bas 
+ 
+ deja |  | do 
+ 
+ deja |  | r 
+ 
+ deja |  | ra 
+ 
+ deja |  | ran 
+ 
+ deja |  | rse 
+ 
+  |  | dejé 
+ 
+ dejé |  | is 
+ 
+  |  | dejó 
+ 
+  |  | del 
+ 
+ del |  | gado 
+ 
+  |  | demasiado 
+ 
+  |  | demostración 
+ 
+  |  | demás 
+ 
+  |  | dentro 
+ 
+  |  | dependería 
+ 
+  |  | derecha 
+ 
+  |  | derecho 
+ 
+  |  | desanimaron 
+ 
+  |  | desaparecer 
+ 
+  |  | desapareciendo 
+ 
+  |  | desaparición 
+ 
+  |  | desayunar 
+ 
+  |  | desayuno 
+ 
+  |  | descansar 
+ 
+  |  | descanses 
+ 
+  |  | descendía 
+ 
+  |  | desconcertado 
+ 
+  |  | desconocido 
+ 
+  |  | describirlo 
+ 
+  |  | describirme 
+ 
+  |  | descubre 
+ 
+  |  | descubrimiento 
+ 
+  |  | descubrirlo 
+ 
+  |  | descubriré 
+ 
+  |  | descubrió 
+ 
+  |  | descubrí 
+ 
+  |  | descuidó 
+ 
+  |  | desde 
+ 
+  |  | deseabas 
+ 
+  |  | deseara 
+ 
+  |  | desembarazarse 
+ 
+  |  | deseoso 
+ 
+  |  | desgraciadamente 
+ 
+  |  | desgraciado 
+ 
+  |  | desgracias 
+ 
+  |  | deshollinados 
+ 
+  |  | deshollinar 
+ 
+  |  | deshollino 
+ 
+  |  | desierto 
+ 
+ desierto |  | s 
+ 
+  |  | desilusionado 
+ 
+  |  | deslizar 
+ 
+  |  | desmontar 
+ 
+  |  | desobedecer 
+ 
+  |  | despacho 
+ 
+  |  | despedida 
+ 
+  |  | despeinada 
+ 
+  |  | despertado 
+ 
+  |  | despertarme 
+ 
+  |  | despertarse 
+ 
+  |  | despertó 
+ 
+  |  | despreciado 
+ 
+  |  | después 
+ 
+  |  | destornillar 
+ 
+  |  | desvariar 
+ 
+  |  | detalle 
+ 
+ detalle |  | s 
+ 
+  |  | detenidamente 
+ 
+  |  | detuve 
+ 
+  |  | di 
+ 
+  |  | diamante 
+ 
+  |  | dibujado 
+ 
+  |  | dibujar 
+ 
+ dibujar |  | é 
+ 
+  |  | dibujo 
+ 
+ dibujo |  | s 
+ 
+  |  | dibujé 
+ 
+  |  | dice 
+ 
+  |  | dicho 
+ 
+ dicho |  | so 
+ 
+  |  | diciendo 
+ 
+  |  | diciéndole 
+ 
+ diciéndole |  | s 
+ 
+  |  | diciéndome 
+ 
+  |  | diciéndose 
+ 
+  |  | dicta 
+ 
+ dicta |  | dor 
+ 
+  |  | diera 
+ 
+  |  | diez 
+ 
+  |  | diferenciaba 
+ 
+  |  | diferente 
+ 
+ diferente |  | s 
+ 
+  |  | difícil 
+ 
+  |  | digestión 
+ 
+  |  | digiere 
+ 
+  |  | digo 
+ 
+  |  | dije 
+ 
+ dije |  | ran 
+ 
+  |  | dijiste 
+ 
+  |  | dijo 
+ 
+  |  | dimensiones 
+ 
+  |  | dio 
+ 
+  |  | dirección 
+ 
+  |  | dirán 
+ 
+  |  | dirás 
+ 
+  |  | diría 
+ 
+  |  | disciplina 
+ 
+  |  | disfrutar 
+ 
+ disfrutar |  | a 
+ 
+  |  | disgustar 
+ 
+  |  | disgustos 
+ 
+  |  | dispuse 
+ 
+  |  | dispusiera 
+ 
+  |  | dispuso 
+ 
+  |  | distancia 
+ 
+  |  | diste 
+ 
+  |  | distingue 
+ 
+  |  | distinguir 
+ 
+ distinguir |  | los 
+ 
+  |  | distinguió 
+ 
+  |  | distracción 
+ 
+  |  | distrae 
+ 
+  |  | divertido 
+ 
+  |  | divisar 
+ 
+  |  | divisó 
+ 
+  |  | doble 
+ 
+  |  | doce 
+ 
+  |  | domesticado 
+ 
+  |  | domestican 
+ 
+  |  | domesticar 
+ 
+  |  | domesticas 
+ 
+  |  | domesticó 
+ 
+  |  | domestique 
+ 
+ domestique |  | s 
+ 
+  |  | domestícame 
+ 
+  |  | donde 
+ 
+  |  | doradas 
+ 
+  |  | dorado 
+ 
+ dorado |  | s 
+ 
+  |  | dormido 
+ 
+  |  | dormir 
+ 
+  |  | dormí 
+ 
+ dormí |  | a 
+ 
+  |  | dos 
+ 
+ dos |  | cientas 
+ 
+  |  | drama 
+ 
+  |  | duda 
+ 
+ duda |  | r 
+ 
+  |  | duerme 
+ 
+ duerme |  | n 
+ 
+  |  | dueño 
+ 
+  |  | dulce 
+ 
+ dulce |  | mente 
+ 
+ dulce |  | s 
+ 
+  |  | dulzura 
+ 
+  |  | duna 
+ 
+  |  | dura 
+ 
+ dura |  | ba 
+ 
+ dura |  | n 
+ 
+ dura |  | nte 
+ 
+ dura |  | rá 
+ 
+  |  | duro 
+ 
+  |  | débil 
+ 
+ débil |  | es 
+ 
+  |  | déjame 
+ 
+  |  | día 
+ 
+ día |  | s 
+ 
+  |  | dónde 
+ 
+  |  | e 
+ 
+  |  | echar 
+ 
+  |  | echas 
+ 
+  |  | eco 
+ 
+ eco |  | nomiza 
+ 
+  |  | edad 
+ 
+  |  | efecto 
+ 
+  |  | efímera 
+ 
+ efímera |  | s 
+ 
+  |  | ejecutase 
+ 
+  |  | ejem 
+ 
+ ejem |  | plar 
+ 
+ ejem |  | plo 
+ 
+  |  | ejerce 
+ 
+  |  | ejercicio 
+ 
+  |  | ejército 
+ 
+  |  | el 
+ 
+  |  | electricidad 
+ 
+  |  | elefante 
+ 
+ elefante |  | s 
+ 
+  |  | elegante 
+ 
+  |  | elegir 
+ 
+  |  | elevó 
+ 
+  |  | ella 
+ 
+ ella |  | s 
+ 
+  |  | ello 
+ 
+ ello |  | s 
+ 
+  |  | embajador 
+ 
+  |  | embargo 
+ 
+  |  | embellece 
+ 
+  |  | emociona 
+ 
+ emociona |  | do 
+ 
+  |  | empezaría 
+ 
+  |  | empeño 
+ 
+  |  | emprendió 
+ 
+  |  | en 
+ 
+  |  | encantada 
+ 
+  |  | encantador 
+ 
+ encantador |  | a 
+ 
+  |  | encender 
+ 
+ encender |  | lo 
+ 
+  |  | encendidas 
+ 
+  |  | encendió 
+ 
+  |  | encendía 
+ 
+  |  | encerró 
+ 
+  |  | enciende 
+ 
+  |  | encima 
+ 
+  |  | encogerán 
+ 
+  |  | encogiéndose 
+ 
+  |  | encontraba 
+ 
+  |  | encontrado 
+ 
+  |  | encontrar 
+ 
+ encontrar |  | as 
+ 
+ encontrar |  | lo 
+ 
+ encontrar |  | los 
+ 
+ encontrar |  | me 
+ 
+ encontrar |  | á 
+ 
+  |  | encontré 
+ 
+  |  | encontró 
+ 
+  |  | encuentra 
+ 
+ encuentra |  | n 
+ 
+ encuentra |  | s 
+ 
+  |  | enfermo 
+ 
+  |  | enigmas 
+ 
+  |  | enjugó 
+ 
+  |  | enmohecida 
+ 
+  |  | enorme 
+ 
+  |  | enrojeciendo 
+ 
+  |  | enrojeció 
+ 
+  |  | enroscó 
+ 
+  |  | enseguida 
+ 
+  |  | enseñé 
+ 
+  |  | ensueño 
+ 
+  |  | entendidos 
+ 
+  |  | entera 
+ 
+  |  | enternecerme 
+ 
+  |  | entienden 
+ 
+  |  | entonces 
+ 
+  |  | entrada 
+ 
+  |  | entrar 
+ 
+  |  | entre 
+ 
+ entre |  | abiertos 
+ 
+ entre |  | tengo 
+ 
+  |  | entusiasmados 
+ 
+  |  | envejecer 
+ 
+  |  | envoltura 
+ 
+  |  | equivocaban 
+ 
+  |  | equivocado 
+ 
+  |  | equivoco 
+ 
+  |  | equivoque 
+ 
+  |  | era 
+ 
+ era |  | n 
+ 
+  |  | eres 
+ 
+  |  | erguía 
+ 
+  |  | errores 
+ 
+  |  | erupciones 
+ 
+  |  | es 
+ 
+  |  | esa 
+ 
+ esa |  | s 
+ 
+  |  | esbozaron 
+ 
+  |  | esbozos 
+ 
+  |  | escabullían 
+ 
+  |  | escaló 
+ 
+  |  | escapar 
+ 
+  |  | escena 
+ 
+  |  | esconder 
+ 
+  |  | escondido 
+ 
+  |  | escopetas 
+ 
+  |  | escriben 
+ 
+  |  | escribimos 
+ 
+  |  | escribir 
+ 
+  |  | escribo 
+ 
+  |  | escribía 
+ 
+  |  | escuchado 
+ 
+  |  | escurrió 
+ 
+  |  | ese 
+ 
+ ese |  | ncial 
+ 
+  |  | esforcé 
+ 
+  |  | esfuerzo 
+ 
+  |  | eso 
+ 
+ eso |  | s 
+ 
+  |  | especialmente 
+ 
+  |  | especie 
+ 
+  |  | espera 
+ 
+ espera |  | ba 
+ 
+ espera |  | d 
+ 
+ espera |  | nza 
+ 
+ espera |  | r 
+ 
+ espera |  | rme 
+ 
+ espera |  | ré 
+ 
+  |  | espero 
+ 
+  |  | espinas 
+ 
+  |  | esplendor 
+ 
+  |  | espléndida 
+ 
+  |  | espléndido 
+ 
+  |  | esta 
+ 
+ esta |  | ba 
+ 
+ esta |  | ban 
+ 
+ esta |  | bas 
+ 
+ esta |  | ca 
+ 
+ esta |  | llar 
+ 
+ esta |  | lló 
+ 
+ esta |  | mos 
+ 
+ esta |  | r 
+ 
+ esta |  | rá 
+ 
+ esta |  | rás 
+ 
+ esta |  | ré 
+ 
+ esta |  | s 
+ 
+  |  | este 
+ 
+  |  | estilográfica 
+ 
+  |  | esto 
+ 
+ esto |  | s 
+ 
+ esto |  | y 
+ 
+  |  | estrella 
+ 
+ estrella |  | s 
+ 
+  |  | estropeado 
+ 
+  |  | estudiado 
+ 
+  |  | estupefacto 
+ 
+  |  | estuviera 
+ 
+  |  | está 
+ 
+ está |  | n 
+ 
+ está |  | s 
+ 
+  |  | esté 
+ 
+ esté |  | n 
+ 
+ esté |  | s 
+ 
+  |  | eterna 
+ 
+ eterna |  | s 
+ 
+  |  | etiqueta 
+ 
+  |  | europea 
+ 
+  |  | evasión 
+ 
+  |  | evidencia 
+ 
+  |  | evidente 
+ 
+  |  | evitar 
+ 
+ evitar |  | lo 
+ 
+  |  | exactamente 
+ 
+  |  | exactitud 
+ 
+  |  | exacto 
+ 
+  |  | excepción 
+ 
+  |  | exclaman 
+ 
+  |  | exclamar 
+ 
+  |  | exclamó 
+ 
+  |  | excusa 
+ 
+  |  | exhalar 
+ 
+  |  | exige 
+ 
+  |  | exigir 
+ 
+ exigir |  | é 
+ 
+  |  | existe 
+ 
+ existe |  | n 
+ 
+  |  | existido 
+ 
+  |  | experiencia 
+ 
+  |  | experimenté 
+ 
+  |  | expertos 
+ 
+  |  | explicaba 
+ 
+  |  | explicaciones 
+ 
+  |  | explicarse 
+ 
+  |  | explicarás 
+ 
+  |  | explorador 
+ 
+ explorador |  | es 
+ 
+  |  | exponen 
+ 
+  |  | extendiendo 
+ 
+  |  | extinguido 
+ 
+ extinguido |  | s 
+ 
+  |  | extinguían 
+ 
+  |  | extraordinarias 
+ 
+  |  | extraordinario 
+ 
+  |  | extraña 
+ 
+ extraña |  | s 
+ 
+  |  | extraño 
+ 
+  |  | extremadamente 
+ 
+  |  | fabricando 
+ 
+  |  | faldón 
+ 
+  |  | falsa 
+ 
+  |  | faltaba 
+ 
+  |  | faltan 
+ 
+  |  | fanal 
+ 
+  |  | fantasía 
+ 
+  |  | farol 
+ 
+ farol |  | ero 
+ 
+ farol |  | eros 
+ 
+ farol |  | es 
+ 
+  |  | fastidioso 
+ 
+  |  | favor 
+ 
+ favor |  | ables 
+ 
+  |  | felicidad 
+ 
+  |  | feliz 
+ 
+  |  | feo 
+ 
+  |  | fidelidad 
+ 
+  |  | fiebre 
+ 
+  |  | fiel 
+ 
+ fiel |  | mente 
+ 
+  |  | fiera 
+ 
+ fiera |  | s 
+ 
+  |  | fiesta 
+ 
+  |  | fijo 
+ 
+  |  | fila 
+ 
+  |  | fin 
+ 
+ fin |  | almente 
+ 
+ fin |  | girle 
+ 
+  |  | firmeza 
+ 
+  |  | flor 
+ 
+ flor |  | ecido 
+ 
+ flor |  | es 
+ 
+  |  | fondo 
+ 
+  |  | forma 
+ 
+ forma |  | ba 
+ 
+  |  | formulada 
+ 
+  |  | formulado 
+ 
+  |  | fracaso 
+ 
+  |  | francos 
+ 
+  |  | frecuentemente 
+ 
+  |  | frente 
+ 
+  |  | fresca 
+ 
+  |  | fresco 
+ 
+  |  | froté 
+ 
+  |  | frustrada 
+ 
+  |  | frágil 
+ 
+  |  | frío 
+ 
+  |  | fue 
+ 
+ fue |  | go 
+ 
+ fue |  | nte 
+ 
+ fue |  | ntes 
+ 
+ fue |  | ra 
+ 
+ fue |  | ran 
+ 
+ fue |  | se 
+ 
+  |  | fácil 
+ 
+ fácil |  | mente 
+ 
+  |  | gallinas 
+ 
+  |  | gana 
+ 
+ gana |  | do 
+ 
+ gana |  | s 
+ 
+  |  | garabateé 
+ 
+  |  | garras 
+ 
+  |  | general 
+ 
+  |  | gente 
+ 
+  |  | geografía 
+ 
+ geografía |  | s 
+ 
+  |  | geranios 
+ 
+  |  | germinado 
+ 
+  |  | gesto 
+ 
+  |  | geógrafo 
+ 
+ geógrafo |  | s 
+ 
+  |  | gimió 
+ 
+  |  | gira 
+ 
+  |  | globo 
+ 
+  |  | gobernante 
+ 
+  |  | golf 
+ 
+  |  | gordo 
+ 
+  |  | gota 
+ 
+  |  | gozaba 
+ 
+  |  | gozar 
+ 
+  |  | gracia 
+ 
+ gracia |  | s 
+ 
+  |  | graciosa 
+ 
+  |  | gramática 
+ 
+  |  | gran 
+ 
+ gran |  | de 
+ 
+ gran |  | des 
+ 
+ gran |  | dioso 
+ 
+ gran |  | diosos 
+ 
+ gran |  | ito 
+ 
+  |  | grasa 
+ 
+  |  | grave 
+ 
+ grave |  | dad 
+ 
+ grave |  | mente 
+ 
+  |  | gritar 
+ 
+  |  | grito 
+ 
+  |  | gritó 
+ 
+  |  | guardarles 
+ 
+  |  | guardavías 
+ 
+  |  | guardo 
+ 
+  |  | guerra 
+ 
+  |  | gusanos 
+ 
+  |  | gusta 
+ 
+ gusta |  | do 
+ 
+ gusta |  | n 
+ 
+ gusta |  | rá 
+ 
+ gusta |  | ría 
+ 
+  |  | gusto 
+ 
+  |  | gustó 
+ 
+  |  | guías 
+ 
+  |  | ha 
+ 
+  |  | haber 
+ 
+ haber |  | me 
+ 
+ haber |  | se 
+ 
+  |  | habido 
+ 
+  |  | habiendo 
+ 
+  |  | habita 
+ 
+ habita |  | ba 
+ 
+ habita |  | do 
+ 
+ habita |  | ntes 
+ 
+  |  | habito 
+ 
+  |  | habla 
+ 
+ habla |  | ba 
+ 
+ habla |  | ndo 
+ 
+ habla |  | r 
+ 
+ habla |  | ra 
+ 
+ habla |  | rles 
+ 
+ habla |  | rme 
+ 
+ habla |  | s 
+ 
+  |  | habrá 
+ 
+  |  | habré 
+ 
+  |  | habría 
+ 
+  |  | había 
+ 
+ había |  | mos 
+ 
+  |  | hace 
+ 
+ hace |  | n 
+ 
+ hace |  | r 
+ 
+ hace |  | rle 
+ 
+ hace |  | rlos 
+ 
+ hace |  | rme 
+ 
+ hace |  | rte 
+ 
+ hace |  | s 
+ 
+  |  | hacia 
+ 
+  |  | hacía 
+ 
+ hacía |  | n 
+ 
+  |  | hadas 
+ 
+  |  | hagan 
+ 
+  |  | hago 
+ 
+  |  | hambre 
+ 
+  |  | han 
+ 
+  |  | hará 
+ 
+  |  | haré 
+ 
+  |  | has 
+ 
+ has |  | ta 
+ 
+  |  | hay 
+ 
+ hay |  | as 
+ 
+  |  | he 
+ 
+  |  | hecho 
+ 
+  |  | helado 
+ 
+  |  | herido 
+ 
+  |  | hermanos 
+ 
+  |  | hermosa 
+ 
+ hermosa |  | s 
+ 
+  |  | hermoso 
+ 
+  |  | herramientas 
+ 
+  |  | hice 
+ 
+  |  | hiciera 
+ 
+  |  | hicieron 
+ 
+  |  | hierba 
+ 
+ hierba |  | s 
+ 
+  |  | historia 
+ 
+  |  | hizo 
+ 
+  |  | hoja 
+ 
+  |  | holgazanes 
+ 
+  |  | hombre 
+ 
+ hombre |  | cito 
+ 
+ hombre |  | s 
+ 
+  |  | hombros 
+ 
+  |  | honesto 
+ 
+  |  | hongo 
+ 
+  |  | hora 
+ 
+ hora |  | s 
+ 
+  |  | hoy 
+ 
+  |  | hubiera 
+ 
+  |  | hubiese 
+ 
+  |  | huella 
+ 
+  |  | huir 
+ 
+  |  | hum 
+ 
+ hum |  | anidad 
+ 
+ hum |  | edecí 
+ 
+ hum |  | illarme 
+ 
+  |  | hundió 
+ 
+  |  | iba 
+ 
+ iba |  | n 
+ 
+  |  | idea 
+ 
+ idea |  | s 
+ 
+  |  | ido 
+ 
+  |  | iglesias 
+ 
+  |  | ignoro 
+ 
+  |  | igual 
+ 
+ igual |  | es 
+ 
+  |  | iluminaba 
+ 
+  |  | iluminado 
+ 
+  |  | iluminó 
+ 
+  |  | imagen 
+ 
+  |  | imaginación 
+ 
+  |  | imaginan 
+ 
+  |  | imaginarse 
+ 
+  |  | implacable 
+ 
+  |  | importa 
+ 
+ importa |  | ban 
+ 
+ importa |  | ncia 
+ 
+ importa |  | nte 
+ 
+ importa |  | ntes 
+ 
+  |  | imposible 
+ 
+  |  | impresionante 
+ 
+  |  | impuso 
+ 
+  |  | inclinado 
+ 
+  |  | inclinó 
+ 
+  |  | incluso 
+ 
+  |  | inconveniente 
+ 
+  |  | indicaciones 
+ 
+  |  | indiferente 
+ 
+  |  | indisciplina 
+ 
+  |  | indudable 
+ 
+ indudable |  | mente 
+ 
+  |  | indulgencia 
+ 
+  |  | indulgentes 
+ 
+  |  | indultarás 
+ 
+  |  | infestado 
+ 
+  |  | informen 
+ 
+  |  | informes 
+ 
+  |  | informó 
+ 
+  |  | ingenioso 
+ 
+  |  | ingenua 
+ 
+ ingenua |  | mente 
+ 
+ ingenua |  | s 
+ 
+  |  | ingenuidad 
+ 
+  |  | injusto 
+ 
+  |  | inmediatamente 
+ 
+  |  | inmensidad 
+ 
+  |  | inmóvil 
+ 
+  |  | inocente 
+ 
+  |  | inofensiva 
+ 
+  |  | inquieto 
+ 
+  |  | inquirió 
+ 
+  |  | insignificantes 
+ 
+  |  | insoportable 
+ 
+  |  | instante 
+ 
+  |  | instintivamente 
+ 
+  |  | instruirse 
+ 
+  |  | inteligencia 
+ 
+  |  | inteligente 
+ 
+  |  | intento 
+ 
+  |  | interesa 
+ 
+ interesa |  | n 
+ 
+ interesa |  | nte 
+ 
+ interesa |  | ntes 
+ 
+  |  | interior 
+ 
+  |  | interlocutor 
+ 
+  |  | interroga 
+ 
+ interroga |  | rlo 
+ 
+  |  | interrogó 
+ 
+  |  | interrumpió 
+ 
+  |  | interrumpí 
+ 
+  |  | interés 
+ 
+  |  | intrigado 
+ 
+  |  | intrigó 
+ 
+  |  | invariablemente 
+ 
+  |  | invención 
+ 
+  |  | inventando 
+ 
+  |  | inverso 
+ 
+  |  | investigación 
+ 
+  |  | invisible 
+ 
+ invisible |  | s 
+ 
+  |  | inútil 
+ 
+ inútil |  | mente 
+ 
+  |  | ir 
+ 
+  |  | irreparable 
+ 
+  |  | irritado 
+ 
+  |  | irritó 
+ 
+  |  | irá 
+ 
+  |  | isla 
+ 
+  |  | islote 
+ 
+  |  | izquierda 
+ 
+  |  | jamás 
+ 
+  |  | jardín 
+ 
+  |  | joven 
+ 
+  |  | juego 
+ 
+ juego |  | s 
+ 
+  |  | jueves 
+ 
+  |  | juez 
+ 
+  |  | jugado 
+ 
+  |  | jugar 
+ 
+  |  | juicio 
+ 
+ juicio |  | samente 
+ 
+  |  | jungla 
+ 
+  |  | junto 
+ 
+  |  | justicia 
+ 
+  |  | juzgar 
+ 
+ juzgar |  | la 
+ 
+ juzgar |  | me 
+ 
+ juzgar |  | se 
+ 
+ juzgar |  | te 
+ 
+ juzgar |  | ás 
+ 
+  |  | la 
+ 
+  |  | labios 
+ 
+  |  | lado 
+ 
+  |  | ladrillo 
+ 
+  |  | lamentaba 
+ 
+  |  | lanzó 
+ 
+  |  | largamente 
+ 
+  |  | largas 
+ 
+  |  | largo 
+ 
+  |  | las 
+ 
+  |  | latir 
+ 
+  |  | le 
+ 
+  |  | lección 
+ 
+  |  | lejanía 
+ 
+  |  | lejos 
+ 
+  |  | lenguaje 
+ 
+  |  | lenta 
+ 
+ lenta |  | mente 
+ 
+  |  | les 
+ 
+  |  | levantando 
+ 
+  |  | levantó 
+ 
+  |  | leyenda 
+ 
+  |  | libro 
+ 
+ libro |  | s 
+ 
+  |  | ligera 
+ 
+  |  | ligero 
+ 
+  |  | limpieza 
+ 
+  |  | llama 
+ 
+ llama |  | rán 
+ 
+  |  | llave 
+ 
+  |  | llega 
+ 
+ llega |  | ban 
+ 
+ llega |  | da 
+ 
+ llega |  | do 
+ 
+ llega |  | n 
+ 
+ llega |  | r 
+ 
+ llega |  | rán 
+ 
+  |  | llegue 
+ 
+  |  | llegáis 
+ 
+  |  | llegó 
+ 
+  |  | llema 
+ 
+  |  | llena 
+ 
+ llena |  | s 
+ 
+  |  | llenos 
+ 
+  |  | llevaba 
+ 
+ llevaba |  | n 
+ 
+  |  | llevan 
+ 
+ llevan |  | do 
+ 
+  |  | llevar 
+ 
+ llevar |  | te 
+ 
+  |  | llevase 
+ 
+  |  | llevármela 
+ 
+  |  | lloraba 
+ 
+  |  | lloran 
+ 
+  |  | llorar 
+ 
+ llorar |  | é 
+ 
+  |  | lloró 
+ 
+  |  | lo 
+ 
+  |  | loco 
+ 
+ loco |  | motora 
+ 
+  |  | lograba 
+ 
+  |  | logrado 
+ 
+  |  | lograrlo 
+ 
+  |  | lograría 
+ 
+  |  | logré 
+ 
+  |  | los 
+ 
+  |  | lucecitas 
+ 
+  |  | luces 
+ 
+  |  | lucía 
+ 
+  |  | luego 
+ 
+  |  | lugar 
+ 
+ lugar |  | es 
+ 
+  |  | luna 
+ 
+  |  | luz 
+ 
+  |  | lágrimas 
+ 
+  |  | lámina 
+ 
+  |  | lámpara 
+ 
+ lámpara |  | s 
+ 
+  |  | lápices 
+ 
+  |  | lápiz 
+ 
+  |  | lástima 
+ 
+  |  | lúcido 
+ 
+  |  | lúgubre 
+ 
+  |  | madriguera 
+ 
+  |  | magnífica 
+ 
+  |  | magnífico 
+ 
+  |  | majestuosamente 
+ 
+  |  | majestuoso 
+ 
+  |  | mal 
+ 
+ mal |  | a 
+ 
+ mal |  | as 
+ 
+ mal |  | dad 
+ 
+ mal |  | humorado 
+ 
+ mal |  | os 
+ 
+  |  | manda 
+ 
+  |  | manera 
+ 
+ manera |  | s 
+ 
+  |  | mano 
+ 
+ mano |  | s 
+ 
+  |  | mansedumbre 
+ 
+  |  | mantener 
+ 
+ mantener |  | me 
+ 
+  |  | manto 
+ 
+  |  | manzano 
+ 
+  |  | mar 
+ 
+ mar |  | avillado 
+ 
+ mar |  | avilloso 
+ 
+ mar |  | avillosos 
+ 
+ mar |  | cha 
+ 
+ mar |  | chaba 
+ 
+ mar |  | char 
+ 
+ mar |  | chó 
+ 
+ mar |  | es 
+ 
+ mar |  | ina 
+ 
+ mar |  | iposa 
+ 
+ mar |  | iposas 
+ 
+ mar |  | tillazo 
+ 
+ mar |  | tillo 
+ 
+  |  | masticarla 
+ 
+  |  | matan 
+ 
+  |  | maté 
+ 
+  |  | mayor 
+ 
+ mayor |  | es 
+ 
+  |  | mañana 
+ 
+ mañana |  | s 
+ 
+  |  | me 
+ 
+  |  | mecánico 
+ 
+  |  | mecí 
+ 
+  |  | medianoche 
+ 
+  |  | medio 
+ 
+ medio |  | día 
+ 
+  |  | meditado 
+ 
+  |  | meditar 
+ 
+  |  | mejor 
+ 
+ mejor |  | ado 
+ 
+  |  | melancolía 
+ 
+  |  | melancólica 
+ 
+ melancólica |  | mente 
+ 
+  |  | menor 
+ 
+  |  | menos 
+ 
+  |  | mente 
+ 
+  |  | mentira 
+ 
+  |  | mes 
+ 
+ mes |  | a 
+ 
+ mes |  | es 
+ 
+  |  | meten 
+ 
+  |  | meterás 
+ 
+  |  | metros 
+ 
+  |  | metálico 
+ 
+  |  | mezclas 
+ 
+  |  | mi 
+ 
+  |  | mide 
+ 
+  |  | miedo 
+ 
+  |  | miel 
+ 
+  |  | miente 
+ 
+  |  | mientras 
+ 
+  |  | migración 
+ 
+  |  | mil 
+ 
+ mil |  | agrosa 
+ 
+ mil |  | las 
+ 
+ mil |  | lones 
+ 
+  |  | ministro 
+ 
+  |  | mintiera 
+ 
+  |  | minuto 
+ 
+ minuto |  | s 
+ 
+  |  | mira 
+ 
+ mira |  | ba 
+ 
+ mira |  | d 
+ 
+ mira |  | da 
+ 
+ mira |  | do 
+ 
+ mira |  | ndo 
+ 
+ mira |  | r 
+ 
+ mira |  | rlas 
+ 
+ mira |  | rás 
+ 
+ mira |  | ré 
+ 
+  |  | mire 
+ 
+ mire |  | s 
+ 
+  |  | miré 
+ 
+  |  | miró 
+ 
+  |  | mis 
+ 
+ mis |  | a 
+ 
+ mis |  | ma 
+ 
+ mis |  | mas 
+ 
+ mis |  | mo 
+ 
+ mis |  | mos 
+ 
+ mis |  | terio 
+ 
+ mis |  | teriosa 
+ 
+ mis |  | terioso 
+ 
+  |  | mitin 
+ 
+  |  | moda 
+ 
+  |  | modelo 
+ 
+  |  | modesta 
+ 
+ modesta |  | mente 
+ 
+  |  | molesta 
+ 
+ molesta |  | ban 
+ 
+ molesta |  | do 
+ 
+ molesta |  | s 
+ 
+  |  | molesto 
+ 
+  |  | molestó 
+ 
+  |  | momento 
+ 
+ momento |  | s 
+ 
+  |  | monarca 
+ 
+  |  | monotonía 
+ 
+  |  | montaña 
+ 
+ montaña |  | s 
+ 
+  |  | monótona 
+ 
+  |  | morada 
+ 
+  |  | moralidad 
+ 
+  |  | moralista 
+ 
+  |  | mordedura 
+ 
+  |  | morder 
+ 
+ morder |  | te 
+ 
+  |  | morir 
+ 
+  |  | mostraba 
+ 
+  |  | mostró 
+ 
+  |  | motor 
+ 
+  |  | mover 
+ 
+ mover |  | me 
+ 
+ mover |  | se 
+ 
+  |  | movimientos 
+ 
+  |  | movía 
+ 
+  |  | mucha 
+ 
+ mucha |  | chas 
+ 
+ mucha |  | chito 
+ 
+ mucha |  | chitos 
+ 
+ mucha |  | s 
+ 
+  |  | mucho 
+ 
+  |  | muchísimo 
+ 
+  |  | muere 
+ 
+  |  | muero 
+ 
+  |  | muerte 
+ 
+  |  | muerto 
+ 
+  |  | multitud 
+ 
+  |  | mundo 
+ 
+ mundo |  | s 
+ 
+  |  | muro 
+ 
+  |  | muy 
+ 
+  |  | muñeca 
+ 
+  |  | máquina 
+ 
+  |  | más 
+ 
+  |  | mí 
+ 
+  |  | mía 
+ 
+ mía |  | s 
+ 
+  |  | mío 
+ 
+  |  | música 
+ 
+  |  | nacer 
+ 
+  |  | nacido 
+ 
+  |  | nada 
+ 
+  |  | nadie 
+ 
+  |  | nariz 
+ 
+  |  | naturaleza 
+ 
+  |  | naturalmente 
+ 
+  |  | navío 
+ 
+  |  | necesaria 
+ 
+  |  | necesario 
+ 
+ necesario |  | s 
+ 
+  |  | necesidad 
+ 
+  |  | necesito 
+ 
+  |  | negocios 
+ 
+  |  | negros 
+ 
+  |  | ni 
+ 
+  |  | nieve 
+ 
+ nieve |  | s 
+ 
+  |  | ninguna 
+ 
+  |  | ningún 
+ 
+  |  | niño 
+ 
+ niño |  | s 
+ 
+  |  | no 
+ 
+  |  | noche 
+ 
+ noche |  | s 
+ 
+  |  | nombre 
+ 
+  |  | nombro 
+ 
+  |  | nos 
+ 
+ nos |  | otros 
+ 
+  |  | nota 
+ 
+  |  | novecientos 
+ 
+  |  | nuestra 
+ 
+ nuestra |  | s 
+ 
+  |  | nuestro 
+ 
+  |  | nueva 
+ 
+ nueva |  | mente 
+ 
+  |  | nuevo 
+ 
+  |  | numerosos 
+ 
+  |  | nunca 
+ 
+  |  | náufrago 
+ 
+  |  | número 
+ 
+ número |  | s 
+ 
+  |  | o 
+ 
+  |  | obedece 
+ 
+ obedece |  | n 
+ 
+  |  | obedecido 
+ 
+  |  | obedeciese 
+ 
+  |  | obediencia 
+ 
+  |  | obra 
+ 
+  |  | observó 
+ 
+  |  | obstante 
+ 
+  |  | ocho 
+ 
+  |  | ociosa 
+ 
+  |  | octavo 
+ 
+  |  | oculta 
+ 
+ oculta |  | ba 
+ 
+ oculta |  | ban 
+ 
+  |  | ocupa 
+ 
+ ocupa |  | ban 
+ 
+ ocupa |  | ción 
+ 
+ ocupa |  | do 
+ 
+ ocupa |  | n 
+ 
+ ocupa |  | rme 
+ 
+ ocupa |  | rse 
+ 
+  |  | ocupo 
+ 
+  |  | ocurre 
+ 
+  |  | ocurrido 
+ 
+  |  | ocurrir 
+ 
+  |  | ocurrió 
+ 
+  |  | océano 
+ 
+ océano |  | s 
+ 
+  |  | oficio 
+ 
+  |  | oigo 
+ 
+  |  | ojeada 
+ 
+  |  | ojo 
+ 
+ ojo |  | s 
+ 
+  |  | olerlas 
+ 
+  |  | olido 
+ 
+  |  | olvidaba 
+ 
+  |  | olvidada 
+ 
+  |  | olvidado 
+ 
+  |  | olvidar 
+ 
+ olvidar |  | la 
+ 
+ olvidar |  | lo 
+ 
+  |  | olvidó 
+ 
+  |  | once 
+ 
+  |  | opinión 
+ 
+  |  | oponía 
+ 
+  |  | oprimido 
+ 
+  |  | orden 
+ 
+ orden |  | ara 
+ 
+ orden |  | arme 
+ 
+ orden |  | as 
+ 
+ orden |  | o 
+ 
+  |  | ordinaria 
+ 
+  |  | orejas 
+ 
+  |  | orgullo 
+ 
+ orgullo |  | sa 
+ 
+ orgullo |  | so 
+ 
+  |  | origen 
+ 
+  |  | oro 
+ 
+  |  | orugas 
+ 
+  |  | os 
+ 
+  |  | otra 
+ 
+ otra |  | s 
+ 
+  |  | otro 
+ 
+ otro |  | s 
+ 
+  |  | oye 
+ 
+ oye |  | n 
+ 
+ oye |  | ndo 
+ 
+  |  | oyó 
+ 
+  |  | oí 
+ 
+  |  | oía 
+ 
+  |  | oído 
+ 
+ oído |  | s 
+ 
+  |  | oír 
+ 
+  |  | paciencia 
+ 
+  |  | padre 
+ 
+  |  | paisaje 
+ 
+  |  | pajarillo 
+ 
+  |  | palabra 
+ 
+ palabra |  | s 
+ 
+  |  | palomas 
+ 
+  |  | pan 
+ 
+  |  | papel 
+ 
+  |  | paquetes 
+ 
+  |  | para 
+ 
+  |  | parece 
+ 
+ parece |  | n 
+ 
+ parece |  | r 
+ 
+ parece |  | rme 
+ 
+ parece |  | rían 
+ 
+ parece |  | s 
+ 
+  |  | parecido 
+ 
+  |  | pareciera 
+ 
+  |  | parecieron 
+ 
+  |  | pareció 
+ 
+  |  | parecía 
+ 
+ parecía |  | n 
+ 
+  |  | parezca 
+ 
+  |  | partas 
+ 
+  |  | parte 
+ 
+  |  | partida 
+ 
+  |  | partir 
+ 
+  |  | partió 
+ 
+  |  | pasa 
+ 
+ pasa |  | ba 
+ 
+ pasa |  | da 
+ 
+ pasa |  | do 
+ 
+ pasa |  | jero 
+ 
+ pasa |  | n 
+ 
+ pasa |  | r 
+ 
+ pasa |  | rlos 
+ 
+  |  | pasea 
+ 
+ pasea |  | bas 
+ 
+  |  | paseo 
+ 
+  |  | paso 
+ 
+ paso |  | s 
+ 
+  |  | patas 
+ 
+  |  | patentar 
+ 
+  |  | paz 
+ 
+  |  | país 
+ 
+  |  | pañuelo 
+ 
+  |  | pedir 
+ 
+  |  | peligro 
+ 
+ peligro |  | s 
+ 
+ peligro |  | sa 
+ 
+  |  | pena 
+ 
+  |  | pensado 
+ 
+  |  | pensamiento 
+ 
+ pensamiento |  | s 
+ 
+  |  | pensando 
+ 
+  |  | pensar 
+ 
+  |  | pensó 
+ 
+  |  | peor 
+ 
+  |  | pequeña 
+ 
+ pequeña |  | s 
+ 
+  |  | pequeñitos 
+ 
+  |  | pequeño 
+ 
+ pequeño |  | s 
+ 
+  |  | perderse 
+ 
+  |  | perderá 
+ 
+  |  | perdida 
+ 
+  |  | perdido 
+ 
+  |  | perdió 
+ 
+  |  | perdonármelo 
+ 
+  |  | perdón 
+ 
+ perdón |  | ame 
+ 
+ perdón |  | eme 
+ 
+  |  | perezoso 
+ 
+  |  | perfeccionadas 
+ 
+  |  | perfectamente 
+ 
+  |  | perfecto 
+ 
+  |  | perfora 
+ 
+  |  | perfumaba 
+ 
+  |  | permite 
+ 
+  |  | permitía 
+ 
+  |  | pero 
+ 
+  |  | perplejo 
+ 
+  |  | persiguen 
+ 
+  |  | persiguiendo 
+ 
+  |  | persona 
+ 
+ persona |  | s 
+ 
+  |  | pertenece 
+ 
+  |  | pesa 
+ 
+ pesa |  | dilla 
+ 
+ pesa |  | do 
+ 
+ pesa |  | r 
+ 
+  |  | picada 
+ 
+  |  | pide 
+ 
+  |  | pie 
+ 
+ pie |  | dra 
+ 
+ pie |  | dras 
+ 
+ pie |  | nso 
+ 
+ pie |  | rdan 
+ 
+ pie |  | rde 
+ 
+ pie |  | rden 
+ 
+ pie |  | rnas 
+ 
+  |  | pilotar 
+ 
+  |  | pintor 
+ 
+  |  | placer 
+ 
+  |  | planeta 
+ 
+ planeta |  | s 
+ 
+  |  | planta 
+ 
+  |  | plaza 
+ 
+  |  | pliegues 
+ 
+  |  | población 
+ 
+  |  | pobres 
+ 
+  |  | pocas 
+ 
+  |  | poco 
+ 
+  |  | poder 
+ 
+ poder |  | osas 
+ 
+ poder |  | oso 
+ 
+  |  | podido 
+ 
+  |  | podrá 
+ 
+ podrá |  | s 
+ 
+  |  | podré 
+ 
+  |  | podría 
+ 
+ podría |  | n 
+ 
+  |  | podía 
+ 
+  |  | política 
+ 
+  |  | pondría 
+ 
+  |  | pone 
+ 
+ pone |  | r 
+ 
+ pone |  | rla 
+ 
+ pone |  | rse 
+ 
+  |  | ponga 
+ 
+  |  | poniendo 
+ 
+  |  | ponérmela 
+ 
+  |  | por 
+ 
+ por |  | que 
+ 
+  |  | posea 
+ 
+  |  | poseen 
+ 
+  |  | poseer 
+ 
+ poseer |  | las 
+ 
+  |  | poseo 
+ 
+  |  | poseía 
+ 
+  |  | posibilidad 
+ 
+  |  | posible 
+ 
+ posible |  | s 
+ 
+  |  | pozo 
+ 
+ pozo |  | s 
+ 
+  |  | poético 
+ 
+  |  | preciados 
+ 
+  |  | preciosa 
+ 
+  |  | precisamente 
+ 
+  |  | precisión 
+ 
+  |  | preciso 
+ 
+  |  | prefiere 
+ 
+  |  | pregunta 
+ 
+ pregunta |  | d 
+ 
+ pregunta |  | n 
+ 
+ pregunta |  | ndo 
+ 
+ pregunta |  | r 
+ 
+ pregunta |  | s 
+ 
+  |  | pregunte 
+ 
+ pregunte |  | s 
+ 
+  |  | pregunto 
+ 
+  |  | pregunté 
+ 
+  |  | preguntó 
+ 
+  |  | preocupado 
+ 
+  |  | preocuparán 
+ 
+  |  | preparación 
+ 
+  |  | preparar 
+ 
+  |  | preparativos 
+ 
+  |  | presa 
+ 
+  |  | presencia 
+ 
+ presencia |  | r 
+ 
+  |  | presente 
+ 
+  |  | previamente 
+ 
+  |  | preámbulo 
+ 
+  |  | primer 
+ 
+ primer |  | a 
+ 
+ primer |  | o 
+ 
+ primer |  | os 
+ 
+  |  | principio 
+ 
+  |  | principito 
+ 
+  |  | prisa 
+ 
+  |  | problema 
+ 
+ problema |  | s 
+ 
+  |  | profunda 
+ 
+  |  | prohíbo 
+ 
+  |  | prolongues 
+ 
+  |  | promesa 
+ 
+  |  | pronto 
+ 
+  |  | pronunciadas 
+ 
+  |  | proporciones 
+ 
+  |  | proposición 
+ 
+  |  | propuso 
+ 
+ proseguí |  | a 
+ 
+  |  | prosiguió 
+ 
+  |  | protegerlas 
+ 
+  |  | provisión 
+ 
+  |  | proyectos 
+ 
+  |  | prueba 
+ 
+ prueba |  | s 
+ 
+  |  | príncipe 
+ 
+  |  | príncipito 
+ 
+  |  | próxima 
+ 
+ próxima |  | mente 
+ 
+  |  | próximo 
+ 
+  |  | pude 
+ 
+  |  | pudiera 
+ 
+ pudiera |  | n 
+ 
+  |  | pudo 
+ 
+  |  | pueblan 
+ 
+  |  | pueblo 
+ 
+  |  | pueda 
+ 
+  |  | puede 
+ 
+ puede |  | n 
+ 
+ puede |  | s 
+ 
+  |  | puedo 
+ 
+  |  | pues 
+ 
+ pues |  | ta 
+ 
+ pues |  | tas 
+ 
+ pues |  | to 
+ 
+  |  | puntas 
+ 
+  |  | puntiagudo 
+ 
+  |  | punto 
+ 
+  |  | puntualmente 
+ 
+  |  | punzante 
+ 
+  |  | pura 
+ 
+  |  | puro 
+ 
+  |  | puse 
+ 
+  |  | pusieran 
+ 
+  |  | pusimos 
+ 
+  |  | puso 
+ 
+  |  | página 
+ 
+  |  | pájaros 
+ 
+  |  | pálida 
+ 
+  |  | pálido 
+ 
+  |  | pétalos 
+ 
+  |  | píldoras 
+ 
+  |  | píntame 
+ 
+  |  | púrpura 
+ 
+  |  | que 
+ 
+ que |  | da 
+ 
+ que |  | daba 
+ 
+ que |  | dado 
+ 
+ que |  | dar 
+ 
+ que |  | darse 
+ 
+ que |  | darán 
+ 
+ que |  | de 
+ 
+ que |  | dé 
+ 
+ que |  | dó 
+ 
+ que |  | jarse 
+ 
+ que |  | rido 
+ 
+ que |  | ría 
+ 
+  |  | quien 
+ 
+  |  | quiera 
+ 
+ quiera |  | s 
+ 
+  |  | quiere 
+ 
+ quiere |  | n 
+ 
+ quiere |  | s 
+ 
+  |  | quiero 
+ 
+  |  | quince 
+ 
+  |  | quinientos 
+ 
+  |  | quinto 
+ 
+  |  | quisiera 
+ 
+  |  | quiso 
+ 
+  |  | quitan 
+ 
+  |  | quitándose 
+ 
+  |  | quité 
+ 
+  |  | quizá 
+ 
+ quizá |  | s 
+ 
+  |  | quién 
+ 
+  |  | qué 
+ 
+  |  | rabillo 
+ 
+  |  | racha 
+ 
+  |  | ramita 
+ 
+  |  | rara 
+ 
+  |  | raro 
+ 
+  |  | rata 
+ 
+  |  | rato 
+ 
+  |  | rayar 
+ 
+  |  | rayo 
+ 
+  |  | razona 
+ 
+ razona |  | ble 
+ 
+ razona |  | bles 
+ 
+ razona |  | miento 
+ 
+  |  | razones 
+ 
+  |  | razón 
+ 
+  |  | raíces 
+ 
+  |  | real 
+ 
+ real |  | izar 
+ 
+  |  | rebaño 
+ 
+  |  | rechazado 
+ 
+  |  | recibe 
+ 
+  |  | recibida 
+ 
+  |  | recibir 
+ 
+  |  | reclama 
+ 
+  |  | recobró 
+ 
+  |  | recogiendo 
+ 
+  |  | reconocer 
+ 
+ reconocer |  | la 
+ 
+ reconocer |  | lo 
+ 
+  |  | reconozca 
+ 
+  |  | recordar 
+ 
+ recordar |  | lo 
+ 
+  |  | recordó 
+ 
+  |  | recorrido 
+ 
+  |  | rectamente 
+ 
+  |  | recuento 
+ 
+  |  | recuerdan 
+ 
+  |  | recuerdo 
+ 
+ recuerdo |  | s 
+ 
+  |  | redondos 
+ 
+  |  | reflexiones 
+ 
+  |  | reflexión 
+ 
+  |  | regadera 
+ 
+  |  | regado 
+ 
+  |  | regalaré 
+ 
+  |  | regalo 
+ 
+  |  | registro 
+ 
+  |  | región 
+ 
+  |  | regulados 
+ 
+  |  | regularmente 
+ 
+  |  | regó 
+ 
+  |  | rehice 
+ 
+  |  | reinar 
+ 
+  |  | reino 
+ 
+  |  | relación 
+ 
+  |  | relatos 
+ 
+  |  | relámpago 
+ 
+  |  | remordimientos 
+ 
+  |  | rencor 
+ 
+  |  | renunciado 
+ 
+  |  | reparación 
+ 
+  |  | reparado 
+ 
+  |  | repetir 
+ 
+  |  | repitiendo 
+ 
+  |  | repitió 
+ 
+  |  | replicó 
+ 
+  |  | repollos 
+ 
+  |  | reposar 
+ 
+  |  | reposo 
+ 
+  |  | reposó 
+ 
+  |  | representaba 
+ 
+  |  | reproches 
+ 
+  |  | reputación 
+ 
+  |  | resfriada 
+ 
+  |  | resiste 
+ 
+ resiste |  | ncia 
+ 
+  |  | respetada 
+ 
+  |  | respetuosamente 
+ 
+  |  | resplandece 
+ 
+  |  | resplandor 
+ 
+  |  | responde 
+ 
+  |  | respondido 
+ 
+  |  | respondiera 
+ 
+  |  | respondieron 
+ 
+  |  | respondió 
+ 
+  |  | respondí 
+ 
+ respondí |  | a 
+ 
+  |  | responsable 
+ 
+  |  | respuesta 
+ 
+  |  | resto 
+ 
+  |  | resuelvo 
+ 
+  |  | resulta 
+ 
+ resulta |  | do 
+ 
+  |  | retenerlo 
+ 
+  |  | retraso 
+ 
+  |  | retrato 
+ 
+ retrato |  | s 
+ 
+  |  | reumatismo 
+ 
+  |  | revelado 
+ 
+  |  | revelaron 
+ 
+  |  | revolución 
+ 
+  |  | revolvió 
+ 
+  |  | revólver 
+ 
+  |  | rey 
+ 
+ rey |  | es 
+ 
+  |  | reía 
+ 
+  |  | reír 
+ 
+  |  | reíste 
+ 
+  |  | rico 
+ 
+  |  | ridículo 
+ 
+  |  | riego 
+ 
+  |  | riendo 
+ 
+  |  | riesen 
+ 
+  |  | riesgo 
+ 
+  |  | risa 
+ 
+  |  | rito 
+ 
+ rito |  | s 
+ 
+  |  | rió 
+ 
+  |  | rocas 
+ 
+  |  | roció 
+ 
+  |  | rodeándome 
+ 
+  |  | rodilla 
+ 
+  |  | rojos 
+ 
+  |  | roldana 
+ 
+  |  | rosa 
+ 
+ rosa |  | l 
+ 
+ rosa |  | les 
+ 
+ rosa |  | s 
+ 
+  |  | rostro 
+ 
+  |  | rubor 
+ 
+ rubor |  | izó 
+ 
+  |  | rugiendo 
+ 
+  |  | rugió 
+ 
+  |  | ruido 
+ 
+  |  | ruina 
+ 
+  |  | rumor 
+ 
+  |  | rábano 
+ 
+  |  | rápidamente 
+ 
+  |  | rápido 
+ 
+ rápido |  | s 
+ 
+  |  | ríe 
+ 
+ ríe |  | n 
+ 
+  |  | ríos 
+ 
+  |  | sabe 
+ 
+ sabe |  | mos 
+ 
+ sabe |  | n 
+ 
+ sabe |  | r 
+ 
+ sabe |  | rlo 
+ 
+ sabe |  | s 
+ 
+  |  | sabido 
+ 
+  |  | sabio 
+ 
+ sabio |  | s 
+ 
+  |  | sabré 
+ 
+  |  | sabía 
+ 
+  |  | sacando 
+ 
+  |  | sacar 
+ 
+  |  | sacudía 
+ 
+  |  | saharianos 
+ 
+  |  | salado 
+ 
+  |  | saldrá 
+ 
+  |  | sale 
+ 
+  |  | salido 
+ 
+  |  | salir 
+ 
+  |  | salió 
+ 
+  |  | saltar 
+ 
+  |  | salto 
+ 
+  |  | saludar 
+ 
+ saludar |  | le 
+ 
+  |  | saludó 
+ 
+  |  | salvo 
+ 
+  |  | salían 
+ 
+  |  | saqué 
+ 
+  |  | satisfecho 
+ 
+  |  | se 
+ 
+  |  | sea 
+ 
+ sea |  | n 
+ 
+  |  | seco 
+ 
+  |  | secreto 
+ 
+  |  | sed 
+ 
+  |  | seguida 
+ 
+  |  | segunda 
+ 
+  |  | segundo 
+ 
+ segundo |  | s 
+ 
+  |  | segura 
+ 
+ segura |  | mente 
+ 
+  |  | seguro 
+ 
+ seguí |  | a 
+ 
+ seguí |  | an 
+ 
+  |  | según 
+ 
+  |  | seis 
+ 
+ seis |  | cientos 
+ 
+  |  | selva 
+ 
+  |  | semana 
+ 
+ semana |  | s 
+ 
+  |  | semejante 
+ 
+ semejante |  | s 
+ 
+  |  | semiconfidencia 
+ 
+  |  | semilla 
+ 
+ semilla |  | s 
+ 
+  |  | sencilla 
+ 
+  |  | sencillez 
+ 
+  |  | sencillo 
+ 
+  |  | sentado 
+ 
+  |  | sentarme 
+ 
+  |  | sentarse 
+ 
+  |  | sentarte 
+ 
+  |  | sentarás 
+ 
+  |  | sentido 
+ 
+  |  | sentimiento 
+ 
+  |  | sentirme 
+ 
+  |  | sentiré 
+ 
+  |  | sentiría 
+ 
+  |  | senté 
+ 
+  |  | sentí 
+ 
+ sentí |  | a 
+ 
+ sentí |  | an 
+ 
+  |  | sentó 
+ 
+  |  | separaré 
+ 
+  |  | sepas 
+ 
+  |  | sepáis 
+ 
+  |  | ser 
+ 
+ ser |  | ia 
+ 
+ ser |  | ias 
+ 
+ ser |  | io 
+ 
+ ser |  | piente 
+ 
+ ser |  | pientes 
+ 
+ ser |  | vido 
+ 
+ ser |  | virles 
+ 
+ ser |  | virá 
+ 
+ ser |  | virían 
+ 
+ ser |  | á 
+ 
+ ser |  | án 
+ 
+ ser |  | ás 
+ 
+ ser |  | é 
+ 
+ ser |  | ía 
+ 
+  |  | sesenta 
+ 
+  |  | setecientos 
+ 
+  |  | setenta 
+ 
+  |  | sexto 
+ 
+  |  | señalarte 
+ 
+  |  | señaló 
+ 
+  |  | señor 
+ 
+  |  | si 
+ 
+  |  | sido 
+ 
+  |  | siempre 
+ 
+  |  | siendo 
+ 
+  |  | sienes 
+ 
+  |  | siente 
+ 
+ siente |  | n 
+ 
+  |  | siento 
+ 
+  |  | siete 
+ 
+  |  | significa 
+ 
+ significa |  | ba 
+ 
+  |  | sigue 
+ 
+  |  | siguiente 
+ 
+  |  | siguió 
+ 
+  |  | silencio 
+ 
+ silencio |  | samente 
+ 
+  |  | silla 
+ 
+  |  | silvestres 
+ 
+  |  | simpatía 
+ 
+  |  | simple 
+ 
+ simple |  | mente 
+ 
+ simple |  | s 
+ 
+  |  | simplificado 
+ 
+  |  | simularía 
+ 
+  |  | sin 
+ 
+ sin |  | número 
+ 
+ sin |  | o 
+ 
+ sin |  | tió 
+ 
+  |  | siquiera 
+ 
+  |  | sirve 
+ 
+ sirve |  | n 
+ 
+  |  | sitio 
+ 
+  |  | sobre 
+ 
+  |  | sois 
+ 
+  |  | sol 
+ 
+ sol |  | a 
+ 
+ sol |  | amente 
+ 
+ sol |  | as 
+ 
+ sol |  | icitar 
+ 
+ sol |  | lozos 
+ 
+ sol |  | o 
+ 
+ sol |  | tado 
+ 
+ sol |  | tó 
+ 
+  |  | sombrero 
+ 
+  |  | sombría 
+ 
+  |  | sometido 
+ 
+  |  | somos 
+ 
+  |  | son 
+ 
+ son |  | aba 
+ 
+ son |  | reía 
+ 
+ son |  | risa 
+ 
+ son |  | risas 
+ 
+ son |  | rió 
+ 
+ son |  | rojó 
+ 
+  |  | soportar 
+ 
+  |  | soporte 
+ 
+  |  | sorprender 
+ 
+  |  | sorprendido 
+ 
+  |  | sorprendió 
+ 
+  |  | sorpresa 
+ 
+  |  | soy 
+ 
+  |  | soñando 
+ 
+  |  | su 
+ 
+  |  | suavemente 
+ 
+  |  | suavidad 
+ 
+  |  | subí 
+ 
+  |  | sucede 
+ 
+  |  | sucedido 
+ 
+  |  | sucedió 
+ 
+  |  | suelo 
+ 
+  |  | suelta 
+ 
+  |  | suerte 
+ 
+  |  | sueño 
+ 
+  |  | suficiente 
+ 
+ suficiente |  | s 
+ 
+  |  | sufrir 
+ 
+  |  | sufro 
+ 
+  |  | suma 
+ 
+ suma |  | s 
+ 
+  |  | suministre 
+ 
+  |  | supe 
+ 
+  |  | suplico 
+ 
+  |  | supo 
+ 
+ sur |  | tidor 
+ 
+  |  | sus 
+ 
+ sus |  | piro 
+ 
+ sus |  | piró 
+ 
+  |  | suya 
+ 
+  |  | sé 
+ 
+  |  | séptimo 
+ 
+  |  | sí 
+ 
+  |  | sólo 
+ 
+  |  | súbdito 
+ 
+ súbdito |  | s 
+ 
+  |  | súbitamente 
+ 
+  |  | taburete 
+ 
+  |  | tal 
+ 
+  |  | también 
+ 
+  |  | tampoco 
+ 
+  |  | tan 
+ 
+ tan |  | ta 
+ 
+ tan |  | tas 
+ 
+ tan |  | to 
+ 
+ tan |  | tos 
+ 
+  |  | tarde 
+ 
+  |  | te 
+ 
+  |  | tejado 
+ 
+  |  | telescopio 
+ 
+  |  | temblar 
+ 
+  |  | temer 
+ 
+  |  | temo 
+ 
+  |  | tendido 
+ 
+  |  | tendremos 
+ 
+  |  | tendrás 
+ 
+  |  | tendría 
+ 
+  |  | tenemos 
+ 
+  |  | tener 
+ 
+  |  | tengo 
+ 
+  |  | tenido 
+ 
+  |  | tentativa 
+ 
+  |  | tenéis 
+ 
+  |  | tenía 
+ 
+ tenía |  | mos 
+ 
+  |  | tercer 
+ 
+ tercer |  | a 
+ 
+  |  | termina 
+ 
+ termina |  | do 
+ 
+ termina |  | r 
+ 
+  |  | ternura 
+ 
+  |  | terrible 
+ 
+ terrible |  | s 
+ 
+  |  | tesoro 
+ 
+  |  | ti 
+ 
+  |  | tiempo 
+ 
+ tiempo |  | s 
+ 
+  |  | tiendas 
+ 
+  |  | tiene 
+ 
+ tiene |  | n 
+ 
+ tiene |  | s 
+ 
+  |  | tierra 
+ 
+  |  | tigres 
+ 
+  |  | tinta 
+ 
+  |  | tipo 
+ 
+  |  | tire 
+ 
+  |  | tiros 
+ 
+  |  | titulaba 
+ 
+  |  | tobillo 
+ 
+  |  | tocaba 
+ 
+  |  | toco 
+ 
+  |  | tocó 
+ 
+  |  | toda 
+ 
+ toda |  | s 
+ 
+ toda |  | vía 
+ 
+  |  | todo 
+ 
+ todo |  | s 
+ 
+  |  | tolero 
+ 
+  |  | toma 
+ 
+ toma |  | do 
+ 
+ toma |  | mos 
+ 
+  |  | tomen 
+ 
+  |  | tomé 
+ 
+  |  | tono 
+ 
+  |  | tonta 
+ 
+  |  | tonterías 
+ 
+  |  | tonto 
+ 
+  |  | torpe 
+ 
+  |  | tos 
+ 
+ tos |  | ería 
+ 
+ tos |  | ió 
+ 
+  |  | totalmente 
+ 
+  |  | trabajaban 
+ 
+  |  | trabajado 
+ 
+  |  | trabajar 
+ 
+  |  | trabajo 
+ 
+ trabajo |  | s 
+ 
+  |  | trabajé 
+ 
+  |  | traga 
+ 
+ traga |  | ba 
+ 
+  |  | tragedia 
+ 
+  |  | traiga 
+ 
+  |  | traje 
+ 
+  |  | tranquila 
+ 
+ tranquila |  | mente 
+ 
+  |  | tranquilizó 
+ 
+  |  | tranquilo 
+ 
+  |  | transformara 
+ 
+  |  | transformarse 
+ 
+  |  | trapo 
+ 
+  |  | trasladarse 
+ 
+  |  | trata 
+ 
+ trata |  | do 
+ 
+ trata |  | ndo 
+ 
+ trata |  | rse 
+ 
+ trata |  | ré 
+ 
+  |  | trate 
+ 
+  |  | tratándose 
+ 
+  |  | través 
+ 
+  |  | trazar 
+ 
+  |  | treinta 
+ 
+  |  | tren 
+ 
+ tren |  | es 
+ 
+  |  | tres 
+ 
+ tres |  | cientos 
+ 
+  |  | trigo 
+ 
+  |  | triste 
+ 
+ triste |  | s 
+ 
+ triste |  | za 
+ 
+  |  | trono 
+ 
+  |  | trueno 
+ 
+  |  | tu 
+ 
+  |  | turco 
+ 
+  |  | turno 
+ 
+  |  | tus 
+ 
+  |  | tuve 
+ 
+  |  | tuviera 
+ 
+ tuviera |  | s 
+ 
+  |  | tuya 
+ 
+ tuya |  | s 
+ 
+  |  | tuyo 
+ 
+ tuyo |  | s 
+ 
+  |  | tímidamente 
+ 
+  |  | tú 
+ 
+  |  | un 
+ 
+  |  | una 
+ 
+ una |  | s 
+ 
+  |  | universal 
+ 
+  |  | universo 
+ 
+  |  | uno 
+ 
+ uno |  | s 
+ 
+  |  | urgencia 
+ 
+  |  | usted 
+ 
+ usted |  | es 
+ 
+  |  | utilizaba 
+ 
+  |  | va 
+ 
+  |  | vacaciones 
+ 
+  |  | vacilante 
+ 
+  |  | vacilo 
+ 
+  |  | vaciló 
+ 
+  |  | vacías 
+ 
+  |  | vale 
+ 
+  |  | valor 
+ 
+  |  | valía 
+ 
+  |  | vamos 
+ 
+  |  | van 
+ 
+ van |  | idad 
+ 
+ van |  | idoso 
+ 
+ van |  | idosos 
+ 
+  |  | vas 
+ 
+  |  | vaya 
+ 
+ vaya |  | s 
+ 
+  |  | ve 
+ 
+  |  | vea 
+ 
+ vea |  | n 
+ 
+  |  | veces 
+ 
+  |  | veinte 
+ 
+  |  | veinticuatro 
+ 
+  |  | veintidós 
+ 
+  |  | veintiocho 
+ 
+  |  | vejada 
+ 
+  |  | vejado 
+ 
+  |  | veleta 
+ 
+  |  | ven 
+ 
+ ven |  | dan 
+ 
+ ven |  | des 
+ 
+ ven |  | drá 
+ 
+ ven |  | eno 
+ 
+ ven |  | gas 
+ 
+ ven |  | go 
+ 
+ ven |  | ir 
+ 
+ ven |  | tana 
+ 
+ ven |  | tanas 
+ 
+ ven |  | ía 
+ 
+  |  | veo 
+ 
+  |  | ver 
+ 
+ ver |  | dad 
+ 
+ ver |  | daderamente 
+ 
+ ver |  | dadero 
+ 
+ ver |  | de 
+ 
+ ver |  | güenza 
+ 
+ ver |  | lo 
+ 
+ ver |  | te 
+ 
+ ver |  | ás 
+ 
+ ver |  | éis 
+ 
+ ves |  | tido 
+ 
+ ves |  | tir 
+ 
+ ves |  | tía 
+ 
+  |  | vete 
+ 
+  |  | vez 
+ 
+  |  | veía 
+ 
+  |  | vi 
+ 
+  |  | viajado 
+ 
+  |  | viajan 
+ 
+  |  | viajar 
+ 
+  |  | viaje 
+ 
+ viaje |  | ros 
+ 
+  |  | viajáis 
+ 
+  |  | vida 
+ 
+  |  | vidrio 
+ 
+ vidrio |  | s 
+ 
+  |  | vieja 
+ 
+ vieja |  | s 
+ 
+  |  | viejo 
+ 
+  |  | viene 
+ 
+ viene |  | s 
+ 
+  |  | viento 
+ 
+  |  | viese 
+ 
+  |  | vigila 
+ 
+ vigila |  | do 
+ 
+  |  | vinieras 
+ 
+  |  | vio 
+ 
+  |  | virgen 
+ 
+  |  | visita 
+ 
+ visita |  | rlos 
+ 
+ visita |  | rme 
+ 
+  |  | visite 
+ 
+  |  | vistazo 
+ 
+  |  | viste 
+ 
+  |  | visto 
+ 
+  |  | viva 
+ 
+  |  | vive 
+ 
+  |  | vividas 
+ 
+  |  | vivir 
+ 
+  |  | vivo 
+ 
+ viví |  | a 
+ 
+  |  | viña 
+ 
+  |  | vocecita 
+ 
+  |  | volaba 
+ 
+  |  | volado 
+ 
+  |  | volar 
+ 
+  |  | volcanes 
+ 
+  |  | volcán 
+ 
+ volcán |  | icas 
+ 
+  |  | voluntad 
+ 
+  |  | volver 
+ 
+  |  | volviendo 
+ 
+  |  | volvió 
+ 
+  |  | volví 
+ 
+ volví |  | a 
+ 
+ volví |  | as 
+ 
+  |  | vosotros 
+ 
+  |  | voy 
+ 
+  |  | voz 
+ 
+  |  | vuela 
+ 
+  |  | vuelta 
+ 
+ vuelta |  | s 
+ 
+  |  | vuelto 
+ 
+  |  | vuelve 
+ 
+ vuelve |  | n 
+ 
+  |  | vuelvo 
+ 
+ vuestra |  | s 
+ 
+  |  | vínculos 
+ 
+  |  | y 
+ 
+  |  | ya 
+ 
+  |  | yo 
+ 
+  |  | zancadas 
+ 
+  |  | zorro 
+ 
+ zorro |  | s 
+ 
+  |  | África 
+ 
+  |  | Únicamente 
+ 
+  |  | ánimo 
+ 
+  |  | árbol 
+ 
+ árbol |  | es 
+ 
+  |  | él 
+ 
+  |  | ése 
+ 
+  |  | ésta 
+ 
+ ésta |  | s 
+ 
+  |  | éste 
+ 
+  |  | ópera 
+ 
+  |  | órdenes 
+ 
+  |  | última 
+ 
+  |  | últimos 
+ 
+  |  | única 
+ 
+ única |  | s 
+ 
+  |  | único 
+ 
+ único |  | s 
+ 
+  |  | útil 
+ 
+ útil |  | es 
+ 

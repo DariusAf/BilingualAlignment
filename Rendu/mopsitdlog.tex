@@ -1,0 +1,145 @@
+\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or epsÂ§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[french]{babel}
+\usepackage[latin1]{inputenc}
+
+%SetFonts
+
+%SetFonts
+
+
+\title{Brief Article}
+\author{The Author}
+%\date{}							% Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+\section{Introduction}
+%\subsection{}
+\section{Architecture choisie}
+\section{Alignement de mot}
+\section{Interface}
+\section{Classification morphologique}
+Après avoir effectué l'alignement des mots, nous avons voulu tenter de classifier les mots selon leur morphologie. Une première approche fut d'utiliser l'algorithme définit par John Goldsmith et al dans leur article de 2001 : http://www.aclweb.org/anthology/J01-2001. Puis après des premiers résultats et un échange de mails avec Mr Goldsmith nous avons décidé de changer de méthode, en majeur partie à cause du temps qu'il nous restait pour trouver une solution.
+
+\subsection{Première méthode : Goldsmith}
+L'idée principale de cette méthode est de créer un ensemble de segmentation des mots en radicaux et en suffixes:
+\begin{equation}
+mot = \{(radical_{i}, suffixe_{i})\}
+\end{equation}
+
+Une fois cette segmentation effectué, on veut former ce qu'on appelle des signatures définit comme suit : 
+\begin{equation}
+signature = \{radical_{i}, radical_{j}...\} <-> \{suffixe_{k}, suffixe_{m}\}
+\end{equation}
+tel que $\forall$ $i$, $k$  $radical_{i} + suffixe_{k}$ est un mot dans le texte. Chaque mot doit être encoder dans une seule signature. 
+
+Les premières segmentations nous permettent de créer un premier ensemble de signatures parmi lesquelles nous devons bien sûr en éliminer la plus part. Pour cela les auteurs de l'article utilisent la MDL ou Minimum Description Length définit par Rissanen. Ils définissent donc pour chacun des objets une longueur de compression, et vont chercher à minimiser la somme de toutes ces longueurs. Ne précisant pas comment ils effectue cette minimisation nous avons premièrement choisi de maximiser ce que les auteurs appellent l'information mutuelle pondéré d'un suffixe : 
+
+\begin{equation}
+\frac{[suffixe]}{[kgram]}*log(\frac{[suffixe]}{\prod_{lettre\in suffixe}^{}[letter]}
+\end{equation}
+
+où $[suffixe]$ est le nombre de fois où le suffixe apparait dans le texte en tant que suffixe. En plus de cela nous avons cherché à maximiser pour chaque signature le produit suivant : 
+
+\begin{equation}
+log(|radical|)*log(|suffixe|)
+\end{equation}
+
+où $|suffixe|$ est le nombre de suffixe dans la signature. Ceci dans l'idée que nous voulions éviter au maximum les signatures ne contenant qu'un seul suffixe ou un seul radical puisque qu'elle n'apporte pas d'informations générales sur la langue du texte étudié.
+
+Après un mois et demi sur cette méthode nos résultats n'était pas encourageant, nous avons décidé d'envoyer un mail à Mr Goldsmith pour plus de détails sur la méthode a employé. Il nous a grandement aidé, conforté dans nos résultats et nous a conseillé de changer d'estimateur et d'utiliser plutôt la MDL de Rissanen. Manquant de temps pour se plonger dans cette méthode et la mettre en place nous avons choisi de changer d'estimateurs et de méthode d'agrégation des signatures. 
+
+\subsection{Seconde méthode : Patricia Trie et nouvelle heuristique}
+
+Ici nous avons commencé par encoder le texte dans un Patricia Trie. 
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width = 200pt]{patricia_trie.png}
+\caption{Cette photo provient de la page wikipedia sur les patricia trie}
+\end{figure}
+
+Une fois cet arbre construit on peut avoir accès à ses feuilles dont on est sûr qu'elles constituent des suffixes. De plus en parcourant l'arbre et en s'arrêtant dès qu'on tombe sur un mot du texte on obtient une première décomposition du mot et de tous ceux qui suivent dans l'arbre. En bref, l'utilisation d'un patricia trie nous permet d'obtenir un premier sous ensembles de suffixes et une première segmentation pour chaque mot. Pour construire cet arbre nous avons bénéficié du code de Mr Clerc qui nous a permis de construire un premier trie (une lettre par noeud). Nous l'avons ensuite concaténé dès qu'il y avait deux lettres (noeuds) consécutifs n'ayant qu'un enfant.
+
+Nous avons de plus garder l'heuristique développé dans l'article de Mr Goldsmith qui consiste à créer un ensemble de segmentations pour chaque mot. Puis pour caractériser la vraisemblance d'une segmentation $mot = \{(radical_{i}, suffixe_{i})\}$ nous utilisons l'estimateur suivant : 
+
+\begin{equation}
+ (-1) * log(\frac{[radical_{i}+suffixe_{k}]}{[radical_{i}] * [suffixe_{k}]})
+\end{equation}
+
+
+Pour qualifier la vraisemblance d'un suffixe et d'un radical nous n'utilisons plus l'information mutuelle pondéré mais les estimateurs suivants : 
+
+\begin{equation}
+suffixe : (-1) * \sum_{segmentation = (radical, suffixe) }^{}  log(\frac{[radical + suffixe]}{[radical] * [suffixe]})
+\end{equation}
+
+\begin{equation}
+radical : (-1) * \sum_{segmentation = (radical, suffixe) }^{}  log(\frac{[radical + suffixe]}{[radical] * [suffixe]})
+\end{equation}
+
+
+Enfin on obtient donc pour chaque segmentation trois indices de sa potentielle pertinence :  la vraisemblance de la segmentation, 
+la vraisemblance du suffixe et celle du radical. Ces informations sont sauvegardées dans le fichier $"left seg.txt"$ pour le texte de gauche 
+et $"right seg.txt"$ pour le texte de droite. Par exemple pour le premier Harry Potter en français on obtient pour le mot 'approchèrent': 
+
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width = 500pt]{seg_info.png}
+\caption{Exemple de triplet d'information pour plusieurs segmentation du mot 'approchèrent'}
+\end{figure}
+
+
+En regardant ses résultats on se rend compte qu'on ne peut pas choisir une segmentation en ne triant que sur un seul indice. Pour parvenir à une unique segmentation nous appliquons l'arbre de décision suivant :
+
+Si pour les maximums pour chacune des informations nous donnent une unique segmentation on utilise celle-là. \\
+Si on obtient deux maximum menant à une segmentation alors on garde celle-ci. \\
+Si toutes les segmentations sont différentes alors on prends celle donnée par le maximum d'information provenant des radicaux. 
+
+
+Dans le cas de l'exemple ci-dessus on a : 
+\begin{itemize}
+\item Le maximum au sens des segmentations est : 'approchèren' + 't' \\ 
+\item Le maximum au sens des suffixes est : 'approchèr' + 'ent' \\
+\item Le maximum au sens des radicaux est : 'approch' + 'èrent' \\
+\end{itemize}
+
+Nous avons trois segmentations, on garde celle au sens des radicaux donc : 'approch' + 'èrent'. Nous avons désormais une unique segmentation pour chaque mot, on créer les signatures et on les sauvegarde
+dans $"leftsig.txt"$ et $"rightsig.txt"$. 
+
+Par exemple on obtient : 
+\begin{figure}[!h]
+\centering
+\includegraphics[width = 200pt]{example_sig.png}
+\includegraphics[width = 150pt]{example_sig3.png}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}  

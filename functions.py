@@ -38,9 +38,40 @@ def quick_sort_dict(adict, list_of_keys, left, right, checkpoint):
     if checkpoint == 0:
         return list_of_keys
 
+
+def quick_sort_list(alist, left, right, checkpoint):
+    """
+    This function aims to build a quicksort algorithm for lists.
+    """
+    def partition(alist, le, ri):
+        i = ri + 1
+        j = ri
+        while j > le:
+            if alist[j] > alist[le]:
+                i -= 1
+                a = alist[i]
+                b = alist[j]
+                alist[i] = b
+                alist[j] = a
+            j -= 1
+        c = alist[i - 1]
+        d = alist[le]
+        alist[i - 1]
+        alist[i - 1] = d
+        alist[le] = c
+        return i - 1
+    if left < right:
+        splitpoint = partition(alist, left, right)
+        quick_sort_list(alist, left, splitpoint - 1, checkpoint + 1)
+        quick_sort_list(alist, splitpoint + 1, right, checkpoint + 1)
+
+    if checkpoint == 0:
+        return alist
+
+
 def jaro_winkler(str1, str2, alpha = 0.8):
     """
-    Computes the Jaro-winkler distance between two strings given as input. 
+    Computes the Jaro-winkler distance between two strings given as input.
     https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance
     """
     max_corr = int(max(len(str1), len(str2))/2) - 1
@@ -64,3 +95,5 @@ def jaro_winkler(str1, str2, alpha = 0.8):
         common_prefix += 1
     return dist*alpha + (1-dist*alpha)*common_prefix/5
 
+def tolower(s):
+    return s.lower()

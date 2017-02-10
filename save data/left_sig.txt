@@ -1,0 +1,9609 @@
+('rons', 'ront', 'tant') : 
+ pourtant | pour
+ pourront | pour
+ pourrons | pour
+
+ 
+('e', 'unes') : 
+ communes | comm
+ comme | comm
+
+ 
+('a', 'e', 'er') : 
+ confirma | confirm
+ répliqua | répliqu
+ accepta | accept
+ accepter | accept
+ réplique | répliqu
+ confirmer | confirm
+ accepte | accept
+ remua | remu
+ remue | remu
+ remuer | remu
+ confirme | confirm
+ répliquer | répliqu
+
+ 
+('a', 'ant', 'e', 'er') : 
+ plaquant | plaqu
+ déchirant | déchir
+ caresse | caress
+ plaquer | plaqu
+ tapoter | tapot
+ caressant | caress
+ tapota | tapot
+ tapote | tapot
+ déchire | déchir
+ déchirer | déchir
+ plaqua | plaqu
+ plaque | plaqu
+ caresser | caress
+ déchira | déchir
+ caressa | caress
+ tapotant | tapot
+
+ 
+('ient', 'çait') : 
+ menaient | mena
+ menaçait | mena
+
+ 
+('ait', 'u', 'urent') : 
+ parcoururent | parcour
+ parcourait | parcour
+ parcouru | parcour
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'er', 'ez', 'èrent', 'é') : 
+ tournez | tourn
+ tournait | tourn
+ tourné | tourn
+ tournaient | tourn
+ tourna | tourn
+ tournant | tourn
+ tourner | tourn
+ tourne | tourn
+ tournèrent | tourn
+
+ 
+('i',) : 
+ rebondi | rebond
+ malpoli | malpol
+ ainsi | ains
+ mistigri | mistigr
+ lundi | lund
+ pourquoi | pourquo
+ ressenti | ressent
+ assombri | assombr
+ reviendrai | reviendra
+ celuici | celuic
+ chéri | chér
+ accompli | accompl
+ endormi | endorm
+ celui | celu
+ rendormi | rendorm
+ aussi | auss
+ viendrai | viendra
+ merssssi | merssss
+ ralenti | ralent
+ étourdi | étourd
+ enverrai | enverra
+ fourni | fourn
+ appellerai | appellera
+ raccourci | raccourc
+ refroidi | refroid
+ ennemi | ennem
+ canari | canar
+ parvati | parvat
+ atterri | atterr
+ abasourdi | abasourd
+ attendezmoi | attendezmo
+ voici | voic
+ averti | avert
+ veillerai | veillera
+ arriverai | arrivera
+ zabini | zabin
+ réjoui | réjou
+ choisi | chois
+ voudrai | voudra
+ dépéri | dépér
+ merci | merc
+ dérangerai | dérangera
+ agiterai | agitera
+ mercredi | mercred
+ réussi | réuss
+ mentirai | mentira
+ vendredi | vendred
+ samedi | samed
+ ahuri | ahur
+ saisqui | saisqu
+ arrangerai | arrangera
+ évanoui | évanou
+ suffi | suff
+ réfléchi | réfléch
+
+ 
+('e', 'if') : 
+ masse | mass
+ massif | mass
+
+ 
+('a', 'ait', 'e', 'er', 'rmait', 'é') : 
+ confier | confi
+ confié | confi
+ confiait | confi
+ confia | confi
+ confie | confi
+ confirmait | confi
+
+ 
+('e', 'er') : 
+ vante | vant
+ oreiller | oreill
+ rapporter | rapport
+ arbitre | arbitr
+ vanter | vant
+ terrer | terr
+ gâche | gâch
+ parier | pari
+ arbitrer | arbitr
+ recherche | recherch
+ parie | pari
+ doute | dout
+ poster | post
+ pardonne | pardonn
+ rapporte | rapport
+ consiste | consist
+ consister | consist
+ pardonner | pardonn
+ poste | post
+ douter | dout
+ déranger | dérang
+ dérange | dérang
+ terre | terr
+ oreille | oreill
+ rechercher | recherch
+ gâcher | gâch
+
+ 
+('a', 'e', 'ent', 'er', 'é', 'ément') : 
+ décide | décid
+ décida | décid
+ décidément | décid
+ décidé | décid
+ décider | décid
+ décident | décid
+
+ 
+('sion',) : 
+ décision | déci
+ allusion | allu
+
+ 
+('s', 't') : 
+ ignorait | ignorai
+ connaissait | connaissai
+ sommes | somme
+ venait | venai
+ banques | banque
+ connaissais | connaissai
+ briquet | brique
+ pourrais | pourrai
+ voudrais | voudrai
+ croyais | croyai
+ sommet | somme
+ boules | boule
+ voulais | voulai
+ voyait | voyai
+ aimerait | aimerai
+ briques | brique
+ voudrait | voudrai
+ boulet | boule
+ rassis | rassi
+ aimais | aimai
+ croyait | croyai
+ rassit | rassi
+ pourrait | pourrai
+ apprêtait | apprêtai
+ avait | avai
+ voulait | voulai
+ voyais | voyai
+ aimerais | aimerai
+ avais | avai
+ aimait | aimai
+ venais | venai
+ banquet | banque
+ ignorais | ignorai
+ apprêtais | apprêtai
+
+ 
+('aient', 'irent') : 
+ rejoignaient | rejoign
+ rejoignirent | rejoign
+
+ 
+('mment', 'r', 't') : 
+ violer | viole
+ violemment | viole
+ violet | viole
+
+ 
+('a', 'aient', 'ant', 'é') : 
+ projetaient | projet
+ projetant | projet
+ projeté | projet
+ projeta | projet
+
+ 
+('geait', 'ient') : 
+ partaient | parta
+ partageait | parta
+
+ 
+('a', 'é') : 
+ résigna | résign
+ volatilisé | volatilis
+ volatilisa | volatilis
+ détailla | détaill
+ envola | envol
+ détaillé | détaill
+ fâcha | fâch
+ fasciné | fascin
+ fâché | fâch
+ résigné | résign
+ envolé | envol
+ fascina | fascin
+ secoua | secou
+ secoué | secou
+
+ 
+('e', 'u') : 
+ moustache | moustach
+ touffu | touff
+ moustachu | moustach
+ barbu | barb
+ touffe | touff
+ barbe | barb
+
+ 
+('a', 'aient', 'ait', 'and', 'e', 'er', 'èrent', 'é') : 
+ marché | march
+ marchand | march
+ marcha | march
+ marcher | march
+ marchèrent | march
+ marchait | march
+ marche | march
+ marchaient | march
+
+ 
+('tait',) : 
+ comptait | comp
+
+ 
+('c', 'e') : 
+ emeric | emeri
+ emerie | emeri
+
+ 
+('a', 'ait', 'er') : 
+ consolait | consol
+ consola | consol
+ hésita | hésit
+ rattraper | rattrap
+ hésiter | hésit
+ éprouva | éprouv
+ hésitait | hésit
+ consoler | consol
+ rattrapait | rattrap
+ rattrapa | rattrap
+ éprouver | éprouv
+ éprouvait | éprouv
+
+ 
+('e', 'r', 't') : 
+ aplatie | aplati
+ aplatit | aplati
+ évanouie | évanoui
+ aplatir | aplati
+ évanouit | évanoui
+ évanouir | évanoui
+
+ 
+('çant',) : 
+ renonçant | renon
+ agaçant | aga
+ fronçant | fron
+
+ 
+('a', 'aient', 'ait', 'e', 'er', 'ons', 'èrent', 'é') : 
+ continue | continu
+ continuaient | continu
+ continuons | continu
+ continué | continu
+ continuait | continu
+ continua | continu
+ continuèrent | continu
+ continuer | continu
+
+ 
+('nt', 'rait', 's') : 
+ jouerait | joue
+ joues | joue
+ jouent | joue
+
+ 
+('ait', 'er', 'eur') : 
+ rêvait | rêv
+ rêveur | rêv
+ rêver | rêv
+
+ 
+('a', 'ait', 'e', 'er', 'ez', 'é') : 
+ reste | rest
+ resta | rest
+ restait | rest
+ rester | rest
+ resté | rest
+ restez | rest
+
+ 
+('ment', 'reux') : 
+ doucereux | douce
+ doucement | douce
+
+ 
+('ait', 'ant', 'ement') : 
+ gémissement | gémiss
+ gémissant | gémiss
+ gémissait | gémiss
+
+ 
+('tent',) : 
+ content | con
+
+ 
+('ant', 'er', 'ouit', 'ui') : 
+ enfui | enf
+ enfer | enf
+ enfant | enf
+ enfouit | enf
+
+ 
+('ant', 'er') : 
+ goûter | goût
+ goûtant | goût
+ contourner | contourn
+ désarçonnant | désarçonn
+ dévorant | dévor
+ contournant | contourn
+ désarçonner | désarçonn
+ déballant | déball
+ déballer | déball
+ dévorer | dévor
+ guetter | guett
+ guettant | guett
+
+ 
+('ant', 'er', 'èrent', 'é') : 
+ détacher | détach
+ détachant | détach
+ détaché | détach
+ détachèrent | détach
+
+ 
+('l', 'tion') : 
+ animation | anima
+ animal | anima
+
+ 
+('ées',) : 
+ poignées | poign
+
+ 
+('r', 't') : 
+ atterrit | atterri
+ bondit | bondi
+ réussit | réussi
+ offrir | offri
+ jaillit | jailli
+ ouvrit | ouvri
+ bondir | bondi
+ réussir | réussi
+ brandir | brandi
+ endormit | endormi
+ dormir | dormi
+ découvrir | découvri
+ ressentit | ressenti
+ découvrit | découvri
+ dormit | dormi
+ brandit | brandi
+ franchir | franchi
+ ouvrir | ouvri
+ réfléchir | réfléchi
+ repartir | reparti
+ offrit | offri
+ prévoir | prévoi
+ ralentit | ralenti
+ ressentir | ressenti
+ repartit | reparti
+ jaillir | jailli
+ franchit | franchi
+ rouvrir | rouvri
+ ralentir | ralenti
+ endormir | endormi
+ atterrir | atterri
+ rouvrit | rouvri
+ réfléchit | réfléchi
+ prévoit | prévoi
+
+ 
+('tes', 'til') : 
+ dites | di
+ ditil | di
+
+ 
+('t', 'tant') : 
+ éclatant | écla
+ sursautant | sursau
+ sursaut | sursau
+ éclat | écla
+
+ 
+('aient', 'e', 'er', 'é') : 
+ dressaient | dress
+ dressé | dress
+ dresser | dress
+ dresse | dress
+
+ 
+('dait', 'dit') : 
+ fendit | fen
+ fendait | fen
+
+ 
+('ion', 'é') : 
+ télévisé | télévis
+ télévision | télévis
+
+ 
+('a', 'aient', 'ait', 'ement', 'er') : 
+ déroulement | déroul
+ déroulaient | déroul
+ chuchotaient | chuchot
+ chuchotait | chuchot
+ déroulait | déroul
+ chuchoter | chuchot
+ chuchota | chuchot
+ dérouler | déroul
+ chuchotement | chuchot
+ déroula | déroul
+
+ 
+('a', 'ation', 'èrent') : 
+ exclama | exclam
+ exclamèrent | exclam
+ exclamation | exclam
+
+ 
+('ait', 'ant') : 
+ riant | ri
+ riait | ri
+
+ 
+('old',) : 
+ harold | har
+
+ 
+('a', 'er', 'tion') : 
+ distribution | distribu
+ distribuer | distribu
+ distribua | distribu
+
+ 
+('ait', 'ez', 'mait') : 
+ ferait | fer
+ ferez | fer
+ fermait | fer
+
+ 
+('a', 'e', 'ement', 'er') : 
+ sombrement | sombr
+ sombra | sombr
+ sombre | sombr
+ sombrer | sombr
+
+ 
+('er', 'ément') : 
+ séparément | sépar
+ séparer | sépar
+
+ 
+('es',) : 
+ obscures | obscur
+ épines | épin
+
+ 
+('aient', 'ait', 'ant', 'ez', 'ons', 'u') : 
+ revenu | reven
+ revenons | reven
+ revenez | reven
+ revenaient | reven
+ revenant | reven
+ revenait | reven
+
+ 
+('ait', 'ant', 'ent', 'ons') : 
+ disant | dis
+ disons | dis
+ disait | dis
+ disent | dis
+
+ 
+('r', 'rent', 't') : 
+ retentir | retenti
+ retentirent | retenti
+ retentit | retenti
+
+ 
+('é', 'ément') : 
+ désespéré | désespér
+ désespérément | désespér
+
+ 
+('rit',) : 
+ apprit | app
+
+ 
+('ait', 'e', 'er') : 
+ coûtait | coût
+ coûte | coût
+ surveiller | surveill
+ surveillait | surveill
+ surveille | surveill
+ coûter | coût
+
+ 
+('sson',) : 
+ écusson | écu
+ unisson | uni
+
+ 
+('ent', 'gner') : 
+ soient | soi
+ soigner | soi
+
+ 
+('e', 'eux') : 
+ nombre | nombr
+ nuageux | nuag
+ nombreux | nombr
+ broussaille | broussaill
+ heureux | heur
+ heure | heur
+ nuage | nuag
+ broussailleux | broussaill
+
+ 
+('g',) : 
+ aaaaaaaaaarg | aaaaaaaaaar
+ sterling | sterlin
+ whinging | whingin
+ pudding | puddin
+ bowling | bowlin
+ punching | punchin
+ smelting | smeltin
+
+ 
+('cer', 't', 'çait') : 
+ effort | effor
+ efforçait | effor
+ efforcer | effor
+
+ 
+('ges', 'tch') : 
+ match | ma
+ mages | ma
+
+ 
+('ait', 'er', 'é') : 
+ supprimait | supprim
+ cramponné | cramponn
+ cramponner | cramponn
+ cramponnait | cramponn
+ supprimer | supprim
+ supprimé | supprim
+
+ 
+('ant', 'rent', 'ses', 'ver') : 
+ priant | pri
+ prirent | pri
+ prises | pri
+ priver | pri
+
+ 
+('ent', 't') : 
+ trahissait | trahissai
+ promettait | promettai
+ dormaient | dormai
+ chatouillait | chatouillai
+ apparaissaient | apparaissai
+ recouvrait | recouvrai
+ réchauffaient | réchauffai
+ dormait | dormai
+ hâtaient | hâtai
+ haïssaient | haïssai
+ trahissaient | trahissai
+ méritait | méritai
+ méritaient | méritai
+ chatouillaient | chatouillai
+ réchauffait | réchauffai
+ vendait | vendai
+ hâtait | hâtai
+ vendaient | vendai
+ haïssait | haïssai
+ promettaient | promettai
+ apparaissait | apparaissai
+ recouvraient | recouvrai
+
+ 
+('ement', 'i', 'irent') : 
+ franchement | franch
+ franchi | franch
+ franchirent | franch
+
+ 
+('der', 'dez', 'ent', 'guë', 'les') : 
+ aient | ai
+ aider | ai
+ ailes | ai
+ aiguë | ai
+ aidez | ai
+
+ 
+('ober',) : 
+ dérober | dér
+
+ 
+('aient', 'ent', 'ez') : 
+ connaissez | connaiss
+ connaissent | connaiss
+ connaissaient | connaiss
+
+ 
+('e', 'ecinq') : 
+ soixante | soixant
+ soixantecinq | soixant
+
+ 
+('e', 'pées') : 
+ crispées | cris
+ crise | cris
+
+ 
+('ait', 'u') : 
+ devenu | deven
+ devenait | deven
+
+ 
+('a', 'aient', 'ant', 'e', 'er') : 
+ travailler | travaill
+ travailla | travaill
+ travaillaient | travaill
+ travaillant | travaill
+ travaille | travaill
+
+ 
+('ait', 'e') : 
+ plaignait | plaign
+ plaigne | plaign
+
+ 
+('nt', 'ntes') : 
+ pointes | poi
+ point | poi
+
+ 
+('ant', 'er', 'é') : 
+ piquer | piqu
+ terrifié | terrifi
+ appuyant | appuy
+ piquant | piqu
+ appuyé | appuy
+ terrifiant | terrifi
+ terrifier | terrifi
+ appuyer | appuy
+ piqué | piqu
+
+ 
+('e', 'ez', 'u') : 
+ fichu | fich
+ fichez | fich
+ fiche | fich
+
+ 
+('t',) : 
+ disparut | disparu
+ moquait | moquai
+ debout | debou
+ échafaudant | échafaudan
+ ourlet | ourle
+ deviendrait | deviendrai
+ tuait | tuai
+ relut | relu
+ ressemblât | ressemblâ
+ repensait | repensai
+ débordaient | débordaien
+ surtout | surtou
+ tabouret | taboure
+ firent | firen
+ applaudissait | applaudissai
+ voulut | voulu
+ peuvent | peuven
+ revoyait | revoyai
+ satisfait | satisfai
+ verdoyant | verdoyan
+ plupart | plupar
+ machinalement | machinalemen
+ masquaient | masquaien
+ ôtèrent | ôtèren
+ mécontent | méconten
+ sautillant | sautillan
+ forcément | forcémen
+ claudiquant | claudiquan
+ respect | respec
+ finalement | finalemen
+ multipliant | multiplian
+ couvert | couver
+ quitterait | quitterai
+ remplissait | remplissai
+ conquérant | conquéran
+ refluaient | refluaien
+ roulèrent | roulèren
+ partout | partou
+ patounet | patoune
+ conservait | conservai
+ élevèrent | élevèren
+ étonnerait | étonnerai
+ invariablement | invariablemen
+ hengist | hengis
+ percevait | percevai
+ permet | perme
+ débattait | débattai
+ endort | endor
+ robinet | robine
+ mourrait | mourrai
+ paissaient | paissaien
+ récemment | récemmen
+ préfet | préfe
+ asseyait | asseyai
+ vingt | ving
+ enchaînait | enchaînai
+ chaleureusement | chaleureusemen
+ exact | exac
+ circulent | circulen
+ etait | etai
+ interrompit | interrompi
+ foncèrent | foncèren
+ officiellement | officiellemen
+ veulent | veulen
+ distinctement | distinctemen
+ arrêt | arrê
+ retroussait | retroussai
+ instantanément | instantanémen
+ brocklehurst | brocklehurs
+ toast | toas
+ pansement | pansemen
+ aconit | aconi
+ abattit | abatti
+ assaut | assau
+ forêt | forê
+ stupéfait | stupéfai
+ secret | secre
+ complètement | complètemen
+ bavardait | bavardai
+ assourdissant | assourdissan
+ subissent | subissen
+ wight | wigh
+ entreprit | entrepri
+ tassèrent | tassèren
+ permettait | permettai
+ éléphant | éléphan
+ garderait | garderai
+ ouvrirait | ouvrirai
+ particulièrement | particulièremen
+ sérieusement | sérieusemen
+ détestait | détestai
+ balayait | balayai
+ émergeait | émergeai
+ dégivrait | dégivrai
+ doigt | doig
+ amicalement | amicalemen
+ ululement | ululemen
+ accourait | accourai
+ président | présiden
+ kraft | kraf
+ courageusement | courageusemen
+ affaissèrent | affaissèren
+ ciment | cimen
+ basket | baske
+ hurlèrent | hurlèren
+ frayèrent | frayèren
+ encadrement | encadremen
+ grossièrement | grossièremen
+ réduit | rédui
+ reconnut | reconnu
+ avidement | avidemen
+ égout | égou
+ nettement | nettemen
+ apparut | apparu
+ obtiendrait | obtiendrai
+ dudlynouchet | dudlynouche
+ poulet | poule
+ fallut | fallu
+ sifflet | siffle
+ nedoit | nedoi
+ séparait | séparai
+ plaît | plaî
+ assombrit | assombri
+ expert | exper
+ pleurnichait | pleurnichai
+ portrait | portrai
+ conclut | conclu
+ soigneusement | soigneusemen
+ ressaisit | ressaisi
+ parsemait | parsemai
+ moment | momen
+ voldemort | voldemor
+ vainement | vainemen
+ appliquait | appliquai
+ hochèrent | hochèren
+ offert | offer
+ singulièrement | singulièremen
+ tenait | tenai
+ paraissait | paraissai
+ fulminait | fulminai
+ arpentait | arpentai
+ flairaient | flairaien
+ titubant | tituban
+ implorait | implorai
+ accourut | accouru
+ consumèrent | consumèren
+ négligeait | négligeai
+ élargit | élargi
+ apercevait | apercevai
+ moquerait | moquerai
+ beignet | beigne
+ passèrent | passèren
+ fléchirent | fléchiren
+ hochement | hochemen
+ craignait | craignai
+ éclipsèrent | éclipsèren
+ saluèrent | saluèren
+ géant | géan
+ spinnet | spinne
+ ronflait | ronflai
+ récit | réci
+ spécialement | spécialemen
+ formellement | formellemen
+ également | égalemen
+ flottait | flottai
+ sèchement | sèchemen
+ enfreint | enfrein
+ indifférent | indifféren
+ décrivit | décrivi
+ ressemblerait | ressemblerai
+ adalbert | adalber
+ abondamment | abondammen
+ dégageait | dégageai
+ rapporterait | rapporterai
+ réapparut | réapparu
+ amèrement | amèremen
+ dégât | dégâ
+ fuyait | fuyai
+ continuellement | continuellemen
+ possédait | possédai
+ aiderait | aiderai
+ réfléchissait | réfléchissai
+ lurent | luren
+ inondait | inondai
+ franchissaient | franchissaien
+ ouvert | ouver
+ léchèrent | léchèren
+ vivement | vivemen
+ timidement | timidemen
+ entrerait | entrerai
+ choisissait | choisissai
+ regret | regre
+ écouterait | écouterai
+ rebondissant | rebondissan
+ effet | effe
+ descendit | descendi
+ cliquetèrent | cliquetèren
+ exclusivement | exclusivemen
+ endroit | endroi
+ reconnaissait | reconnaissai
+ étendit | étendi
+ complet | comple
+ amusèrent | amusèren
+ ruisselant | ruisselan
+ rétablissement | rétablissemen
+ ocnot | ocno
+ disparaît | disparaî
+ contact | contac
+ provenait | provenai
+ obligatoirement | obligatoiremen
+ goulot | goulo
+ blottit | blotti
+ raffut | raffu
+ plutôt | plutô
+ rapprochait | rapprochai
+ forfait | forfai
+ désignaient | désignaien
+ jetèrent | jetèren
+ répandait | répandai
+ méchant | méchan
+ brandissait | brandissai
+ inexistant | inexistan
+ interdisait | interdisai
+ étendait | étendai
+ bruissement | bruissemen
+ essaierait | essaierai
+ avertissement | avertissemen
+ abritait | abritai
+ altérait | altérai
+ reflet | refle
+ muret | mure
+ fermèrent | fermèren
+ intelligent | intelligen
+ immédiatement | immédiatemen
+ contestaient | contestaien
+ sport | spor
+ convenait | convenai
+ wagonnet | wagonne
+ chauffaient | chauffaien
+ trônait | trônai
+ répondit | répondi
+ gardèrent | gardèren
+ inlassablement | inlassablemen
+ châtiment | châtimen
+ réduisit | réduisi
+ aspect | aspec
+ resserrait | resserrai
+ lassait | lassai
+ fainéant | fainéan
+ cordialement | cordialemen
+ aperçut | aperçu
+ vrombissement | vrombissemen
+ impeccablement | impeccablemen
+ arriverait | arriverai
+ passablement | passablemen
+ rompit | rompi
+ changerait | changerai
+ cachot | cacho
+ chevet | cheve
+ effectuait | effectuai
+ redeviendrait | redeviendrai
+ attentivement | attentivemen
+ javelot | javelo
+ soupçonnait | soupçonnai
+ londubat | londuba
+ parvenait | parvenai
+ gringott | gringot
+ foisonnement | foisonnemen
+ demanderait | demanderai
+ excellent | excellen
+ signifiait | signifiai
+ dandinant | dandinan
+ paquet | paque
+ bonnet | bonne
+ déprimant | dépriman
+ défaut | défau
+ poignet | poigne
+ rapport | rappor
+ semblerait | semblerai
+ serrèrent | serrèren
+ compartiment | compartimen
+ projet | proje
+ comptabilisaient | comptabilisaien
+ galopaient | galopaien
+ rugit | rugi
+ vidèrent | vidèren
+ perroquet | perroque
+ admirablement | admirablemen
+ indéfiniment | indéfinimen
+ idiot | idio
+ écart | écar
+ redoutait | redoutai
+ exactement | exactemen
+ instinct | instinc
+ hululement | hululemen
+ rugissement | rugissemen
+ caquètement | caquètemen
+ haïrait | haïrai
+ bruit | brui
+ dépendait | dépendai
+ événement | événemen
+ éteignit | éteigni
+ harcelait | harcelai
+ objet | obje
+ désert | déser
+ zigzaguait | zigzaguai
+ vibrait | vibrai
+ tournoyait | tournoyai
+ rougeoyaient | rougeoyaien
+ entrèrent | entrèren
+ dixsept | dixsep
+ phosphorescent | phosphorescen
+ auparavant | auparavan
+ eurent | euren
+ juillet | juille
+ maugréant | maugréan
+ buvait | buvai
+ ruèrent | ruèren
+ fallait | fallai
+ parfaitement | parfaitemen
+ amuserait | amuserai
+ tombèrent | tombèren
+ rapetissait | rapetissai
+ indiquerait | indiquerai
+ espérait | espérai
+ sûrement | sûremen
+ poursuit | poursui
+ extrayait | extrayai
+ affinait | affinai
+ esprit | espri
+ consciencieusement | consciencieusemen
+ parviendrait | parviendrai
+ vigoureusement | vigoureusemen
+ avérait | avérai
+ cependant | cependan
+ chariot | chario
+ championnat | championna
+ bienveillant | bienveillan
+ culot | culo
+ bombardait | bombardai
+ opposerait | opposerai
+ ennuierait | ennuierai
+ braillait | braillai
+ errèrent | errèren
+ paraît | paraî
+ filet | file
+ aigrelet | aigrele
+ tortillant | tortillan
+ vêtement | vêtemen
+ abbot | abbo
+ barrèrent | barrèren
+ émouvant | émouvan
+ montèrent | montèren
+ haletant | haletan
+ conséquent | conséquen
+ littéralement | littéralemen
+ traquant | traquan
+ roast | roas
+ réagissent | réagissen
+ carnet | carne
+ léchait | léchai
+ glapit | glapi
+ tonitruant | tonitruan
+ envahissaient | envahissaien
+ ressort | ressor
+ trajet | traje
+ convulsèrent | convulsèren
+ faillit | failli
+ parquet | parque
+ ratait | ratai
+ accident | acciden
+ produisit | produisi
+ chahut | chahu
+ rosirent | rosiren
+ probablement | probablemen
+ maisnonmaisquoimaispasdutout | maisnonmaisquoimaispasdutou
+ consistait | consistai
+ ensuivit | ensuivi
+ découvert | découver
+ dudlinouchet | dudlinouche
+ repassait | repassai
+ valut | valu
+ arrangerait | arrangerai
+ hâtèrent | hâtèren
+ sabot | sabo
+ fouettait | fouettai
+ étreignait | étreignai
+ mêlaient | mêlaien
+ éclaircit | éclairci
+ retentissait | retentissai
+ gémit | gémi
+ bégaiement | bégaiemen
+ ahanant | ahanan
+ millicent | millicen
+ entrouvrit | entrouvri
+ résultat | résulta
+ notamment | notammen
+ inquiet | inquie
+ pantelant | pantelan
+ pressait | pressai
+ woodcroft | woodcrof
+ agissait | agissai
+ bordaient | bordaien
+ écrièrent | écrièren
+ bégayait | bégayai
+ intérêt | intérê
+ billet | bille
+ biscuit | biscui
+ prewett | prewet
+ làhaut | làhau
+ privet | prive
+ conduisit | conduisi
+ passerait | passerai
+ exagérait | exagérai
+ heureusement | heureusemen
+ achèterait | achèterai
+ pilotait | pilotai
+ élégant | élégan
+ rapeltout | rapeltou
+ constituait | constituai
+ appât | appâ
+ écoulerait | écoulerai
+ habitat | habita
+ accentuant | accentuan
+ longèrent | longèren
+ bientôt | bientô
+ fredonnait | fredonnai
+ urgent | urgen
+ levèrent | levèren
+ martelaient | martelaien
+ crièrent | crièren
+ chocolat | chocola
+ sujet | suje
+ arboraient | arboraien
+ aussitôt | aussitô
+ rencognèrent | rencognèren
+ filèrent | filèren
+ sillonnait | sillonnai
+ gobelet | gobele
+ mouvement | mouvemen
+ combat | comba
+ recouvert | recouver
+ trahirait | trahirai
+ ressemblait | ressemblai
+ grattait | grattai
+ début | débu
+ impatient | impatien
+ restèrent | restèren
+ départ | dépar
+ représentait | représentai
+ quasiment | quasimen
+ transperçaient | transperçaien
+ allèrent | allèren
+ norbert | norber
+
+ 
+('a', 'èrent', 'é') : 
+ éveillé | éveill
+ éveillèrent | éveill
+ éveilla | éveill
+
+ 
+('er', 't', 'é') : 
+ salué | salu
+ salut | salu
+ saluer | salu
+
+ 
+('n',) : 
+ mollasson | mollasso
+ magasin | magasi
+ matin | mati
+ badin | badi
+ auburn | aubur
+ violation | violatio
+ commun | commu
+ dessin | dessi
+ exception | exceptio
+ destin | desti
+ finnigan | finniga
+ combien | combie
+ sapin | sapi
+ appréhension | appréhensio
+ soudain | soudai
+ émission | émissio
+ norvégien | norvégie
+ gardien | gardie
+ festin | festi
+ ascension | ascensio
+ adrian | adria
+ solution | solutio
+ demain | demai
+ cousin | cousi
+ aquilin | aquili
+ chacun | chacu
+ embarcation | embarcatio
+ prochain | prochai
+ chemin | chemi
+ halloween | hallowee
+ ambition | ambitio
+ ruban | ruba
+ africain | africai
+ quentin | quenti
+ barman | barma
+ bambin | bambi
+ bouquin | bouqui
+ détonation | détonatio
+ parchemin | parchemi
+ wagon | wago
+ train | trai
+ déception | déceptio
+ occasion | occasio
+ jardin | jardi
+ souterrain | souterrai
+ brown | brow
+ turpin | turpi
+ califourchon | califourcho
+ correction | correctio
+ possession | possessio
+ tourbillon | tourbillo
+ jordan | jorda
+ groin | groi
+ beaulitron | beaulitro
+ démonstration | démonstratio
+ pantalon | pantalo
+ merlin | merli
+ maman | mama
+ confédération | confédératio
+ turban | turba
+ humain | humai
+ question | questio
+ buisson | buisso
+ lointain | lointai
+ porpington | porpingto
+ plein | plei
+ cornichon | cornicho
+ susan | susa
+ signalisation | signalisatio
+ collaboration | collaboratio
+ jubilation | jubilatio
+ sensation | sensatio
+ baldaquin | baldaqui
+ frisson | frisso
+ moyen | moye
+ conversation | conversatio
+ serein | serei
+ lendemain | lendemai
+ examen | exame
+ situation | situatio
+ cadran | cadra
+ certain | certai
+ éducation | éducatio
+ nomen | nome
+ irruption | irruptio
+ acquisition | acquisitio
+ citron | citro
+ position | positio
+ réaction | réactio
+ ovation | ovatio
+ mckinnon | mckinno
+ paddington | paddingto
+ terrain | terrai
+ mission | missio
+ sélection | sélectio
+ enfin | enfi
+ cochon | cocho
+ décoration | décoratio
+ coussin | coussi
+ lapin | lapi
+ bifurcation | bifurcatio
+ ronan | rona
+ infusion | infusio
+ contemporain | contemporai
+ besoin | besoi
+ malin | mali
+ brésilien | brésilie
+ chien | chie
+ impression | impressio
+ gobelin | gobeli
+ johnson | johnso
+ explication | explicatio
+ récréation | récréatio
+ précaution | précautio
+ mcguffin | mcguffi
+ jambencoton | jambencoto
+ moulin | mouli
+ réflexion | réflexio
+ chérubin | chérubi
+ aucun | aucu
+ prononciation | prononciatio
+ voisin | voisi
+ colimaçon | colimaço
+ réputation | réputatio
+ hautain | hautai
+ réception | réceptio
+ viridian | viridia
+
+ 
+('d', 'dron') : 
+ chaudron | chau
+ chaud | chau
+
+ 
+('a', 'er', 'ez', 'é') : 
+ envoyer | envoy
+ envoyez | envoy
+ envoya | envoy
+ envoyé | envoy
+
+ 
+('e', 'er', 'é', 'ées') : 
+ glacé | glac
+ glace | glac
+ glacer | glac
+ glacées | glac
+
+ 
+('d', 'dait') : 
+ abord | abor
+ abordait | abor
+
+ 
+('aux', 'ux') : 
+ gâteaux | gâte
+ gâteux | gâte
+
+ 
+('if',) : 
+ instinctif | instinct
+ qualificatif | qualificat
+ admiratif | admirat
+ adhésif | adhés
+ dispositif | disposit
+ émotif | émot
+
+ 
+('e', 'ent') : 
+ promènent | promèn
+ aperçoive | aperçoiv
+ aperçoivent | aperçoiv
+ fasse | fass
+ promène | promèn
+ fassent | fass
+
+ 
+('ller',) : 
+ mordiller | mordi
+ distiller | disti
+
+ 
+('ement', 'ion', 'ions') : 
+ direction | direct
+ directions | direct
+ directement | direct
+
+ 
+('r', 'ssant', 't') : 
+ frémit | frémi
+ frémissant | frémi
+ frémir | frémi
+
+ 
+('a', 'ait', 'er', 'ez', 'èrent') : 
+ traînait | traîn
+ traînèrent | traîn
+ traînez | traîn
+ traîner | traîn
+ traîna | traîn
+
+ 
+('e', 'eaux', 's') : 
+ plate | plat
+ plats | plat
+ plateaux | plat
+
+ 
+('a', 'ait', 'e', 'ent', 'er', 'ez', 'èrent', 'é') : 
+ arrêté | arrêt
+ arrêtait | arrêt
+ arrêtent | arrêt
+ arrêtez | arrêt
+ arrêtèrent | arrêt
+ arrêta | arrêt
+ arrête | arrêt
+ arrêter | arrêt
+
+ 
+('a', 'ait', 'ant', 'er', 'ez', 'ées') : 
+ éloigner | éloign
+ éloignées | éloign
+ éloignez | éloign
+ éloignant | éloign
+ éloignait | éloign
+ éloigna | éloign
+
+ 
+('gées', 'tait') : 
+ chantait | chan
+ changées | chan
+
+ 
+('eant', 'é') : 
+ rongé | rong
+ rongeant | rong
+
+ 
+('er', 'ion') : 
+ collection | collect
+ collecter | collect
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'er', 'èrent', 'é') : 
+ traversèrent | travers
+ traversa | travers
+ traverse | travers
+ traversaient | travers
+ traversant | travers
+ traversait | travers
+ traverser | travers
+ traversé | travers
+
+ 
+('a', 'e', 'ement', 'er', 's', 'èrent', 'é') : 
+ contents | content
+ contenta | content
+ contenté | content
+ contenter | content
+ contentèrent | content
+ contente | content
+ contentement | content
+
+ 
+('p',) : 
+ notsap | notsa
+ ketchup | ketchu
+ handicap | handica
+ galop | galo
+ échapp | échap
+
+ 
+('ait', 'ant', 'ent', 'ez', 'i') : 
+ suivait | suiv
+ suivant | suiv
+ suivez | suiv
+ suivent | suiv
+ suivi | suiv
+
+ 
+('ag', 'al', 'dant', 'dit', 'tel', 'tes') : 
+ mordit | mor
+ morag | mor
+ mortes | mor
+ mordant | mor
+ moral | mor
+ mortel | mor
+
+ 
+('e', 'ier') : 
+ banquier | banqu
+ banque | banqu
+ grosse | gross
+ grossier | gross
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'er', 'es', 'ez', 'èrent', 'é', 'ée') : 
+ retournait | retourn
+ retournez | retourn
+ retournaient | retourn
+ retourner | retourn
+ retourna | retourn
+ retournèrent | retourn
+ retourne | retourn
+ retourné | retourn
+ retournant | retourn
+ retournée | retourn
+ retournes | retourn
+
+ 
+('sent', 't') : 
+ produisent | produi
+ produit | produi
+
+ 
+('aient', 'ait', 's') : 
+ serpents | serpent
+ serpentaient | serpent
+ serpentait | serpent
+
+ 
+('t', 'ttent') : 
+ soumettent | soume
+ soumet | soume
+
+ 
+('rai', 'tait') : 
+ boirai | boi
+ boitait | boi
+
+ 
+('arier', 'e') : 
+ contre | contr
+ contrarier | contr
+
+ 
+('ient',) : 
+ sentaient | senta
+ rendaient | renda
+ portaient | porta
+ prenaient | prena
+ ouvraient | ouvra
+ gardaient | garda
+ donnaient | donna
+ passaient | passa
+ pendaient | penda
+ parvient | parv
+ convient | conv
+ mettaient | metta
+ disaient | disa
+ fondaient | fonda
+ contient | cont
+ collaient | colla
+ scandaient | scanda
+ forçaient | força
+ suivaient | suiva
+ sortaient | sorta
+ souvient | souv
+ tendaient | tenda
+ enfuient | enfu
+ montaient | monta
+ battaient | batta
+ filaient | fila
+ croient | cro
+ tiraient | tira
+
+ 
+('ons',) : 
+ avons | av
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'er', 'ez', 'é') : 
+ chercha | cherch
+ cherchez | cherch
+ cherchaient | cherch
+ cherchant | cherch
+ chercher | cherch
+ cherché | cherch
+ cherche | cherch
+ cherchait | cherch
+
+ 
+('aient', 's') : 
+ bavardaient | bavard
+ bavards | bavard
+
+ 
+('arer', 'lit') : 
+ emplit | emp
+ emparer | emp
+
+ 
+('ait', 'er', 'ies') : 
+ tapait | tap
+ taper | tap
+ tapies | tap
+
+ 
+('e',) : 
+ commerce | commerc
+ métamorphose | métamorphos
+ arrondie | arrondi
+ suppléante | suppléant
+ préfère | préfèr
+ surveillance | surveillanc
+ plaisante | plaisant
+ surface | surfac
+ principale | principal
+ guimauve | guimauv
+ cintre | cintr
+ sillage | sillag
+ fraise | frais
+ flûte | flût
+ firenze | firenz
+ produire | produir
+ hantise | hantis
+ épouvante | épouvant
+ vertueuse | vertueus
+ ouste | oust
+ comédie | comédi
+ bizarre | bizarr
+ victoire | victoir
+ frère | frèr
+ compacte | compact
+ sympathie | sympathi
+ souffrance | souffranc
+ cambriolage | cambriolag
+ séance | séanc
+ origine | origin
+ perspective | perspectiv
+ période | périod
+ entrouverte | entrouvert
+ victime | victim
+ postale | postal
+ répugnante | répugnant
+ justesse | justess
+ trappe | trapp
+ minute | minut
+ volière | volièr
+ fendre | fendr
+ poêle | poêl
+ gloire | gloir
+ confidentielle | confidentiell
+ spectaculaire | spectaculair
+ occurrence | occurrenc
+ brûlure | brûlur
+ cadavre | cadavr
+ entourée | entouré
+ frappée | frappé
+ vitrine | vitrin
+ suppose | suppos
+ clairière | clairièr
+ accoutumée | accoutumé
+ voyage | voyag
+ hélicoptère | hélicoptèr
+ moindre | moindr
+ étage | étag
+ vivre | vivr
+ plastique | plastiqu
+ touillage | touillag
+ libre | libr
+ rentrée | rentré
+ brindille | brindill
+ pliable | pliabl
+ artifice | artific
+ mémoire | mémoir
+ quinzaine | quinzain
+ montagne | montagn
+ campagne | campagn
+ maléfice | maléfic
+ belle | bell
+ dinde | dind
+ impraticable | impraticabl
+ cinquantaine | cinquantain
+ nouvelle | nouvell
+ carbone | carbon
+ puisque | puisqu
+ théorique | théoriqu
+ stupéfaite | stupéfait
+ éteinte | éteint
+ armoise | armois
+ chevelure | chevelur
+ cuisinière | cuisinièr
+ beurre | beurr
+ culture | cultur
+ regrettable | regrettabl
+ poivre | poivr
+ lettre | lettr
+ hymne | hymn
+ planche | planch
+ créature | créatur
+ bronze | bronz
+ jette | jett
+ arrière | arrièr
+ vendre | vendr
+ prochaine | prochain
+ suite | suit
+ follingue | follingu
+ accueillante | accueillant
+ plume | plum
+ queloue | quelou
+ réduire | réduir
+ assurée | assuré
+ assiette | assiett
+ langue | langu
+ mijote | mijot
+ bruyante | bruyant
+ navrée | navré
+ éventrée | éventré
+ pénombre | pénombr
+ suprême | suprêm
+ charlie | charli
+ route | rout
+ survivre | survivr
+ surprendre | surprendr
+ personnage | personnag
+ bandoulière | bandoulièr
+ tentative | tentativ
+ barque | barqu
+ cuivre | cuivr
+ gorgée | gorgé
+ secrète | secrèt
+ algie | algi
+ déteindre | déteindr
+ transe | trans
+ guipure | guipur
+ abîmée | abîmé
+ clémente | clément
+ élève | élèv
+ malade | malad
+ racine | racin
+ présage | présag
+ sucette | sucett
+ douce | douc
+ fabriquée | fabriqué
+ aiguille | aiguill
+ vampire | vampir
+ époque | époqu
+ tempête | tempêt
+ restée | resté
+ piste | pist
+ huitième | huitièm
+ meuble | meubl
+ jentremble | jentrembl
+ adressée | adressé
+ pelouse | pelous
+ poursuiveuse | poursuiveus
+ assourdissante | assourdissant
+ charnière | charnièr
+ telle | tell
+ altitude | altitud
+ votre | votr
+ presque | presqu
+ grâce | grâc
+ audace | audac
+ siècle | siècl
+ torse | tors
+ étoffe | étoff
+ proie | proi
+ égoïste | égoïst
+ routière | routièr
+ exemple | exempl
+ davantage | davantag
+ zombie | zombi
+ flûtée | flûté
+ obstacle | obstacl
+ imprégnée | imprégné
+ problème | problèm
+ boite | boit
+ plaisanterie | plaisanteri
+ dérangée | dérangé
+ chauve | chauv
+ extraterrestre | extraterrestr
+ haleine | halein
+ sotte | sott
+ espère | espèr
+ élégante | élégant
+ grasse | grass
+ prétendre | prétendr
+ lorsque | lorsqu
+ avise | avis
+ nourriture | nourritur
+ rangée | rangé
+ balance | balanc
+ augirolle | augiroll
+ crâne | crân
+ retenue | retenu
+ confondre | confondr
+ moimême | moimêm
+ rattachée | rattaché
+ évidence | évidenc
+ poche | poch
+ bondée | bondé
+ défendre | défendr
+ aisselle | aissell
+ patte | patt
+ vertigineuse | vertigineus
+ digne | dign
+ novembre | novembr
+ morgue | morgu
+ tenue | tenu
+ fille | fill
+ abrupte | abrupt
+ mille | mill
+ échelle | échell
+ haine | hain
+ interminable | interminabl
+ honte | hont
+ répandue | répandu
+ peluche | peluch
+ merveille | merveill
+ violente | violent
+ plaindre | plaindr
+ ensemble | ensembl
+ interstice | interstic
+ couvercle | couvercl
+ little | littl
+ télescope | télescop
+ tirade | tirad
+ tristesse | tristess
+ flèche | flèch
+ émettre | émettr
+ supplice | supplic
+ ficelle | ficell
+ colère | colèr
+ ensommeillée | ensommeillé
+ paysage | paysag
+ décompte | décompt
+ réponse | répons
+ message | messag
+ étalée | étalé
+ souple | soupl
+ offre | offr
+ seconde | second
+ rôtie | rôti
+ neige | neig
+ domicile | domicil
+ reprendre | reprendr
+ monde | mond
+ locomotive | locomotiv
+ reprenne | reprenn
+ groupe | group
+ dédale | dédal
+ insupportable | insupportabl
+ déchirure | déchirur
+ coude | coud
+ chambre | chambr
+ dense | dens
+ signifie | signifi
+ révoltante | révoltant
+ crocodile | crocodil
+ riche | rich
+ hygiénique | hygiéniqu
+ effrayante | effrayant
+ chacune | chacun
+ inconfortable | inconfortabl
+ cirque | cirqu
+ immense | immens
+ perfidie | perfidi
+ renferme | renferm
+ lisière | lisièr
+ rafale | rafal
+ juste | just
+ bestiole | bestiol
+ ruine | ruin
+ bosse | boss
+ enthousiaste | enthousiast
+ envoie | envoi
+ écossaise | écossais
+ théière | théièr
+ abominable | abominabl
+ réglable | réglabl
+ monture | montur
+ sonore | sonor
+ peinée | peiné
+ surprise | surpris
+ yvonne | yvonn
+ bibine | bibin
+ exaspérée | exaspéré
+ machiniste | machinist
+ ptolémée | ptolémé
+ fillette | fillett
+ école | écol
+ mélodie | mélodi
+ relire | relir
+ livide | livid
+ commentaire | commentair
+ entorse | entors
+ george | georg
+ nulle | null
+ galerie | galeri
+ légendaire | légendair
+ katie | kati
+ offerte | offert
+ annulée | annulé
+ triste | trist
+ village | villag
+ terme | term
+ manière | manièr
+ envergure | envergur
+ étalage | étalag
+ sèche | sèch
+ stupide | stupid
+ betterave | betterav
+ membre | membr
+ éclairée | éclairé
+ hebdomadaire | hebdomadair
+ appelle | appell
+ bravoure | bravour
+ commettre | commettr
+ réglisse | régliss
+ allumette | allumett
+ nauséabonde | nauséabond
+ jusque | jusqu
+ bibliothèque | bibliothèqu
+ présence | présenc
+ mince | minc
+ poitrine | poitrin
+ lavage | lavag
+ scandale | scandal
+ résoudre | résoudr
+ pataude | pataud
+ embardée | embardé
+ copine | copin
+ comble | combl
+ diagonale | diagonal
+ bande | band
+ dommage | dommag
+ aimable | aimabl
+ moyenne | moyenn
+ quelle | quell
+ chaude | chaud
+ sévère | sévèr
+ pertinente | pertinent
+ perruque | perruqu
+ matière | matièr
+ populaire | populair
+ agonie | agoni
+ quiconque | quiconqu
+ distraire | distrair
+ myope | myop
+ quarantaine | quarantain
+ apparaître | apparaîtr
+ enthousiasme | enthousiasm
+ volatilisée | volatilisé
+ asphodèle | asphodèl
+ antipathie | antipathi
+ perle | perl
+ chance | chanc
+ imbécile | imbécil
+ uniforme | uniform
+ intelligence | intelligenc
+ fantôme | fantôm
+ elrue | elru
+ comparée | comparé
+ tonnerre | tonnerr
+ feuillage | feuillag
+ délicatesse | délicatess
+ souterraine | souterrain
+ elevage | elevag
+ énorme | énorm
+ mufle | mufl
+ déchirée | déchiré
+ cravate | cravat
+ déployée | déployé
+ mauvaise | mauvais
+ salive | saliv
+ dotée | doté
+ aille | aill
+ détruite | détruit
+ pierre | pierr
+ dumbledore | dumbledor
+ malchance | malchanc
+ corbeille | corbeill
+ somnifère | somnifèr
+ enfoncée | enfoncé
+ terence | terenc
+ rompre | rompr
+ courroucée | courroucé
+ appartenance | appartenanc
+ contenance | contenanc
+ frénésie | frénési
+ foudroyante | foudroyant
+ naine | nain
+ crique | criqu
+ récompense | récompens
+ entrebâillée | entrebâillé
+ berceuse | berceus
+ rauque | rauqu
+ collée | collé
+ battre | battr
+ titre | titr
+ visage | visag
+ sauvée | sauvé
+ boire | boir
+ enseignée | enseigné
+ lecture | lectur
+ autoroute | autorout
+ teigne | teign
+ limace | limac
+ gorille | gorill
+ génie | géni
+ élevage | élevag
+ épouvantable | épouvantabl
+ abattre | abattr
+ laquelle | laquell
+ requête | requêt
+ monnaie | monnai
+ détestable | détestabl
+ araignée | araigné
+ crépuscule | crépuscul
+ chose | chos
+ partenaire | partenair
+ troisième | troisièm
+ lisse | liss
+ coupable | coupabl
+ quatrième | quatrièm
+ arbre | arbr
+ symbole | symbol
+ importance | importanc
+ décadence | décadenc
+ foule | foul
+ parvienne | parvienn
+ enfance | enfanc
+ méfiante | méfiant
+ paume | paum
+ dizaine | dizain
+ familière | familièr
+ frange | frang
+ chatte | chatt
+ dépêchée | dépêché
+ couchage | couchag
+ diable | diabl
+ mèche | mèch
+ cadence | cadenc
+ instructive | instructiv
+ douze | douz
+ infirmerie | infirmeri
+ baume | baum
+ apprenne | apprenn
+ crabbe | crabb
+ impudence | impudenc
+ madame | madam
+ demie | demi
+ morsure | morsur
+ cérémonie | cérémoni
+ magnétoscope | magnétoscop
+ quinze | quinz
+ dispute | disput
+ physique | physiqu
+ brique | briqu
+ réticence | réticenc
+ foraine | forain
+ discipline | disciplin
+ etrange | etrang
+ courtepointe | courtepoint
+ tante | tant
+ indiquée | indiqué
+ épaule | épaul
+ encapuchonnée | encapuchonné
+ terrifiée | terrifié
+ bonhomme | bonhomm
+ dissuasive | dissuasiv
+ alliée | allié
+ pestilentielle | pestilentiell
+ attrapée | attrapé
+ mousse | mouss
+ métallique | métalliqu
+ admettre | admettr
+ couronne | couronn
+ piège | pièg
+ crochue | crochu
+ yorkshire | yorkshir
+ épouse | épous
+ cinquième | cinquièm
+ librairie | librairi
+ indice | indic
+ contrôle | contrôl
+ grêle | grêl
+ irlande | irland
+ ensuite | ensuit
+ matinée | matiné
+ essaie | essai
+ stricte | strict
+ détendre | détendr
+ saule | saul
+ siège | sièg
+ violette | violett
+ incroyable | incroyabl
+ décembre | décembr
+ branche | branch
+ casque | casqu
+ banlieue | banlieu
+ goutte | goutt
+ adjointe | adjoint
+ hedwige | hedwig
+ ville | vill
+ fracturée | fracturé
+ quarante | quarant
+ fulgurante | fulgurant
+ apprise | appris
+ afrique | afriqu
+ mâchoire | mâchoir
+ spectre | spectr
+ ganache | ganach
+ phénomène | phénomèn
+ horrible | horribl
+ opposée | opposé
+ virage | virag
+ friandise | friandis
+ rigide | rigid
+ hermine | hermin
+ poursuite | poursuit
+ viande | viand
+ prudence | prudenc
+ trente | trent
+ dingue | dingu
+ ligne | lign
+ émeraude | émeraud
+ incertaine | incertain
+ convaincante | convaincant
+ tâche | tâch
+ sardine | sardin
+ calmée | calmé
+ raisonnable | raisonnabl
+ épaisse | épaiss
+ choquée | choqué
+ scarabée | scarabé
+ muscle | muscl
+ fenêtre | fenêtr
+ vienne | vienn
+ blague | blagu
+ démente | dément
+ grasdouble | grasdoubl
+ grimace | grimac
+ année | anné
+ facture | factur
+ enfermée | enfermé
+ figée | figé
+ paraître | paraîtr
+ tordue | tordu
+ indésirable | indésirabl
+ grave | grav
+ bordée | bordé
+ construite | construit
+ piégée | piégé
+ exclure | exclur
+ citrouille | citrouill
+ superbe | superb
+ herbe | herb
+ luimême | luimêm
+ éclore | éclor
+ arbalète | arbalèt
+ dernière | dernièr
+ neville | nevill
+ toute | tout
+ nature | natur
+ gigantesque | gigantesqu
+ roumanie | roumani
+ révélée | révélé
+ surpasse | surpass
+ grandchose | grandchos
+ lignée | ligné
+ destinataire | destinatair
+ verrouillée | verrouillé
+ angoissée | angoissé
+ rythme | rythm
+ faute | faut
+ grandisse | grandiss
+ banquette | banquett
+ sauvage | sauvag
+ espèce | espèc
+ attachée | attaché
+ fumée | fumé
+ morgane | morgan
+ protégée | protégé
+ haletante | haletant
+ science | scienc
+ poubelle | poubell
+ cabane | caban
+ capable | capabl
+ chapitre | chapitr
+ plaquée | plaqué
+ décorée | décoré
+ souafle | souafl
+ incontrôlable | incontrôlabl
+ reconnaître | reconnaîtr
+ contraire | contrair
+ frémissante | frémissant
+ caoutchouteuse | caoutchouteus
+ énigme | énigm
+ chaise | chais
+ vaincre | vaincr
+ polaire | polair
+ craie | crai
+ armée | armé
+ manège | manèg
+ sympathique | sympathiqu
+ bassine | bassin
+ écosse | écoss
+ replète | replèt
+ ponctuée | ponctué
+ hôtelière | hôtelièr
+ distance | distanc
+ envie | envi
+ ouverture | ouvertur
+ soixantecinquième | soixantecinquièm
+ croire | croir
+ pareille | pareill
+ promesse | promess
+ jugeote | jugeot
+ minuscule | minuscul
+ grinçante | grinçant
+ affichage | affichag
+ réconfortante | réconfortant
+ fauconnette | fauconnett
+ inverse | invers
+ tignasse | tignass
+ aucune | aucun
+ ancienne | ancienn
+ molle | moll
+ college | colleg
+ impressionnante | impressionnant
+ proverbiale | proverbial
+ lierre | lierr
+ propriétaire | propriétair
+ ventre | ventr
+ convaincre | convaincr
+ insatiable | insatiabl
+ anguille | anguill
+ antidote | antidot
+ pétarade | pétarad
+ scandaleuse | scandaleus
+ tienne | tienn
+ tarentule | tarentul
+ tapisserie | tapisseri
+ poussière | poussièr
+ caractère | caractèr
+ cuisine | cuisin
+ secrétaire | secrétair
+ mètre | mètr
+ labyrinthe | labyrinth
+ bouillie | bouilli
+ poignée | poigné
+ jeunesse | jeuness
+ glaciale | glacial
+ brume | brum
+ centaure | centaur
+ délicieuse | délicieus
+ stade | stad
+ tabatière | tabatièr
+ devienne | devienn
+ gazette | gazett
+ valise | valis
+ grise | gris
+ pliée | plié
+ conduite | conduit
+ molosse | moloss
+ gauche | gauch
+ directrice | directric
+ perte | pert
+ soirée | soiré
+ prélevée | prélevé
+ persuadée | persuadé
+ échevelée | échevelé
+ geignarde | geignard
+ septembre | septembr
+ apparence | apparenc
+ tasse | tass
+ encombre | encombr
+ décharnée | décharné
+ excuse | excus
+ stalactite | stalactit
+ supplémentaire | supplémentair
+ trajectoire | trajectoir
+ marge | marg
+ patronne | patronn
+ marmelade | marmelad
+ clochette | clochett
+ revêtue | revêtu
+ bertie | berti
+ réapparaître | réapparaîtr
+ livre | livr
+ monocorde | monocord
+ souche | souch
+ taupe | taup
+ crime | crim
+ exercice | exercic
+ écarlate | écarlat
+ vaisselle | vaissell
+ monstrueuse | monstrueus
+ folle | foll
+ remportée | remporté
+ merveilleuse | merveilleus
+ excellence | excellenc
+ pourpre | pourpr
+ crainte | craint
+ quelconque | quelconqu
+ enflammée | enflammé
+ manche | manch
+ blanche | blanch
+ guise | guis
+ maudite | maudit
+ arcade | arcad
+ partagée | partagé
+ célèbre | célèbr
+ substance | substanc
+ grasseyante | grasseyant
+ pauvre | pauvr
+ austère | austèr
+ dégoulinante | dégoulinant
+ insigne | insign
+ orange | orang
+ curieuse | curieus
+ serdaigle | serdaigl
+ brève | brèv
+ druidesse | druidess
+ invisible | invisibl
+ refaire | refair
+ inquiétude | inquiétud
+ carrelage | carrelag
+ représente | représent
+ bouillonne | bouillonn
+ ferraille | ferraill
+ timbre | timbr
+ impatience | impatienc
+ massue | massu
+ atmosphère | atmosphèr
+ angle | angl
+ pancarte | pancart
+ préférable | préférabl
+ inondée | inondé
+ concerne | concern
+ somnolence | somnolenc
+ provenance | provenanc
+ douteuse | douteus
+ sonnerie | sonneri
+ bibliothécaire | bibliothécair
+ subtile | subtil
+ emmène | emmèn
+ sonnette | sonnett
+ comprendre | comprendr
+ alchimiste | alchimist
+ serrure | serrur
+ précédente | précédent
+ raide | raid
+ malice | malic
+ différence | différenc
+ meringue | meringu
+ courage | courag
+ tricherie | tricheri
+ hirsute | hirsut
+ article | articl
+ tonitruante | tonitruant
+ tache | tach
+ agréable | agréabl
+ effondrée | effondré
+ classe | class
+ paire | pair
+ comptable | comptabl
+ collège | collèg
+ farce | farc
+ gorge | gorg
+ vague | vagu
+ cinquante | cinquant
+ tendue | tendu
+ tortue | tortu
+ capitaine | capitain
+ logique | logiqu
+ horloge | horlog
+ incrédule | incrédul
+ vendue | vendu
+ goyle | goyl
+ blaise | blais
+ inquiète | inquièt
+ coquillage | coquillag
+ sourire | sourir
+ dictame | dictam
+ magique | magiqu
+ poufsouffle | poufsouffl
+ seize | seiz
+ magie | magi
+ ministère | ministèr
+ dispense | dispens
+ trimestre | trimestr
+ lasornette | lasornett
+ louée | loué
+ rousse | rouss
+ derrière | derrièr
+ vacarme | vacarm
+ animée | animé
+ féroce | féroc
+ conduire | conduir
+ existence | existenc
+ parole | parol
+ tendance | tendanc
+ posée | posé
+ remarquée | remarqué
+ blessure | blessur
+ mornille | mornill
+ cantine | cantin
+ dirigée | dirigé
+ réveillée | réveillé
+ cause | caus
+ atroce | atroc
+ mystère | mystèr
+ légende | légend
+ broussailleuse | broussailleus
+ peutêtre | peutêtr
+ éprouvée | éprouvé
+ ébène | ébèn
+ finisse | finiss
+ tumulte | tumult
+ bille | bill
+ étagère | étagèr
+ flexible | flexibl
+ chandelle | chandell
+ introduite | introduit
+ écriture | écritur
+ vidée | vidé
+ habitude | habitud
+ puissance | puissanc
+ givre | givr
+ signature | signatur
+ mélasse | mélass
+ accroître | accroîtr
+ bourse | bours
+ égratignure | égratignur
+ scolaire | scolair
+ palace | palac
+ laine | lain
+ entrée | entré
+ combattre | combattr
+ corne | corn
+ dimanche | dimanch
+ donnezle | donnezl
+ noisette | noisett
+ richesse | richess
+ pente | pent
+ déplaire | déplair
+ perchée | perché
+ reprise | repris
+ mornifle | mornifl
+ éteindre | éteindr
+ guide | guid
+ passionnante | passionnant
+ chaque | chaqu
+ épreuve | épreuv
+ faire | fair
+ boule | boul
+ descente | descent
+ mécanique | mécaniqu
+ chevrotante | chevrotant
+ écume | écum
+ famine | famin
+ réalise | réalis
+ frite | frit
+ extravagante | extravagant
+ originale | original
+ tiède | tièd
+ gargouille | gargouill
+ masure | masur
+ traînante | traînant
+ ferrée | ferré
+ provoquée | provoqué
+ revue | revu
+ gerbe | gerb
+ bulstrode | bulstrod
+ récupérée | récupéré
+ crispée | crispé
+ panache | panach
+ sienne | sienn
+ canne | cann
+ enlève | enlèv
+ potelée | potelé
+ bouilloire | bouilloir
+ atteindre | atteindr
+ onctueuse | onctueus
+ chêne | chên
+ nuque | nuqu
+ conscience | conscienc
+ endiablée | endiablé
+ baptisée | baptisé
+ couture | coutur
+ ministre | ministr
+ suggère | suggèr
+ large | larg
+ défaire | défair
+ apprécie | appréci
+ prétexte | prétext
+ sanglante | sanglant
+ bretagne | bretagn
+ marbre | marbr
+ course | cours
+ menthe | menth
+ notre | notr
+ hermione | hermion
+ fudge | fudg
+ funèbre | funèbr
+ sorcellerie | sorcelleri
+ royaume | royaum
+ boulangerie | boulangeri
+ efficace | efficac
+ hardiesse | hardiess
+ amnésie | amnési
+ omettre | omettr
+ bataille | bataill
+ mauve | mauv
+ étiquette | étiquett
+ destinée | destiné
+ répandre | répandr
+ deltaplane | deltaplan
+ aigle | aigl
+ tarte | tart
+ souriante | souriant
+ indifférence | indifférenc
+ syllabe | syllab
+ falaise | falais
+ lèvre | lèvr
+ verdâtre | verdâtr
+ chiffre | chiffr
+ craindre | craindr
+ centaine | centain
+ habile | habil
+ statue | statu
+ nôtre | nôtr
+ dentelle | dentell
+ visite | visit
+ liste | list
+ située | situé
+ borborygme | borborygm
+ confortable | confortabl
+ comète | comèt
+ incessante | incessant
+ liquide | liquid
+ septième | septièm
+ avide | avid
+ propre | propr
+ toile | toil
+ ordre | ordr
+ spectacle | spectacl
+ semblable | semblabl
+ bienvenue | bienvenu
+ extraordinaire | extraordinair
+ sourde | sourd
+ vingtaine | vingtain
+ introduire | introduir
+ vitesse | vitess
+ chérie | chéri
+ patacitrouille | patacitrouill
+ pochettesurprise | pochettesurpris
+ désaffectée | désaffecté
+ nécessaire | nécessair
+ conférence | conférenc
+ rivage | rivag
+ apothicaire | apothicair
+ crête | crêt
+ injuste | injust
+ caméscope | caméscop
+ onzième | onzièm
+ attirée | attiré
+ formule | formul
+ première | premièr
+ admirative | admirativ
+ barrière | barrièr
+ ménagerie | ménageri
+ patience | patienc
+ étreinte | étreint
+ fatale | fatal
+ insolite | insolit
+ obtenue | obtenu
+ journée | journé
+ musique | musiqu
+ répète | répèt
+ crinière | crinièr
+ éblouissante | éblouissant
+ débattue | débattu
+ disparaître | disparaîtr
+ reptile | reptil
+ sortilège | sortilèg
+ reconnaissance | reconnaissanc
+ confiture | confitur
+ celle | cell
+ connaître | connaîtr
+ adversaire | adversair
+ parapluie | paraplui
+ demidouzaine | demidouzain
+ phalange | phalang
+ consécutive | consécutiv
+ misérable | misérabl
+ oblique | obliqu
+ divisée | divisé
+ naturelle | naturell
+ reine | rein
+ affiche | affich
+ botanique | botaniqu
+ cheminée | cheminé
+ ignorance | ignoranc
+ maléfique | maléfiqu
+ pause | paus
+ chourave | chourav
+ ventricule | ventricul
+ démarche | démarch
+ rencontrée | rencontré
+ soixantaine | soixantain
+ cette | cett
+ neuve | neuv
+ désordre | désordr
+ cloche | cloch
+ suffisante | suffisant
+ nausée | nausé
+ naissance | naissanc
+ programme | programm
+ ortie | orti
+ cible | cibl
+ glaçage | glaçag
+ œuvre | œuvr
+ permanence | permanenc
+ satisfaite | satisfait
+ oncle | oncl
+ quatre | quatr
+ champagne | champagn
+ réverbère | réverbèr
+ quelque | quelqu
+ domestique | domestiqu
+ genre | genr
+ lavande | lavand
+ drive | driv
+ noblesse | nobless
+ narine | narin
+ entreprise | entrepris
+ mignonnette | mignonnett
+ certitude | certitud
+ dégarnie | dégarni
+ bonne | bonn
+ trace | trac
+ phare | phar
+ maigre | maigr
+ stalagmite | stalagmit
+ soûle | soûl
+ reliure | reliur
+ carabine | carabin
+ saugrenue | saugrenu
+ harpe | harp
+ proche | proch
+ preuve | preuv
+ défense | défens
+ ménage | ménag
+ chocogrenouille | chocogrenouill
+ exemplaire | exemplair
+ armure | armur
+ orangée | orangé
+ couverture | couvertur
+ plausible | plausibl
+ pelage | pelag
+ arche | arch
+ jambe | jamb
+ bannière | bannièr
+ coupure | coupur
+ modèle | modèl
+ règle | règl
+ enquête | enquêt
+ autre | autr
+ teinte | teint
+ prestige | prestig
+ protège | protèg
+ morve | morv
+ inutilisable | inutilisabl
+ porridge | porridg
+ pluie | plui
+ compagnie | compagni
+ responsable | responsabl
+ grisâtre | grisâtr
+ malaise | malais
+ automatique | automatiqu
+ plumage | plumag
+ rappelle | rappell
+ température | températur
+ conséquence | conséquenc
+ paracelse | paracels
+ etude | etud
+ annoncée | annoncé
+ transformée | transformé
+ intelligente | intelligent
+ étouffante | étouffant
+ effroyable | effroyabl
+ sifflante | sifflant
+ connaissance | connaissanc
+ espace | espac
+ rescousse | rescouss
+ bûche | bûch
+ impertinence | impertinenc
+ rogue | rogu
+ chaussette | chaussett
+ jonquille | jonquill
+ concierge | concierg
+ folie | foli
+ semaine | semain
+ fortune | fortun
+ vivante | vivant
+ phrase | phras
+ inanimée | inanimé
+ décidée | décidé
+ redoutable | redoutabl
+ érable | érabl
+ intense | intens
+ encore | encor
+ migraine | migrain
+ buffle | buffl
+ broche | broch
+ utile | util
+ désinvolte | désinvolt
+ passage | passag
+ famille | famill
+ pence | penc
+ flamme | flamm
+ pensée | pensé
+ coquille | coquill
+ prince | princ
+ éclatante | éclatant
+ mordre | mordr
+ hêtre | hêtr
+ rondelette | rondelett
+ étouffée | étouffé
+ portière | portièr
+ internationale | international
+ majorque | majorqu
+ comprenne | comprenn
+ coffre | coffr
+ velue | velu
+ défaite | défait
+ sixième | sixièm
+ diggle | diggl
+ fétide | fétid
+ queue | queu
+ revanche | revanch
+ moderne | modern
+ bordure | bordur
+ angleterre | angleterr
+ formidable | formidabl
+ pièce | pièc
+ poussiéreuse | poussiéreus
+ autoritaire | autoritair
+ agacée | agacé
+ mordue | mordu
+ astronomie | astronomi
+ prise | pris
+ guère | guèr
+ catastrophique | catastrophiqu
+ ramène | ramèn
+ taillée | taillé
+ promenade | promenad
+ prêtée | prêté
+ adulte | adult
+ imprudence | imprudenc
+ touriste | tourist
+ confiance | confianc
+ pendule | pendul
+ veille | veill
+ terne | tern
+ achetée | acheté
+ poupée | poupé
+ dette | dett
+ sorcière | sorcièr
+ pernelle | pernell
+ baissée | baissé
+ racaille | racaill
+ magnifique | magnifiqu
+ humide | humid
+ outrée | outré
+ volte | volt
+ estce | estc
+
+ 
+('e', 'ieux') : 
+ silence | silenc
+ silencieux | silenc
+
+ 
+('a', 'ait', 'er', 'ez', 'é') : 
+ rappeler | rappel
+ rappelait | rappel
+ rappelé | rappel
+ rappelez | rappel
+ rappela | rappel
+
+ 
+('dant', 'dre') : 
+ tordre | tor
+ tordant | tor
+
+ 
+('ntes',) : 
+ plantes | pla
+
+ 
+('mait', 'mes', 'çant') : 
+ formait | for
+ forçant | for
+ formes | for
+
+ 
+('e', 'eau', 'eaux') : 
+ table | tabl
+ tableaux | tabl
+ tableau | tabl
+
+ 
+('a', 'ment') : 
+ encouragement | encourage
+ encouragea | encourage
+
+ 
+('ez', 'on') : 
+ aviez | avi
+ avion | avi
+
+ 
+('loit',) : 
+ exploit | exp
+
+ 
+('dent',) : 
+ résident | rési
+
+ 
+('on', 'ques', 'rait', 'res') : 
+ barrait | bar
+ baron | bar
+ barres | bar
+ barques | bar
+
+ 
+('ant', 'ation') : 
+ exaspération | exaspér
+ exaspérant | exaspér
+
+ 
+('ait', 'e', 'er', 'é') : 
+ fabriqué | fabriqu
+ gagner | gagn
+ gagnait | gagn
+ gagné | gagn
+ insulte | insult
+ fabrique | fabriqu
+ insultait | insult
+ fabriquait | fabriqu
+ gagne | gagn
+ insulter | insult
+ insulté | insult
+ fabriquer | fabriqu
+
+ 
+('rent', 't') : 
+ tendirent | tendi
+ coururent | couru
+ applaudit | applaudi
+ courut | couru
+ parut | paru
+ applaudirent | applaudi
+ tendit | tendi
+ parurent | paru
+
+ 
+('u', 'urent') : 
+ aperçurent | aperç
+ aperçu | aperç
+
+ 
+('nt', 'rant') : 
+ retint | reti
+ retirant | reti
+
+ 
+('re', 's') : 
+ centre | cent
+ cents | cent
+
+ 
+('a', 'er', 'é') : 
+ consulta | consult
+ assommé | assomm
+ roula | roul
+ écoulé | écoul
+ transformé | transform
+ immobiliser | immobilis
+ immobilisé | immobilis
+ transforma | transform
+ croisé | crois
+ emprunter | emprunt
+ rouler | roul
+ croisa | crois
+ assommer | assomm
+ sauté | saut
+ réciter | récit
+ enfourcher | enfourch
+ dénicha | dénich
+ roulé | roul
+ fraya | fray
+ consulter | consult
+ enfourcha | enfourch
+ déniché | dénich
+ récita | récit
+ sauta | saut
+ frayé | fray
+ récité | récit
+ sauter | saut
+ immobilisa | immobilis
+ emprunté | emprunt
+ transformer | transform
+ frayer | fray
+ écouler | écoul
+ écoula | écoul
+ consulté | consult
+ dénicher | dénich
+ enfourché | enfourch
+ emprunta | emprunt
+ assomma | assomm
+ croiser | crois
+
+ 
+('a', 'ement', 'on') : 
+ grogna | grogn
+ grognon | grogn
+ grognement | grogn
+
+ 
+('e', 'n', 's') : 
+ ravie | ravi
+ ravin | ravi
+ ravis | ravi
+
+ 
+('ient', 'nt', 'urant') : 
+ restaient | resta
+ restant | resta
+ restaurant | resta
+
+ 
+('ez', 'meux', 'n') : 
+ veniez | veni
+ venimeux | veni
+ venin | veni
+
+ 
+('ait', 'ant', 'antes', 'e', 'uner') : 
+ important | import
+ importe | import
+ importantes | import
+ importuner | import
+ importait | import
+
+ 
+('a', 'aient', 'e', 'er', 'ez', 'é') : 
+ montré | montr
+ montra | montr
+ montraient | montr
+ montre | montr
+ montrez | montr
+ montrer | montr
+
+ 
+('cher', 's', 'tées', 'é') : 
+ plancher | plan
+ plantées | plan
+ plans | plan
+ plané | plan
+
+ 
+('e', 'er', 'o') : 
+ brave | brav
+ bravo | brav
+ braver | brav
+
+ 
+('ait', 'ant', 'er', 'eux') : 
+ nouant | nou
+ nouer | nou
+ noueux | nou
+ nouait | nou
+
+ 
+('a', 'ait', 'ant', 'e', 'er', 'erai', 'ez', 'ons', 'èrent', 'é') : 
+ laisserai | laiss
+ laissèrent | laiss
+ laisser | laiss
+ laissait | laiss
+ laissant | laiss
+ laissé | laiss
+ laissons | laiss
+ laisse | laiss
+ laissez | laiss
+ laissa | laiss
+
+ 
+('o', 'on', 'ée') : 
+ dragon | drag
+ drago | drag
+ dragée | drag
+
+ 
+('res', 's') : 
+ piers | pier
+ pierres | pier
+
+ 
+('aient', 'èrent', 'é') : 
+ ligotèrent | ligot
+ ligotaient | ligot
+ ligoté | ligot
+
+ 
+('a', 'aient', 'on') : 
+ plongeaient | plonge
+ plongeon | plonge
+ plongea | plonge
+
+ 
+('a', 'ant', 'er') : 
+ hurler | hurl
+ enrouler | enroul
+ trébuchant | trébuch
+ examinant | examin
+ redressant | redress
+ examiner | examin
+ redresser | redress
+ enroula | enroul
+ essuyant | essuy
+ hurla | hurl
+ redressa | redress
+ souleva | soulev
+ soulever | soulev
+ enroulant | enroul
+ trébucher | trébuch
+ examina | examin
+ essuyer | essuy
+ trébucha | trébuch
+ hurlant | hurl
+ essuya | essuy
+ soulevant | soulev
+
+ 
+('m',) : 
+ pompom | pompo
+ maximum | maximu
+ mmmmmm | mmmmm
+ wingardium | wingardiu
+ livingroom | livingroo
+
+ 
+('aient', 'ant', 'er') : 
+ flamboyer | flamboy
+ flamboyant | flamboy
+ flamboyaient | flamboy
+
+ 
+('bant',) : 
+ flambant | flam
+
+ 
+('rer', 't') : 
+ desserrer | desser
+ dessert | desser
+
+ 
+('ait', 'er', 'erai', 'ée') : 
+ jouerai | jou
+ jouée | jou
+ jouer | jou
+ jouait | jou
+
+ 
+('e', 's', 'u') : 
+ perde | perd
+ perdu | perd
+ perds | perd
+
+ 
+('rier',) : 
+ sucrier | suc
+
+ 
+('oser',) : 
+ décomposer | décomp
+
+ 
+('a', 'e', 'er', 'é') : 
+ chassa | chass
+ rencontrer | rencontr
+ forma | form
+ assuré | assur
+ chasse | chass
+ marque | marqu
+ garde | gard
+ chasser | chass
+ détourner | détourn
+ serre | serr
+ garder | gard
+ marqua | marqu
+ assurer | assur
+ détourne | détourn
+ gardé | gard
+ serra | serr
+ rencontré | rencontr
+ rencontre | rencontr
+ serré | serr
+ garda | gard
+ former | form
+ serrer | serr
+ chassé | chass
+ formé | form
+ forme | form
+ assura | assur
+ détourné | détourn
+ marqué | marqu
+ détourna | détourn
+ marquer | marqu
+ rencontra | rencontr
+ assure | assur
+
+ 
+('aient', 'ait', 'e', 'er', 'èrent') : 
+ souhaitait | souhait
+ souhaitaient | souhait
+ souhaiter | souhait
+ souhaitèrent | souhait
+ souhaite | souhait
+
+ 
+('e', 'eait', 'eant', 'é') : 
+ mange | mang
+ mangeant | mang
+ mangeait | mang
+ mangé | mang
+
+ 
+('déo',) : 
+ rodéo | ro
+
+ 
+('a', 'eaux') : 
+ tonneaux | tonn
+ tonna | tonn
+
+ 
+('e', 'er', 'rent', 'é') : 
+ devine | devin
+ devinrent | devin
+ deviné | devin
+ deviner | devin
+
+ 
+('aient', 'ait', 'e', 'er', 'ez', 'èrent', 'é') : 
+ occupe | occup
+ occupez | occup
+ occupait | occup
+ occupaient | occup
+ occupèrent | occup
+ occupé | occup
+ occuper | occup
+
+ 
+('mment', 'nt') : 
+ prudemment | prude
+ précipitant | précipita
+ brillant | brilla
+ brillamment | brilla
+ précipitamment | précipita
+ suffisant | suffisa
+ prudent | prude
+ suffisamment | suffisa
+
+ 
+('h',) : 
+ sandwich | sandwic
+ ooooooooh | oooooooo
+ hannah | hanna
+ aaaaaaaaaaaaaaaaargh | aaaaaaaaaaaaaaaaarg
+ oooooh | ooooo
+ aaaaaarrrgh | aaaaaarrrg
+ quidditch | quidditc
+ pomfresh | pomfres
+
+ 
+('dait', 'dit', 'çant') : 
+ perdait | per
+ perçant | per
+ perdit | per
+
+ 
+('a',) : 
+ soupira | soupir
+ interrogea | interroge
+ cliodna | cliodn
+ existera | exister
+ parada | parad
+ amega | ameg
+ chantera | chanter
+ suffira | suffir
+ leviosa | levios
+ surveillera | surveiller
+ articula | articul
+ apercevra | apercevr
+ trémoussa | trémouss
+ oubliera | oublier
+ fourra | fourr
+ indigna | indign
+ décela | décel
+ gloussa | glouss
+ clopina | clopin
+ menaça | menaç
+ recommença | recommenç
+ pianota | pianot
+ jouera | jouer
+ alohomora | alohomor
+ sahara | sahar
+ améliora | amélior
+ écrira | écrir
+ ordonna | ordonn
+ agrippa | agripp
+ exprima | exprim
+ couina | couin
+ abaissa | abaiss
+ efforça | efforç
+ angelina | angelin
+ irrita | irrit
+ commencera | commencer
+ aboya | aboy
+ pétunia | pétuni
+ exécuta | exécut
+ concentra | concentr
+ rectifia | rectifi
+ contentera | contenter
+ orienta | orient
+ chargea | charge
+ fronça | fronç
+ suggéra | suggér
+ phyllida | phyllid
+ lança | lanç
+ rampa | ramp
+ empressa | empress
+ gagnera | gagner
+ dériva | dériv
+ força | forç
+ déchiffra | déchiffr
+ étudiera | étudier
+ pensera | penser
+ exulta | exult
+ annonça | annonç
+ verra | verr
+ aidera | aider
+ allongea | allonge
+ avoua | avou
+ évalua | évalu
+ utilisera | utiliser
+ relâchera | relâcher
+ élança | élanç
+ accueillera | accueiller
+ libéra | libér
+ décréta | décrét
+ bredouilla | bredouill
+ régna | régn
+ augmenta | augment
+ minerva | minerv
+ lamenta | lament
+ rangea | range
+ plaira | plair
+ raccompagna | raccompagn
+ esquissa | esquiss
+ inspecta | inspect
+ pyjama | pyjam
+ chantonna | chantonn
+ bathilda | bathild
+ crispa | crisp
+ cinéma | ciném
+ laissera | laisser
+ changea | change
+ dérangea | dérange
+ devra | devr
+ cherchera | chercher
+ fonça | fonç
+ proposa | propos
+ saura | saur
+ miranda | mirand
+ enfonça | enfonç
+ adossa | adoss
+ prononça | prononç
+ bomba | bomb
+ donnera | donner
+ exigea | exige
+ servira | servir
+ confessa | confess
+ occupera | occuper
+ balança | balanç
+ acheva | achev
+ abolira | abolir
+ actionna | actionn
+ déplaça | déplaç
+ enverra | enverr
+ plaça | plaç
+ toussota | toussot
+ partagea | partage
+ opéra | opér
+ ébranla | ébranl
+ figea | fige
+ gardera | garder
+ alicia | alici
+ coûtera | coûter
+ replia | repli
+ grinça | grinç
+ infiltra | infiltr
+ ravisa | ravis
+ grommela | grommel
+ leiviosa | leivios
+ attarda | attard
+ renonça | renonç
+ bascula | bascul
+
+ 
+('non', 'rait', 're', 'res', 'sait', 'sion', 'tes') : 
+ version | ver
+ vertes | ver
+ vernon | ver
+ verres | ver
+ verrait | ver
+ versait | ver
+ verre | ver
+
+ 
+('tion', 'u') : 
+ convenu | conven
+ convention | conven
+
+ 
+('a', 'er', 'ez', 'èrent') : 
+ baissèrent | baiss
+ baisser | baiss
+ baissa | baiss
+ baissez | baiss
+
+ 
+('açant', 'i', 'ies', 'irent') : 
+ remplies | rempl
+ remplaçant | rempl
+ remplirent | rempl
+ rempli | rempl
+
+ 
+('e', 'èrent', 'é') : 
+ déplace | déplac
+ déplacé | déplac
+ déplacèrent | déplac
+
+ 
+('ll', 'mper') : 
+ troll | tro
+ tromper | tro
+
+ 
+('sée',) : 
+ rusée | ru
+
+ 
+('e', 'es') : 
+ deuxièmes | deuxièm
+ geste | gest
+ possible | possibl
+ douzaine | douzain
+ équipe | équip
+ deuxième | deuxièm
+ silhouettes | silhouett
+ bouteille | bouteill
+ chouette | chouett
+ lumière | lumièr
+ boutique | boutiqu
+ baguettes | baguett
+ boutiques | boutiqu
+ immobile | immobil
+ personnes | personn
+ basses | bass
+ douzaines | douzain
+ boîte | boît
+ difficile | difficil
+ usage | usag
+ voitures | voitur
+ chouettes | chouett
+ adverse | advers
+ drôles | drôl
+ maître | maîtr
+ philosophale | philosophal
+ difficiles | difficil
+ histoire | histoir
+ histoires | histoir
+ lampes | lamp
+ lampe | lamp
+ femmes | femm
+ drôle | drôl
+ images | imag
+ chute | chut
+ ordinaire | ordinair
+ maîtres | maîtr
+ vitres | vitr
+ sinistres | sinistr
+ adverses | advers
+ image | imag
+ possibles | possibl
+ vitre | vitr
+ ombre | ombr
+ immobiles | immobil
+ tailles | taill
+ ordinaires | ordinair
+ vastes | vast
+ impossible | impossibl
+ ombres | ombr
+ gestes | gest
+ jeune | jeun
+ cicatrices | cicatric
+ usages | usag
+ baguette | baguett
+ peine | pein
+ lumières | lumièr
+ licorne | licorn
+ vaste | vast
+ désagréable | désagréabl
+ chutes | chut
+ basse | bass
+ homme | homm
+ fuites | fuit
+ inutile | inutil
+ équipes | équip
+ peines | pein
+ boîtes | boît
+ licornes | licorn
+ anniversaires | anniversair
+ bottes | bott
+ incapables | incapabl
+ silhouette | silhouett
+ bouteilles | bouteill
+ inutiles | inutil
+ botte | bott
+ impossibles | impossibl
+ cicatrice | cicatric
+ femme | femm
+ hommes | homm
+ désagréables | désagréabl
+ anniversaire | anniversair
+ philosophales | philosophal
+ incapable | incapabl
+ voiture | voitur
+ sinistre | sinistr
+ personne | personn
+ taille | taill
+ fuite | fuit
+ jeunes | jeun
+
+ 
+('nnant',) : 
+ mâchonnant | mâcho
+
+ 
+('nch',) : 
+ finch | fi
+
+ 
+('aient', 're') : 
+ débattre | débatt
+ débattaient | débatt
+
+ 
+('aient', 'ait', 'ant', 'ir') : 
+ maintenait | mainten
+ maintenant | mainten
+ maintenir | mainten
+ maintenaient | mainten
+
+ 
+('a', 'e', 'on') : 
+ bouchon | bouch
+ boucha | bouch
+ bouche | bouch
+
+ 
+('e', 'es', 's') : 
+ seuls | seul
+ seule | seul
+ seules | seul
+
+ 
+('ent', 'ieux') : 
+ furieux | fur
+ furent | fur
+
+ 
+('ait', 'er', 'ez') : 
+ levait | lev
+ levez | lev
+ filait | fil
+ filer | fil
+ lever | lev
+ filez | fil
+
+ 
+('a', 'ait', 'e', 'er', 'é') : 
+ attrapait | attrap
+ ajoute | ajout
+ manifester | manifest
+ attrapé | attrap
+ manqué | manqu
+ accordé | accord
+ manifestait | manifest
+ ajouté | ajout
+ manquait | manqu
+ manifeste | manifest
+ manqua | manqu
+ manque | manqu
+ accordait | accord
+ ajouter | ajout
+ intéressait | intéress
+ manifesté | manifest
+ attrapa | attrap
+ intéresser | intéress
+ accorde | accord
+ intéresse | intéress
+ accorda | accord
+ intéressa | intéress
+ manquer | manqu
+ attraper | attrap
+ accorder | accord
+ intéressé | intéress
+ ajoutait | ajout
+ manifesta | manifest
+ ajouta | ajout
+ attrape | attrap
+
+ 
+('cier',) : 
+ sorcier | sor
+
+ 
+('i', 'yeux') : 
+ ennui | ennu
+ ennuyeux | ennu
+
+ 
+('cent', 'cerai', 'çait') : 
+ commencent | commen
+ commencerai | commen
+ commençait | commen
+
+ 
+('e', 'onner') : 
+ emprise | empris
+ emprisonner | empris
+
+ 
+('a', 'ait', 'ant', 'e', 'er', 'es', 'ée') : 
+ porte | port
+ portes | port
+ portée | port
+ porta | port
+ portait | port
+ porter | port
+ portant | port
+
+ 
+('r', 'rent', 'ssant', 't') : 
+ surgir | surgi
+ surgissant | surgi
+ surgit | surgi
+ surgirent | surgi
+
+ 
+('ant', 'er', 'é', 'ées') : 
+ brûlant | brûl
+ brûlées | brûl
+ brûlé | brûl
+ brûler | brûl
+
+ 
+('ment',) : 
+ fixement | fixe
+ hurlement | hurle
+ seulement | seule
+ vertement | verte
+ agrément | agré
+ justement | juste
+
+ 
+('sait',) : 
+ composait | compo
+
+ 
+('coup', 'x') : 
+ beaucoup | beau
+ beaux | beau
+
+ 
+('ssion',) : 
+ discussion | discu
+
+ 
+('x',) : 
+ vigoureux | vigoureu
+ ciseaux | ciseau
+ mystérieux | mystérieu
+ périlleux | périlleu
+ choix | choi
+ rigoureux | rigoureu
+ douloureux | douloureu
+ joyeux | joyeu
+ phénix | phéni
+ curieux | curieu
+ locaux | locau
+ dédaigneux | dédaigneu
+ odieux | odieu
+ jaloux | jalou
+ index | inde
+ somptueux | somptueu
+ hargneux | hargneu
+ globuleux | globuleu
+ râpeux | râpeu
+ délicieux | délicieu
+ fabuleux | fabuleu
+ sérieux | sérieu
+ grumeaux | grumeau
+ musculeux | musculeu
+ moelleux | moelleu
+ trousseaux | trousseau
+ verticaux | verticau
+ naseaux | naseau
+
+ 
+('ines', 'urer') : 
+ pleines | ple
+ pleurer | ple
+
+ 
+('ait', 'ant', 'e', 'er', 'ez', 'é', 'ées') : 
+ cachez | cach
+ cachant | cach
+ caché | cach
+ cachait | cach
+ cacher | cach
+ cache | cach
+ cachées | cach
+
+ 
+('ant', 'er', 'èrent') : 
+ pénétrèrent | pénétr
+ pénétrant | pénétr
+ pénétrer | pénétr
+
+ 
+('e', 'r', 's', 't') : 
+ remplir | rempli
+ remplis | rempli
+ remplit | rempli
+ remplie | rempli
+
+ 
+('int', 'rry') : 
+ terry | te
+ teint | te
+
+ 
+('ard', 'e', 'es') : 
+ vieilles | vieill
+ vieillard | vieill
+ vieille | vieill
+
+ 
+('user', 'usez') : 
+ excuser | exc
+ excusez | exc
+
+ 
+('iait', 'it') : 
+ défit | déf
+ défiait | déf
+
+ 
+('a', 'ait', 'er', 'rait', 're', 't', 'teau', 'tes', 'vant', 'vit') : 
+ écriteau | écri
+ écrivant | écri
+ écria | écri
+ écrier | écri
+ écrivit | écri
+ écrirait | écri
+ écriait | écri
+ écrire | écri
+ écrites | écri
+ écrit | écri
+
+ 
+('don',) : 
+ gordon | gor
+
+ 
+('e', 'r', 's', 't', 'tion') : 
+ partie | parti
+ partis | parti
+ partit | parti
+ partir | parti
+ partition | parti
+
+ 
+('r', 'ux') : 
+ rocher | roche
+ rocheux | roche
+
+ 
+('uter',) : 
+ discuter | disc
+ disputer | disp
+
+ 
+('ait', 'er', 'èrent') : 
+ faufilait | faufil
+ faufiler | faufil
+ faufilèrent | faufil
+
+ 
+('a', 'e', 'er', 'ureux') : 
+ plante | plant
+ planta | plant
+ plantureux | plant
+ planter | plant
+
+ 
+('e', 'er', 'ez', 'é') : 
+ prononcez | prononc
+ prononce | prononc
+ prononcer | prononc
+ prononcé | prononc
+
+ 
+('a', 'er', 'ez', 'èrent', 'é') : 
+ acheta | achet
+ achetez | achet
+ emportèrent | emport
+ achetèrent | achet
+ emporté | emport
+ acheter | achet
+ emportez | emport
+ emporter | emport
+ acheté | achet
+ emporta | emport
+
+ 
+('i', 'ncer') : 
+ balancer | bala
+ balai | bala
+
+ 
+('ides', 'reur') : 
+ livides | liv
+ livreur | liv
+
+ 
+('ir', 'nces', 'nger', 'nson', 'uves') : 
+ chair | cha
+ chanson | cha
+ chauves | cha
+ changer | cha
+ chances | cha
+
+ 
+('di', 'ques', 'ron', 'teau') : 
+ marques | mar
+ marron | mar
+ marteau | mar
+ mardi | mar
+
+ 
+('s', 'é') : 
+ proprets | propret
+ propreté | propret
+ bondé | bond
+ bordé | bord
+ bords | bord
+ bonds | bond
+
+ 
+('ches', 'quer') : 
+ attaquer | atta
+ attaches | atta
+
+ 
+('a', 'ait') : 
+ dirigeait | dirige
+ tambourinait | tambourin
+ vaudra | vaudr
+ hochait | hoch
+ songeait | songe
+ hocha | hoch
+ engageait | engage
+ regretta | regrett
+ fouillait | fouill
+ oserait | oser
+ songea | songe
+ faudra | faudr
+ ajustait | ajust
+ ajusta | ajust
+ osera | oser
+ regrettait | regrett
+ fouilla | fouill
+ engagea | engage
+ tambourina | tambourin
+ domina | domin
+ faudrait | faudr
+ vaudrait | vaudr
+ rassembla | rassembl
+ dominait | domin
+ dirigea | dirige
+ rassemblait | rassembl
+
+ 
+('pter',) : 
+ adopter | ado
+
+ 
+('ait', 'ant', 'e', 'es', 'ez', 'i', 'it', 's') : 
+ sortit | sort
+ sortait | sort
+ sorti | sort
+ sortant | sort
+ sorts | sort
+ sortes | sort
+ sorte | sort
+ sortez | sort
+
+ 
+('rait',) : 
+ entrait | ent
+ couvrait | couv
+
+ 
+('aient',) : 
+ promenaient | promen
+ couvraient | couvr
+ provenaient | proven
+ reverraient | reverr
+ accouraient | accour
+ souffraient | souffr
+
+ 
+('ez',) : 
+ croyez | croy
+ pensiez | pensi
+ rapporterez | rapporter
+ saviez | savi
+ détrompez | détromp
+ ressaisissez | ressaisiss
+ taisez | tais
+ retourniez | retourni
+ auriez | auri
+ dormirez | dormir
+ restiez | resti
+ alliez | alli
+ feriez | feri
+ montiez | monti
+ décevez | décev
+ stupéfiez | stupéfi
+ veuillez | veuill
+ tiendrez | tiendr
+ vouliez | vouli
+ repenserez | repenser
+ élèverez | élèver
+ continuerez | continuer
+ seriez | seri
+ obtiendrez | obtiendr
+ diriez | diri
+ soyez | soy
+ promeniez | promeni
+ voudriez | voudri
+ disiez | disi
+ souviendrez | souviendr
+ relâchez | relâch
+ compreniez | compreni
+ fassiez | fassi
+ iriez | iri
+ devriez | devri
+ enfreindrez | enfreindr
+ assiérez | assiér
+ attachiez | attachi
+ habitiez | habiti
+ ecoutez | ecout
+ pouvez | pouv
+ ressortirez | ressortir
+ doutiez | douti
+ preniez | preni
+ asseyez | assey
+ flattez | flatt
+ teniez | teni
+
+ 
+('a', 'aient', 'e', 'er', 'é') : 
+ compté | compt
+ compta | compt
+ comptaient | compt
+ compte | compt
+ compter | compt
+
+ 
+('a', 'aient', 'ait', 'e', 'er', 'ez', 'èrent', 'é') : 
+ poussaient | pouss
+ poussa | pouss
+ pousse | pouss
+ poussait | pouss
+ poussez | pouss
+ poussèrent | pouss
+ poussé | pouss
+ pousser | pouss
+
+ 
+('a', 'ait', 'e', 'é') : 
+ cessa | cess
+ cesse | cess
+ cessait | cess
+ cessé | cess
+
+ 
+('eant', 'er', 'é', 'ées') : 
+ rangées | rang
+ rangeant | rang
+ ranger | rang
+ rangé | rang
+
+ 
+('sier',) : 
+ brasier | bra
+
+ 
+('du', 'ez', 'ir') : 
+ venez | ven
+ venir | ven
+ vendu | ven
+
+ 
+('a', 'ait', 'ant', 'er', 'ez', 'é') : 
+ frappa | frapp
+ frappant | frapp
+ frappait | frapp
+ frapper | frapp
+ frappé | frapp
+ frappez | frapp
+
+ 
+('a', 'ait', 'e', 'er') : 
+ cognait | cogn
+ cogna | cogn
+ cogner | cogn
+ cogne | cogn
+
+ 
+('ait', 'ant', 'e', 'er', 'é') : 
+ amusé | amus
+ amuser | amus
+ amusait | amus
+ amuse | amus
+ amusant | amus
+
+ 
+('a', 'aient', 'e', 'er', 'ion') : 
+ exploser | explos
+ explosion | explos
+ explosa | explos
+ explose | explos
+ explosaient | explos
+
+ 
+('omb',) : 
+ plomb | pl
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'ent', 'er', 'es', 'ez', 's', 'èrent', 'é') : 
+ regardes | regard
+ regardé | regard
+ regardaient | regard
+ regardait | regard
+ regards | regard
+ regardant | regard
+ regarder | regard
+ regardèrent | regard
+ regardez | regard
+ regarda | regard
+ regardent | regard
+ regarde | regard
+
+ 
+('a', 'e') : 
+ commanda | command
+ évita | évit
+ permettra | permettr
+ commande | command
+ reposa | repos
+ ferma | ferm
+ attaque | attaqu
+ ferme | ferm
+ attaqua | attaqu
+ repose | repos
+ prendra | prendr
+ permettre | permettr
+ conseilla | conseill
+ prendre | prendr
+ conseille | conseill
+ évite | évit
+ mouche | mouch
+ moucha | mouch
+
+ 
+('e', 'er', 'èrent') : 
+ annoncer | annonc
+ annoncèrent | annonc
+ annonce | annonc
+
+ 
+('a', 'd') : 
+ égard | égar
+ égara | égar
+
+ 
+('a', 'aient', 'ait', 'er', 'èrent', 'é') : 
+ observé | observ
+ glissa | gliss
+ observaient | observ
+ observa | observ
+ glisser | gliss
+ glissé | gliss
+ glissait | gliss
+ observer | observ
+ glissèrent | gliss
+ observèrent | observ
+ observait | observ
+ glissaient | gliss
+
+ 
+('s', 'y') : 
+ fleurs | fleur
+ fleury | fleur
+
+ 
+('ption', 're', 't') : 
+ inscription | inscri
+ inscrire | inscri
+ inscrit | inscri
+
+ 
+('ait', 'ant', 'ir', 'u', 'ues') : 
+ retenu | reten
+ retenues | reten
+ retenait | reten
+ retenant | reten
+ retenir | reten
+
+ 
+('e', 'ement', 's') : 
+ lourdement | lourd
+ lourds | lourd
+ froide | froid
+ froidement | froid
+ froids | froid
+ lourde | lourd
+
+ 
+('nt', 'r') : 
+ espionnent | espionne
+ espionner | espionne
+
+ 
+('gnit', 'rait') : 
+ plaignit | plai
+ plairait | plai
+
+ 
+('ment', 'r') : 
+ agacement | agace
+ agacer | agace
+
+ 
+('e', 'es', 'i') : 
+ jaune | jaun
+ jauni | jaun
+ jaunes | jaun
+
+ 
+('ait',) : 
+ somnolait | somnol
+ irait | ir
+ précédait | précéd
+ valait | val
+ vidait | vid
+ bavait | bav
+ fumait | fum
+ osait | os
+
+ 
+('ation', 'e', 'es', 'é') : 
+ autorisé | autoris
+ autorise | autoris
+ autorisation | autoris
+ autorises | autoris
+
+ 
+('it', 'lier') : 
+ déplier | dép
+ dépit | dép
+
+ 
+('aient', 'ait', 'ant', 'e', 'irent', 'it', 're', 's', 'u') : 
+ entendait | entend
+ entendant | entend
+ entendu | entend
+ entendaient | entend
+ entendirent | entend
+ entende | entend
+ entendit | entend
+ entendre | entend
+ entends | entend
+
+ 
+('neux',) : 
+ lumineux | lumi
+
+ 
+('vaux', 'veux') : 
+ chevaux | che
+ cheveux | che
+
+ 
+('ures',) : 
+ centaures | centa
+
+ 
+('i', 'it', 'on') : 
+ saison | sais
+ saisi | sais
+ saisit | sais
+
+ 
+('ant', 'e', 'er') : 
+ remercie | remerci
+ repousser | repouss
+ remercier | remerci
+ remerciant | remerci
+ repousse | repouss
+ repoussant | repouss
+
+ 
+('a', 'ait', 'er', 'é') : 
+ signala | signal
+ apporta | apport
+ échappé | échapp
+ signalait | signal
+ signalé | signal
+ échapper | échapp
+ enlevé | enlev
+ signaler | signal
+ enlevait | enlev
+ apportait | apport
+ marmonner | marmonn
+ échappa | échapp
+ marmonné | marmonn
+ apporter | apport
+ répéter | répét
+ enleva | enlev
+ marmonnait | marmonn
+ répété | répét
+ marmonna | marmonn
+ répétait | répét
+ enlever | enlev
+ répéta | répét
+ échappait | échapp
+ apporté | apport
+
+ 
+('uvait',) : 
+ approuvait | appro
+
+ 
+('ient', 's') : 
+ verras | verra
+ verraient | verra
+
+ 
+('xez',) : 
+ vexez | ve
+
+ 
+('e', 'ment') : 
+ jolie | joli
+ joliment | joli
+
+ 
+('r', 'reux') : 
+ malheureux | malheu
+ malheur | malheu
+
+ 
+('aient', 's', 'é') : 
+ éclairaient | éclair
+ éclairs | éclair
+ éclairé | éclair
+
+ 
+('rées', 'ssion') : 
+ compassion | compa
+ comparées | compa
+
+ 
+('e', 'er', 'èrent', 'é') : 
+ commencer | commenc
+ commencé | commenc
+ commence | commenc
+ commencèrent | commenc
+
+ 
+('çon',) : 
+ leçon | le
+
+ 
+('y',) : 
+ gregory | gregor
+ pucey | puce
+ dudley | dudle
+ fletchey | fletche
+ malefoy | malefo
+ dursley | dursle
+ weasley | weasle
+ bletchey | bletche
+ ginny | ginn
+ penalty | penalt
+ harvey | harve
+ surrey | surre
+ pansy | pans
+ mimsy | mims
+ harry | harr
+
+ 
+('ant', 'rui') : 
+ autant | aut
+ autrui | aut
+
+ 
+('a', 'e', 'ez', 'é') : 
+ pensez | pens
+ pense | pens
+ pensa | pens
+ pensé | pens
+
+ 
+('a', 'aient', 'ait', 'é') : 
+ affirmaient | affirm
+ affirmé | affirm
+ affirma | affirm
+ affirmait | affirm
+
+ 
+('n', 'ntrer', 'rnant') : 
+ concentrer | conce
+ concen | conce
+ concernant | conce
+
+ 
+('nent',) : 
+ appartiennent | appartien
+ contiennent | contien
+ parviennent | parvien
+
+ 
+('urer',) : 
+ procurer | proc
+ figurer | fig
+
+ 
+('r', 'rait', 'rent', 'ront', 't') : 
+ finit | fini
+ finiront | fini
+ finirait | fini
+ finirent | fini
+ finir | fini
+
+ 
+('veu',) : 
+ neveu | ne
+
+ 
+('aient', 'ant', 'ez') : 
+ reconnaissant | reconnaiss
+ reconnaissaient | reconnaiss
+ reconnaissez | reconnaiss
+
+ 
+('a', 'e', 'er', 'es', 's', 'é') : 
+ prêts | prêt
+ prêter | prêt
+ prête | prêt
+ prêté | prêt
+ prêtes | prêt
+ prêta | prêt
+
+ 
+('a', 'ation', 'er') : 
+ respirer | respir
+ respira | respir
+ respiration | respir
+
+ 
+('ader', 'con', 'les', 'lons') : 
+ balcon | bal
+ balader | bal
+ balles | bal
+ ballons | bal
+
+ 
+('a', 'aient', 'ait', 'e', 'er', 'es', 'èrent', 'é') : 
+ refusait | refus
+ refuser | refus
+ refusèrent | refus
+ refuse | refus
+ refusé | refus
+ refusaient | refus
+ refuses | refus
+ refusa | refus
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'er', 'é') : 
+ demandé | demand
+ demander | demand
+ demanda | demand
+ demandant | demand
+ demandaient | demand
+ demandait | demand
+ demande | demand
+
+ 
+('a', 'aient', 'é') : 
+ bouscula | bouscul
+ bousculé | bouscul
+ bousculaient | bouscul
+
+ 
+('lait', 'pes', 'rait', 'rant', 'rent', 'rir', 'rses', 'rtes') : 
+ coulait | cou
+ courses | cou
+ courait | cou
+ courir | cou
+ courant | cou
+ coupes | cou
+ courent | cou
+ courtes | cou
+
+ 
+('e', 'eaux') : 
+ écrite | écrit
+ écriteaux | écrit
+ panne | pann
+ panneaux | pann
+
+ 
+('d', 'ez') : 
+ prenez | pren
+ prend | pren
+
+ 
+('it', 'nt', 'ntes', 'rium') : 
+ vivantes | viva
+ vivarium | viva
+ vivant | viva
+ vivait | viva
+
+ 
+('ant', 'it') : 
+ confondant | confond
+ confondit | confond
+
+ 
+('aient', 'e') : 
+ défile | défil
+ permette | permett
+ paraisse | paraiss
+ apprendraient | apprendr
+ insinuaient | insinu
+ apprendre | apprendr
+ insinue | insinu
+ permettaient | permett
+ défilaient | défil
+ paraissaient | paraiss
+
+ 
+('a', 'èrent') : 
+ approuvèrent | approuv
+ approuva | approuv
+ engouffrèrent | engouffr
+ engouffra | engouffr
+
+ 
+('u', 'ument') : 
+ absolu | absol
+ absolument | absol
+
+ 
+('ait', 'er', 'ez', 'umer', 'ure') : 
+ allure | all
+ aller | all
+ allumer | all
+ allait | all
+ allez | all
+
+ 
+('a', 'aient', 'ait', 'er', 'ez') : 
+ emmener | emmen
+ emmenait | emmen
+ emmenez | emmen
+ emmenaient | emmen
+ emmena | emmen
+
+ 
+('ait', 'e', 'ement', 'er', 'é') : 
+ comportait | comport
+ comporté | comport
+ comportement | comport
+ comporte | comport
+ comporter | comport
+
+ 
+('ow',) : 
+ hollow | holl
+
+ 
+('teux',) : 
+ honteux | hon
+
+ 
+('k',) : 
+ beuââârk | beuâââr
+ steak | stea
+ patchwork | patchwor
+ beuârk | beuâr
+ flitwick | flitwic
+
+ 
+('nait', 'ner') : 
+ promenait | prome
+ promener | prome
+
+ 
+('a', 'ation', 'er', 'é') : 
+ informé | inform
+ information | inform
+ informa | inform
+ informer | inform
+
+ 
+('ement',) : 
+ ravissement | raviss
+ brutalement | brutal
+ entrebâillement | entrebâill
+
+ 
+('gnon',) : 
+ chignon | chi
+
+ 
+('er', 'ition') : 
+ composer | compos
+ composition | compos
+
+ 
+('s', 'tant') : 
+ remets | remet
+ remettant | remet
+
+ 
+('irent', 'it', 're', 's', 'u') : 
+ redescendirent | redescend
+ redescends | redescend
+ redescendre | redescend
+ redescendu | redescend
+ redescendit | redescend
+
+ 
+('ait', 'irent', 're', 's', 'u') : 
+ répondirent | répond
+ répondait | répond
+ répondu | répond
+ réponds | répond
+ répondre | répond
+
+ 
+('e', 'r', 's', 'ssent', 't') : 
+ choisissent | choisi
+ choisis | choisi
+ choisit | choisi
+ choisie | choisi
+ choisir | choisi
+
+ 
+('cer', 'dant', 'dit', 'dre', 'çait') : 
+ fondit | fon
+ fonçait | fon
+ fondre | fon
+ foncer | fon
+ fondant | fon
+
+ 
+('u', 'ux') : 
+ cerveaux | cervea
+ hiboux | hibo
+ morceaux | morcea
+ cerveau | cervea
+ oiseau | oisea
+ bureaux | burea
+ morceau | morcea
+ hibou | hibo
+ bureau | burea
+ oiseaux | oisea
+
+ 
+('on',) : 
+ grunnion | grunni
+ disposition | dispositi
+ émotion | émoti
+ maison | mais
+ poison | pois
+ vision | visi
+ gazon | gaz
+ admiration | admirati
+ bâton | bât
+ bison | bis
+
+ 
+('yant',) : 
+ rasseyant | rasse
+
+ 
+('ades', 'colm') : 
+ malcolm | mal
+ malades | mal
+
+ 
+('ages', 'iter', 'on', 'uel') : 
+ visiter | vis
+ visuel | vis
+ visages | vis
+ vison | vis
+
+ 
+('a', 'ait', 'e', 'er', 'ée') : 
+ empêche | empêch
+ empêchée | empêch
+ empêcher | empêch
+ empêchait | empêch
+ empêcha | empêch
+
+ 
+('a', 'e', 'er', 'eront', 'é') : 
+ expliquer | expliqu
+ expliqueront | expliqu
+ explique | expliqu
+ expliqué | expliqu
+ expliqua | expliqu
+
+ 
+('a', 'er', 'èrent', 'é') : 
+ refermé | referm
+ refermer | referm
+ refermèrent | referm
+ referma | referm
+
+ 
+('ient', 'ncer') : 
+ devancer | deva
+ devaient | deva
+
+ 
+('eint',) : 
+ atteint | att
+
+ 
+('rent', 's', 'ses', 't') : 
+ reprirent | repri
+ repris | repri
+ reprises | repri
+ reprit | repri
+
+ 
+('r', 'ssant') : 
+ saisissant | saisi
+ rougir | rougi
+ rougissant | rougi
+ saisir | saisi
+
+ 
+('gnant', 'nt') : 
+ rejoint | rejoi
+ rejoignant | rejoi
+
+ 
+('a', 'ement', 'èrent') : 
+ ricanement | rican
+ ricana | rican
+ ricanèrent | rican
+
+ 
+('a', 'on') : 
+ pinça | pinç
+ pinçon | pinç
+
+ 
+('a', 'ement') : 
+ gronda | grond
+ craquement | craqu
+ grondement | grond
+ craqua | craqu
+
+ 
+('eux', 'uel', 'éer') : 
+ créer | cr
+ creux | cr
+ cruel | cr
+
+ 
+('a', 'e', 'èrent') : 
+ allumèrent | allum
+ allume | allum
+ alluma | allum
+
+ 
+('a', 'er', 's', 'èrent') : 
+ éclatèrent | éclat
+ éclater | éclat
+ éclats | éclat
+ éclata | éclat
+
+ 
+('sser',) : 
+ écosser | éco
+
+ 
+('a', 'ez', 'é') : 
+ préférez | préfér
+ préféra | préfér
+ préféré | préfér
+
+ 
+('er', 'sion') : 
+ collier | colli
+ collision | colli
+
+ 
+('izon',) : 
+ horizon | hor
+
+ 
+('ceau',) : 
+ faisceau | fais
+ monceau | mon
+
+ 
+('ait', 'it', 'u', 'ues') : 
+ suspendues | suspend
+ suspendit | suspend
+ suspendait | suspend
+ suspendu | suspend
+
+ 
+('e', 'ement', 'ez') : 
+ enseignez | enseign
+ enseignement | enseign
+ enseigne | enseign
+
+ 
+('éter',) : 
+ refléter | refl
+
+ 
+('nrent',) : 
+ parvinrent | parvi
+
+ 
+('ition', 'u') : 
+ disparition | dispar
+ disparu | dispar
+
+ 
+('prit', 'ptes') : 
+ comptes | com
+ comprit | com
+
+ 
+('dent', 'er', 'tait', 'ter') : 
+ évident | évi
+ éviter | évi
+ évitait | évi
+ évier | évi
+
+ 
+('r', 'rait', 'rent') : 
+ désirent | dési
+ désirait | dési
+ désir | dési
+
+ 
+('ait', 'ant', 'ir', 'tait', 'u') : 
+ contenir | conten
+ contenait | conten
+ contenu | conten
+ contentait | conten
+ contenant | conten
+
+ 
+('ant', 'ent', 'er') : 
+ durant | dur
+ durent | dur
+ durer | dur
+
+ 
+('e', 'eant', 'er', 'é') : 
+ plonge | plong
+ plonger | plong
+ plongeant | plong
+ plongé | plong
+
+ 
+('ent', 's') : 
+ parlais | parlai
+ devrais | devrai
+ devraient | devrai
+ parlaient | parlai
+
+ 
+('ction', 's', 't', 'tes') : 
+ interdit | interdi
+ interdiction | interdi
+ interdites | interdi
+ interdis | interdi
+
+ 
+('ont',) : 
+ voudront | voudr
+
+ 
+('e', 'ueux') : 
+ monstrueux | monstr
+ monstre | monstr
+
+ 
+('er', 'èrent', 'é') : 
+ enfoncèrent | enfonc
+ enfoncé | enfonc
+ enfoncer | enfonc
+
+ 
+('ait', 'e', 'é') : 
+ tricoté | tricot
+ réservé | réserv
+ trompait | tromp
+ réserve | réserv
+ tricote | tricot
+ trompé | tromp
+ trompe | tromp
+ tricotait | tricot
+ réservait | réserv
+
+ 
+('a', 'ait', 'ement', 'er') : 
+ sifflement | siffl
+ sifflait | siffl
+ siffler | siffl
+ siffla | siffl
+
+ 
+('ent', 'ez', 'ons') : 
+ savez | sav
+ savons | sav
+ savent | sav
+
+ 
+('acer', 'iant') : 
+ déplacer | dépl
+ dépliant | dépl
+
+ 
+('n', 's', 't') : 
+ étain | étai
+ était | étai
+ étais | étai
+
+ 
+('ait', 'ant', 'e', 'ez') : 
+ ouvrant | ouvr
+ ouvrez | ouvr
+ ouvre | ouvr
+ ouvrait | ouvr
+
+ 
+('ait', 'ant', 'e', 'i') : 
+ sentant | sent
+ sente | sent
+ sentait | sent
+ senti | sent
+
+ 
+('a', 'aient', 'ait', 'er') : 
+ dépassa | dépass
+ dépassaient | dépass
+ résonner | résonn
+ résonnait | résonn
+ dépassait | dépass
+ dépasser | dépass
+ résonnaient | résonn
+ résonna | résonn
+
+ 
+('a', 'e', 'é') : 
+ empara | empar
+ déclara | déclar
+ collé | coll
+ empare | empar
+ colle | coll
+ déclare | déclar
+ redonné | redonn
+ colla | coll
+ emparé | empar
+ redonne | redonn
+ déclaré | déclar
+ redonna | redonn
+
+ 
+('aient', 'es') : 
+ entasses | entass
+ entassaient | entass
+
+ 
+('oler', 'reux') : 
+ affoler | aff
+ affreux | aff
+
+ 
+('tal', 'çon') : 
+ fatal | fa
+ façon | fa
+
+ 
+('a', 'er', 'èrent') : 
+ installer | install
+ enfilèrent | enfil
+ enfila | enfil
+ installa | install
+ décoller | décoll
+ installèrent | install
+ décollèrent | décoll
+ décolla | décoll
+ enfiler | enfil
+
+ 
+('aient', 'ait', 'ant', 'res', 's', 't') : 
+ sourires | souri
+ souris | souri
+ souriait | souri
+ souriaient | souri
+ sourit | souri
+ souriant | souri
+
+ 
+('tier',) : 
+ canotier | cano
+
+ 
+('e', 'er', 'eux') : 
+ avantage | avantag
+ avantager | avantag
+ avantageux | avantag
+
+ 
+('ment', 's') : 
+ lentement | lente
+ règles | règle
+ polis | poli
+ rares | rare
+ larges | large
+ autres | autre
+ autrement | autre
+ graves | grave
+ rarement | rare
+ bâtiment | bâti
+ bêtement | bête
+ bêtes | bête
+ dangereusement | dangereuse
+ lentes | lente
+ telles | telle
+ règlement | règle
+ tellement | telle
+ bâtis | bâti
+ dangereuses | dangereuse
+ poliment | poli
+ gravement | grave
+ largement | large
+
+ 
+('i', 'irent') : 
+ rétrécirent | rétréc
+ jaillirent | jaill
+ envahi | envah
+ rétréci | rétréc
+ envahirent | envah
+ failli | faill
+ faillirent | faill
+ jailli | jaill
+
+ 
+('e', 'eant', 'er') : 
+ exige | exig
+ exiger | exig
+ exigeant | exig
+
+ 
+('tes',) : 
+ hérites | héri
+ cartes | car
+
+ 
+('aient', 'e', 'er', 's', 'é') : 
+ traitaient | trait
+ traite | trait
+ traité | trait
+ traits | trait
+ traiter | trait
+
+ 
+('ndit', 'ntion') : 
+ prétendit | préte
+ prétention | préte
+
+ 
+('ait', 'ez', 'ons', 'ont') : 
+ auront | aur
+ aurait | aur
+ aurez | aur
+ aurons | aur
+
+ 
+('sif', 'tion') : 
+ intensif | inten
+ intention | inten
+
+ 
+('ement', 'é') : 
+ soulagement | soulag
+ soulagé | soulag
+
+ 
+('llon',) : 
+ portillon | porti
+
+ 
+('e', 'ez', 'rait', 's', 'u') : 
+ rendez | rend
+ rends | rend
+ rendrait | rend
+ rendu | rend
+ rende | rend
+
+ 
+('vint',) : 
+ intervint | inter
+
+ 
+('e', 'ement', 'irent') : 
+ faible | faibl
+ faiblirent | faibl
+ faiblement | faibl
+
+ 
+('a', 'ant', 'e', 'er', 'es') : 
+ murmures | murmur
+ murmure | murmur
+ murmurant | murmur
+ murmurer | murmur
+ murmura | murmur
+
+ 
+('fiant', 'n') : 
+ gratifiant | grati
+ gratin | grati
+
+ 
+('con', 'nc') : 
+ flanc | fla
+ flacon | fla
+
+ 
+('ndes',) : 
+ blondes | blo
+
+ 
+('e', 's', 't') : 
+ parcourus | parcouru
+ parcourue | parcouru
+ parcourut | parcouru
+
+ 
+('lon', 'uil') : 
+ selon | se
+ seuil | se
+
+ 
+('aient', 'ait', 'ez') : 
+ comprenez | compren
+ comprenait | compren
+ comprenaient | compren
+
+ 
+('bler',) : 
+ troubler | trou
+
+ 
+('aient', 'ait', 'e') : 
+ affaire | affair
+ affairait | affair
+ affairaient | affair
+
+ 
+('a', 'ant', 'er', 'erait', 'é') : 
+ révélant | révél
+ révélé | révél
+ révéler | révél
+ révélerait | révél
+ révéla | révél
+
+ 
+('a', 'aient', 'ait', 'e', 'èrent', 'é') : 
+ approchèrent | approch
+ approché | approch
+ approche | approch
+ approcha | approch
+ approchaient | approch
+ approchait | approch
+
+ 
+('ent', 'er', 'é') : 
+ consacrent | consacr
+ consacrer | consacr
+ consacré | consacr
+
+ 
+('mait',) : 
+ enthousiasmait | enthousias
+
+ 
+('iter', 's', 'érer') : 
+ profiter | prof
+ profs | prof
+ proférer | prof
+
+ 
+('ant', 'i', 'irent', 'it', 're') : 
+ poursuivirent | poursuiv
+ poursuivre | poursuiv
+ poursuivit | poursuiv
+ poursuivant | poursuiv
+ poursuivi | poursuiv
+
+ 
+('s', 'sait', 'sant', 't') : 
+ croisant | croi
+ croisait | croi
+ croit | croi
+ crois | croi
+
+ 
+('ard', 'on') : 
+ canard | can
+ canon | can
+
+ 
+('ant', 'er', 'ez', 'é') : 
+ rassurant | rassur
+ rassurez | rassur
+ rassuré | rassur
+ rassurer | rassur
+
+ 
+('a', 'aient', 'ées') : 
+ alignaient | align
+ aligna | align
+ alignées | align
+
+ 
+('ndes', 'uant') : 
+ secondes | seco
+ secouant | seco
+
+ 
+('lant', 'lées', 'ères') : 
+ colères | col
+ collées | col
+ collant | col
+
+ 
+('a', 'r') : 
+ corrigea | corrige
+ infliger | inflige
+ corriger | corrige
+ infligea | inflige
+
+ 
+('é',) : 
+ épuisé | épuis
+ navré | navr
+ paralysé | paralys
+ apaisé | apais
+ extrémité | extrémit
+ déformé | déform
+ déconcerté | déconcert
+ frôlé | frôl
+ sécurité | sécurit
+ embroché | embroch
+ étranglé | étrangl
+ accablé | accabl
+ propriété | propriét
+ intensité | intensit
+ considéré | considér
+ sculpté | sculpt
+ emmitouflé | emmitoufl
+ célébrité | célébrit
+ froissé | froiss
+ gaieté | gaiet
+ dévié | dévi
+ virtuosité | virtuosit
+ affamé | affam
+ admiré | admir
+ clarté | clart
+ choqué | choqu
+ ambré | ambr
+ proximité | proximit
+ injustifié | injustifi
+ écroulé | écroul
+ rapidité | rapidit
+ intitulé | intitul
+ débrouillé | débrouill
+ ensanglanté | ensanglant
+ perché | perch
+ déployé | déploy
+ effaré | effar
+ liberté | libert
+ censé | cens
+ débouché | débouch
+ fripé | frip
+ cupidité | cupidit
+ beauté | beaut
+ édenté | édent
+ colorié | colori
+ avidité | avidit
+ repéré | repér
+ assimilé | assimil
+ municipalité | municipalit
+ dévoilé | dévoil
+ personnalité | personnalit
+ baigné | baign
+ amitié | amiti
+ apposé | appos
+ suffoqué | suffoqu
+ radiocommandé | radiocommand
+ brutalisé | brutalis
+ pitié | piti
+ réalité | réalit
+ effrayé | effray
+ pétrifié | pétrifi
+ fierté | fiert
+ argenté | argent
+ évadé | évad
+ qualité | qualit
+ comparé | compar
+ santé | sant
+ cinglé | cingl
+ rapiécé | rapiéc
+ défoncé | défonc
+ vérité | vérit
+ nacré | nacr
+ offensé | offens
+ illuminé | illumin
+ convoité | convoit
+ grillé | grill
+ habitué | habitu
+ persuadé | persuad
+ violé | viol
+ faculté | facult
+ ranimé | ranim
+ éternité | éternit
+ canapé | canap
+ employé | employ
+ bifurqué | bifurqu
+ maculé | macul
+ exiguïté | exiguït
+ quantité | quantit
+ carré | carr
+ survolé | survol
+ imité | imit
+ tigré | tigr
+ saleté | salet
+ jonché | jonch
+ tranquillité | tranquillit
+ abîmé | abîm
+ scolarité | scolarit
+ comprimé | comprim
+ délabré | délabr
+ malgré | malgr
+ empiré | empir
+ étoilé | étoil
+ dégagé | dégag
+ curiosité | curiosit
+ sacré | sacr
+ émacié | émaci
+ ensoleillé | ensoleill
+ parsemé | parsem
+ dégonflé | dégonfl
+ interloqué | interloqu
+ provoqué | provoqu
+ triplé | tripl
+ courroucé | courrouc
+ coiffé | coiff
+ difficulté | difficult
+ découragé | décourag
+ obscurité | obscurit
+ découpé | découp
+ décontenancé | décontenanc
+ circé | circ
+ surexcité | surexcit
+ hérité | hérit
+ rassasié | rassasi
+ humidité | humidit
+ invisibilité | invisibilit
+ intimidé | intimid
+ culpabilité | culpabilit
+ essoufflé | essouffl
+ bâillonné | bâillonn
+ honoré | honor
+ malmené | malmen
+ étanché | étanch
+ apeuré | apeur
+ adoré | ador
+ acharné | acharn
+ contrariété | contrariét
+ cillé | cill
+ moitié | moiti
+ accoutré | accoutr
+ mordoré | mordor
+ imposé | impos
+ aspiré | aspir
+ dallé | dall
+ relégué | relégu
+ efforcé | efforc
+ scandalisé | scandalis
+ participé | particip
+ horrifié | horrifi
+ troqué | troqu
+ fébrilité | fébrilit
+ creusé | creus
+ aspergé | asperg
+ congé | cong
+ flanché | flanch
+ efflanqué | efflanqu
+ escarpé | escarp
+ piloté | pilot
+ dissipé | dissip
+
+ 
+('e', 'er', 'ez', 'èrent') : 
+ recommencez | recommenc
+ recommencer | recommenc
+ recommence | recommenc
+ recommencèrent | recommenc
+
+ 
+('nait', 'nant') : 
+ prenant | pre
+ prenait | pre
+
+ 
+('a', 'aient', 'ait', 'e', 'er', 'èrent', 'é', 'ées') : 
+ arrivaient | arriv
+ arrive | arriv
+ arriver | arriv
+ arrivait | arriv
+ arriva | arriv
+ arrivé | arriv
+ arrivées | arriv
+ arrivèrent | arriv
+
+ 
+('re', 't') : 
+ détruit | détrui
+ détruire | détrui
+
+ 
+('irer',) : 
+ retirer | ret
+
+ 
+('aient', 'ant', 'u') : 
+ revêtaient | revêt
+ revêtu | revêt
+ revêtant | revêt
+
+ 
+('iron',) : 
+ environ | env
+
+ 
+('a', 'ait', 'er', 'é', 'ées') : 
+ accrocher | accroch
+ accrochait | accroch
+ accroché | accroch
+ accrocha | accroch
+ accrochées | accroch
+
+ 
+('ant', 'antes', 'e', 'ent', 'es') : 
+ puissantes | puiss
+ puisses | puiss
+ puissant | puiss
+ puissent | puiss
+ puisse | puiss
+
+ 
+('ez', 'u') : 
+ tendu | tend
+ tendez | tend
+
+ 
+('ient', 'ntes') : 
+ volantes | vola
+ volaient | vola
+
+ 
+('aient', 'ait', 'e', 'er', 'é', 'ées') : 
+ disposait | dispos
+ disposaient | dispos
+ dispose | dispos
+ disposé | dispos
+ disposer | dispos
+ disposées | dispos
+
+ 
+('ion', 'nait') : 
+ région | rég
+ régnait | rég
+
+ 
+('d',) : 
+ nigaud | nigau
+ froid | froi
+ accord | accor
+ cognard | cognar
+ grindelwald | grindelwal
+ rebord | rebor
+ plafond | plafon
+ grand | gran
+ second | secon
+ retard | retar
+ profond | profon
+ hagrid | hagri
+ regard | regar
+ crockford | crockfor
+ rusard | rusar
+ crapaud | crapau
+ croûtard | croûtar
+ trouillard | trouillar
+ blond | blon
+ standard | standar
+ reprend | repren
+ placard | placar
+ howard | howar
+ dumbled | dumble
+ correspond | correspon
+ poudlard | poudlar
+ ronald | ronal
+ riséd | risé
+ bézoard | bézoar
+ marchepied | marchepie
+ bullard | bullar
+ quand | quan
+ hasard | hasar
+ surprend | surpren
+ aujourd | aujour
+ serpentard | serpentar
+ lourd | lour
+
+ 
+('a', 'aient', 'ait') : 
+ renifla | renifl
+ reniflaient | renifl
+ reniflait | renifl
+
+ 
+('es', 'é') : 
+ déménagé | déménag
+ déménages | déménag
+
+ 
+('sent',) : 
+ présent | pré
+
+ 
+('veux',) : 
+ nerveux | ner
+
+ 
+('a', 'ait', 'e') : 
+ fonctionne | fonctionn
+ fonctionna | fonctionn
+ fonctionnait | fonctionn
+
+ 
+('e', 't') : 
+ meurt | meur
+ meure | meur
+
+ 
+('ation', 'é', 'ées') : 
+ destiné | destin
+ destinées | destin
+ destination | destin
+
+ 
+('er', 'ez') : 
+ désirez | désir
+ désirer | désir
+ utilisez | utilis
+ utiliser | utilis
+
+ 
+('aient', 'ait', 'ant', 'ent', 'ez', 'irent', 'it', 'ons', 're', 's', 'u') : 
+ attendait | attend
+ attendent | attend
+ attendirent | attend
+ attendit | attend
+ attendant | attend
+ attendre | attend
+ attendez | attend
+ attends | attend
+ attendu | attend
+ attendaient | attend
+ attendons | attend
+
+ 
+('e', 'tant') : 
+ assise | assis
+ assistant | assis
+
+ 
+('érer',) : 
+ repérer | rep
+ libérer | lib
+ modérer | mod
+
+ 
+('ser',) : 
+ dépenser | dépen
+ peser | pe
+ réaliser | réali
+
+ 
+('ant', 'e', 'it', 'u') : 
+ batte | batt
+ battant | batt
+ battit | batt
+ battu | batt
+
+ 
+('aux', 's') : 
+ rides | ride
+ rideaux | ride
+
+ 
+('e', 'eter') : 
+ feuilleter | feuill
+ feuille | feuill
+
+ 
+('çait',) : 
+ enfonçait | enfon
+ avançait | avan
+ balançait | balan
+ annonçait | annon
+
+ 
+('rait', 't') : 
+ suffit | suffi
+ suffirait | suffi
+
+ 
+('s', 'vent') : 
+ reçois | reçoi
+ reçoivent | reçoi
+
+ 
+('e', 'iser') : 
+ ridiculiser | ridicul
+ ridicule | ridicul
+
+ 
+('a', 'é', 'ément') : 
+ précisé | précis
+ précisément | précis
+ précisa | précis
+
+ 
+('aient', 'ait', 'e', 'é') : 
+ existe | exist
+ existé | exist
+ existaient | exist
+ existait | exist
+
+ 
+('nt', 'si') : 
+ quant | qua
+ quasi | qua
+
+ 
+('er',) : 
+ fuser | fus
+ retarder | retard
+ verrouiller | verrouill
+ tarder | tard
+ débuter | début
+ entier | enti
+ lécher | léch
+ qualifier | qualifi
+ réprimer | réprim
+ réviser | révis
+ dernier | derni
+ rayonner | rayonn
+ baiser | bais
+ réparer | répar
+ gratter | gratt
+ moquer | moqu
+ couler | coul
+ tremper | tremp
+ exercer | exerc
+ lasser | lass
+ léger | lég
+ témoigner | témoign
+ vibrer | vibr
+ altier | alti
+ semer | sem
+ raisonner | raisonn
+ manier | mani
+
+ 
+('dait', 'dant', 'dent', 'dit', 'dre') : 
+ rendant | ren
+ rendit | ren
+ rendait | ren
+ rendent | ren
+ rendre | ren
+
+ 
+('aient', 'e', 'er') : 
+ ignorer | ignor
+ déteste | détest
+ détestaient | détest
+ ignore | ignor
+ flotter | flott
+ flottaient | flott
+ flotte | flott
+ ignoraient | ignor
+ détester | détest
+
+ 
+('r', 'rner') : 
+ séjour | séjou
+ séjourner | séjou
+
+ 
+('ant',) : 
+ émettant | émett
+ annulant | annul
+ survivant | surviv
+ sanglant | sangl
+ ébouriffant | ébouriff
+ aidant | aid
+ recevant | recev
+ tâtant | tât
+ pesant | pes
+ passionnant | passionn
+ ayant | ay
+
+ 
+('cher',) : 
+ tricher | tri
+
+ 
+('ait', 'i', 'irent') : 
+ repartirent | repart
+ repartait | repart
+ reparti | repart
+
+ 
+('tant',) : 
+ instant | ins
+
+ 
+('aient', 'e', 'er', 'es') : 
+ ressembles | ressembl
+ ressembler | ressembl
+ ressemble | ressembl
+ ressemblaient | ressembl
+
+ 
+('er', 'eux') : 
+ soupçonneux | soupçonn
+ soupçonner | soupçonn
+
+ 
+('s', 'ssion') : 
+ permis | permi
+ permission | permi
+
+ 
+('t', 'tier') : 
+ quartier | quar
+ quart | quar
+
+ 
+('ndes', 'nger') : 
+ grandes | gra
+ granger | gra
+
+ 
+('r',) : 
+ freiner | freine
+ échiquier | échiquie
+ amateur | amateu
+ obéir | obéi
+ erreur | erreu
+ hauteur | hauteu
+ parvenir | parveni
+ rétroviseur | rétroviseu
+ vapeur | vapeu
+ boulanger | boulange
+ raideur | raideu
+ décacheter | décachete
+ démissionner | démissionne
+ extérieur | extérieu
+ gibier | gibie
+ cauchemar | cauchema
+ dégourdir | dégourdi
+ alentour | alentou
+ douceur | douceu
+ éteignoir | éteignoi
+ jacasser | jacasse
+ songeur | songeu
+ revenir | reveni
+ souvenir | souveni
+ flatteur | flatteu
+ devenir | deveni
+ froideur | froideu
+ grésiller | grésille
+ errer | erre
+ réfugier | réfugie
+ frappeur | frappeu
+ mouchoir | mouchoi
+ engraisser | engraisse
+ ordinateur | ordinateu
+ hangar | hanga
+ honneur | honneu
+ terreur | terreu
+ fureur | fureu
+ locomotor | locomoto
+ dérégler | dérégle
+ calendrier | calendrie
+ dégager | dégage
+ profondeur | profondeu
+ dossier | dossie
+ rousseur | rousseu
+ visiteur | visiteu
+ décevoir | décevoi
+ obtenir | obteni
+ jupiter | jupite
+ autour | autou
+ faiblir | faibli
+ monsieur | monsieu
+ rétablir | rétabli
+ humeur | humeu
+ accélérer | accélére
+ subir | subi
+ soupir | soupi
+ devoir | devoi
+ directeur | directeu
+ rappliquer | rapplique
+ douleur | douleu
+ joueur | joueu
+ constrictor | constricto
+ chaleur | chaleu
+ commandeur | commandeu
+ provenir | proveni
+ crockdur | crockdu
+ trottoir | trottoi
+ bonheur | bonheu
+ bonsoir | bonsoi
+ abreuver | abreuve
+ longueur | longueu
+ intérieur | intérieu
+ plaisir | plaisi
+ grignoter | grignote
+ éclair | éclai
+ asseoir | asseoi
+ odeur | odeu
+ postérieur | postérieu
+ trésor | tréso
+ papier | papie
+ nourrir | nourri
+ désapprobateur | désapprobateu
+ trevor | trevo
+ professeur | professeu
+ gryffondor | gryffondo
+ escalier | escalie
+ comptoir | comptoi
+ accoudoir | accoudoi
+ souffrir | souffri
+ fournir | fourni
+ céder | céde
+ neutraliser | neutralise
+ expéditeur | expéditeu
+ faveur | faveu
+ seigneur | seigneu
+ ollivander | ollivande
+ grandeur | grandeu
+ amour | amou
+ voyageur | voyageu
+ batteur | batteu
+ compenser | compense
+ couleur | couleu
+ frétiller | frétille
+ tisonnier | tisonnie
+ coiffeur | coiffeu
+ abstenir | absteni
+ commentateur | commentateu
+ démoraliser | démoralise
+ recevoir | recevoi
+ abuser | abuse
+ reprocher | reproche
+ accaparer | accapare
+ lueur | lueu
+ sueur | sueu
+ menteur | menteu
+ pulvériser | pulvérise
+ dortoir | dortoi
+ valeur | valeu
+ vouloir | vouloi
+ avenir | aveni
+ rumeur | rumeu
+ composteur | composteu
+ moteur | moteu
+ meilleur | meilleu
+ olivier | olivie
+ docteur | docteu
+ astiqueur | astiqueu
+ espoir | espoi
+ savoir | savoi
+ apercevoir | apercevoi
+ avoir | avoi
+ hamburger | hamburge
+ prisonnier | prisonnie
+ établir | établi
+ retour | retou
+ mourir | mouri
+ revoir | revoi
+ élixir | élixi
+ décapiter | décapite
+ féliciter | félicite
+ facteur | facteu
+ poursuiveur | poursuiveu
+ pouvoir | pouvoi
+ prévenir | préveni
+ miroir | miroi
+ baveur | baveu
+ manœuvrer | manœuvre
+ susciter | suscite
+ ressortir | ressorti
+ présentateur | présentateu
+ épargner | épargne
+ couloir | couloi
+ avertir | averti
+ amortir | amorti
+ tintinnabuler | tintinnabule
+ falloir | falloi
+ gaffeur | gaffeu
+ attrapeur | attrapeu
+ horreur | horreu
+ auteur | auteu
+ réprobateur | réprobateu
+ mobilier | mobilie
+ escrimer | escrime
+ hisser | hisse
+ défavoriser | défavorise
+ couvrir | couvri
+ bonjour | bonjou
+ cavalier | cavalie
+ évoquer | évoque
+ intervenir | interveni
+ vomir | vomi
+ humour | humou
+ calmar | calma
+ engloutir | englouti
+ chœur | chœu
+
+ 
+('yer',) : 
+ foyer | fo
+ broyer | bro
+ payer | pa
+
+ 
+('ant', 'e', 'ez') : 
+ sachant | sach
+ sache | sach
+ sachez | sach
+
+ 
+('e', 's') : 
+ forte | fort
+ étonnée | étonné
+ exposée | exposé
+ meilleure | meilleur
+ pleine | plein
+ perdue | perdu
+ mêlés | mêlé
+ pointue | pointu
+ parcs | parc
+ pavée | pavé
+ noire | noir
+ fixée | fixé
+ différents | différent
+ meilleurs | meilleur
+ commune | commun
+ blonds | blond
+ enveloppés | enveloppé
+ fatiguée | fatigué
+ accrochés | accroché
+ morts | mort
+ secouée | secoué
+ brûlée | brûlé
+ ronde | rond
+ pointus | pointu
+ connue | connu
+ étroits | étroit
+ élevés | élevé
+ élevée | élevé
+ morte | mort
+ manifestés | manifesté
+ entendue | entendu
+ droite | droit
+ différente | différent
+ devenus | devenu
+ préférée | préféré
+ découverts | découvert
+ laissés | laissé
+ issue | issu
+ envoyée | envoyé
+ verts | vert
+ gravés | gravé
+ moldue | moldu
+ venue | venu
+ penchés | penché
+ obligés | obligé
+ retrouvés | retrouvé
+ excellents | excellent
+ haute | haut
+ revenus | revenu
+ serrée | serré
+ loupe | loup
+ retrouvée | retrouvé
+ précipitée | précipité
+ couverte | couvert
+ gravée | gravé
+ noirs | noir
+ perdus | perdu
+ étincelante | étincelant
+ préférés | préféré
+ étincelants | étincelant
+ petite | petit
+ voisins | voisin
+ pavés | pavé
+ cachés | caché
+ ennuis | ennui
+ délabrée | délabré
+ envoyés | envoyé
+ hauts | haut
+ réservée | réservé
+ installée | installé
+ fatigués | fatigué
+ plantés | planté
+ faite | fait
+ étroite | étroit
+ désolés | désolé
+ pleins | plein
+ serrés | serré
+ droits | droit
+ chargés | chargé
+ tremblante | tremblant
+ enveloppée | enveloppé
+ faits | fait
+ pourvus | pourvu
+ vêtue | vêtu
+ courts | court
+ arrachée | arraché
+ plongés | plongé
+ bleue | bleu
+ blonde | blond
+ fermée | fermé
+ rassemblés | rassemblé
+ chaussés | chaussé
+ bleus | bleu
+ réservés | réservé
+ entendus | entendu
+ chargée | chargé
+ venus | venu
+ interdits | interdit
+ laissée | laissé
+ charmants | charmant
+ arrivés | arrivé
+ perçants | perçant
+ glacés | glacé
+ argentée | argenté
+ suivante | suivant
+ convaincue | convaincu
+ moine | moin
+ levés | levé
+ excellente | excellent
+ gagnée | gagné
+ moldus | moldu
+ manifestée | manifesté
+ placés | placé
+ plongée | plongé
+ brûlés | brûlé
+ coiffée | coiffé
+ découverte | découvert
+ installés | installé
+ interdite | interdit
+ ouverte | ouvert
+ connus | connu
+ placée | placé
+ allés | allé
+ cachée | caché
+ voisine | voisin
+ précipités | précipité
+ blessés | blessé
+ argentés | argenté
+ revenue | revenu
+ accrochée | accroché
+ habillés | habillé
+ ronds | rond
+ penchée | penché
+ tremblants | tremblant
+ courte | court
+ importants | important
+ puissants | puissant
+ petits | petit
+ secoués | secoué
+ blessée | blessé
+ puissante | puissant
+ vêtus | vêtu
+ levée | levé
+ fixés | fixé
+ ennuie | ennui
+ perçante | perçant
+ gagnés | gagné
+ suivants | suivant
+ empruntés | emprunté
+ étonnés | étonné
+ délabrés | délabré
+ plantée | planté
+ géants | géant
+ arrivée | arrivé
+ rassemblée | rassemblé
+ fermés | fermé
+ tapis | tapi
+ scintillants | scintillant
+ charmante | charmant
+ mêlée | mêlé
+ issus | issu
+ ouverts | ouvert
+ horrifiée | horrifié
+ habillée | habillé
+ moins | moin
+ exposés | exposé
+ géante | géant
+ tapie | tapi
+ devenue | devenu
+ convaincus | convaincu
+ verte | vert
+ obligée | obligé
+ allée | allé
+ parce | parc
+ forts | fort
+ pourvue | pourvu
+ chaussée | chaussé
+ couverts | couvert
+ coiffés | coiffé
+ empruntée | emprunté
+ horrifiés | horrifié
+ glacée | glacé
+ arrachés | arraché
+ scintillante | scintillant
+ importante | important
+ loups | loup
+ désolée | désolé
+ communs | commun
+
+ 
+('eau',) : 
+ chapiteau | chapit
+
+ 
+('nant', 's') : 
+ chantons | chanton
+ chantonnant | chanton
+
+ 
+('rait', 's') : 
+ prendrait | prend
+ prends | prend
+
+ 
+('a', 'aient', 'e', 'er', 'eront', 'èrent', 'é') : 
+ retrouvèrent | retrouv
+ retrouvé | retrouv
+ retrouvaient | retrouv
+ retrouve | retrouv
+ retrouveront | retrouv
+ retrouva | retrouv
+ retrouver | retrouv
+
+ 
+('eux', 'xer') : 
+ mixer | mi
+ mieux | mi
+
+ 
+('a', 'aient', 'e') : 
+ perdra | perdr
+ perdraient | perdr
+ perdre | perdr
+
+ 
+('e', 'ez', 'r', 'rent', 's') : 
+ sortirent | sorti
+ sortie | sorti
+ sortis | sorti
+ sortiez | sorti
+ sortir | sorti
+
+ 
+('aient', 'ront') : 
+ apercevront | apercev
+ apercevaient | apercev
+
+ 
+('e', 'er', 's', 'é') : 
+ présents | présent
+ présenté | présent
+ présente | présent
+ présenter | présent
+
+ 
+('èrent',) : 
+ engagèrent | engag
+ grimpèrent | grimp
+ partagèrent | partag
+
+ 
+('des', 'fler', 'ger') : 
+ rondes | ron
+ ronfler | ron
+ ronger | ron
+
+ 
+('a', 'ait', 'ant', 'e', 'èrent', 'é') : 
+ enveloppait | envelopp
+ enveloppe | envelopp
+ enveloppé | envelopp
+ enveloppa | envelopp
+ enveloppèrent | envelopp
+ enveloppant | envelopp
+
+ 
+('bons', 'es') : 
+ james | jam
+ jambons | jam
+
+ 
+('e', 'ement') : 
+ remarquable | remarquabl
+ extrême | extrêm
+ personnelle | personnell
+ terriblement | terribl
+ générale | général
+ fidèle | fidèl
+ douloureusement | douloureus
+ fébrilement | fébril
+ extrêmement | extrêm
+ frénétiquement | frénétiqu
+ totalement | total
+ fébrile | fébril
+ discrète | discrèt
+ soudainement | soudain
+ uniquement | uniqu
+ véritable | véritabl
+ longue | longu
+ solidement | solid
+ simplement | simpl
+ visiblement | visibl
+ légère | légèr
+ joyeusement | joyeus
+ frénétique | frénétiqu
+ brusque | brusqu
+ terrible | terribl
+ facile | facil
+ tranquille | tranquill
+ douloureuse | douloureus
+ discrètement | discrèt
+ rapidement | rapid
+ visible | visibl
+ totale | total
+ mystérieuse | mystérieus
+ personnellement | personnell
+ habituelle | habituell
+ silencieuse | silencieus
+ normale | normal
+ furieusement | furieus
+ péniblement | pénibl
+ inévitable | inévitabl
+ normalement | normal
+ soudaine | soudain
+ joyeuse | joyeus
+ claire | clair
+ fidèlement | fidèl
+ légèrement | légèr
+ furieuse | furieus
+ véritablement | véritabl
+ paisiblement | paisibl
+ longuement | longu
+ clairement | clair
+ rapide | rapid
+ pénible | pénibl
+ unique | uniqu
+ généralement | général
+ inévitablement | inévitabl
+ silencieusement | silencieus
+ remarquablement | remarquabl
+ solide | solid
+ facilement | facil
+ brusquement | brusqu
+ simple | simpl
+ habituellement | habituell
+ mystérieusement | mystérieus
+ tranquillement | tranquill
+ malheureusement | malheureus
+ paisible | paisibl
+ entière | entièr
+ entièrement | entièr
+ malheureuse | malheureus
+
+ 
+('e', 'ement', 'er') : 
+ étrange | étrang
+ pratiquement | pratiqu
+ étranger | étrang
+ étrangement | étrang
+ pratiquer | pratiqu
+ pratique | pratiqu
+
+ 
+('nt', 's', 't') : 
+ saches | sache
+ sachet | sache
+ sachent | sache
+
+ 
+('mber',) : 
+ retomber | reto
+
+ 
+('ces', 'it') : 
+ traces | tra
+ trait | tra
+
+ 
+('a', 'ant', 'e', 'er', 'ez', 'ons', 'é') : 
+ oubliant | oubli
+ oubliez | oubli
+ oublier | oubli
+ oublions | oubli
+ oublié | oubli
+ oublie | oubli
+ oublia | oubli
+
+ 
+('eler', 'ord', 'réer') : 
+ receler | rec
+ record | rec
+ recréer | rec
+
+ 
+('ait', 'ant', 'ent', 'er', 'eur', 'umes', 'ée') : 
+ voleur | vol
+ volait | vol
+ volent | vol
+ volant | vol
+ volée | vol
+ voler | vol
+ volumes | vol
+
+ 
+('e', 'ez', 'rent', 's', 't') : 
+ suivie | suivi
+ suiviez | suivi
+ suivirent | suivi
+ suivis | suivi
+ suivit | suivi
+
+ 
+('i', 'iser') : 
+ favori | favor
+ favoriser | favor
+
+ 
+('a', 'ant') : 
+ empoignant | empoign
+ empoigna | empoign
+ supplia | suppli
+ suppliant | suppli
+
+ 
+('nent', 's') : 
+ tiennent | tien
+ viens | vien
+ viennent | vien
+ tiens | tien
+
+ 
+('ait', 'e', 's') : 
+ pleure | pleur
+ pleurait | pleur
+ pleurs | pleur
+
+ 
+('heur', 's') : 
+ blancs | blanc
+ blancheur | blanc
+
+ 
+('e', 'on') : 
+ carte | cart
+ cordon | cord
+ ballon | ball
+ saucisson | sauciss
+ saucisse | sauciss
+ balle | ball
+ carton | cart
+ corde | cord
+
+ 
+('a', 'ait', 'e', 'ez', 'èrent') : 
+ reculèrent | recul
+ recula | recul
+ reculait | recul
+ reculez | recul
+ recule | recul
+
+ 
+('er', 'èrent') : 
+ regagner | regagn
+ avancèrent | avanc
+ pouffer | pouff
+ débarquer | débarqu
+ regagnèrent | regagn
+ pouffèrent | pouff
+ déjeuner | déjeun
+ avancer | avanc
+ déjeunèrent | déjeun
+ débarquèrent | débarqu
+
+ 
+('ait', 'ant', 'e', 'er') : 
+ renverser | renvers
+ danse | dans
+ renverse | renvers
+ dansant | dans
+ dansait | dans
+ renversant | renvers
+ renversait | renvers
+ danser | dans
+
+ 
+('ant', 'e', 'é') : 
+ chaussé | chauss
+ chausse | chauss
+ chaussant | chauss
+
+ 
+('t', 'tront') : 
+ connaîtront | connaî
+ connaît | connaî
+
+ 
+('res',) : 
+ terres | ter
+ noires | noi
+ paires | pai
+
+ 
+('a', 'e', 'er', 'ez', 'é') : 
+ remarqua | remarqu
+ entra | entr
+ entrer | entr
+ remarquer | remarqu
+ parlé | parl
+ entré | entr
+ risque | risqu
+ remarquez | remarqu
+ remarque | remarqu
+ remarqué | remarqu
+ parlez | parl
+ risquer | risqu
+ parle | parl
+ parla | parl
+ entre | entr
+ risqué | risqu
+ risqua | risqu
+ risquez | risqu
+ entrez | entr
+ parler | parl
+
+ 
+('chon', 't') : 
+ capuchon | capu
+ caput | capu
+
+ 
+('e', 'es', 'ément') : 
+ profondes | profond
+ profondément | profond
+ profonde | profond
+
+ 
+('igo',) : 
+ amigo | am
+
+ 
+('bres', 'p') : 
+ champ | cham
+ chambres | cham
+
+ 
+('e', 'es', 'ment', 's') : 
+ vrais | vrai
+ vraie | vrai
+ vraiment | vrai
+ vraies | vrai
+
+ 
+('aient', 'er') : 
+ faciliter | facilit
+ zigzaguaient | zigzagu
+ escalader | escalad
+ redouter | redout
+ facilitaient | facilit
+ posséder | posséd
+ acclamaient | acclam
+ tournoyaient | tournoy
+ possédaient | posséd
+ acclamer | acclam
+ escaladaient | escalad
+ zigzaguer | zigzagu
+ tournoyer | tournoy
+ redoutaient | redout
+
+ 
+('ises', 'nc') : 
+ fraises | fra
+ franc | fra
+
+ 
+('ait', 'ant', 'ez', 'ées') : 
+ posait | pos
+ posées | pos
+ posez | pos
+ posant | pos
+
+ 
+('vent',) : 
+ doivent | doi
+
+ 
+('a', 'aient', 'ait', 'e', 'é') : 
+ toucha | touch
+ touche | touch
+ touchaient | touch
+ touché | touch
+ touchait | touch
+
+ 
+('ation', 'ent') : 
+ obstination | obstin
+ obstinent | obstin
+
+ 
+('ches', 'ger', 'ques', 'uel') : 
+ manger | man
+ manches | man
+ manques | man
+ manuel | man
+
+ 
+('a', 'ait', 's', 'é') : 
+ cloué | clou
+ dessina | dessin
+ dessinait | dessin
+ cloua | clou
+ dessiné | dessin
+ dessins | dessin
+ clouait | clou
+ clous | clou
+
+ 
+('ger',) : 
+ danger | dan
+
+ 
+('a', 'aient', 'ez') : 
+ resteraient | rester
+ resterez | rester
+ passera | passer
+ pourraient | pourr
+ arriverez | arriver
+ restera | rester
+ finiraient | finir
+ finirez | finir
+ finira | finir
+ pourra | pourr
+ pourrez | pourr
+ passerez | passer
+ passeraient | passer
+ arriveraient | arriver
+ arrivera | arriver
+
+ 
+('aient', 'it') : 
+ répandaient | répand
+ répandit | répand
+
+ 
+('n', 'nnent') : 
+ raisonnent | raiso
+ raison | raiso
+
+ 
+('ction',) : 
+ stupéfaction | stupéfa
+ satisfaction | satisfa
+
+ 
+('a', 'ant', 'ent', 'er', 'é') : 
+ accompagna | accompagn
+ accompagné | accompagn
+ accompagnent | accompagn
+ accompagnant | accompagn
+ accompagner | accompagn
+
+ 
+('e', 'er', 'é') : 
+ casser | cass
+ forger | forg
+ épingler | épingl
+ calme | calm
+ casse | cass
+ cassé | cass
+ téléphone | téléphon
+ calmé | calm
+ calmer | calm
+ placé | plac
+ charger | charg
+ place | plac
+ charge | charg
+ forcer | forc
+ épinglé | épingl
+ bloqué | bloqu
+ forge | forg
+ force | forc
+ forgé | forg
+ forcé | forc
+ bloque | bloqu
+ épingle | épingl
+ téléphoné | téléphon
+ nomme | nomm
+ nommé | nomm
+ placer | plac
+ chargé | charg
+ nommer | nomm
+ bloquer | bloqu
+ téléphoner | téléphon
+
+ 
+('ez', 'rant') : 
+ étiez | éti
+ étirant | éti
+
+ 
+('eux',) : 
+ cireux | cir
+ fameux | fam
+ piteux | pit
+ pompeux | pomp
+ lieux | li
+
+ 
+('er', 's') : 
+ soucier | souci
+ transports | transport
+ transporter | transport
+ abords | abord
+ soucis | souci
+ aborder | abord
+
+ 
+('dait', 'dant', 'dent', 'des', 'ou', 'çon') : 
+ gardent | gar
+ gardait | gar
+ garçon | gar
+ gardant | gar
+ garou | gar
+ gardes | gar
+
+ 
+('int',) : 
+ craint | cra
+ revint | rev
+ flint | fl
+ joint | jo
+
+ 
+('a', 'ait', 'er', 'ez') : 
+ estimez | estim
+ vérifiait | vérifi
+ vérifier | vérifi
+ vérifia | vérifi
+ estimer | estim
+ vérifiez | vérifi
+ estima | estim
+ estimait | estim
+
+ 
+('yon',) : 
+ rayon | ra
+
+ 
+('a', 'ait', 'ent', 'er') : 
+ attira | attir
+ attirer | attir
+ attirait | attir
+ attirent | attir
+
+ 
+('s', 'sion') : 
+ confusion | confu
+ express | expres
+ confus | confu
+ expression | expres
+
+ 
+('ez', 'ises', 'umer') : 
+ assises | ass
+ assumer | ass
+ assez | ass
+
+ 
+('i', 'ient', 's') : 
+ auraient | aura
+ aurai | aura
+ seras | sera
+ auras | aura
+ serai | sera
+ seraient | sera
+
+ 
+('fier', 'n') : 
+ justin | justi
+ justifier | justi
+
+ 
+('ent', 's', 't') : 
+ savaient | savai
+ savait | savai
+ pouvais | pouvai
+ savais | savai
+ pouvait | pouvai
+ pouvaient | pouvai
+
+ 
+('a', 'aient', 'e', 'ent', 'er', 'é') : 
+ termina | termin
+ terminent | termin
+ terminaient | termin
+ terminer | termin
+ terminé | termin
+ termine | termin
+
+ 
+('aison', 'é') : 
+ combiné | combin
+ combinaison | combin
+
+ 
+('des',) : 
+ bandes | ban
+
+ 
+('ait', 'ant', 'er', 'é') : 
+ frotter | frott
+ frottant | frott
+ frottait | frott
+ frotté | frott
+
+ 
+('iant',) : 
+ stupéfiant | stupéf
+
+ 
+('a', 'ait', 'e', 'ent', 'er', 'on', 'èrent', 'é') : 
+ réveillent | réveill
+ réveiller | réveill
+ réveillait | réveill
+ réveillèrent | réveill
+ réveilla | réveill
+ réveillon | réveill
+ réveillé | réveill
+ réveille | réveill
+
+ 
+('tion',) : 
+ section | sec
+ fabrication | fabrica
+ agitation | agita
+ fraction | frac
+
+ 
+('a', 'aient', 'ait', 'ation', 'er', 'èrent') : 
+ contemplation | contempl
+ contempler | contempl
+ contemplait | contempl
+ contemplaient | contempl
+ contemplèrent | contempl
+ contempla | contempl
+
+ 
+('ges', 'ient', 'nt') : 
+ étages | éta
+ étant | éta
+ étaient | éta
+
+ 
+('ait', 'ant', 'er', 'ée') : 
+ jeter | jet
+ jetée | jet
+ jetant | jet
+ jetait | jet
+
+ 
+('a', 'ait', 'ant', 'e', 'er', 'ez', 'é', 'ée', 'és') : 
+ donnés | donn
+ donner | donn
+ donnée | donn
+ donnez | donn
+ donnait | donn
+ donné | donn
+ donne | donn
+ donnant | donn
+ donna | donn
+
+ 
+('eaux',) : 
+ cadeaux | cad
+ museaux | mus
+ chapeaux | chap
+
+ 
+('a', 'ait', 'e', 'er', 'rait', 'é') : 
+ monter | mont
+ monte | mont
+ monta | mont
+ montait | mont
+ monté | mont
+ montrait | mont
+
+ 
+('aient', 'e', 'ez') : 
+ remettre | remettr
+ remettrez | remettr
+ remettraient | remettr
+
+ 
+('ion',) : 
+ protection | protect
+ gallion | gall
+
+ 
+('a', 'ant', 'ement', 'er') : 
+ bâillant | bâill
+ bâillement | bâill
+ bâiller | bâill
+ bâilla | bâill
+
+ 
+('er', 'pait') : 
+ ramer | ram
+ rampait | ram
+
+ 
+('rait', 'ton') : 
+ mourait | mou
+ mouton | mou
+
+ 
+('e', 'rent') : 
+ reçue | reçu
+ reçurent | reçu
+
+ 
+('aient', 'ait', 'ant', 'irent', 're', 'u') : 
+ descendait | descend
+ descendant | descend
+ descendu | descend
+ descendaient | descend
+ descendre | descend
+ descendirent | descend
+
+ 
+('e', 'eait', 'eant', 'er', 'é') : 
+ oblige | oblig
+ obligeait | oblig
+ obligeant | oblig
+ obligé | oblig
+ obliger | oblig
+
+ 
+('e', 'ineux') : 
+ volumineux | volum
+ volume | volum
+
+ 
+('r', 's') : 
+ manigancer | manigance
+ manigances | manigance
+ fêter | fête
+ fêtes | fête
+
+ 
+('rent',) : 
+ perdirent | perdi
+ meurent | meu
+ crurent | cru
+ rendirent | rendi
+ vinrent | vin
+ collèrent | collè
+
+ 
+('a', 'er', 'é', 'ées') : 
+ amenées | amen
+ amené | amen
+ amener | amen
+ amena | amen
+
+ 
+('aient', 'e', 'é') : 
+ constituaient | constitu
+ constitue | constitu
+ entouré | entour
+ constitué | constitu
+ entoure | entour
+ entouraient | entour
+
+ 
+('ation', 'é') : 
+ préoccupé | préoccup
+ excité | excit
+ préoccupation | préoccup
+ excitation | excit
+
+ 
+('i', 's') : 
+ pourras | pourra
+ pourrai | pourra
+
+ 
+('a', 'ant', 'ement', 'er', 'èrent') : 
+ claquer | claqu
+ claquant | claqu
+ claquèrent | claqu
+ claqua | claqu
+ claquement | claqu
+
+ 
+('e', 'y') : 
+ mande | mand
+ salle | sall
+ sally | sall
+ mandy | mand
+
+ 
+('a', 'ait', 'er', 'èrent') : 
+ enjamba | enjamb
+ enjambait | enjamb
+ distingua | distingu
+ distinguer | distingu
+ enjambèrent | enjamb
+ enjamber | enjamb
+ distinguait | distingu
+ distinguèrent | distingu
+
+ 
+('cher', 'ffes', 'rnés', 'tes') : 
+ tournés | tou
+ toutes | tou
+ toucher | tou
+ touffes | tou
+
+ 
+('u',) : 
+ tordu | tord
+ joufflu | jouffl
+ prévu | prév
+ gâteau | gâtea
+ esquimau | esquima
+ ruisseau | ruissea
+ acajou | acajo
+ tissu | tiss
+ sceau | scea
+ lorsqu | lorsq
+ fondu | fond
+ prétendu | prétend
+ carreau | carrea
+ reconnu | reconn
+ bienvenu | bienven
+ survécu | survéc
+ dragonneau | dragonnea
+ crochu | croch
+ tuyau | tuya
+ obtenu | obten
+ malentendu | malentend
+ milieu | milie
+ jumeau | jumea
+ moldu | mold
+ panneau | pannea
+ nouveau | nouvea
+ exclu | excl
+ pruneau | prunea
+ château | châtea
+ combattu | combatt
+ cadeau | cadea
+ bourru | bourr
+ niveau | nivea
+ fardeau | fardea
+ museau | musea
+ manitou | manito
+ vaincu | vainc
+ connu | conn
+ suraigu | suraig
+ agneau | agnea
+ fallu | fall
+ blaireau | blairea
+ conclu | concl
+ quelqu | quelq
+ convaincu | convainc
+ rideau | ridea
+ dépourvu | dépourv
+ inconnu | inconn
+ manteau | mantea
+ jusqu | jusq
+ genou | geno
+ mordu | mord
+ choixpeau | choixpea
+ chapeau | chapea
+
+ 
+('vres',) : 
+ pauvres | pau
+
+ 
+('ement', 'er', 'ez', 'èrent') : 
+ écartez | écart
+ écartèrent | écart
+ écarter | écart
+ écartement | écart
+
+ 
+('a', 'aient', 'ation', 'er', 'ez', 'é') : 
+ préparaient | prépar
+ préparer | prépar
+ préparez | prépar
+ préparation | prépar
+ préparé | prépar
+ prépara | prépar
+
+ 
+('ire', 'pes') : 
+ tapes | ta
+ taire | ta
+
+ 
+('oux',) : 
+ choux | ch
+ genoux | gen
+
+ 
+('ction', 'yant') : 
+ effrayant | effra
+ effraction | effra
+
+ 
+('ques',) : 
+ quelques | quel
+
+ 
+('ait', 'ent', 'er') : 
+ crier | cri
+ crient | cri
+ criait | cri
+
+ 
+('lait', 'rner') : 
+ décerner | déce
+ décelait | déce
+
+ 
+('aient', 'ion', 'èrent') : 
+ pression | press
+ pressaient | press
+ pressèrent | press
+
+ 
+('t', 'tes', 'tier') : 
+ droit | droi
+ droites | droi
+ droitier | droi
+
+ 
+('tes', 'yer') : 
+ noyer | no
+ notes | no
+
+ 
+('rent', 's', 't') : 
+ assirent | assi
+ assit | assi
+ assis | assi
+
+ 
+('quer',) : 
+ embarquer | embar
+
+ 
+('ant', 'é') : 
+ aveuglant | aveugl
+ dégoûtant | dégoût
+ aveuglé | aveugl
+ dégoûté | dégoût
+ égosillé | égosill
+ égosillant | égosill
+
+ 
+('rait', 'ront', 'tait', 'tant') : 
+ sautait | sau
+ sautant | sau
+ saurait | sau
+ sauront | sau
+
+ 
+('ier',) : 
+ acier | ac
+
+ 
+('ait', 'er', 'ées') : 
+ fixer | fix
+ fixées | fix
+ fixait | fix
+
+ 
+('maux', 'ver') : 
+ esquimaux | esqui
+ esquiver | esqui
+
+ 
+('a', 'ait', 'e', 'er', 'é', 'ée') : 
+ tombé | tomb
+ tombée | tomb
+ tomber | tomb
+ tomba | tomb
+ tombe | tomb
+ tombait | tomb
+
+ 
+('con', 'tes') : 
+ fautes | fau
+ faucon | fau
+
+ 
+('eux', 'ger', 'gez', 'gre') : 
+ boueux | bou
+ bougre | bou
+ bougez | bou
+ bouger | bou
+
+ 
+('cer', 'çait') : 
+ lançait | lan
+ lancer | lan
+
+ 
+('ertes', 'rant') : 
+ découvrant | découv
+ découvertes | découv
+
+ 
+('aient', 'u') : 
+ appartenu | apparten
+ appartenaient | apparten
+ prévenu | préven
+ prévenaient | préven
+ parvenaient | parven
+ parvenu | parven
+
+ 
+('ues',) : 
+ bleues | ble
+
+ 
+('a', 'aient') : 
+ avança | avanç
+ échangea | échange
+ réprimanda | réprimand
+ bougea | bouge
+ effaça | effaç
+ effaçaient | effaç
+ réprimandaient | réprimand
+ commença | commenç
+ bougeaient | bouge
+ obligea | oblige
+ échangeaient | échange
+ replongea | replonge
+ obligeaient | oblige
+ avançaient | avanç
+ replongeaient | replonge
+ commençaient | commenç
+
+ 
+('a', 'aient', 'ait', 'e', 'er', 'ez', 'ons', 'èrent', 'é') : 
+ essayons | essay
+ essaye | essay
+ essayait | essay
+ essayez | essay
+ essayaient | essay
+ essayèrent | essay
+ essaya | essay
+ essayer | essay
+ essayé | essay
+
+ 
+('a', 'ait', 'r') : 
+ protégeait | protége
+ protéger | protége
+ protégea | protége
+
+ 
+('s', 'ux') : 
+ mites | mite
+ miteux | mite
+
+ 
+('eau', 'eaux') : 
+ anneaux | ann
+ bateaux | bat
+ bateau | bat
+ anneau | ann
+
+ 
+('e', 'i') : 
+ mente | ment
+ menti | ment
+ rougi | roug
+ rouge | roug
+
+ 
+('ager', 'ez', 'i', 's') : 
+ parts | part
+ partager | part
+ partez | part
+ parti | part
+
+ 
+('a', 'e', 'er', 's', 'é') : 
+ coups | coup
+ couper | coup
+ coupa | coup
+ coupe | coup
+ coupé | coup
+
+ 
+('ront',) : 
+ profiteront | profite
+ passeront | passe
+
+ 
+('là',) : 
+ genslà | gens
+
+ 
+('aient', 'ait', 'ant', 'er') : 
+ étincelait | étincel
+ étinceler | étincel
+ étincelant | étincel
+ étincelaient | étincel
+
+ 
+('a', 'ant', 'èrent', 'é') : 
+ incliné | inclin
+ inclina | inclin
+ penché | pench
+ inclinant | inclin
+ inclinèrent | inclin
+ penchant | pench
+ penchèrent | pench
+ pencha | pench
+
+ 
+('a', 's') : 
+ étala | étal
+ étals | étal
+
+ 
+('uter', 'y') : 
+ percy | perc
+ percuter | perc
+
+ 
+('ffes', 'ffon', 'ncer') : 
+ griffes | gri
+ grincer | gri
+ griffon | gri
+
+ 
+('d', 'tion') : 
+ attend | atten
+ attention | atten
+
+ 
+('tait', 'teux', 'tés') : 
+ douteux | dou
+ doutait | dou
+ doutés | dou
+
+ 
+('ner', 'tes') : 
+ certes | cer
+ cerner | cer
+
+ 
+('reux',) : 
+ dangereux | dange
+
+ 
+('aux', 'l', 'lles') : 
+ nouvel | nouve
+ nouveaux | nouve
+ nouvelles | nouve
+
+ 
+('a', 'ait', 'é') : 
+ insistait | insist
+ insista | insist
+ insisté | insist
+
+ 
+('r', 's', 't', 'tion') : 
+ répartit | réparti
+ répartis | réparti
+ répartition | réparti
+ répartir | réparti
+
+ 
+('ieure',) : 
+ intérieure | intér
+
+ 
+('ing', 'ser') : 
+ poser | po
+ poing | po
+
+ 
+('ce', 'dre', 'dres', 'vons') : 
+ poudre | pou
+ pouce | pou
+ poudres | pou
+ pouvons | pou
+
+ 
+('dait', 'dant', 'dre', 'sait', 'ser', 'sées') : 
+ pensait | pen
+ penser | pen
+ pendre | pen
+ pensées | pen
+ pendant | pen
+ pendait | pen
+
+ 
+('dre', 'ses') : 
+ cases | ca
+ cadre | ca
+
+ 
+('s', 'sses') : 
+ épaisses | épai
+ épais | épai
+
+ 
+('ait', 'ant', 'ation', 'e', 'er', 'es', 'ez', 'é') : 
+ imaginez | imagin
+ imagines | imagin
+ imaginé | imagin
+ imaginer | imagin
+ imagination | imagin
+ imaginait | imagin
+ imaginant | imagin
+ imagine | imagin
+
+ 
+('es', 'ir') : 
+ pâlir | pâl
+ pâles | pâl
+
+ 
+('aient', 'ait', 'ant', 'antes', 'ement', 'er', 'èrent') : 
+ tremblement | trembl
+ tremblèrent | trembl
+ tremblantes | trembl
+ tremblant | trembl
+ tremblait | trembl
+ trembler | trembl
+ tremblaient | trembl
+
+ 
+('d', 's') : 
+ cornes | corne
+ corned | corne
+
+ 
+('eur', 'é') : 
+ enchanté | enchant
+ enchanteur | enchant
+
+ 
+('e', 'ement', 'i', 's') : 
+ grande | grand
+ grands | grand
+ grandi | grand
+ grandement | grand
+
+ 
+('les',) : 
+ sales | sa
+ celles | cel
+
+ 
+('tenir', 'tient', 'u', 'urent') : 
+ appartient | appar
+ apparurent | appar
+ appartenir | appar
+ apparu | appar
+
+ 
+('a', 'aient', 'er', 'èrent') : 
+ remontèrent | remont
+ remonter | remont
+ remonta | remont
+ remontaient | remont
+
+ 
+('a', 'er') : 
+ chanta | chant
+ éternua | éternu
+ étrenna | étrenn
+ déposa | dépos
+ tremblota | tremblot
+ énerver | énerv
+ déposer | dépos
+ sursauta | sursaut
+ énerva | énerv
+ ramassa | ramass
+ effondra | effondr
+ récupéra | récupér
+ protester | protest
+ éternuer | éternu
+ contracter | contract
+ vaciller | vacill
+ heurter | heurt
+ trancher | tranch
+ protesta | protest
+ cligna | clign
+ constata | constat
+ avaler | aval
+ dissuader | dissuad
+ sonna | sonn
+ prouva | prouv
+ tousser | touss
+ trancha | tranch
+ sonner | sonn
+ commenter | comment
+ effondrer | effondr
+ heurta | heurt
+ cracher | crach
+ ramener | ramen
+ sursauter | sursaut
+ cracha | crach
+ trembloter | tremblot
+ constater | constat
+ pivoter | pivot
+ réclamer | réclam
+ cligner | clign
+ ramasser | ramass
+ vacilla | vacill
+ avala | aval
+ commenta | comment
+ étrenner | étrenn
+ chanter | chant
+ récupérer | récupér
+ embrassa | embrass
+ ramena | ramen
+ dissuada | dissuad
+ embrasser | embrass
+ réclama | réclam
+ pivota | pivot
+ prouver | prouv
+ contracta | contract
+ toussa | touss
+
+ 
+('son',) : 
+ parkinson | parkin
+
+ 
+('irent',) : 
+ accueillirent | accueill
+ comprirent | compr
+
+ 
+('nes', 'xer') : 
+ boxer | bo
+ bones | bo
+
+ 
+('t', 'tées') : 
+ argentées | argen
+ argent | argen
+
+ 
+('a', 'ait', 'e', 'er', 'èrent', 'é') : 
+ précipité | précipit
+ racontait | racont
+ précipita | précipit
+ raconté | racont
+ précipite | précipit
+ racontèrent | racont
+ raconte | racont
+ précipiter | précipit
+ raconta | racont
+ raconter | racont
+ précipitèrent | précipit
+ précipitait | précipit
+
+ 
+('a', 'er', 'ez') : 
+ inquiéter | inquiét
+ inquiéta | inquiét
+ inquiétez | inquiét
+
+ 
+('er', 'é') : 
+ blesser | bless
+ célébré | célébr
+ allonger | allong
+ inventé | invent
+ amorcé | amorc
+ fouiné | fouin
+ récolter | récolt
+ blessé | bless
+ affronté | affront
+ affecté | affect
+ sélectionné | sélectionn
+ rafistolé | rafistol
+ remplacé | remplac
+ allongé | allong
+ attaché | attach
+ abandonné | abandonn
+ transférer | transfér
+ vengé | veng
+ fouiner | fouin
+ transféré | transfér
+ assister | assist
+ sauvé | sauv
+ récolté | récolt
+ abandonner | abandonn
+ remporter | remport
+ amorcer | amorc
+ sélectionner | sélectionn
+ coincer | coinc
+ assisté | assist
+ affronter | affront
+ rafistoler | rafistol
+ coincé | coinc
+ attacher | attach
+ opposer | oppos
+ affecter | affect
+ célébrer | célébr
+ venger | veng
+ opposé | oppos
+ inventer | invent
+ remplacer | remplac
+ remporté | remport
+ sauver | sauv
+
+ 
+('e', 'eait', 'ement', 'é') : 
+ changé | chang
+ change | chang
+ changement | chang
+ changeait | chang
+
+ 
+('e', 'é') : 
+ confisque | confisqu
+ lancé | lanc
+ atténué | atténu
+ pince | pinc
+ aventure | aventur
+ tente | tent
+ foncé | fonc
+ tenté | tent
+ pincé | pinc
+ signé | sign
+ équilibre | équilibr
+ équilibré | équilibr
+ renonce | renonc
+ renoncé | renonc
+ panique | paniqu
+ menace | menac
+ signe | sign
+ doublé | doubl
+ double | doubl
+ mélange | mélang
+ confisqué | confisqu
+ mélangé | mélang
+ aventuré | aventur
+ menacé | menac
+ prénommé | prénomm
+ paniqué | paniqu
+ brisé | bris
+ brise | bris
+ prénomme | prénomm
+ atténue | atténu
+ fonce | fonc
+ fatigué | fatigu
+ lance | lanc
+ fatigue | fatigu
+ prive | priv
+ privé | priv
+
+ 
+('aient', 'é') : 
+ condamné | condamn
+ condamnaient | condamn
+ espéré | espér
+ espéraient | espér
+
+ 
+('nt',) : 
+ vient | vie
+ intéressant | intéressa
+ racontant | raconta
+ poussant | poussa
+ fuyant | fuya
+ enfonçant | enfonça
+ respirant | respira
+ adressant | adressa
+ espérant | espéra
+ éprouvant | éprouva
+ dégageant | dégagea
+ autorisant | autorisa
+ souhaitent | souhaite
+ foncent | fonce
+ fabriquent | fabrique
+ prévint | prévi
+ parvenant | parvena
+ occupent | occupe
+ remontant | remonta
+ essayant | essaya
+ débattant | débatta
+ pleurant | pleura
+ contemplant | contempla
+ conduisant | conduisa
+ marmonnant | marmonna
+ visant | visa
+ bousculant | bouscula
+ entourant | entoura
+ écoutant | écouta
+ négligent | néglige
+ comment | comme
+ montrant | montra
+ semblant | sembla
+ efforçant | efforça
+ expliquent | explique
+ entrant | entra
+ flottant | flotta
+ indiquant | indiqua
+ représentant | représenta
+ pliant | plia
+ laissent | laisse
+ hochant | hocha
+ étouffant | étouffa
+ fixant | fixa
+ répandant | répanda
+ emmenant | emmena
+ approchant | approcha
+ souvint | souvi
+ touchent | touche
+ lisant | lisa
+ menaçant | menaça
+ protégeant | protégea
+ fonçant | fonça
+ continuant | continua
+ glissant | glissa
+ scrutant | scruta
+ traînant | traîna
+ partageant | partagea
+ comptant | compta
+ bégayant | bégaya
+ répétant | répéta
+ arrivent | arrive
+
+ 
+('a', 'er', 's') : 
+ sanglots | sanglot
+ sanglota | sanglot
+ sangloter | sanglot
+
+ 
+('gner', 'sses') : 
+ grogner | gro
+ grosses | gro
+
+ 
+('gner',) : 
+ peigner | pei
+
+ 
+('i', 'ient') : 
+ feraient | fera
+ ferai | fera
+ dirai | dira
+ diraient | dira
+ essaierai | essaiera
+ essaieraient | essaiera
+
+ 
+('e', 'irent') : 
+ découvrirent | découvr
+ joignirent | joign
+ joigne | joign
+ découvre | découvr
+
+ 
+('ez', 'ons', 'u') : 
+ voulez | voul
+ voulu | voul
+ voulons | voul
+
+ 
+('a', 'ant', 'er', 'é') : 
+ écraser | écras
+ arracher | arrach
+ relever | relev
+ lâchant | lâch
+ arracha | arrach
+ arrachant | arrach
+ élevant | élev
+ écrasé | écras
+ lâcher | lâch
+ écrasant | écras
+ éleva | élev
+ élever | élev
+ rentra | rentr
+ rentrant | rentr
+ relevé | relev
+ lâcha | lâch
+ rentré | rentr
+ écrasa | écras
+ lâché | lâch
+ élevé | élev
+ arraché | arrach
+ relevant | relev
+ releva | relev
+ rentrer | rentr
+
+ 
+('meau',) : 
+ plumeau | plu
+
+ 
+('lic',) : 
+ déclic | déc
+
+ 
+('ait', 'ant', 'ez', 'ient', 'int', 'on', 'rait', 'ront') : 
+ devant | dev
+ devint | dev
+ devront | dev
+ devon | dev
+ devient | dev
+ devez | dev
+ devrait | dev
+ devait | dev
+
+ 
+('aient', 'ait', 'e', 'ent', 's') : 
+ habits | habit
+ habitait | habit
+ habitaient | habit
+ habite | habit
+ habitent | habit
+
+ 
+('r', 's', 'tion') : 
+ punition | puni
+ punir | puni
+ punis | puni
+
+ 
+('blit', 'sait', 'tes') : 
+ faiblit | fai
+ faites | fai
+ faisait | fai
+
+ 
+('ches', 'fit', 'mit') : 
+ proches | pro
+ promit | pro
+ profit | pro
+
+ 
+('ait', 'ant', 'ez') : 
+ souvenant | souven
+ souvenez | souven
+ souvenait | souven
+ réjouissant | réjouiss
+ réjouissez | réjouiss
+ réjouissait | réjouiss
+
+ 
+('er', 'ères') : 
+ premières | premi
+ premier | premi
+
+ 
+('cre',) : 
+ encre | en
+
+ 
+('ient', 'nt') : 
+ serraient | serra
+ roulaient | roula
+ levaient | leva
+ pensaient | pensa
+ avant | ava
+ applaudissaient | applaudissa
+ croyant | croya
+ croyaient | croya
+ venant | vena
+ étalant | étala
+ venaient | vena
+ voyaient | voya
+ craignant | craigna
+ serrant | serra
+ buvaient | buva
+ levant | leva
+ méprisant | méprisa
+ applaudissant | applaudissa
+ tenaient | tena
+ voulant | voula
+ tenant | tena
+ voyant | voya
+ pensant | pensa
+ voulaient | voula
+ étalaient | étala
+ avaient | ava
+ ondulaient | ondula
+ buvant | buva
+ lançant | lança
+ roulant | roula
+ lançaient | lança
+ méprisaient | méprisa
+ faisaient | faisa
+ ondulant | ondula
+ allant | alla
+ faisant | faisa
+ allaient | alla
+ craignaient | craigna
+
+ 
+('l',) : 
+ immortel | immorte
+ latéral | latéra
+ soleil | solei
+ conseil | consei
+ végétal | végéta
+ brésil | brési
+ mcgonagall | mcgonagal
+ anormal | anorma
+ gentil | genti
+ orteil | ortei
+ macdougal | macdouga
+ vieil | viei
+ infernal | inferna
+ duquel | duque
+ idéal | idéa
+ cheval | cheva
+ bristol | bristo
+ sommeil | sommei
+ total | tota
+ essentiel | essentie
+ hôtel | hôte
+ blackpool | blackpoo
+ inhabituel | inhabitue
+ formol | formo
+ journal | journa
+ amiral | amira
+ lequel | leque
+ fauteuil | fauteui
+ hôpital | hôpita
+ appel | appe
+ quirrell | quirrel
+ fusil | fusi
+ caramel | carame
+ réveil | révei
+ détail | détai
+ éternel | éterne
+ portail | portai
+ métal | méta
+ glacial | glacia
+ exceptionnel | exceptionne
+ naturel | nature
+ napel | nape
+ cristal | crista
+ flamel | flame
+ travail | travai
+ auquel | auque
+ habituel | habitue
+ loyal | loya
+ actuel | actue
+ patil | pati
+ tunnel | tunne
+ football | footbal
+
+ 
+('rier', 's', 't') : 
+ cours | cour
+ courrier | cour
+ court | cour
+
+ 
+('ses',) : 
+ bises | bi
+
+ 
+('re',) : 
+ cuire | cui
+
+ 
+('guë',) : 
+ suraiguë | surai
+
+ 
+('a', 'e', 'er', 'ez', 'èrent') : 
+ dépêche | dépêch
+ dépêchèrent | dépêch
+ dépêcha | dépêch
+ dépêcher | dépêch
+ dépêchez | dépêch
+
+ 
+('a', 'ez') : 
+ trouvera | trouver
+ trouverez | trouver
+ reviendrez | reviendr
+ reviendra | reviendr
+
+ 
+('e', 'ement', 'es', 's') : 
+ certains | certain
+ certaine | certain
+ certainement | certain
+ certaines | certain
+
+ 
+('é', 'ées') : 
+ hérissées | hériss
+ situées | situ
+ hérissé | hériss
+ situé | situ
+
+ 
+('nger',) : 
+ arranger | arra
+
+ 
+('der',) : 
+ rôder | rô
+
+ 
+('ir', 'sses') : 
+ classes | cla
+ clair | cla
+
+ 
+('ait', 'ez', 'ment', 'ons', 'ont', 'pent', 'rait', 'rées', 'vait', 'vent') : 
+ serrées | ser
+ serez | ser
+ serpent | ser
+ serrait | ser
+ seront | ser
+ serait | ser
+ serment | ser
+ serons | ser
+ servait | ser
+ servent | ser
+
+ 
+('ides', 'ncer', 'nt') : 
+ front | fro
+ froncer | fro
+ froides | fro
+
+ 
+('a', 'aient', 'ait', 'e', 'er') : 
+ adressaient | adress
+ étudiait | étudi
+ étudia | étudi
+ étudie | étudi
+ indiquait | indiqu
+ adresser | adress
+ indiquaient | indiqu
+ adresse | adress
+ étudiaient | étudi
+ adressait | adress
+ indiqua | indiqu
+ étudier | étudi
+ adressa | adress
+ indique | indiqu
+ indiquer | indiqu
+
+ 
+('er', 'ment', 'r', 'rent', 't') : 
+ sentier | senti
+ sentit | senti
+ sentir | senti
+ sentirent | senti
+ sentiment | senti
+
+ 
+('e', 'ent', 'irent') : 
+ atteignirent | atteign
+ atteignent | atteign
+ atteigne | atteign
+
+ 
+('r', 's', 't') : 
+ accueillir | accueilli
+ accueillis | accueilli
+ accueillit | accueilli
+
+ 
+('enant', 'ises') : 
+ surprises | surpr
+ surprenant | surpr
+
+ 
+('ver',) : 
+ gaver | ga
+ crever | cre
+ hiver | hi
+
+ 
+('ait', 'don', 'eil', 'ent', 'fait', 'fum', 'king', 'lait', 'lent', 'lons', 'mi', 'oi', 'oles', 'tait', 'tant', 'tial', 'vint') : 
+ pardon | par
+ paroi | par
+ parmi | par
+ parlent | par
+ parvint | par
+ parking | par
+ partant | par
+ parfait | par
+ paroles | par
+ parfum | par
+ parait | par
+ pareil | par
+ parlons | par
+ parent | par
+ partial | par
+ partait | par
+ parlait | par
+
+ 
+('a', 'aient', 'ement', 'er', 'ez', 'é') : 
+ entraînaient | entraîn
+ entraîner | entraîn
+ entraînement | entraîn
+ entraînez | entraîn
+ entraîné | entraîn
+ entraîna | entraîn
+
+ 
+('aux',) : 
+ jumeaux | jume
+
+ 
+('ait', 'é') : 
+ intrigué | intrigu
+ désolait | désol
+ impressionné | impressionn
+ impressionnait | impressionn
+ intriguait | intrigu
+ désolé | désol
+
+ 
+('ieux',) : 
+ milieux | mil
+
+ 
+('sait', 'sent', 't') : 
+ conduisent | condui
+ conduisait | condui
+ conduit | condui
+
+ 
+('a', 'ables', 'aient', 'ait', 'e', 'èrent') : 
+ semblèrent | sembl
+ semble | sembl
+ semblait | sembl
+ sembla | sembl
+ semblables | sembl
+ semblaient | sembl
+
+ 
+('ait', 'er', 'tir', 'tit') : 
+ mentit | men
+ mener | men
+ menait | men
+ mentir | men
+
+ 
+('dant', 'dre', 'ez', 'ir', 'tait', 'ter') : 
+ tendant | ten
+ tenir | ten
+ tenez | ten
+ tentait | ten
+ tenter | ten
+ tendre | ten
+
+ 
+('a', 'ant', 'e', 'ent', 'er', 'é') : 
+ soufflé | souffl
+ soufflent | souffl
+ souffla | souffl
+ soufflant | souffl
+ souffler | souffl
+ souffle | souffl
+
+ 
+('ssant', 't') : 
+ appétit | appéti
+ appétissant | appéti
+ accroupit | accroupi
+ maudissant | maudi
+ accroupissant | accroupi
+ maudit | maudi
+
+ 
+('ler',) : 
+ racler | rac
+ mêler | mê
+
+ 
+('ez', 'i', 'irai') : 
+ servez | serv
+ servirai | serv
+ servi | serv
+
+ 
+('rry',) : 
+ curry | cu
+
+ 
+('e', 's', 'ues') : 
+ longs | long
+ longues | long
+ longe | long
+
+ 
+('a', 'aient', 'er', 'é') : 
+ débarrassa | débarrass
+ enfermer | enferm
+ étouffa | étouff
+ enfermaient | enferm
+ enfermé | enferm
+ débarrasser | débarrass
+ étouffé | étouff
+ enferma | enferm
+ étouffaient | étouff
+ débarrassé | débarrass
+ étouffer | étouff
+ débarrassaient | débarrass
+
+ 
+('ager', 'ez') : 
+ voyez | voy
+ voyager | voy
+
+ 
+('o',) : 
+ métro | métr
+ météo | mété
+ photo | phot
+ philo | phil
+ baruffio | baruffi
+ aequo | aequ
+ numéro | numér
+ choco | choc
+
+ 
+('ir',) : 
+ sévir | sév
+
+ 
+('ant', 'er', 'eux') : 
+ copier | copi
+ copieux | copi
+ copiant | copi
+
+ 
+('a', 'ant', 'e', 'er', 'é') : 
+ coucha | couch
+ couche | couch
+ couché | couch
+ couchant | couch
+ coucher | couch
+
+ 
+('ux',) : 
+ monceaux | moncea
+
+ 
+('a', 'ant', 'e', 'er', 'es', 'èrent', 'é') : 
+ quitte | quitt
+ quittes | quitt
+ quitter | quitt
+ quittèrent | quitt
+ quitta | quitt
+ quitté | quitt
+ quittant | quitt
+
+ 
+('e', 'eait', 'é') : 
+ arrange | arrang
+ arrangé | arrang
+ bouge | boug
+ bougé | boug
+ bougeait | boug
+ arrangeait | arrang
+
+ 
+('nées', 's') : 
+ jours | jour
+ journées | jour
+
+ 
+('ait', 'èrent') : 
+ recroquevillèrent | recroquevill
+ recroquevillait | recroquevill
+
+ 
+('rait', 's', 't') : 
+ admirait | admi
+ admit | admi
+ admis | admi
+
+ 
+('mment',) : 
+ apparemment | appare
+ bruyamment | bruya
+ évidemment | évide
+
+ 
+('a', 'ation') : 
+ inspira | inspir
+ inspiration | inspir
+
+ 
+('es', 'it', 's') : 
+ défendit | défend
+ défendes | défend
+ défends | défend
+
+ 
+('a', 'aient', 'er') : 
+ balbutiaient | balbuti
+ scruta | scrut
+ scrutaient | scrut
+ voleter | volet
+ balbutier | balbuti
+ balbutia | balbuti
+ habillaient | habill
+ voletaient | volet
+ scruter | scrut
+ voleta | volet
+ habiller | habill
+ habilla | habill
+
+ 
+('ces', 'uit') : 
+ minces | min
+ minuit | min
+
+ 
+('a', 'aux', 'é') : 
+ anima | anim
+ animaux | anim
+ animé | anim
+
+ 
+('e', 're') : 
+ interrompe | interromp
+ interrompre | interromp
+
+ 
+('c',) : 
+ blanc | blan
+ alberic | alberi
+ caoutchouc | caoutchou
+ échec | éche
+ gripsec | gripse
+ estomac | estoma
+ craaaaac | craaaaa
+ cognac | cogna
+ tourdesac | tourdesa
+ elfric | elfri
+ ulric | ulri
+ public | publi
+ godric | godri
+
+ 
+('s',) : 
+ gobelets | gobelet
+ rejoins | rejoin
+ chiffres | chiffre
+ questions | question
+ soubresauts | soubresaut
+ hardis | hardi
+ retrouvais | retrouvai
+ effets | effet
+ plains | plain
+ côtes | côte
+ sortilèges | sortilège
+ accidents | accident
+ pupitres | pupitre
+ dévorés | dévoré
+ adressées | adressée
+ pains | pain
+ ruisselants | ruisselant
+ glissées | glissée
+ entiers | entier
+ prononces | prononce
+ professeurs | professeur
+ airelles | airelle
+ diplômes | diplôme
+ neufs | neuf
+ repos | repo
+ exclamations | exclamation
+ entretiens | entretien
+ vacances | vacance
+ vampires | vampire
+ lamentations | lamentation
+ rivières | rivière
+ bûches | bûche
+ réverbères | réverbère
+ équipements | équipement
+ cognards | cognard
+ fantastiques | fantastique
+ filles | fille
+ désormais | désormai
+ boucles | boucle
+ couleurs | couleur
+ bâtonnets | bâtonnet
+ papiers | papier
+ clients | client
+ rougeâtres | rougeâtre
+ acclamations | acclamation
+ spectateurs | spectateur
+ faibles | faible
+ tapisseries | tapisserie
+ evénements | evénement
+ indices | indice
+ pieds | pied
+ furoncles | furoncle
+ angoissées | angoissée
+ perks | perk
+ espèces | espèce
+ manges | mange
+ carrés | carré
+ sauvages | sauvage
+ fentes | fente
+ stands | stand
+ dissimulées | dissimulée
+ décisions | décision
+ moments | moment
+ eleves | eleve
+ pelouses | pelouse
+ allumées | allumée
+ commises | commise
+ introduites | introduite
+ rêves | rêve
+ palpitants | palpitant
+ innocents | innocent
+ sabliers | sablier
+ faisans | faisan
+ beignets | beignet
+ lunaires | lunaire
+ sachets | sachet
+ coffres | coffre
+ propos | propo
+ séances | séance
+ arbres | arbre
+ higgs | higg
+ précautions | précaution
+ registres | registre
+ inégales | inégale
+ larmes | larme
+ marchandises | marchandise
+ sonores | sonore
+ connais | connai
+ adeptes | adepte
+ utiles | utile
+ mailles | maille
+ moisies | moisie
+ revers | rever
+ champs | champ
+ terribles | terrible
+ dizaines | dizaine
+ dégâts | dégât
+ demandions | demandion
+ rappelles | rappelle
+ nerfs | nerf
+ chandelles | chandelle
+ tripes | tripe
+ fioles | fiole
+ ouvrages | ouvrage
+ grimpés | grimpé
+ décorations | décoration
+ recherches | recherche
+ passionnés | passionné
+ poses | pose
+ fabricants | fabricant
+ affaires | affaire
+ veines | veine
+ glaçons | glaçon
+ dates | date
+ bananes | banane
+ allais | allai
+ dents | dent
+ torches | torche
+ lettres | lettre
+ mesdemoiselles | mesdemoiselle
+ inaperçus | inaperçu
+ gouttes | goutte
+ effraies | effraie
+ fariboles | faribole
+ bizarreries | bizarrerie
+ batailles | bataille
+ souvenirs | souvenir
+ desserts | dessert
+ kilos | kilo
+ éloignés | éloigné
+ wagons | wagon
+ efforts | effort
+ cirées | cirée
+ froissées | froissée
+ profondeurs | profondeur
+ étranges | étrange
+ montagnes | montagne
+ revues | revue
+ oreilles | oreille
+ haricots | haricot
+ bavardages | bavardage
+ stratégies | stratégie
+ particuliers | particulier
+ taches | tache
+ courants | courant
+ sévères | sévère
+ erreurs | erreur
+ doris | dori
+ notions | notion
+ gorgées | gorgée
+ excuses | excuse
+ proies | proie
+ avariés | avarié
+ abondantes | abondante
+ satellites | satellite
+ gobelins | gobelin
+ commis | commi
+ protecteurs | protecteur
+ prudents | prudent
+ pointues | pointue
+ enterrées | enterrée
+ étoiles | étoile
+ changés | changé
+ ardeurs | ardeur
+ vindictus | vindictu
+ désespérés | désespéré
+ alors | alor
+ refus | refu
+ bagages | bagage
+ identiques | identique
+ disposés | disposé
+ attrapeurs | attrapeur
+ canots | canot
+ aînés | aîné
+ collègues | collègue
+ voyageais | voyageai
+ nicolas | nicola
+ disparates | disparate
+ méfions | méfion
+ duels | duel
+ admirateurs | admirateur
+ encombrés | encombré
+ mangerais | mangerai
+ paupières | paupière
+ satisfaisants | satisfaisant
+ lézards | lézard
+ nicholas | nichola
+ touffus | touffu
+ pansements | pansement
+ endroits | endroit
+ vains | vain
+ ralliés | rallié
+ gants | gant
+ bestioles | bestiole
+ après | aprè
+ secours | secour
+ racines | racine
+ clichés | cliché
+ grimoires | grimoire
+ états | état
+ milliers | millier
+ scolaires | scolaire
+ saphirs | saphir
+ algues | algue
+ globes | globe
+ consultés | consulté
+ mariés | marié
+ précieuses | précieuse
+ hurlements | hurlement
+ accès | accè
+ patacitrouilles | patacitrouille
+ araignées | araignée
+ sottises | sottise
+ voyous | voyou
+ bêtises | bêtise
+ frais | frai
+ tandis | tandi
+ cassés | cassé
+ finiras | finira
+ verrues | verrue
+ dedans | dedan
+ joyeuses | joyeuse
+ embouteillages | embouteillage
+ distingués | distingué
+ créatures | créature
+ idées | idée
+ flakes | flake
+ vitrines | vitrine
+ dauphins | dauphin
+ pressés | pressé
+ zébrés | zébré
+ interstices | interstice
+ témoignages | témoignage
+ pareils | pareil
+ rattrapés | rattrapé
+ ayons | ayon
+ sombres | sombre
+ pardonnons | pardonnon
+ friandises | friandise
+ réfléchissons | réfléchisson
+ étagères | étagère
+ calcinés | calciné
+ branchages | branchage
+ pliables | pliable
+ rictus | rictu
+ virages | virage
+ cages | cage
+ transparents | transparent
+ victuailles | victuaille
+ feuilles | feuille
+ sifflements | sifflement
+ prévues | prévue
+ babas | baba
+ crapauds | crapaud
+ rivés | rivé
+ onctueuses | onctueuse
+ épinards | épinard
+ miens | mien
+ rapaces | rapace
+ ravissants | ravissant
+ noises | noise
+ grenouilles | grenouille
+ formules | formule
+ comprendras | comprendra
+ corbeilles | corbeille
+ devais | devai
+ mortis | morti
+ promis | promi
+ capes | cape
+ arrivais | arrivai
+ hélas | héla
+ attendais | attendai
+ anciennes | ancienne
+ prévenus | prévenu
+ tusais | tusai
+ rubeus | rubeu
+ assiettes | assiette
+ rafistolées | rafistolée
+ échecs | échec
+ comportés | comporté
+ cannes | canne
+ ailleurs | ailleur
+ emmêlés | emmêlé
+ fichus | fichu
+ avancés | avancé
+ derniers | dernier
+ colis | coli
+ poubelles | poubelle
+ aiguilles | aiguille
+ myosotis | myosoti
+ parcmètres | parcmètre
+ pourrions | pourrion
+ fréquentes | fréquente
+ régions | région
+ éclos | éclo
+ pétrifiés | pétrifié
+ propriétés | propriété
+ délavés | délavé
+ hébrides | hébride
+ rentrions | rentrion
+ lesquelles | lesquelle
+ promets | promet
+ surpris | surpri
+ leurs | leur
+ sculptées | sculptée
+ sujets | sujet
+ faisais | faisai
+ crânes | crâne
+ mortels | mortel
+ lunettes | lunette
+ gringotts | gringott
+ discours | discour
+ succès | succè
+ draps | drap
+ bébés | bébé
+ acquisitions | acquisition
+ soirs | soir
+ participeras | participera
+ soulagés | soulagé
+ appris | appri
+ choses | chose
+ epuisés | epuisé
+ pelotes | pelote
+ fracas | fraca
+ comprends | comprend
+ gerbes | gerbe
+ rouges | rouge
+ télescopes | télescope
+ branches | branche
+ réunis | réuni
+ clôtures | clôture
+ experts | expert
+ cancres | cancre
+ honneurs | honneur
+ collines | colline
+ thèmes | thème
+ étalées | étalée
+ tabourets | tabouret
+ dessinés | dessiné
+ pétards | pétard
+ révélerons | révéleron
+ occasions | occasion
+ aériennes | aérienne
+ embrassades | embrassade
+ piles | pile
+ citrouilles | citrouille
+ immobilisés | immobilisé
+ flammes | flamme
+ commences | commence
+ parents | parent
+ mollets | mollet
+ témoins | témoin
+ remplaçants | remplaçant
+ conséquences | conséquence
+ chats | chat
+ impliqués | impliqué
+ ferais | ferai
+ ululements | ululement
+ dadais | dadai
+ idioties | idiotie
+ poisons | poison
+ cercles | cercle
+ minutes | minute
+ reptiles | reptile
+ mystérieuses | mystérieuse
+ armoires | armoire
+ cachots | cachot
+ dirais | dirai
+ dragées | dragée
+ apprendras | apprendra
+ extrémités | extrémité
+ produites | produite
+ dragons | dragon
+ siècles | siècle
+ poils | poil
+ ridicules | ridicule
+ surmontés | surmonté
+ événements | événement
+ demandais | demandai
+ mouillés | mouillé
+ leçons | leçon
+ horribles | horrible
+ abominables | abominable
+ déguisés | déguisé
+ explications | explication
+ troncs | tronc
+ amenés | amené
+ reverrons | reverron
+ couloirs | couloir
+ auprès | auprè
+ preuves | preuve
+ filantes | filante
+ préférerais | préférerai
+ fantômes | fantôme
+ severus | severu
+ oublies | oublie
+ livres | livre
+ devoirs | devoir
+ mensonges | mensonge
+ dindes | dinde
+ garous | garou
+ binns | binn
+ moyens | moyen
+ additions | addition
+ sorcières | sorcière
+ jamais | jamai
+ matches | matche
+ foods | food
+ guirlandes | guirlande
+ glaces | glace
+ passagers | passager
+ feuillages | feuillage
+ moutons | mouton
+ xérès | xérè
+ battes | batte
+ chèvres | chèvre
+ ordres | ordre
+ redoutables | redoutable
+ cornichons | cornichon
+ employés | employé
+ garçons | garçon
+ façons | façon
+ tortueuses | tortueuse
+ traînées | traînée
+ deviennes | devienne
+ croisées | croisée
+ mètres | mètre
+ avanies | avanie
+ maléfiques | maléfique
+ tables | table
+ passeras | passera
+ gallions | gallion
+ chaises | chaise
+ entamais | entamai
+ pères | père
+ aspects | aspect
+ reliés | relié
+ dehors | dehor
+ titres | titre
+ plaisantes | plaisante
+ boncs | bonc
+ conservés | conservé
+ sauras | saura
+ mouvantes | mouvante
+ compliquées | compliquée
+ trois | troi
+ guidés | guidé
+ auxquelles | auxquelle
+ devrions | devrion
+ connaîtras | connaîtra
+ marshmallows | marshmallow
+ côtelettes | côtelette
+ visiteurs | visiteur
+ blanches | blanche
+ mâchoires | mâchoire
+ rôties | rôtie
+ valises | valise
+ objets | objet
+ aboiements | aboiement
+ éclairées | éclairée
+ trouveras | trouvera
+ interminables | interminable
+ habitués | habitué
+ récents | récent
+ alignés | aligné
+ volutes | volute
+ crins | crin
+ dessous | dessou
+ pleurnichards | pleurnichard
+ pancakes | pancake
+ crochets | crochet
+ flèches | flèche
+ détends | détend
+ emballages | emballage
+ tourniquets | tourniquet
+ trottoirs | trottoir
+ doigts | doigt
+ cadavres | cadavre
+ étudiants | étudiant
+ portraits | portrait
+ serions | serion
+ exercices | exercice
+ premiers | premier
+ préoccupés | préoccupé
+ irréalisables | irréalisable
+ immenses | immense
+ postes | poste
+ essoufflés | essoufflé
+ loopings | looping
+ rencontres | rencontre
+ boulets | boulet
+ invisibles | invisible
+ allions | allion
+ élémentaires | élémentaire
+ plusieurs | plusieur
+ escamotables | escamotable
+ dorées | dorée
+ pompons | pompon
+ flamboyants | flamboyant
+ moisis | moisi
+ préfets | préfet
+ absorbés | absorbé
+ sortiras | sortira
+ claquements | claquement
+ récréations | récréation
+ corps | corp
+ imbéciles | imbécile
+ occupais | occupai
+ escaliers | escalier
+ finirons | finiron
+ croisés | croisé
+ stupides | stupide
+ parles | parle
+ supporters | supporter
+ mains | main
+ désintéressés | désintéressé
+ trames | trame
+ malheurs | malheur
+ roulées | roulée
+ galeries | galerie
+ décrets | décret
+ zigotos | zigoto
+ renseignements | renseignement
+ émissions | émission
+ librairies | librairie
+ études | étude
+ écoutes | écoute
+ heures | heure
+ commentaires | commentaire
+ téléspectateurs | téléspectateur
+ luisants | luisant
+ wagonnets | wagonnet
+ lignes | ligne
+ années | année
+ programmes | programme
+ pâques | pâque
+ chips | chip
+ cornelius | corneliu
+ parfois | parfoi
+ nécessaires | nécessaire
+ nuages | nuage
+ vêtements | vêtement
+ crocs | croc
+ sportives | sportive
+ panaches | panache
+ potions | potion
+ interrogés | interrogé
+ frères | frère
+ chaussons | chausson
+ stalactites | stalactite
+ attractions | attraction
+ cordes | corde
+ mômes | môme
+ bains | bain
+ plumes | plume
+ matelas | matela
+ écarlates | écarlate
+ arbitres | arbitre
+ complexes | complexe
+ nombreuses | nombreuse
+ volants | volant
+ comptés | compté
+ mépris | mépri
+ condisciples | condisciple
+ ronflements | ronflement
+ hulottes | hulotte
+ parchemins | parchemin
+ passés | passé
+ sentiments | sentiment
+ trompes | trompe
+ pochettes | pochette
+ poumons | poumon
+ pythons | python
+ flageolantes | flageolante
+ harpies | harpie
+ quais | quai
+ audessus | audessu
+ frénétiques | frénétique
+ séchées | séchée
+ petrificus | petrificu
+ perceuses | perceuse
+ ébouriffés | ébouriffé
+ intéressants | intéressant
+ poursuiveurs | poursuiveur
+ souviens | souvien
+ instructions | instruction
+ prennes | prenne
+ cherchions | cherchion
+ steaks | steak
+ seamus | seamu
+ sièges | siège
+ couvertures | couverture
+ desquelles | desquelle
+ joueurs | joueur
+ côtés | côté
+ pattes | patte
+ tintements | tintement
+ mystères | mystère
+ londres | londre
+ aurais | aurai
+ planètes | planète
+ tentacules | tentacule
+ sauces | sauce
+ dubois | duboi
+ bruxelles | bruxelle
+ gallois | galloi
+ voyons | voyon
+ conseils | conseil
+ trolls | troll
+ chiens | chien
+ filets | filet
+ reviendrons | reviendron
+ centimètres | centimètre
+ scintillantes | scintillante
+ problèmes | problème
+ voyageurs | voyageur
+ polkiss | polkis
+ fissures | fissure
+ photos | photo
+ doutais | doutai
+ lèvres | lèvre
+ froncés | froncé
+ alentours | alentour
+ maisons | maison
+ noisettes | noisette
+ dentistes | dentiste
+ couchés | couché
+ draconis | draconi
+ dennis | denni
+ tirés | tiré
+ balivernes | baliverne
+ inquiétés | inquiété
+ applaudissements | applaudissement
+ vestes | veste
+ magasins | magasin
+ cauchemars | cauchemar
+ hamburgers | hamburger
+ fenêtres | fenêtre
+ entrailles | entraille
+ autrefois | autrefoi
+ parages | parage
+ tomates | tomate
+ billets | billet
+ provisions | provision
+ crevasses | crevasse
+ présentés | présenté
+ chocogrenouilles | chocogrenouille
+ fournitures | fourniture
+ jurons | juron
+ fondants | fondant
+ herbes | herbe
+ plaisantais | plaisantai
+ critiques | critique
+ occupés | occupé
+ libres | libre
+ paniers | panier
+ ampoules | ampoule
+ gnomes | gnome
+ réponses | réponse
+ utilisons | utilison
+ copains | copain
+ célèbres | célèbre
+ grunnings | grunning
+ longtemps | longtemp
+ thomas | thoma
+ sourcils | sourcil
+ progrès | progrè
+ ananas | anana
+ voulions | voulion
+ tartes | tarte
+ deviendras | deviendra
+ circonstances | circonstance
+ exprès | exprè
+ supplémentaires | supplémentaire
+ qualités | qualité
+ trophées | trophée
+ détails | détail
+ miness | mines
+ cherches | cherche
+ recroquevillés | recroquevillé
+ sortirons | sortiron
+ projectiles | projectile
+ résultats | résultat
+ liens | lien
+ reculons | reculon
+ simples | simple
+ totalus | totalu
+ balais | balai
+ héros | héro
+ observés | observé
+ chaussettes | chaussette
+ saints | saint
+ blousons | blouson
+ enthousiastes | enthousiaste
+ increvables | increvable
+ menaces | menace
+ arriverons | arriveron
+ intellectuelles | intellectuelle
+ ventricules | ventricule
+ terminées | terminée
+ robes | robe
+ balances | balance
+ têtards | têtard
+ inconnues | inconnue
+ tombés | tombé
+ parfums | parfum
+ centaines | centaine
+ entretenues | entretenue
+ accoutrements | accoutrement
+ kilomètres | kilomètre
+ lavabos | lavabo
+ légumes | légume
+ sages | sage
+ forces | force
+ cobras | cobra
+ disques | disque
+ suspendus | suspendu
+ élèves | élève
+ ternies | ternie
+ elles | elle
+ juteuses | juteuse
+ nattes | natte
+ confierais | confierai
+ capables | capable
+ modèles | modèle
+ équipés | équipé
+ làdedans | làdedan
+ rires | rire
+ frites | frite
+ pommes | pomme
+ faciles | facile
+ banquets | banquet
+ rugissements | rugissement
+ marches | marche
+ gorgones | gorgone
+ lumineuses | lumineuse
+ informes | informe
+ savions | savion
+ conseillons | conseillon
+ têtes | tête
+ cross | cros
+ marcus | marcu
+ albus | albu
+ munies | munie
+ respectives | respective
+ aménagées | aménagée
+ lisses | lisse
+ euxmêmes | euxmême
+ fiers | fier
+ serres | serre
+ vrilles | vrille
+ paquets | paquet
+ gradins | gradin
+ velours | velour
+ bruns | brun
+ mathématiques | mathématique
+ paniqués | paniqué
+ véritables | véritable
+ repas | repa
+ peeves | peeve
+ nôtres | nôtre
+ violettes | violette
+ averses | averse
+ habituelles | habituelle
+ messieurs | messieur
+ toutefois | toutefoi
+ béquilles | béquille
+ grillées | grillée
+ poings | poing
+ haies | haie
+ parleras | parlera
+ poids | poid
+ sereins | serein
+ carquois | carquoi
+ grammes | gramme
+ épaules | épaule
+ lapones | lapone
+ roublards | roublard
+ bâtiments | bâtiment
+ poussées | poussée
+ cahiers | cahier
+ serais | serai
+ groupés | groupé
+ narquois | narquoi
+ pages | page
+ mécontents | mécontent
+ attendions | attendion
+ temps | temp
+ jardins | jardin
+ pensions | pension
+ prêtées | prêtée
+ plaquées | plaquée
+ renvoyés | renvoyé
+ entamions | entamion
+ prétextes | prétexte
+ soussols | soussol
+ membres | membre
+ magiques | magique
+ stalagmites | stalagmite
+ environs | environ
+ idiots | idiot
+ forêts | forêt
+ pédales | pédale
+ reconnais | reconnai
+ jambes | jambe
+ voleurs | voleur
+ regardais | regardai
+ flancs | flanc
+ compartiments | compartiment
+ ballongommes | ballongomme
+ exhibées | exhibée
+ frigorifiés | frigorifié
+ bavantes | bavante
+ usées | usée
+ préviens | prévien
+ vaches | vache
+ menacés | menacé
+ courbes | courbe
+ paumes | paume
+ brillants | brillant
+ armures | armure
+ olibrius | olibriu
+ morsures | morsure
+ exceptionnels | exceptionnel
+ champignons | champignon
+ acrobaties | acrobatie
+ rumeurs | rumeur
+ personnages | personnage
+ personnelles | personnelle
+ embruns | embrun
+ signifiées | signifiée
+ potins | potin
+ énormes | énorme
+ toasts | toast
+ semaines | semaine
+ talons | talon
+ anciens | ancien
+ brûlures | brûlure
+ sacrifices | sacrifice
+ métamorphoses | métamorphose
+ tests | test
+ foies | foie
+ pensais | pensai
+ orties | ortie
+ siens | sien
+ envers | enver
+ calembredaines | calembredaine
+ dedalus | dedalu
+ hérissés | hérissé
+ taillées | taillée
+ alchimiques | alchimique
+ modernes | moderne
+ habituels | habituel
+ ingrédients | ingrédient
+ mornilles | mornille
+ étions | étion
+ ténèbres | ténèbre
+ planches | planche
+ révisions | révision
+ ailles | aille
+ attaqués | attaqué
+ chaînes | chaîne
+ gueules | gueule
+ conversations | conversation
+ victimes | victime
+ limaces | limace
+ trucs | truc
+ bonnets | bonnet
+ bouquins | bouquin
+ quantités | quantité
+ maculés | maculé
+ sirius | siriu
+ tranches | tranche
+ garantis | garanti
+ écaillées | écaillée
+ compris | compri
+ érudits | érudit
+ signes | signe
+ missions | mission
+ suppositions | supposition
+ naissantes | naissante
+ paysages | paysage
+ chaudrons | chaudron
+ méduses | méduse
+ débutants | débutant
+ jaunâtres | jaunâtre
+ vasistas | vasista
+ familles | famille
+ repliées | repliée
+ moustaches | moustache
+ motos | moto
+ chaussures | chaussure
+ harnais | harnai
+ enchantements | enchantement
+ joints | joint
+ rétrécis | rétréci
+ parvenus | parvenu
+ minuscules | minuscule
+ lueurs | lueur
+ trempés | trempé
+ baisers | baiser
+ carrées | carrée
+ mêmes | même
+ étonnants | étonnant
+ enfants | enfant
+ reviens | revien
+ lianes | liane
+ bonbons | bonbon
+ nimbus | nimbu
+ toilettes | toilette
+ emplettes | emplette
+ splendides | splendide
+ jumelles | jumelle
+ toujours | toujour
+ acheminés | acheminé
+ ennemis | ennemi
+ magiciens | magicien
+ tours | tour
+ tasses | tasse
+ dépêches | dépêche
+ cassées | cassée
+ statuettes | statuette
+ phares | phare
+ extraordinaires | extraordinaire
+ menés | mené
+ racontes | raconte
+ apprends | apprend
+ recouverts | recouvert
+ retardés | retardé
+ touristes | touriste
+ arsenius | arseniu
+ enquêteurs | enquêteur
+ ébréchées | ébréchée
+ dreadlocks | dreadlock
+ attributions | attribution
+ gonds | gond
+ douleurs | douleur
+ sandwiches | sandwiche
+ dessus | dessu
+ trépignements | trépignement
+ lanières | lanière
+ biscuits | biscuit
+ camarades | camarade
+ symboles | symbole
+ écrasés | écrasé
+ rieurs | rieur
+ argus | argu
+ risques | risque
+ entraînements | entraînement
+ instants | instant
+ lanternes | lanterne
+ sabots | sabot
+ ébahis | ébahi
+ épreuves | épreuve
+ enchantés | enchanté
+ inventeurs | inventeur
+ sorciers | sorcier
+ braises | braise
+ glapissements | glapissement
+ secrets | secret
+ somnolents | somnolent
+ chevilles | cheville
+ vagues | vague
+ gluantes | gluante
+ débarrassés | débarrassé
+ disais | disai
+ lunes | lune
+ examens | examen
+ dernières | dernière
+ scarabées | scarabée
+ saucisses | saucisse
+ vides | vide
+ escortés | escorté
+ groupes | groupe
+ sautées | sautée
+ grognements | grognement
+ nocturnes | nocturne
+ manuels | manuel
+ céréales | céréale
+ passants | passant
+ motifs | motif
+ bulles | bulle
+ loirs | loir
+ partisans | partisan
+ neuves | neuve
+ inquiets | inquiet
+ embardées | embardée
+ coulissants | coulissant
+ pouvoirs | pouvoir
+ atroces | atroce
+ allons | allon
+ évidées | évidée
+ narines | narine
+ féroces | féroce
+ rapides | rapide
+ égarés | égaré
+ cinémas | cinéma
+ substances | substance
+ poches | poche
+ lesquels | lesquel
+ pièces | pièce
+ dortoirs | dortoir
+ utilisateurs | utilisateur
+ obtiens | obtien
+ tâtons | tâton
+ pluies | pluie
+ règlements | règlement
+ prévisions | prévision
+ entières | entière
+ tranquilles | tranquille
+ crasseuses | crasseuse
+ barils | baril
+ humains | humain
+ triomphants | triomphant
+ vestiaires | vestiaire
+ étincelles | étincelle
+ brindilles | brindille
+ radis | radi
+ bruits | bruit
+ entraînés | entraîné
+ sornettes | sornette
+ batteurs | batteur
+ poignets | poignet
+ dispersés | dispersé
+ enflammées | enflammée
+ raisons | raison
+ bizarres | bizarre
+ censés | censé
+ battus | battu
+ consacrés | consacré
+ représentés | représenté
+ crèmes | crème
+ recevais | recevai
+ répercutés | répercuté
+ domestiques | domestique
+ dansantes | dansante
+ difficultés | difficulté
+ attaques | attaque
+ reflets | reflet
+ punitions | punition
+ fauteuils | fauteuil
+ travers | traver
+ jouets | jouet
+ souffrances | souffrance
+ depuis | depui
+ embués | embué
+ muscles | muscle
+ maigres | maigre
+
+ 
+('der', 'déo', 'eux', 'rer', 'ses', 'sés') : 
+ vider | vi
+ vises | vi
+ vidéo | vi
+ vieux | vi
+ virer | vi
+ visés | vi
+
+ 
+('rdes',) : 
+ lourdes | lou
+
+ 
+('uait',) : 
+ remuait | rem
+
+ 
+('ger', 'ron') : 
+ juger | ju
+ juron | ju
+
+ 
+('mit', 'vit') : 
+ remit | re
+ revit | re
+
+ 
+('les', 'on') : 
+ salles | sal
+ salon | sal
+
+ 
+('s', 'ses') : 
+ mauvais | mauvai
+ mauvaises | mauvai
+
+ 
+('aient', 'er', 'é') : 
+ résistaient | résist
+ griffonné | griffonn
+ griffonner | griffonn
+ griffonnaient | griffonn
+ résisté | résist
+ résister | résist
+
+ 
+('nait', 's') : 
+ ramenait | rame
+ rames | rame
+
+ 
+('er', 'ez', 'é') : 
+ ensorcelé | ensorcel
+ ensorcelez | ensorcel
+ ensorceler | ensorcel
+ renvoyez | renvoy
+ renvoyer | renvoy
+ renvoyé | renvoy
+
+ 
+('a', 'aient', 'ait', 'ant', 'e', 'ent', 'er', 'erai', 'ez', 'èrent', 'é', 'ée', 'és') : 
+ trouve | trouv
+ trouvent | trouv
+ trouva | trouv
+ trouvés | trouv
+ trouvait | trouv
+ trouvée | trouv
+ trouvèrent | trouv
+ trouvez | trouv
+ trouvant | trouv
+ trouvaient | trouv
+ trouvé | trouv
+ trouverai | trouv
+ trouver | trouv
+
+ 
+('udi',) : 
+ jeudi | je
+
+ 
+('mment', 'nt', 'ntes') : 
+ différemment | différe
+ différentes | différe
+ différent | différe
+
+ 
+('ait', 'ant', 'e', 'ent', 'ez', 'rai') : 
+ mettez | mett
+ mettent | mett
+ mettrai | mett
+ mettait | mett
+ mette | mett
+ mettant | mett
+
+ 
+('a', 'aient', 'ait', 'e', 'er', 'ez') : 
+ écoutaient | écout
+ écoutait | écout
+ écouter | écout
+ écoute | écout
+ écouta | écout
+ écoutez | écout
+
+ 
+('l', 'ux') : 
+ normal | norma
+ normaux | norma
+ bocaux | boca
+ bocal | boca
+
+ 
+('ard',) : 
+ pétard | pét
+
+ 
+('ck',) : 
+ black | bla
+
+ 
+('ait', 'er') : 
+ dissimuler | dissimul
+ dissimulait | dissimul
+ dînait | dîn
+ tirer | tir
+ dîner | dîn
+ fréquenter | fréquent
+ fréquentait | fréquent
+ tirait | tir
+ supportait | support
+ supporter | support
+
+ 
+('eaux', 'ion', 'ter') : 
+ poteaux | pot
+ potion | pot
+ potter | pot
+
+ 
+('a', 'ages', 'ait', 'ant', 'e', 'ent', 'er', 'ion', 'ons', 'é', 'ée', 'ées') : 
+ passent | pass
+ passons | pass
+ passion | pass
+ passant | pass
+ passe | pass
+ passa | pass
+ passées | pass
+ passée | pass
+ passait | pass
+ passer | pass
+ passages | pass
+ passé | pass
+
+ 
+('eux', 's') : 
+ précieux | préci
+ précis | préci
+
+ 
+('a', 'ait', 'er', 'les', 'ons', 'é') : 
+ appelé | appel
+ appelait | appel
+ appelons | appel
+ appelles | appel
+ appela | appel
+ appeler | appel
+
+ 
+('aient', 'ait', 'd', 'drai', 'ez', 'nent') : 
+ apprennent | appren
+ apprend | appren
+ apprenait | appren
+ apprenaient | appren
+ apprendrai | appren
+ apprenez | appren
+
+ 
+('aient', 'ent') : 
+ fracassaient | fracass
+ fracassent | fracass
+ disparaissaient | disparaiss
+ disparaissent | disparaiss
+
+ 
+('a', 'ait', 'ant', 'er') : 
+ frissonna | frissonn
+ frissonner | frissonn
+ frissonnait | frissonn
+ frissonnant | frissonn
+
+ 
+('ci', 'rd', 'tint', 'vent') : 
+ sourd | sou
+ souci | sou
+ soutint | sou
+ souvent | sou
+
+ 
+('ait', 'es', 'ez') : 
+ lisait | lis
+ lisez | lis
+ lises | lis
+
+ 
+('s', 'ses', 'sion') : 
+ diversion | diver
+ divers | diver
+ diverses | diver
+
+ 
+('ient', 'yait', 'yant') : 
+ envoient | envo
+ envoyait | envo
+ envoyant | envo
+
+ 
+('ger', 'nait') : 
+ sonnait | son
+ songer | son
+
+ 
+('a', 'ant', 'e', 'é') : 
+ étonnant | étonn
+ étonna | étonn
+ étonne | étonn
+ étonné | étonn
+
+ 
+('ait', 'ent', 'iger', 'ont') : 
+ diront | dir
+ dirent | dir
+ dirait | dir
+ diriger | dir
+
+ 
+('leau',) : 
+ rouleau | rou
+
+ 
+('t', 'tes') : 
+ petites | peti
+ étroit | étroi
+ étroites | étroi
+ petit | peti
+
+ 
+('mier', 'pon') : 
+ crépon | cré
+ crémier | cré
+
+ 
+('a', 'aient', 'ait', 'antes', 'e', 'er') : 
+ brillaient | brill
+ briller | brill
+ brille | brill
+ brillait | brill
+ brillantes | brill
+ brilla | brill
+
+ 
+('a', 'ait', 'ant', 'er', 'ez', 'é', 'ée') : 
+ agiter | agit
+ agitez | agit
+ agité | agit
+ agitait | agit
+ agitée | agit
+ agitant | agit
+ agita | agit
+
+ 
+('con',) : 
+ bacon | ba
+
+ 
+('nes',) : 
+ bonnes | bon
+
+ 
+('e', 'eant', 'er', 'èrent', 'é') : 
+ échanger | échang
+ échange | échang
+ échangèrent | échang
+ échangeant | échang
+ échangé | échang
+
+ 
+('ent',) : 
+ client | cli
+ remuaient | remuai
+ servaient | servai
+ tient | ti
+ virent | vir
+ surent | sur
+ perdaient | perdai
+ mirent | mir
+ formaient | formai
+ jouaient | jouai
+ cessaient | cessai
+ talent | tal
+ voient | voi
+ valaient | valai
+ rampaient | rampai
+
+ 
+('geux',) : 
+ courageux | coura
+
+ 
+('nt', 's') : 
+ surveilles | surveille
+ aimes | aime
+ essayes | essaye
+ restes | reste
+ penses | pense
+ aiment | aime
+ pensent | pense
+ surveillent | surveille
+ essayent | essaye
+ restent | reste
+
+ 
+('ies', 'ilà', 'ire') : 
+ voilà | vo
+ voies | vo
+ voire | vo
+
+ 
+('a', 'e', 'es') : 
+ mesura | mesur
+ mesure | mesur
+ mesures | mesur
+
+ 
+('ides',) : 
+ humides | hum
+
+ 
+('isi',) : 
+ moisi | mo
+
+ 
+('e', 'ez') : 
+ rejoindre | rejoindr
+ bénéficie | bénéfici
+ bénéficiez | bénéfici
+ obéissez | obéiss
+ obéisse | obéiss
+ suivrez | suivr
+ figure | figur
+ mettrez | mettr
+ mettre | mettr
+ rejoindrez | rejoindr
+ figurez | figur
+ suivre | suivr
+
+ 
+('a', 'aient', 'e', 's', 'u', 'èrent', 'é') : 
+ points | point
+ pointe | point
+ pointé | point
+ pointu | point
+ pointaient | point
+ pointa | point
+ pointèrent | point
+
+ 
+('nait', 'nant', 's') : 
+ rayons | rayon
+ rayonnant | rayon
+ rayonnait | rayon
+
+ 
+('ez', 's') : 
+ pourriez | pourri
+ pourris | pourri
+
+ 
+('ant', 'e') : 
+ angoisse | angoiss
+ angoissant | angoiss
+ triomphe | triomph
+ triomphant | triomph
+
+ 
+('r', 'rait', 't') : 
+ servit | servi
+ servir | servi
+ servirait | servi
+
+ 
+('non',) : 
+ sinon | si
+
+ 
