@@ -3,14 +3,13 @@
 \geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
 %\geometry{landscape}                		% Activate for rotated page geometry
 %\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
-\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+\usepackage{graphicx}				% Use pdf, png, jpg, or epsÂ§ with pdflatex; use eps in DVI mode
 								% TeX will automatically convert eps --> pdf in pdflatex		
 \usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage[french]{babel}
-%\usepackage[latin1]{inputenc}
-
-
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 
 %SetFonts
 
@@ -26,11 +25,12 @@
 \section{Introduction}
 L'objectif de notre projet est la mise en correspondance automatique de textes en langues différentes sans connaissances préalables. Dans notre projet, nous prenons en considération les langues européennes ( Français, Anglais, Espagnole, Allemand..), et nous supposons qu'on a des textes suffisamment longs où on peut trouver des mots avec des traductions " faciles " dans le texte traduit.
 
-Nous avons fait une traduction mot �  mot en utilisant les algorithmes dynamiques de dilatation temporelle ( Dynamic Time Warping Algorithms).
-Ensuite, nous avons essayer de faire une classification morphologique des mots qui apparaissent dans les deux textes �  travers la méthode de " Goldsmith" et la méthode " Patricia Trie et nouvelle heuristique " et nous communiquons nos résultats �  travers une interface graphique.
+Nous avons fait une traduction mot à mot en utilisant les algorithmes dynamiques de dilatation temporelle ( Dynamic Time Warping Algorithms).
+Ensuite, nous avons essayé de faire une classification morphologique des mots qui apparaissent dans les deux textes à travers la méthode de " Goldsmith" et la méthode " Patricia Trie et nouvelle heuristique " et nous communiquons nos résultats à travers une interface graphique.
 
 
-\section{Architecture }
+%\subsection{}
+\section{Architecture choisie}
 \subsection{Diagramme de package}
 Ce diagramme de package décrit les principales fonctionnalités de notre projet et les principales parties sur lesquelles on a travaillé.
 \begin{figure}[h!]
@@ -55,22 +55,38 @@ Et ce diagramme détaille les différentes classes qui constituent notre fenêtr
 
 
 \section{Alignement de mot}
-Il existe plusieurs syst�mes d'alignement de textes qui se basent sur les formes de similitude graphique entre un texte et sa traduction. Comme l'alignement par cognats ( lexicaux ou de ponctuation). L'id�e de base pour l'alignement par cognats lexicaux est l'exploitation de la similitude graphique entre un mot et sa traduction, surtout lorsqu'il s'agit de noms propres ou de mots d'origine grecque ou latine et qui s'�crivent de la m�me mani�re dans les langues europ�ennes. 
+Il existe plusieurs systèmes d'alignement de textes qui se basent sur les formes de similitude graphique entre un texte et sa traduction. Comme l'alignement par cognats ( lexicaux ou de ponctuation). L'idée de base pour l'alignement par cognats lexicaux est l'exploitation de la similitude graphique entre un mot et sa traduction, surtout lorsqu'il s'agit de noms propres ou de mots d'origine grecque ou latine et qui s'écrivent de la même manière dans les langues européennes. 
 
-L'alignement qu'on  a effectu� se base sur les algorithmes dynamiques de dilatation temporelle, qui sont bas�s sur la distribution dans le texte entier d'un mot et de sa traduction. L'id�e derni�re cette approche, est que le signale du mot ressemble � celui de sa traduction.
- 
+L'alignement qu'on a effectué se base sur les algorithmes dynamiques de dilatation temporelle, qui sont basés sur la distribution dans le texte entier d'un mot et de sa traduction. L'idée derrière cette approche, est que le signal du mot à traduire dans le corpus à aligner ressemble à celui de sa traduction dans la langue cible.
+
+La méthode fonctionne de la manière suivante: 
+
+- Traitement des textes à aligner dans la mémoire.
+
+- On calcule pour chaque mot son vecteur de récence: on représente la distance ( en nombre de caractères ) entre chaque apparition du mot.
+
+- On normalise ce vecteurs en passant à des fractions du texte entier.
+
+- La similitude des signaux ( qui apparaissent sur le diagramme des vecteurs de récences ) est ce qui determine les paires de mots qu'on pourra aligner.
+
 \section{Interface}
+\begin{figure}[h!]
+\centering
+\includegraphics[width = 400pt]{interface.jpg}
+\end{figure}
+
 L’interface est divisée en deux colonnes. Chaque colonne est réservée pour l’ouverture et l’affichage d’un des deux textes.
 
 On a aussi sur chaque colonne une partie en bas où s’affichent les résultats de la classification morphologique de chaque mot sélectionné.
-On suppose qu’on peut effectuer l’alignement �  partir des deux textes. D’où la présence du bouton « Aligner » sur les deux côtés.
+On suppose qu’on peut effectuer l’alignement à partir des deux textes. D’où la présence du bouton « Aligner » sur les deux côtés.
 On dispose aussi des boutons qui nous permettent d’ouvrir les textes et chercher un mot sur le texte.
+
 
 \subsection{Fonctionnalités de l'interface}
 -	Permet d’ouvrir deux textes.
 
  
--	Permet de chercher un mot et ses occurrences grâce �  la barre de recherche.
+-	Permet de chercher un mot et ses occurrences grâce à la barre de recherche.
 
 -	Permet d’afficher en couleur jaune toutes les occurrences d’un mot sélectionné. 
 
@@ -80,41 +96,40 @@ On dispose aussi des boutons qui nous permettent d’ouvrir les textes et cherch
 
 -	Permet d’afficher les résultats de la classification morphologique.
 
-
 \section{Classification morphologique}
-Apr�s avoir effectu� l'alignement des mots, nous avons voulu tenter de classifier les mots selon leur morphologie. Une premi�re approche fut d'utiliser l'algorithme d�fini par John Goldsmith et al dans leur article de 2001 : http://www.aclweb.org/anthology/J01-2001. Puis apr�s des premiers r�sultats et un �change de mails avec Mr Goldsmith nous avons d�cid� de changer de m�thode, en majeur partie � cause du temps qu'il nous restait pour trouver une solution.
+Après avoir effectué l'alignement des mots, nous avons voulu tenter de classifier les mots selon leur morphologie. Une première approche fut d'utiliser l'algorithme défini par John Goldsmith et al dans leur article de 2001 : http://www.aclweb.org/anthology/J01-2001. Puis après des premiers résultats et un échange de mails avec Mr Goldsmith nous avons décidé de changer de méthode, en majeur partie à cause du temps qu'il nous restait pour trouver une solution.
 
-\subsection{Premi�re m�thode : Goldsmith}
-L'id�e principale de cette m�thode est de cr�er un ensemble de segmentation des mots en radicaux et en suffixes:
+\subsection{Première méthode : Goldsmith}
+L'idée principale de cette méthode est de créer un ensemble de segmentation des mots en radicaux et en suffixes:
 \begin{equation}
 mot = \{(radical_{i}, suffixe_{i})\}
 \end{equation}
 
-Une fois cette segmentation effectu�e, on veut former ce qu'on appelle des signatures d�fini comme suit : 
+Une fois cette segmentation effectuée, on veut former ce qu'on appelle des signatures défini comme suit : 
 \begin{equation}
 signature = \{radical_{i}, radical_{j}...\} <-> \{suffixe_{k}, suffixe_{m}\}
 \end{equation}
-tel que $\forall$ $i$, $k$  $radical_{i} + suffixe_{k}$ est un mot dans le texte. Chaque mot doit �tre encoder dans une seule signature. 
+tel que $\forall$ $i$, $k$  $radical_{i} + suffixe_{k}$ est un mot dans le texte. Chaque mot doit être encoder dans une seule signature. 
 
-Les premi�res segmentations nous permettent de cr�er un premier ensemble de signatures parmi lesquelles nous devons bien s�r en �liminer la plus part. Pour cela les auteurs de l'article utilisent la MDL ou Minimum Description Length d�finit par Rissanen. Ils d�finissent donc, pour chacun des objets, une longueur de compression, et vont chercher � minimiser la somme de toutes ces longueurs. Ne pr�cisant pas comment ils effectuent cette minimisation nous avons premi�rement choisi de maximiser ce que les auteurs appellent l'information mutuelle pond�r�e d'un suffixe : 
+Les premières segmentations nous permettent de créer un premier ensemble de signatures parmi lesquelles nous devons bien sûr en éliminer la plus part. Pour cela les auteurs de l'article utilisent la MDL ou Minimum Description Length définit par Rissanen. Ils définissent donc, pour chacun des objets, une longueur de compression, et vont chercher à minimiser la somme de toutes ces longueurs. Ne précisant pas comment ils effectuent cette minimisation nous avons premièrement choisi de maximiser ce que les auteurs appellent l'information mutuelle pondérée d'un suffixe : 
 
 \begin{equation}
 \frac{[suffixe]}{[kgram]}*log(\frac{[suffixe]}{\prod_{lettre\in suffixe}^{}[letter]}
 \end{equation}
 
-o� $[suffixe]$ est le nombre de fois o� le suffixe apparait dans le texte en tant que suffixe. En plus de cela nous avons cherch� � maximiser pour chaque signature le produit suivant : 
+où $[suffixe]$ est le nombre de fois où le suffixe apparait dans le texte en tant que suffixe. En plus de cela nous avons cherché à maximiser pour chaque signature le produit suivant : 
 
 \begin{equation}
 log(|radical|)*log(|suffixe|)
 \end{equation}
 
-o� $|suffixe|$ est le nombre de suffixe dans la signature. Ceci dans l'id�e que nous voulions �viter au maximum les signatures ne contenant qu'un seul suffixe ou un seul radical puisque qu'elle n'apporte pas d'informations g�n�rales sur la langue du texte �tudi�.
+où $|suffixe|$ est le nombre de suffixe dans la signature. Ceci dans l'idée que nous voulions éviter au maximum les signatures ne contenant qu'un seul suffixe ou un seul radical puisque qu'elle n'apporte pas d'informations générales sur la langue du texte étudié.
 
-Apr�s un mois et demi sur cette m�thode nos r�sultats n'�taient pas encourageant, nous avons d�cid� d'envoyer un mail � Mr Goldsmith pour plus de d�tails sur la m�thode � employer. Il nous a grandement aid�, confort� dans nos r�sultats et nous a conseill� de changer d'estimateur et d'utiliser plut�t la MDL de Rissanen. Manquant de temps pour se plonger dans cette m�thode et la mettre en place nous avons choisi de changer d'estimateurs et de m�thode d'agr�gation des signatures. 
+Après un mois et demi sur cette méthode nos résultats n'étaient pas encourageant, nous avons décidé d'envoyer un mail à Mr Goldsmith pour plus de détails sur la méthode à employer. Il nous a grandement aidé, conforté dans nos résultats et nous a conseillé de changer d'estimateur et d'utiliser plutôt la MDL de Rissanen. Manquant de temps pour se plonger dans cette méthode et la mettre en place nous avons choisi de changer d'estimateurs et de méthode d'agrégation des signatures. 
 
-\subsection{Seconde m�thode : Patricia Trie et nouvelle heuristique}
+\subsection{Seconde méthode : Patricia Trie et nouvelle heuristique}
 
-Ici nous avons commenc� par encoder le texte dans un Patricia Trie. 
+Ici nous avons commencé par encoder le texte dans un Patricia Trie. 
 
 \begin{figure}[!h]
 \centering
@@ -122,16 +137,16 @@ Ici nous avons commenc� par encoder le texte dans un Patricia Trie.
 \caption{Cette photo provient de la page wikipedia sur les patricia trie}
 \end{figure}
 
-Une fois cet arbre construit, on peut avoir acc�s � ses feuilles dont on est s�r qu'elles constituent des suffixes. De plus en parcourant l'arbre et en s'arr�tant d�s qu'on tombe sur un mot du texte on obtient une premi�re d�composition du mot et de tous ceux qui suivent dans l'arbre. En bref, l'utilisation d'un patricia trie nous permet d'obtenir un premier sous ensembles de suffixes et une premi�re segmentation pour chaque mot. Pour construire cet arbre nous avons b�n�fici� du code de Mr Clerc qui nous a permis de construire un premier trie (une lettre par noeud). Nous l'avons ensuite 'concat�n�' d�s qu'il y avait deux lettres ou plus (noeuds) cons�cutifs n'ayant qu'un enfant.
+Une fois cet arbre construit, on peut avoir accès à ses feuilles dont on est sûr qu'elles constituent des suffixes. De plus en parcourant l'arbre et en s'arrêtant dès qu'on tombe sur un mot du texte on obtient une première décomposition du mot et de tous ceux qui suivent dans l'arbre. En bref, l'utilisation d'un patricia trie nous permet d'obtenir un premier sous ensembles de suffixes et une première segmentation pour chaque mot. Pour construire cet arbre nous avons bénéficié du code de Mr Clerc qui nous a permis de construire un premier trie (une lettre par noeud). Nous l'avons ensuite 'concaténé' dès qu'il y avait deux lettres ou plus (noeuds) consécutifs n'ayant qu'un enfant.
 
-Nous avons de plus garder l'heuristique d�velopp� dans l'article de Mr Goldsmith qui consiste � cr�er un ensemble de segmentations pour chaque mot. Puis pour caract�riser la vraisemblance d'une segmentation $mot = \{(radical_{i}, suffixe_{i})\}$ nous utilisons l'estimateur suivant : 
+Nous avons de plus garder l'heuristique développé dans l'article de Mr Goldsmith qui consiste à créer un ensemble de segmentations pour chaque mot. Puis pour caractériser la vraisemblance d'une segmentation $mot = \{(radical_{i}, suffixe_{i})\}$ nous utilisons l'estimateur suivant : 
 
 \begin{equation}
  (-1) * log(\frac{[radical_{i}+suffixe_{k}]}{[radical_{i}] * [suffixe_{k}]})
 \end{equation}
 
 
-Pour qualifier la vraisemblance d'un suffixe et d'un radical nous n'utilisons plus l'information mutuelle pond�r� mais les estimateurs suivants : 
+Pour qualifier la vraisemblance d'un suffixe et d'un radical nous n'utilisons plus l'information mutuelle pondéré mais les estimateurs suivants : 
 
 \begin{equation}
 suffixe : (-1) * \sum_{segmentation = (radical, suffixe) }^{}  log(\frac{[radical + suffixe]}{[radical] * [suffixe]})
@@ -143,32 +158,32 @@ radical : (-1) * \sum_{segmentation = (radical, suffixe) }^{}  log(\frac{[radica
 
 
 Enfin on obtient donc pour chaque segmentation trois indices de sa potentielle pertinence :  la vraisemblance de la segmentation, 
-la vraisemblance du suffixe et celle du radical. Ces informations sont sauvegard�es dans le fichier $"left seg.txt"$ pour le texte de gauche 
-et $"right seg.txt"$ pour le texte de droite. Par exemple pour le premier Harry Potter en fran�ais on obtient pour le mot 'approch�rent': 
+la vraisemblance du suffixe et celle du radical. Ces informations sont sauvegardées dans le fichier $"left seg.txt"$ pour le texte de gauche 
+et $"right seg.txt"$ pour le texte de droite. Par exemple pour le premier Harry Potter en français on obtient pour le mot 'approchèrent': 
 
 
 \begin{figure}[!h]
 \centering
 \includegraphics[width = 500pt]{seg_info.png}
-\caption{Exemple de triplet de vraisemblances pour plusieurs segmentation du mot 'approch�rent'}
+\caption{Exemple de triplet de vraisemblances pour plusieurs segmentation du mot 'approchèrent'}
 \end{figure}
 
 
-En regardant ses r�sultats on se rend compte qu'on ne peut pas choisir une segmentation en ne triant que sur un seul indice. Pour parvenir � une unique segmentation nous appliquons l'arbre de d�cision suivant :
+En regardant ses résultats on se rend compte qu'on ne peut pas choisir une segmentation en ne triant que sur un seul indice. Pour parvenir à une unique segmentation nous appliquons l'arbre de décision suivant :
 
-Si pour les maximums pour chacune des informations nous donnent une unique segmentation on utilise celle-l�. \\
-Si on obtient deux maximum menant � une segmentation alors on garde celle-ci. \\
-Si toutes les segmentations sont diff�rentes alors on prends celle donn�e par le maximum d'information provenant des radicaux. 
+Si pour les maximums pour chacune des informations nous donnent une unique segmentation on utilise celle-là. \\
+Si on obtient deux maximum menant à une segmentation alors on garde celle-ci. \\
+Si toutes les segmentations sont différentes alors on prends celle donnée par le maximum d'information provenant des radicaux. 
 
 
 Dans le cas de l'exemple ci-dessus on a : 
 \begin{itemize}
-\item Le maximum au sens des segmentations est : 'approch�ren' + 't' \\ 
-\item Le maximum au sens des suffixes est : 'approch�r' + 'ent' \\
-\item Le maximum au sens des radicaux est : 'approch' + '�rent' \\
+\item Le maximum au sens des segmentations est : 'approchèren' + 't' \\ 
+\item Le maximum au sens des suffixes est : 'approchèr' + 'ent' \\
+\item Le maximum au sens des radicaux est : 'approch' + 'èrent' \\
 \end{itemize}
 
-Nous avons trois segmentations, on garde celle au sens des radicaux donc : 'approch' + '�rent'. Nous avons d�sormais une unique segmentation pour chaque mot, on cr�er les signatures et on les sauvegarde
+Nous avons trois segmentations, on garde celle au sens des radicaux donc : 'approch' + 'èrent'. Nous avons désormais une unique segmentation pour chaque mot, on créer les signatures et on les sauvegarde
 dans $"leftsig.txt"$ et $"rightsig.txt"$. 
 
 Par exemple on obtient : 
@@ -178,25 +193,25 @@ Par exemple on obtient :
 \includegraphics[width = 150pt]{example_sig3.png}
 \end{figure}
 
-\subsection{R�sultats, critiques, comment continuer}
+\subsection{Résultats, critiques, comment continuer}
 
 
-Plusieurs observations peuvent �tre fa�tes sur la d�marche effectu�e. Contrairement � la m�thode initialement prise (Goldsmith) celle-ci n'est pas non-supervis�e. Quant aux r�sultats on observe trois choses.
+Plusieurs observations peuvent être faîtes sur la démarche effectuée. Contrairement à la méthode initialement prise (Goldsmith) celle-ci n'est pas non-supervisée. Quant aux résultats on observe trois choses.
 \begin{itemize} 
-\item La premi�re est que d�s lors qu'un verbe apparait sous beaucoup de formes dans le texte on est presque s�r de le retrouver seul dans une signature. ( Voir 'tournez', 'tournait', 'tournant' etc.... dans la photo ci-dessus).
+\item La première est que dès lors qu'un verbe apparait sous beaucoup de formes dans le texte on est presque sûr de le retrouver seul dans une signature. ( Voir 'tournez', 'tournait', 'tournant' etc.... dans la photo ci-dessus).
 \item La seconde est que au contraire on obtient des signatures ('s'), ('t') , qui vont prendre soit tous les noms qui apparaissent au pluriel ou les verbes qui n'apparaissent que dans peu de formes. 
-\item La troisi�me est que l'on obtient quand m�me de bonnes signatures ( voir les deux premi�res sur la photo ci-dessus.)
+\item La troisième est que l'on obtient quand même de bonnes signatures ( voir les deux premières sur la photo ci-dessus.)
 \end{itemize}
 
-Les deux premi�res correspondent, je pense, � des optimums locaux. La premi�re parce que les signatures de cette forme ne contiennent g�n�ralement qu'un seul radical, qui est suivi de beaucoup de suffixes. Le radical a donc une 
-grande vraisemblance et est gard�. La seconde parce que les signatures de cette forme ne contiennent g�n�ralement qu'un suffixe et pour les m�me raisons la segmentation et le suffixe auront une grande vraisemblance. Il faut aussi noter que dans la construction des suffixes la taille des suffixes que l'on cr�� d�pends de la taille du mot. Plus le mot est long plus nous autorisons les suffixes long. De plus nous ne prenons pas en compte les mots de taille inf�rieur � 4. Sur les 8088 mots d'origine dans Harry Potter (en fran�ais) nous en �tudions 7320. Nous obtenons au final 5149 radicaux diff�rent et 348 suffixes diff�rents. On peut penser qu'il serait judicieux de traiter les suffixes que l'on retrouve dans d'autres suffixes ('ons' et 'rons' par exemple) mais en faisant cela on risque de se retrouver avec seulement des suffixes � une lettre. Ce n'est pas ce que l'on veut.
+Les deux premières correspondent, je pense, à des optimums locaux. La première parce que les signatures de cette forme ne contiennent généralement qu'un seul radical, qui est suivi de beaucoup de suffixes. Le radical a donc une 
+grande vraisemblance et est gardé. La seconde parce que les signatures de cette forme ne contiennent généralement qu'un suffixe et pour les même raisons la segmentation et le suffixe auront une grande vraisemblance. Il faut aussi noter que dans la construction des suffixes la taille des suffixes que l'on créé dépends de la taille du mot. Plus le mot est long plus nous autorisons les suffixes long. De plus nous ne prenons pas en compte les mots de taille inférieur à 4. Sur les 8088 mots d'origine dans Harry Potter (en français) nous en étudions 7320. Nous obtenons au final 5149 radicaux différent et 348 suffixes différents. On peut penser qu'il serait judicieux de traiter les suffixes que l'on retrouve dans d'autres suffixes ('ons' et 'rons' par exemple) mais en faisant cela on risque de se retrouver avec seulement des suffixes à une lettre. Ce n'est pas ce que l'on veut.
 
-Cette m�thode est ind�pendante de la langue utilis�e. En raison des hypoth�ses faites sur les tailles des suffixes cette m�thode obtiendra de meilleurs r�sultats sur les langues indo-europ�ennes et plus particuli�rement pour les langues latines et l'anglais. L'allemand par exemple ou des mots juxtapos�s peuvent former de nouveaux mots n'est pas adapt� � cette m�thode. 
+Cette méthode est indépendante de la langue utilisée. En raison des hypothèses faites sur les tailles des suffixes cette méthode obtiendra de meilleurs résultats sur les langues indo-européennes et plus particulièrement pour les langues latines et l'anglais. L'allemand par exemple ou des mots juxtaposés peuvent former de nouveaux mots n'est pas adapté à cette méthode. 
 
 
 \paragraph{Aller plus loin}
 
-On se rend compte que l'�tape primordiale est ici de trouver une bonne segmentation des mots. Les signatures se font ensuite tr�s rapidement sans aucune autre hypoth�se les segmentations trouv�es. Pour cela, il y a une m�thode que j'aurai voulu essayer si j'avais eu plus de temps. Il s'agit de celle d�fini par MATHIAS CREUTZ and KRISTA LAGUS dans leur article de \underline{Unsupervised Models for Morpheme Segmentation} \underline{and Morphology Learning} o� il choisissent de maximiser la probabilit� a posteriori de la segmentation. Si cette m�thode me tente, c'est parce qu'elle est non-supervis�e. Je souhaiterai aussi pouvoir impl�menter un outil de segmentation d'un texte. Ces algorithmes visent � retrouver les mots dans un texte o� les espaces ont �t� enlev�s. Ceci nous permettrai de faire de l'alignement sur des langues comme le japonais ou le chinois.
+On se rend compte que l'étape primordiale est ici de trouver une bonne segmentation des mots. Les signatures se font ensuite très rapidement sans aucune autre hypothèse les segmentations trouvées. Pour cela, il y a une méthode que j'aurai voulu essayer si j'avais eu plus de temps. Il s'agit de celle défini par MATHIAS CREUTZ and KRISTA LAGUS dans leur article de \underline{Unsupervised Models for Morpheme Segmentation} \underline{and Morphology Learning} où il choisissent de maximiser la probabilité a posteriori de la segmentation. Si cette méthode me tente, c'est parce qu'elle est non-supervisée. Je souhaiterai aussi pouvoir implémenter un outil de segmentation d'un texte. Ces algorithmes visent à retrouver les mots dans un texte où les espaces ont été enlevés. Ceci nous permettrai de faire de l'alignement sur des langues comme le japonais ou le chinois.
 
  
 
@@ -217,3 +232,4 @@ On se rend compte que l'�tape primordiale est ici de trouver une bonne segment
 
 
 \end{document}  
+  
