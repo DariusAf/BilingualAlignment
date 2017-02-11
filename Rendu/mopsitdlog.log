@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.28)  10 FEB 2017 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.28)  11 FEB 2017 18:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -191,21 +191,28 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
 (./mopsitdlog.aux)
 \openout1 = `mopsitdlog.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -298,101 +305,145 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \degres on input line 22.
-LaTeX Info: Redefining \dots on input line 22.
-LaTeX Info: Redefining \up on input line 22.
+LaTeX Info: Redefining \degres on input line 23.
+LaTeX Info: Redefining \dots on input line 23.
+LaTeX Info: Redefining \up on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
 
-
-Package frenchb.ldf Warning: OT1 encoding should not be used for French.
-(frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 22.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (52.18922pt too wide) in paragraph at lines 23--23
+Overfull \hbox (52.07896pt too wide) in paragraph at lines 24--24
+ [][] 
+ []
+
+<diag_pack.jpg, id=1, 529.98pt x 277.035pt>
+File: diag_pack.jpg Graphic file (type jpg)
+ <use diag_pack.jpg>
+Package pdftex.def Info: diag_pack.jpg used on input line 38.
+(pdftex.def)             Requested size: 260.0pt x 135.90897pt.
+
+Overfull \hbox (12.77129pt too wide) in paragraph at lines 42--43
+[]\T1/cmr/m/n/10.95 Pour notre in-ter-face gra-phique on a uti-lisé une ar-chi-
+tec-ture MVC ( Modèle-Vue-contrôleur).
+ []
+
+<mvc.png, id=2, 1407.2575pt x 391.4625pt>
+File: mvc.png Graphic file (type png)
+ <use mvc.png>
+Package pdftex.def Info: mvc.png used on input line 46.
+(pdftex.def)             Requested size: 500.0pt x 139.08662pt.
+
+Overfull \hbox (69.99538pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
 [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<patricia_trie.png, id=13, 531.9875pt x 367.3725pt>
-File: patricia_trie.png Graphic file (type png)
- <use patricia_trie.png>
-Package pdftex.def Info: patricia_trie.png used on input line 66.
-(pdftex.def)             Requested size: 200.0pt x 138.1119pt.
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./diag_
+pack.jpg>] <widget.png, id=13, 1455.4375pt x 632.3625pt>
+File: widget.png Graphic file (type png)
+ <use widget.png>
+Package pdftex.def Info: widget.png used on input line 53.
+(pdftex.def)             Requested size: 500.0pt x 217.23898pt.
 
-[2 <./patricia_trie.png>] <seg_info.png, id=22, 725.71124pt x 97.36375pt>
-File: seg_info.png Graphic file (type png)
-
-<use seg_info.png>
-Package pdftex.def Info: seg_info.png used on input line 97.
-(pdftex.def)             Requested size: 500.0pt x 67.083pt.
-
-Overfull \hbox (69.99538pt too wide) in paragraph at lines 97--98
+Overfull \hbox (69.99538pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
-[3 <./seg_info.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[2 <./mvc.png (PNG copy)> <./widget.png (PNG copy)>]
+<interface.jpg, id=17, 612.78937pt x 464.4853pt>
+File: interface.jpg Graphic file (type jpg)
+ <use interface.jpg>
+Package pdftex.def Info: interface.jpg used on input line 75.
+(pdftex.def)             Requested size: 400.0pt x 303.1947pt.
+ [3 <./interface.jpg>] [4] <patricia_trie.png, id=28, 531.9875pt x 367.3725pt>
+File: patricia_trie.png Graphic file (type png)
+
+<use patricia_trie.png>
+Package pdftex.def Info: patricia_trie.png used on input line 135.
+(pdftex.def)             Requested size: 200.0pt x 138.1119pt.
+ [5 <./patricia_trie.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 148.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
+
+<seg_info.png, id=37, 725.71124pt x 97.36375pt>
+File: seg_info.png Graphic file (type png)
+ <use seg_info.png>
+Package pdftex.def Info: seg_info.png used on input line 166.
+(pdftex.def)             Requested size: 500.0pt x 67.083pt.
+
+Overfull \hbox (69.99538pt too wide) in paragraph at lines 166--167
+ [][] 
+ []
+
+[6 <./seg_info.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
-<example_sig.png, id=28, 456.70625pt x 736.7525pt>
+<example_sig.png, id=43, 456.70625pt x 736.7525pt>
 File: example_sig.png Graphic file (type png)
  <use example_sig.png>
-Package pdftex.def Info: example_sig.png used on input line 122.
+Package pdftex.def Info: example_sig.png used on input line 191.
 (pdftex.def)             Requested size: 200.0pt x 322.63196pt.
 
-<example_sig3.png, id=29, 215.80624pt x 320.19624pt>
+<example_sig3.png, id=44, 215.80624pt x 320.19624pt>
 File: example_sig3.png Graphic file (type png)
  <use example_sig3.png>
-Package pdftex.def Info: example_sig3.png used on input line 123.
+Package pdftex.def Info: example_sig3.png used on input line 192.
 (pdftex.def)             Requested size: 150.0pt x 222.5626pt.
 
-[4 <./example_sig.png> <./example_sig3.png>] [5] [6] (./mopsitdlog.aux) ) 
+[7 <./example_sig.png> <./example_sig3.png>] [8] [9] (./mopsitdlog.aux) ) 
 Here is how much of TeX's memory you used:
- 3978 strings out of 493089
- 54887 string characters out of 6134842
- 129190 words of memory out of 5000000
- 7400 multiletter control sequences out of 15000+600000
- 11653 words of font info for 44 fonts, out of 8000000 for 9000
+ 4222 strings out of 493089
+ 57067 string characters out of 6134842
+ 129323 words of memory out of 5000000
+ 7627 multiletter control sequences out of 15000+600000
+ 15912 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,30p,909b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/lo
+ 38i,6n,30p,1189b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/
+local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loca
 l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on mopsitdlog.pdf (6 pages, 527888 bytes).
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on mopsitdlog.pdf (9 pages, 812041 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 104 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
