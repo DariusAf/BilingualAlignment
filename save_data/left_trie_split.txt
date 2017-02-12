@@ -1,0 +1,4582 @@
+  |  | 000 
+ 
+  |  | 111 
+ 
+  |  | 1440 
+ 
+  |  | 1909 
+ 
+  |  | 1920 
+ 
+  |  | 2 
+ 
+  |  | 20 
+ 
+  |  | 311 
+ 
+  |  | 325 
+ 
+  |  | 326 
+ 
+  |  | 327 
+ 
+  |  | 328 
+ 
+  |  | 329 
+ 
+  |  | 330 
+ 
+  |  | 462 
+ 
+  |  | 500 
+ 
+  |  | 511 
+ 
+  |  | 612 
+ 
+  |  | 7 
+ 
+  |  | 7000 
+ 
+  |  | 900 
+ 
+  |  | A 
+ 
+  |  | Abruptly 
+ 
+  |  | Absurd 
+ 
+  |  | Accepted 
+ 
+  |  | Admire 
+ 
+  |  | Africa 
+ 
+  |  | African 
+ 
+  |  | After 
+ 
+  |  | Again 
+ 
+  |  | Ah 
+ 
+  |  | All 
+ 
+  |  | Am 
+ 
+  |  | Ambassador 
+ 
+  |  | America 
+ 
+  |  | And 
+ 
+  |  | Another 
+ 
+  |  | Anything 
+ 
+  |  | Anywhere 
+ 
+  |  | Approach 
+ 
+  |  | Are 
+ 
+  |  | Arizona 
+ 
+  |  | As 
+ 
+  |  | Ashamed 
+ 
+  |  | Ask 
+ 
+  |  | Asteroid 
+ 
+  |  | Astronomical 
+ 
+  |  | At 
+ 
+  |  | Australia 
+ 
+  |  | B 
+ 
+  |  | Baobabs 
+ 
+  |  | Be 
+ 
+  |  | Because 
+ 
+  |  | Bees 
+ 
+  |  | Before 
+ 
+  |  | Beside 
+ 
+  |  | Bit 
+ 
+  |  | Boa 
+ 
+  |  | But 
+ 
+  |  | By 
+ 
+  |  | Certainly 
+ 
+  |  | Chare 
+ 
+  |  | Children 
+ 
+  |  | China 
+ 
+  |  | Christmas 
+ 
+  |  | Clad 
+ 
+  |  | Clap 
+ 
+  |  | Come 
+ 
+  |  | Computations 
+ 
+  |  | Conceited 
+ 
+  |  | Congress 
+ 
+  |  | Dear 
+ 
+  |  | Death 
+ 
+  |  | Desert 
+ 
+  |  | Do 
+ 
+  |  | Does 
+ 
+  |  | Don 
+ 
+  |  | Draw 
+ 
+  |  | Drawing 
+ 
+  |  | During 
+ 
+  |  | Earth 
+ 
+  |  | Eh 
+ 
+  |  | Elephans 
+ 
+  |  | Embarassed 
+ 
+  |  | Europe 
+ 
+  |  | European 
+ 
+  |  | Even 
+ 
+  |  | Every 
+ 
+  |  | Everybody 
+ 
+  |  | Everything 
+ 
+  |  | Exactly 
+ 
+  |  | FIfteen 
+ 
+  |  | First 
+ 
+  |  | Five 
+ 
+  |  | Flies 
+ 
+  |  | Flowers 
+ 
+  |  | For 
+ 
+  |  | Forget 
+ 
+  |  | Fortunately 
+ 
+  |  | France 
+ 
+  |  | Frighten 
+ 
+  |  | From 
+ 
+  |  | Garden 
+ 
+  |  | Geographies 
+ 
+  |  | Give 
+ 
+  |  | Go 
+ 
+  |  | Good 
+ 
+  |  | Goodbye 
+ 
+  |  | Grown 
+ 
+  |  | Has 
+ 
+  |  | Having 
+ 
+  |  | He 
+ 
+  |  | Here 
+ 
+  |  | His 
+ 
+  |  | How 
+ 
+  |  | Hum 
+ 
+  |  | I 
+ 
+  |  | If 
+ 
+  |  | In 
+ 
+  |  | Indeed 
+ 
+  |  | Indies 
+ 
+  |  | Instead 
+ 
+  |  | International 
+ 
+  |  | Is 
+ 
+  |  | It 
+ 
+  |  | Its 
+ 
+  |  | Jupiter 
+ 
+  |  | Just 
+ 
+  |  | Justice 
+ 
+  |  | Kings 
+ 
+  |  | Leave 
+ 
+  |  | Let 
+ 
+  |  | Little 
+ 
+  |  | Look 
+ 
+  |  | Majesty 
+ 
+  |  | Make 
+ 
+  |  | Mars 
+ 
+  |  | Mass 
+ 
+  |  | Matters 
+ 
+  |  | May 
+ 
+  |  | Men 
+ 
+  |  | Midnight 
+ 
+  |  | Millions 
+ 
+  |  | Mine 
+ 
+  |  | Minister 
+ 
+  |  | Minster 
+ 
+  |  | My 
+ 
+  |  | Nature 
+ 
+  |  | Negro 
+ 
+  |  | Nevertheless 
+ 
+  |  | New 
+ 
+  |  | Next 
+ 
+  |  | No 
+ 
+  |  | North 
+ 
+  |  | Not 
+ 
+  |  | Nothing 
+ 
+  |  | Now 
+ 
+  |  | Number 
+ 
+  |  | Of 
+ 
+  |  | Oh 
+ 
+  |  | On 
+ 
+  |  | Once 
+ 
+  |  | One 
+ 
+  |  | Only 
+ 
+  |  | Order 
+ 
+  |  | Orders 
+ 
+  |  | Other 
+ 
+  |  | Over 
+ 
+  |  | Pacific 
+ 
+  |  | Perhaps 
+ 
+  |  | Phew 
+ 
+  |  | Please 
+ 
+  |  | Pole 
+ 
+  |  | Remember 
+ 
+  |  | Russia 
+ 
+  |  | Sahara 
+ 
+  |  | Seen 
+ 
+  |  | Send 
+ 
+  |  | She 
+ 
+  |  | Siberia 
+ 
+  |  | Sire 
+ 
+  |  | Six 
+ 
+  |  | Snakes 
+ 
+  |  | So 
+ 
+  |  | Something 
+ 
+  |  | Sometimes 
+ 
+  |  | Somewhere 
+ 
+  |  | South 
+ 
+  |  | Star 
+ 
+  |  | States 
+ 
+  |  | Stories 
+ 
+  |  | Straight 
+ 
+  |  | Such 
+ 
+  |  | Sunsets 
+ 
+  |  | Surely 
+ 
+  |  | That 
+ 
+  |  | The 
+ 
+  |  | Then 
+ 
+  |  | There 
+ 
+  |  | These 
+ 
+  |  | They 
+ 
+  |  | Think 
+ 
+  |  | Thirst 
+ 
+  |  | Thirty 
+ 
+  |  | This 
+ 
+  |  | Those 
+ 
+  |  | Three 
+ 
+  |  | Thursday 
+ 
+  |  | Thus 
+ 
+  |  | Tie 
+ 
+  |  | Tippler 
+ 
+  |  | To 
+ 
+  |  | Tomorrow 
+ 
+  |  | Tonight 
+ 
+  |  | True 
+ 
+  |  | Try 
+ 
+  |  | Turkish 
+ 
+  |  | Twelve 
+ 
+  |  | Twenty 
+ 
+  |  | Two 
+ 
+  |  | Unfortunately 
+ 
+  |  | United 
+ 
+  |  | Venus 
+ 
+  |  | Volcanic 
+ 
+  |  | Wait 
+ 
+  |  | Water 
+ 
+  |  | We 
+ 
+  |  | Well 
+ 
+  |  | Were 
+ 
+  |  | What 
+ 
+  |  | Whatever 
+ 
+  |  | Wheat 
+ 
+  |  | When 
+ 
+  |  | Whenever 
+ 
+  |  | Where 
+ 
+  |  | Whether 
+ 
+  |  | Which 
+ 
+  |  | While 
+ 
+  |  | Who 
+ 
+  |  | Whomever 
+ 
+  |  | Why 
+ 
+  |  | With 
+ 
+  |  | Words 
+ 
+  |  | Yawn 
+ 
+  |  | Yawns 
+ 
+  |  | Yes 
+ 
+  |  | Yet 
+ 
+  |  | You 
+ 
+  |  | Your 
+ 
+  |  | Yours 
+ 
+  |  | Zealand 
+ 
+  |  | a 
+ 
+  |  | abandoned 
+ 
+  |  | abashed 
+ 
+  |  | able 
+ 
+  |  | abodes 
+ 
+  |  | about 
+ 
+  |  | above 
+ 
+  |  | abruptly 
+ 
+  |  | absence 
+ 
+  |  | absent 
+ 
+  |  | absolute 
+ 
+  |  | absurd 
+ 
+  |  | abyss 
+ 
+  |  | accepted 
+ 
+  |  | accident 
+ 
+  |  | acclaim 
+ 
+  |  | according 
+ 
+  |  | account 
+ 
+  |  | accurate 
+ 
+  |  | achievement 
+ 
+  |  | acquaintance 
+ 
+  |  | acquainted 
+ 
+  |  | across 
+ 
+  |  | act 
+ 
+ act |  | ions 
+ 
+ act |  | ive 
+ 
+ act |  | ually 
+ 
+  |  | add 
+ 
+ add |  | ed 
+ 
+ add |  | ition 
+ 
+  |  | adjusted 
+ 
+  |  | administer 
+ 
+  |  | admiration 
+ 
+  |  | admire 
+ 
+ admire |  | r 
+ 
+ admire |  | rs 
+ 
+  |  | adore 
+ 
+  |  | adornment 
+ 
+  |  | advances 
+ 
+  |  | advantage 
+ 
+  |  | adventures 
+ 
+  |  | advise 
+ 
+  |  | afar 
+ 
+  |  | affair 
+ 
+  |  | affection 
+ 
+  |  | afraid 
+ 
+  |  | after 
+ 
+ after |  | noon 
+ 
+  |  | again 
+ 
+ again |  | st 
+ 
+  |  | age 
+ 
+  |  | ago 
+ 
+  |  | agree 
+ 
+  |  | ahead 
+ 
+  |  | air 
+ 
+ air |  | plane 
+ 
+ air |  | planes 
+ 
+  |  | alas 
+ 
+  |  | alight 
+ 
+  |  | alike 
+ 
+  |  | alive 
+ 
+  |  | all 
+ 
+ all |  | ow 
+ 
+  |  | almanac 
+ 
+  |  | alone 
+ 
+  |  | along 
+ 
+  |  | already 
+ 
+  |  | also 
+ 
+  |  | although 
+ 
+  |  | altogether 
+ 
+  |  | always 
+ 
+  |  | am 
+ 
+  |  | amazement 
+ 
+  |  | among 
+ 
+  |  | amount 
+ 
+  |  | amuse 
+ 
+  |  | amusing 
+ 
+  |  | an 
+ 
+  |  | and 
+ 
+  |  | angry 
+ 
+  |  | animal 
+ 
+ animal |  | s 
+ 
+  |  | ankle 
+ 
+  |  | anniversary 
+ 
+  |  | annoyed 
+ 
+  |  | another 
+ 
+  |  | answer 
+ 
+ answer |  | ed 
+ 
+  |  | any 
+ 
+ any |  | body 
+ 
+ any |  | one 
+ 
+ any |  | thing 
+ 
+ any |  | way 
+ 
+ any |  | where 
+ 
+  |  | apart 
+ 
+  |  | apparent 
+ 
+  |  | apparition 
+ 
+  |  | appear 
+ 
+ appear |  | ance 
+ 
+ appear |  | ed 
+ 
+ appear |  | s 
+ 
+  |  | apple 
+ 
+  |  | are 
+ 
+  |  | arithmetic 
+ 
+  |  | arms 
+ 
+  |  | army 
+ 
+  |  | around 
+ 
+  |  | aroused 
+ 
+  |  | arrested 
+ 
+  |  | arrival 
+ 
+  |  | arrived 
+ 
+  |  | as 
+ 
+  |  | ashamed 
+ 
+  |  | aside 
+ 
+  |  | ask 
+ 
+ ask |  | ed 
+ 
+ ask |  | ing 
+ 
+ ask |  | s 
+ 
+  |  | asleep 
+ 
+  |  | assembly 
+ 
+  |  | assistance 
+ 
+  |  | assure 
+ 
+  |  | asteroid 
+ 
+ asteroid |  | s 
+ 
+  |  | astonished 
+ 
+  |  | astonishment 
+ 
+  |  | astounded 
+ 
+  |  | astronomer 
+ 
+  |  | asunder 
+ 
+  |  | at 
+ 
+  |  | attack 
+ 
+  |  | attempt 
+ 
+  |  | attend 
+ 
+  |  | authority 
+ 
+  |  | avoid 
+ 
+  |  | awake 
+ 
+ awake |  | n 
+ 
+ awake |  | ned 
+ 
+  |  | away 
+ 
+  |  | awkward 
+ 
+  |  | back 
+ 
+  |  | bad 
+ 
+  |  | balderdash 
+ 
+  |  | ballet 
+ 
+  |  | bank 
+ 
+  |  | baobab 
+ 
+ baobab |  | s 
+ 
+  |  | be 
+ 
+  |  | bear 
+ 
+  |  | beating 
+ 
+  |  | beautiful 
+ 
+  |  | beauty 
+ 
+  |  | became 
+ 
+  |  | because 
+ 
+  |  | become 
+ 
+ become |  | s 
+ 
+  |  | becoming 
+ 
+  |  | becuase 
+ 
+  |  | been 
+ 
+  |  | before 
+ 
+  |  | beg 
+ 
+ beg |  | an 
+ 
+ beg |  | in 
+ 
+ beg |  | inning 
+ 
+ beg |  | ins 
+ 
+  |  | behind 
+ 
+  |  | being 
+ 
+  |  | believe 
+ 
+ believe |  | d 
+ 
+  |  | bells 
+ 
+  |  | belong 
+ 
+ belong |  | ed 
+ 
+ belong |  | s 
+ 
+  |  | bending 
+ 
+  |  | bent 
+ 
+  |  | beside 
+ 
+ beside |  | s 
+ 
+  |  | best 
+ 
+  |  | better 
+ 
+  |  | between 
+ 
+  |  | bewildered 
+ 
+  |  | beyond 
+ 
+  |  | big 
+ 
+ big |  | ger 
+ 
+  |  | billion 
+ 
+  |  | bird 
+ 
+ bird |  | s 
+ 
+  |  | bit 
+ 
+ bit |  | e 
+ 
+  |  | black 
+ 
+  |  | blest 
+ 
+  |  | blind 
+ 
+  |  | blinked 
+ 
+  |  | bloom 
+ 
+  |  | blossom 
+ 
+  |  | blown 
+ 
+  |  | blows 
+ 
+  |  | blundering 
+ 
+  |  | boa 
+ 
+ boa |  | s 
+ 
+ boa |  | sted 
+ 
+  |  | body 
+ 
+  |  | bolt 
+ 
+  |  | book 
+ 
+ book |  | s 
+ 
+  |  | bored 
+ 
+  |  | bores 
+ 
+  |  | born 
+ 
+  |  | both 
+ 
+  |  | bottles 
+ 
+  |  | bought 
+ 
+  |  | box 
+ 
+ box |  | es 
+ 
+  |  | boy 
+ 
+ boy |  | s 
+ 
+  |  | bracelet 
+ 
+  |  | bread 
+ 
+  |  | break 
+ 
+ break |  | down 
+ 
+ break |  | fast 
+ 
+ break |  | ing 
+ 
+  |  | breathe 
+ 
+ breathe |  | d 
+ 
+  |  | breeze 
+ 
+  |  | brick 
+ 
+  |  | bridge 
+ 
+  |  | brilliantly 
+ 
+  |  | bring 
+ 
+  |  | broke 
+ 
+ broke |  | n 
+ 
+  |  | brothers 
+ 
+  |  | brought 
+ 
+  |  | bucket 
+ 
+  |  | bud 
+ 
+  |  | bulky 
+ 
+  |  | bundles 
+ 
+  |  | buried 
+ 
+  |  | burn 
+ 
+  |  | burrow 
+ 
+  |  | bush 
+ 
+ bush |  | es 
+ 
+  |  | businessman 
+ 
+  |  | businessmen 
+ 
+  |  | busy 
+ 
+  |  | but 
+ 
+ but |  | terflies 
+ 
+ but |  | terfly 
+ 
+  |  | buy 
+ 
+  |  | by 
+ 
+  |  | cabbages 
+ 
+  |  | cabin 
+ 
+  |  | calculations 
+ 
+  |  | call 
+ 
+ call |  | ed 
+ 
+  |  | came 
+ 
+  |  | can 
+ 
+ can |  | not 
+ 
+  |  | caravan 
+ 
+  |  | care 
+ 
+ care |  | er 
+ 
+ care |  | fully 
+ 
+ care |  | lessly 
+ 
+  |  | carriage 
+ 
+  |  | carried 
+ 
+  |  | carry 
+ 
+ carry |  | ing 
+ 
+  |  | case 
+ 
+  |  | cast 
+ 
+ cast |  | les 
+ 
+  |  | catastrophe 
+ 
+  |  | catch 
+ 
+ catch |  | ing 
+ 
+  |  | caterpillars 
+ 
+  |  | caught 
+ 
+  |  | certain 
+ 
+ certain |  | ly 
+ 
+  |  | chair 
+ 
+  |  | chamber 
+ 
+  |  | chance 
+ 
+  |  | change 
+ 
+ change |  | d 
+ 
+ change |  | s 
+ 
+  |  | chap 
+ 
+  |  | character 
+ 
+  |  | charge 
+ 
+  |  | charming 
+ 
+  |  | chewing 
+ 
+  |  | chickens 
+ 
+  |  | child 
+ 
+ child |  | ren 
+ 
+  |  | chimney 
+ 
+  |  | choked 
+ 
+  |  | chose 
+ 
+  |  | cigarette 
+ 
+  |  | clap 
+ 
+ clap |  | ped 
+ 
+  |  | claws 
+ 
+  |  | clean 
+ 
+ clean |  | ed 
+ 
+ clean |  | ing 
+ 
+  |  | clear 
+ 
+ clear |  | ly 
+ 
+  |  | climbed 
+ 
+  |  | clock 
+ 
+  |  | close 
+ 
+ close |  | d 
+ 
+ close |  | ly 
+ 
+ close |  | r 
+ 
+  |  | coil 
+ 
+  |  | cold 
+ 
+  |  | colleague 
+ 
+  |  | collect 
+ 
+ collect |  | ion 
+ 
+  |  | color 
+ 
+ color |  | ed 
+ 
+ color |  | s 
+ 
+  |  | come 
+ 
+ come |  | s 
+ 
+  |  | comfort 
+ 
+ comfort |  | ed 
+ 
+  |  | coming 
+ 
+  |  | command 
+ 
+  |  | comment 
+ 
+  |  | common 
+ 
+  |  | companions 
+ 
+  |  | complete 
+ 
+ complete |  | d 
+ 
+ complete |  | ly 
+ 
+  |  | complex 
+ 
+  |  | complicated 
+ 
+  |  | conceited 
+ 
+  |  | concentrated 
+ 
+  |  | concerned 
+ 
+  |  | condemn 
+ 
+  |  | conditions 
+ 
+  |  | confess 
+ 
+ confess |  | ed 
+ 
+  |  | confided 
+ 
+  |  | confidence 
+ 
+ confidence |  | s 
+ 
+  |  | confuse 
+ 
+  |  | consequence 
+ 
+  |  | considerable 
+ 
+  |  | constrictor 
+ 
+ constrictor |  | s 
+ 
+  |  | consulted 
+ 
+  |  | consumingly 
+ 
+  |  | contemplation 
+ 
+  |  | content 
+ 
+  |  | continents 
+ 
+  |  | continued 
+ 
+  |  | contrary 
+ 
+  |  | convenient 
+ 
+  |  | conversation 
+ 
+  |  | convinced 
+ 
+  |  | cool 
+ 
+  |  | copy 
+ 
+  |  | coquettish 
+ 
+  |  | corner 
+ 
+  |  | correct 
+ 
+  |  | cost 
+ 
+ cost |  | ume 
+ 
+  |  | cough 
+ 
+ cough |  | ed 
+ 
+  |  | could 
+ 
+ could |  | n 
+ 
+  |  | count 
+ 
+  |  | courage 
+ 
+  |  | course 
+ 
+  |  | courteously 
+ 
+  |  | crammed 
+ 
+  |  | crashed 
+ 
+  |  | crazy 
+ 
+  |  | creature 
+ 
+ creature |  | s 
+ 
+  |  | cried 
+ 
+  |  | cross 
+ 
+ cross |  | ed 
+ 
+ cross |  | ly 
+ 
+  |  | crowded 
+ 
+  |  | cry 
+ 
+ cry |  | ing 
+ 
+  |  | cumbersome 
+ 
+  |  | curiosity 
+ 
+  |  | curious 
+ 
+  |  | curls 
+ 
+  |  | dance 
+ 
+ dance |  | d 
+ 
+  |  | danger 
+ 
+ danger |  | ous 
+ 
+  |  | dangling 
+ 
+  |  | dare 
+ 
+ dare |  | d 
+ 
+  |  | darkened 
+ 
+  |  | darkness 
+ 
+  |  | day 
+ 
+ day |  | break 
+ 
+ day |  | s 
+ 
+  |  | dead 
+ 
+  |  | deal 
+ 
+  |  | dear 
+ 
+  |  | death 
+ 
+  |  | decided 
+ 
+  |  | decorated 
+ 
+  |  | deeds 
+ 
+  |  | deep 
+ 
+ deep |  | ly 
+ 
+  |  | defend 
+ 
+  |  | dejection 
+ 
+  |  | demand 
+ 
+ demand |  | ed 
+ 
+  |  | demonstration 
+ 
+  |  | departure 
+ 
+  |  | depend 
+ 
+  |  | depths 
+ 
+  |  | descent 
+ 
+  |  | describe 
+ 
+ describe |  | d 
+ 
+  |  | desert 
+ 
+ desert |  | s 
+ 
+  |  | desire 
+ 
+  |  | desk 
+ 
+  |  | destroy 
+ 
+  |  | detail 
+ 
+ detail |  | s 
+ 
+  |  | devote 
+ 
+  |  | diamond 
+ 
+  |  | dictator 
+ 
+  |  | did 
+ 
+  |  | die 
+ 
+  |  | different 
+ 
+  |  | difficult 
+ 
+  |  | digesting 
+ 
+  |  | digestion 
+ 
+  |  | digging 
+ 
+  |  | directed 
+ 
+  |  | direction 
+ 
+  |  | disappearance 
+ 
+  |  | disappeared 
+ 
+  |  | disappointed 
+ 
+  |  | disarranged 
+ 
+  |  | disaster 
+ 
+  |  | discipline 
+ 
+  |  | discouraged 
+ 
+  |  | discover 
+ 
+ discover |  | ed 
+ 
+ discover |  | s 
+ 
+ discover |  | y 
+ 
+  |  | disheartened 
+ 
+  |  | disobedience 
+ 
+  |  | disobey 
+ 
+  |  | distance 
+ 
+  |  | distinguish 
+ 
+ distinguish |  | ed 
+ 
+  |  | disturbed 
+ 
+  |  | disturbing 
+ 
+  |  | do 
+ 
+  |  | does 
+ 
+ does |  | n 
+ 
+  |  | doing 
+ 
+  |  | doll 
+ 
+  |  | don 
+ 
+ don |  | e 
+ 
+  |  | double 
+ 
+  |  | doubt 
+ 
+ doubt |  | s 
+ 
+  |  | doves 
+ 
+  |  | down 
+ 
+  |  | drafts 
+ 
+  |  | drama 
+ 
+  |  | drank 
+ 
+  |  | draw 
+ 
+ draw |  | er 
+ 
+ draw |  | ing 
+ 
+ draw |  | ings 
+ 
+ draw |  | n 
+ 
+  |  | dreadfully 
+ 
+  |  | dream 
+ 
+ dream |  | ing 
+ 
+  |  | dressed 
+ 
+  |  | drew 
+ 
+  |  | drink 
+ 
+ drink |  | ing 
+ 
+  |  | drop 
+ 
+ drop |  | ped 
+ 
+  |  | drunk 
+ 
+  |  | dry 
+ 
+  |  | dug 
+ 
+  |  | dune 
+ 
+  |  | during 
+ 
+  |  | duty 
+ 
+  |  | dying 
+ 
+  |  | each 
+ 
+  |  | earliest 
+ 
+  |  | earnestly 
+ 
+  |  | ears 
+ 
+  |  | earth 
+ 
+  |  | easily 
+ 
+  |  | easy 
+ 
+  |  | eat 
+ 
+ eat |  | en 
+ 
+ eat |  | ing 
+ 
+ eat |  | s 
+ 
+  |  | echo 
+ 
+ echo |  | ed 
+ 
+  |  | edge 
+ 
+  |  | effort 
+ 
+  |  | eight 
+ 
+ eight |  | h 
+ 
+  |  | eis 
+ 
+  |  | either 
+ 
+  |  | electricity 
+ 
+  |  | elegance 
+ 
+  |  | elephant 
+ 
+ elephant |  | s 
+ 
+  |  | eleven 
+ 
+  |  | else 
+ 
+  |  | embarassed 
+ 
+  |  | embarrassed 
+ 
+  |  | emerge 
+ 
+  |  | empties 
+ 
+  |  | empty 
+ 
+  |  | enchantment 
+ 
+  |  | encounters 
+ 
+  |  | end 
+ 
+ end |  | ure 
+ 
+  |  | engine 
+ 
+ engine |  | er 
+ 
+  |  | enough 
+ 
+  |  | enter 
+ 
+ enter |  | taining 
+ 
+ enter |  | tainment 
+ 
+  |  | entire 
+ 
+ entire |  | ly 
+ 
+  |  | entry 
+ 
+  |  | ephemeral 
+ 
+  |  | ermine 
+ 
+  |  | errors 
+ 
+  |  | eruptions 
+ 
+  |  | escape 
+ 
+  |  | essential 
+ 
+  |  | establish 
+ 
+  |  | eternal 
+ 
+  |  | etiquette 
+ 
+  |  | even 
+ 
+ even |  | ing 
+ 
+  |  | ever 
+ 
+ ever |  | y 
+ 
+ ever |  | ybody 
+ 
+ ever |  | ything 
+ 
+ ever |  | ywhere 
+ 
+  |  | evident 
+ 
+  |  | exact 
+ 
+ exact |  | ly 
+ 
+  |  | examine 
+ 
+  |  | examining 
+ 
+  |  | example 
+ 
+  |  | except 
+ 
+  |  | exchange 
+ 
+  |  | excited 
+ 
+  |  | excitement 
+ 
+  |  | exciting 
+ 
+  |  | exclaim 
+ 
+ exclaim |  | ed 
+ 
+  |  | excuse 
+ 
+  |  | exercise 
+ 
+  |  | exhausted 
+ 
+  |  | existed 
+ 
+  |  | existence 
+ 
+  |  | exists 
+ 
+  |  | expectantly 
+ 
+  |  | experiment 
+ 
+  |  | experts 
+ 
+  |  | explained 
+ 
+  |  | explaining 
+ 
+  |  | explanation 
+ 
+  |  | explorer 
+ 
+ explorer |  | s 
+ 
+  |  | express 
+ 
+  |  | extinct 
+ 
+  |  | extinguished 
+ 
+  |  | extra 
+ 
+ extra |  | ordinary 
+ 
+  |  | extremely 
+ 
+  |  | eye 
+ 
+ eye |  | s 
+ 
+  |  | face 
+ 
+ face |  | d 
+ 
+ face |  | s 
+ 
+  |  | facing 
+ 
+  |  | fact 
+ 
+  |  | faded 
+ 
+  |  | failure 
+ 
+  |  | fainting 
+ 
+  |  | fair 
+ 
+ fair |  | ly 
+ 
+ fair |  | y 
+ 
+  |  | faithful 
+ 
+  |  | fall 
+ 
+ fall |  | en 
+ 
+ fall |  | ing 
+ 
+ fall |  | s 
+ 
+  |  | false 
+ 
+  |  | familiar 
+ 
+  |  | fancy 
+ 
+  |  | far 
+ 
+ far |  | ther 
+ 
+  |  | fashion 
+ 
+ fashion |  | ed 
+ 
+  |  | fasten 
+ 
+  |  | fat 
+ 
+ fat |  | her 
+ 
+ fat |  | igue 
+ 
+  |  | fault 
+ 
+  |  | favor 
+ 
+ favor |  | able 
+ 
+  |  | fear 
+ 
+  |  | feel 
+ 
+  |  | feet 
+ 
+  |  | fell 
+ 
+ fell |  | ow 
+ 
+  |  | felt 
+ 
+  |  | festival 
+ 
+  |  | feverish 
+ 
+  |  | few 
+ 
+  |  | field 
+ 
+ field |  | s 
+ 
+  |  | fifteen 
+ 
+  |  | fifth 
+ 
+  |  | fifty 
+ 
+  |  | figures 
+ 
+  |  | fill 
+ 
+ fill |  | ed 
+ 
+  |  | find 
+ 
+ find |  | s 
+ 
+  |  | finger 
+ 
+ finger |  | s 
+ 
+  |  | finished 
+ 
+  |  | fires 
+ 
+  |  | firmly 
+ 
+  |  | first 
+ 
+  |  | five 
+ 
+  |  | flame 
+ 
+  |  | flash 
+ 
+ flash |  | ed 
+ 
+  |  | flattening 
+ 
+  |  | flies 
+ 
+  |  | flock 
+ 
+  |  | flow 
+ 
+ flow |  | er 
+ 
+ flow |  | ers 
+ 
+ flow |  | n 
+ 
+  |  | flushed 
+ 
+  |  | flushes 
+ 
+  |  | fly 
+ 
+  |  | fold 
+ 
+  |  | follow 
+ 
+ follow |  | s 
+ 
+  |  | fond 
+ 
+  |  | foolish 
+ 
+  |  | foot 
+ 
+ foot |  | stool 
+ 
+  |  | for 
+ 
+ for |  | bearance 
+ 
+ for |  | bid 
+ 
+ for |  | bidding 
+ 
+ for |  | ce 
+ 
+ for |  | ced 
+ 
+ for |  | ehead 
+ 
+ for |  | est 
+ 
+ for |  | ests 
+ 
+ for |  | ever 
+ 
+ for |  | get 
+ 
+ for |  | getting 
+ 
+ for |  | giveness 
+ 
+ for |  | got 
+ 
+ for |  | gotten 
+ 
+ for |  | m 
+ 
+ for |  | saken 
+ 
+ for |  | ty 
+ 
+  |  | found 
+ 
+  |  | fountain 
+ 
+  |  | four 
+ 
+ four |  | th 
+ 
+  |  | fox 
+ 
+ fox |  | es 
+ 
+  |  | fragile 
+ 
+  |  | fragrance 
+ 
+  |  | free 
+ 
+  |  | fresh 
+ 
+  |  | friend 
+ 
+ friend |  | s 
+ 
+ friend |  | ship 
+ 
+ frighten |  | ed 
+ 
+ frighten |  | s 
+ 
+  |  | frightful 
+ 
+  |  | from 
+ 
+  |  | frozen 
+ 
+  |  | full 
+ 
+  |  | fumble 
+ 
+  |  | fun 
+ 
+ fun |  | damentally 
+ 
+ fun |  | ny 
+ 
+  |  | furnish 
+ 
+ furnish |  | ed 
+ 
+  |  | game 
+ 
+ game |  | s 
+ 
+  |  | garden 
+ 
+  |  | gathered 
+ 
+  |  | gave 
+ 
+  |  | gazed 
+ 
+  |  | gazer 
+ 
+  |  | general 
+ 
+ general |  | ly 
+ 
+  |  | gentleman 
+ 
+  |  | gently 
+ 
+  |  | geographer 
+ 
+ geographer |  | s 
+ 
+  |  | geography 
+ 
+  |  | geraniums 
+ 
+  |  | gesture 
+ 
+  |  | get 
+ 
+ get |  | s 
+ 
+  |  | giddy 
+ 
+  |  | gifts 
+ 
+  |  | girls 
+ 
+  |  | give 
+ 
+ give |  | n 
+ 
+ give |  | s 
+ 
+  |  | giving 
+ 
+  |  | glad 
+ 
+  |  | glance 
+ 
+  |  | glass 
+ 
+  |  | gleam 
+ 
+ gleam |  | s 
+ 
+  |  | glittering 
+ 
+  |  | globe 
+ 
+  |  | go 
+ 
+  |  | goes 
+ 
+  |  | going 
+ 
+  |  | gold 
+ 
+ gold |  | en 
+ 
+  |  | golf 
+ 
+  |  | gone 
+ 
+  |  | good 
+ 
+ good |  | bye 
+ 
+ good |  | ness 
+ 
+  |  | goose 
+ 
+  |  | got 
+ 
+  |  | government 
+ 
+  |  | grace 
+ 
+  |  | grain 
+ 
+  |  | grammar 
+ 
+  |  | granite 
+ 
+  |  | grass 
+ 
+  |  | grave 
+ 
+ grave |  | ly 
+ 
+  |  | grease 
+ 
+  |  | great 
+ 
+ great |  | er 
+ 
+ great |  | est 
+ 
+ great |  | ly 
+ 
+  |  | green 
+ 
+  |  | greet 
+ 
+  |  | grew 
+ 
+  |  | grief 
+ 
+  |  | grieve 
+ 
+  |  | ground 
+ 
+  |  | grow 
+ 
+ grow |  | ing 
+ 
+ grow |  | n 
+ 
+ grow |  | s 
+ 
+  |  | grumbled 
+ 
+  |  | guess 
+ 
+ guess |  | ed 
+ 
+ guess |  | ing 
+ 
+  |  | guides 
+ 
+  |  | guns 
+ 
+  |  | habitation 
+ 
+  |  | had 
+ 
+  |  | hair 
+ 
+  |  | half 
+ 
+  |  | hammer 
+ 
+  |  | hand 
+ 
+ hand |  | kerchief 
+ 
+ hand |  | s 
+ 
+ hand |  | somest 
+ 
+  |  | hanging 
+ 
+  |  | happen 
+ 
+ happen |  | ed 
+ 
+ happen |  | ing 
+ 
+  |  | happier 
+ 
+  |  | happy 
+ 
+  |  | hard 
+ 
+  |  | harm 
+ 
+  |  | harsh 
+ 
+  |  | has 
+ 
+ has |  | n 
+ 
+ has |  | tened 
+ 
+ has |  | tily 
+ 
+  |  | hat 
+ 
+  |  | have 
+ 
+ have |  | n 
+ 
+  |  | having 
+ 
+  |  | he 
+ 
+  |  | head 
+ 
+ head |  | long 
+ 
+  |  | hear 
+ 
+ hear |  | d 
+ 
+ hear |  | ing 
+ 
+ hear |  | s 
+ 
+ hear |  | t 
+ 
+  |  | heating 
+ 
+  |  | heaven 
+ 
+ heaven |  | s 
+ 
+  |  | heavy 
+ 
+  |  | height 
+ 
+  |  | held 
+ 
+  |  | help 
+ 
+  |  | her 
+ 
+ her |  | d 
+ 
+ her |  | e 
+ 
+ her |  | self 
+ 
+  |  | hesitancy 
+ 
+  |  | hesitated 
+ 
+  |  | hides 
+ 
+  |  | hiding 
+ 
+  |  | high 
+ 
+  |  | him 
+ 
+ him |  | self 
+ 
+  |  | hint 
+ 
+  |  | his 
+ 
+ his |  | tory 
+ 
+  |  | hoisted 
+ 
+  |  | hold 
+ 
+ hold |  | ing 
+ 
+  |  | holes 
+ 
+  |  | home 
+ 
+ home |  | sick 
+ 
+  |  | honest 
+ 
+  |  | honey 
+ 
+  |  | hope 
+ 
+  |  | horns 
+ 
+  |  | horror 
+ 
+  |  | hour 
+ 
+ hour |  | s 
+ 
+  |  | house 
+ 
+  |  | how 
+ 
+ how |  | ever 
+ 
+  |  | huge 
+ 
+ hum |  | an 
+ 
+ hum |  | anity 
+ 
+ hum |  | ble 
+ 
+  |  | hundred 
+ 
+ hundred |  | s 
+ 
+  |  | hunger 
+ 
+  |  | hungry 
+ 
+  |  | hunt 
+ 
+ hunt |  | er 
+ 
+ hunt |  | ers 
+ 
+  |  | hurry 
+ 
+ hurry |  | ing 
+ 
+  |  | idea 
+ 
+ idea |  | s 
+ 
+  |  | idle 
+ 
+  |  | if 
+ 
+  |  | image 
+ 
+  |  | imagination 
+ 
+  |  | imagine 
+ 
+  |  | immensity 
+ 
+  |  | impenetrable 
+ 
+  |  | importance 
+ 
+  |  | important 
+ 
+  |  | impossible 
+ 
+  |  | impregnable 
+ 
+  |  | impress 
+ 
+ impress |  | ive 
+ 
+  |  | improved 
+ 
+  |  | in 
+ 
+  |  | inconsistent 
+ 
+  |  | indeed 
+ 
+  |  | indifference 
+ 
+  |  | indulgently 
+ 
+  |  | infested 
+ 
+  |  | information 
+ 
+  |  | inhabitants 
+ 
+  |  | inhabited 
+ 
+  |  | ink 
+ 
+  |  | innocent 
+ 
+  |  | inoffensively 
+ 
+  |  | inquired 
+ 
+  |  | inquiry 
+ 
+  |  | inseparable 
+ 
+  |  | inside 
+ 
+  |  | insisted 
+ 
+  |  | inspiring 
+ 
+  |  | instance 
+ 
+  |  | instant 
+ 
+ instant |  | ly 
+ 
+  |  | instead 
+ 
+  |  | insubordination 
+ 
+  |  | intelligent 
+ 
+  |  | interest 
+ 
+ interest |  | ed 
+ 
+ interest |  | ing 
+ 
+ interest |  | s 
+ 
+  |  | interrupted 
+ 
+  |  | intimately 
+ 
+  |  | into 
+ 
+ into |  | xicated 
+ 
+  |  | invented 
+ 
+  |  | invention 
+ 
+  |  | invisible 
+ 
+  |  | irreparable 
+ 
+  |  | irritated 
+ 
+  |  | is 
+ 
+  |  | island 
+ 
+  |  | islet 
+ 
+  |  | isn 
+ 
+  |  | isolated 
+ 
+  |  | it 
+ 
+  |  | its 
+ 
+ its |  | elf 
+ 
+  |  | journey 
+ 
+  |  | judge 
+ 
+ judge |  | d 
+ 
+  |  | judging 
+ 
+  |  | jumped 
+ 
+  |  | jumping 
+ 
+  |  | jungle 
+ 
+  |  | just 
+ 
+ just |  | ice 
+ 
+  |  | keep 
+ 
+  |  | kept 
+ 
+  |  | key 
+ 
+  |  | killed 
+ 
+  |  | kind 
+ 
+ kind |  | ness 
+ 
+  |  | king 
+ 
+ king |  | dom 
+ 
+ king |  | s 
+ 
+  |  | knees 
+ 
+  |  | knew 
+ 
+  |  | knock 
+ 
+  |  | know 
+ 
+ know |  | ing 
+ 
+ know |  | ledge 
+ 
+ know |  | n 
+ 
+ know |  | s 
+ 
+  |  | lamp 
+ 
+ lamp |  | lighter 
+ 
+ lamp |  | lighters 
+ 
+ lamp |  | s 
+ 
+  |  | land 
+ 
+ land |  | ed 
+ 
+ land |  | scape 
+ 
+  |  | large 
+ 
+ large |  | r 
+ 
+  |  | last 
+ 
+ last |  | ed 
+ 
+ last |  | s 
+ 
+  |  | late 
+ 
+ late |  | r 
+ 
+  |  | laugh 
+ 
+ laugh |  | ed 
+ 
+ laugh |  | ing 
+ 
+ laugh |  | s 
+ 
+ laugh |  | ter 
+ 
+  |  | law 
+ 
+  |  | lay 
+ 
+  |  | lazy 
+ 
+  |  | lead 
+ 
+  |  | leaped 
+ 
+  |  | learn 
+ 
+ learn |  | ed 
+ 
+  |  | least 
+ 
+  |  | leather 
+ 
+  |  | leave 
+ 
+  |  | left 
+ 
+  |  | legend 
+ 
+  |  | leisure 
+ 
+  |  | less 
+ 
+ less |  | on 
+ 
+  |  | let 
+ 
+ let |  | s 
+ 
+  |  | level 
+ 
+  |  | lies 
+ 
+  |  | life 
+ 
+  |  | light 
+ 
+ light |  | ed 
+ 
+ light |  | ly 
+ 
+ light |  | s 
+ 
+  |  | like 
+ 
+ like |  | d 
+ 
+  |  | linger 
+ 
+  |  | lips 
+ 
+  |  | listen 
+ 
+ listen |  | ed 
+ 
+  |  | little 
+ 
+  |  | live 
+ 
+ live |  | d 
+ 
+ live |  | s 
+ 
+  |  | living 
+ 
+  |  | loafing 
+ 
+  |  | location 
+ 
+  |  | lock 
+ 
+ lock |  | s 
+ 
+  |  | locomotive 
+ 
+  |  | lonely 
+ 
+  |  | long 
+ 
+ long |  | er 
+ 
+  |  | look 
+ 
+ look |  | ed 
+ 
+ look |  | ing 
+ 
+  |  | loosened 
+ 
+  |  | lost 
+ 
+  |  | love 
+ 
+ love |  | d 
+ 
+ love |  | liest 
+ 
+ love |  | ly 
+ 
+ love |  | s 
+ 
+  |  | loyalty 
+ 
+  |  | luck 
+ 
+ luck |  | y 
+ 
+  |  | lugubrious 
+ 
+  |  | lying 
+ 
+  |  | made 
+ 
+  |  | magnificent 
+ 
+  |  | maintain 
+ 
+  |  | majestic 
+ 
+ majestic |  | ally 
+ 
+  |  | make 
+ 
+ make |  | s 
+ 
+  |  | making 
+ 
+  |  | malicious 
+ 
+  |  | man 
+ 
+ man |  | tle 
+ 
+ man |  | y 
+ 
+  |  | marvel 
+ 
+  |  | master 
+ 
+ master |  | piece 
+ 
+  |  | matter 
+ 
+ matter |  | s 
+ 
+  |  | may 
+ 
+  |  | me 
+ 
+  |  | mean 
+ 
+ mean |  | ing 
+ 
+ mean |  | s 
+ 
+  |  | mechanic 
+ 
+  |  | meditation 
+ 
+  |  | medow 
+ 
+  |  | meet 
+ 
+ meet |  | ing 
+ 
+  |  | memories 
+ 
+  |  | memory 
+ 
+  |  | men 
+ 
+ men |  | tal 
+ 
+  |  | merchant 
+ 
+  |  | mere 
+ 
+ mere |  | ly 
+ 
+  |  | met 
+ 
+ met |  | allic 
+ 
+ met |  | ers 
+ 
+  |  | mid 
+ 
+ mid |  | dle 
+ 
+ mid |  | dling 
+ 
+  |  | might 
+ 
+  |  | migration 
+ 
+  |  | miles 
+ 
+  |  | million 
+ 
+ million |  | s 
+ 
+  |  | minded 
+ 
+  |  | minute 
+ 
+ minute |  | s 
+ 
+  |  | miraculous 
+ 
+  |  | misfortunes 
+ 
+  |  | mistake 
+ 
+ mistake |  | s 
+ 
+  |  | misunderstandings 
+ 
+  |  | mix 
+ 
+  |  | moaned 
+ 
+  |  | model 
+ 
+  |  | modest 
+ 
+ modest |  | ly 
+ 
+  |  | moistened 
+ 
+  |  | moment 
+ 
+  |  | monarch 
+ 
+  |  | money 
+ 
+  |  | monotonous 
+ 
+  |  | monotony 
+ 
+  |  | month 
+ 
+ month |  | s 
+ 
+  |  | moonlight 
+ 
+  |  | mopped 
+ 
+  |  | moral 
+ 
+ moral |  | ist 
+ 
+  |  | more 
+ 
+  |  | morning 
+ 
+  |  | most 
+ 
+  |  | motionless 
+ 
+  |  | mountain 
+ 
+ mountain |  | s 
+ 
+  |  | mouth 
+ 
+  |  | move 
+ 
+ move |  | d 
+ 
+ move |  | ments 
+ 
+ move |  | s 
+ 
+  |  | moving 
+ 
+  |  | much 
+ 
+  |  | muffler 
+ 
+  |  | murmured 
+ 
+  |  | mushroom 
+ 
+  |  | music 
+ 
+  |  | must 
+ 
+  |  | muzzle 
+ 
+  |  | my 
+ 
+  |  | myself 
+ 
+  |  | mysterious 
+ 
+  |  | mystery 
+ 
+  |  | name 
+ 
+ name |  | s 
+ 
+  |  | naturally 
+ 
+  |  | naďve 
+ 
+ naďve |  | ly 
+ 
+  |  | near 
+ 
+  |  | necessary 
+ 
+  |  | necessity 
+ 
+  |  | neck 
+ 
+ neck |  | ties 
+ 
+  |  | need 
+ 
+ need |  | les 
+ 
+ need |  | s 
+ 
+  |  | neglected 
+ 
+  |  | neighborhood 
+ 
+  |  | neither 
+ 
+  |  | never 
+ 
+ never |  | theless 
+ 
+  |  | new 
+ 
+  |  | next 
+ 
+  |  | nice 
+ 
+  |  | night 
+ 
+  |  | no 
+ 
+  |  | nobody 
+ 
+  |  | noise 
+ 
+  |  | noon 
+ 
+  |  | nor 
+ 
+  |  | noses 
+ 
+  |  | not 
+ 
+ not |  | e 
+ 
+ not |  | es 
+ 
+ not |  | hing 
+ 
+ not |  | icing 
+ 
+  |  | nourishment 
+ 
+  |  | now 
+ 
+ now |  | here 
+ 
+  |  | number 
+ 
+  |  | nursing 
+ 
+  |  | o 
+ 
+  |  | obedience 
+ 
+  |  | obey 
+ 
+ obey |  | ed 
+ 
+  |  | object 
+ 
+ object |  | ed 
+ 
+ object |  | s 
+ 
+  |  | obliged 
+ 
+  |  | observe 
+ 
+  |  | obstructed 
+ 
+  |  | obviously 
+ 
+  |  | occasion 
+ 
+  |  | occupation 
+ 
+  |  | occupied 
+ 
+  |  | occupy 
+ 
+  |  | occurred 
+ 
+  |  | ocean 
+ 
+ ocean |  | s 
+ 
+  |  | odd 
+ 
+  |  | of 
+ 
+  |  | off 
+ 
+ off |  | er 
+ 
+  |  | often 
+ 
+  |  | old 
+ 
+  |  | on 
+ 
+  |  | once 
+ 
+  |  | one 
+ 
+ one |  | s 
+ 
+ one |  | self 
+ 
+  |  | only 
+ 
+  |  | open 
+ 
+ open |  | ed 
+ 
+  |  | opera 
+ 
+  |  | opinion 
+ 
+  |  | opposite 
+ 
+  |  | or 
+ 
+  |  | order 
+ 
+ order |  | ed 
+ 
+ order |  | s 
+ 
+  |  | ordinary 
+ 
+  |  | other 
+ 
+ other |  | s 
+ 
+  |  | ought 
+ 
+  |  | our 
+ 
+  |  | out 
+ 
+ out |  | side 
+ 
+  |  | over 
+ 
+ over |  | come 
+ 
+ over |  | powering 
+ 
+ over |  | take 
+ 
+  |  | own 
+ 
+ own |  | ed 
+ 
+ own |  | ing 
+ 
+  |  | page 
+ 
+  |  | pain 
+ 
+ pain |  | staking 
+ 
+ pain |  | ter 
+ 
+ pain |  | ts 
+ 
+  |  | pale 
+ 
+  |  | panted 
+ 
+  |  | paper 
+ 
+  |  | pardon 
+ 
+  |  | part 
+ 
+ part |  | s 
+ 
+  |  | pass 
+ 
+ pass |  | ed 
+ 
+ pass |  | engers 
+ 
+ pass |  | erby 
+ 
+ pass |  | es 
+ 
+ pass |  | ing 
+ 
+  |  | patent 
+ 
+  |  | patience 
+ 
+  |  | patient 
+ 
+  |  | peace 
+ 
+ peace |  | fully 
+ 
+  |  | peaks 
+ 
+  |  | peal 
+ 
+  |  | peevishly 
+ 
+  |  | pen 
+ 
+ pen |  | cil 
+ 
+ pen |  | cils 
+ 
+  |  | people 
+ 
+  |  | perfect 
+ 
+  |  | perform 
+ 
+  |  | perfumed 
+ 
+  |  | perhaps 
+ 
+  |  | permit 
+ 
+  |  | perplexed 
+ 
+  |  | person 
+ 
+  |  | petals 
+ 
+  |  | picture 
+ 
+ picture |  | s 
+ 
+  |  | piece 
+ 
+ piece |  | s 
+ 
+  |  | piled 
+ 
+  |  | pill 
+ 
+ pill |  | s 
+ 
+  |  | pilot 
+ 
+  |  | pity 
+ 
+  |  | place 
+ 
+  |  | plainly 
+ 
+  |  | plane 
+ 
+ plane |  | t 
+ 
+ plane |  | ts 
+ 
+  |  | plans 
+ 
+  |  | plant 
+ 
+ plant |  | s 
+ 
+  |  | play 
+ 
+ play |  | ed 
+ 
+  |  | plea 
+ 
+ plea |  | se 
+ 
+ plea |  | sed 
+ 
+ plea |  | sure 
+ 
+  |  | pluck 
+ 
+ pluck |  | ed 
+ 
+  |  | plunged 
+ 
+  |  | pocked 
+ 
+  |  | pocket 
+ 
+  |  | poetic 
+ 
+  |  | point 
+ 
+ point |  | ed 
+ 
+  |  | poison 
+ 
+  |  | politely 
+ 
+  |  | politics 
+ 
+  |  | pondered 
+ 
+  |  | poor 
+ 
+  |  | poppies 
+ 
+  |  | portrait 
+ 
+ portrait |  | s 
+ 
+  |  | position 
+ 
+  |  | possessed 
+ 
+  |  | possible 
+ 
+  |  | post 
+ 
+  |  | pour 
+ 
+  |  | power 
+ 
+ power |  | ful 
+ 
+  |  | praise 
+ 
+  |  | preceding 
+ 
+  |  | precious 
+ 
+  |  | precision 
+ 
+  |  | preparations 
+ 
+  |  | prepared 
+ 
+  |  | presence 
+ 
+  |  | present 
+ 
+ present |  | ed 
+ 
+  |  | pretend 
+ 
+  |  | pretty 
+ 
+  |  | prey 
+ 
+  |  | price 
+ 
+  |  | pride 
+ 
+  |  | primeval 
+ 
+  |  | princ 
+ 
+ princ |  | e 
+ 
+  |  | problem 
+ 
+ problem |  | s 
+ 
+  |  | produce 
+ 
+  |  | profession 
+ 
+  |  | promise 
+ 
+  |  | promptly 
+ 
+  |  | proof 
+ 
+ proof |  | s 
+ 
+  |  | proper 
+ 
+ proper |  | ly 
+ 
+  |  | proposed 
+ 
+  |  | protect 
+ 
+ protect |  | ing 
+ 
+  |  | proud 
+ 
+  |  | public 
+ 
+  |  | puff 
+ 
+  |  | pull 
+ 
+ pull |  | ed 
+ 
+ pull |  | ey 
+ 
+ pull |  | ing 
+ 
+  |  | purple 
+ 
+  |  | purpose 
+ 
+  |  | pursuing 
+ 
+  |  | push 
+ 
+  |  | put 
+ 
+ put |  | s 
+ 
+ put |  | ting 
+ 
+  |  | puzzled 
+ 
+  |  | queer 
+ 
+  |  | quench 
+ 
+  |  | question 
+ 
+ question |  | s 
+ 
+  |  | quick 
+ 
+ quick |  | ly 
+ 
+  |  | quiet 
+ 
+  |  | radiance 
+ 
+  |  | radiation 
+ 
+  |  | radish 
+ 
+  |  | raft 
+ 
+  |  | rag 
+ 
+ rag |  | e 
+ 
+  |  | railing 
+ 
+  |  | railway 
+ 
+  |  | raise 
+ 
+ raise |  | d 
+ 
+  |  | ram 
+ 
+  |  | random 
+ 
+  |  | rapidly 
+ 
+  |  | rarely 
+ 
+  |  | rat 
+ 
+ rat |  | her 
+ 
+  |  | re 
+ 
+  |  | reach 
+ 
+ reach |  | ed 
+ 
+  |  | read 
+ 
+ read |  | y 
+ 
+  |  | real 
+ 
+ real |  | ize 
+ 
+ real |  | ized 
+ 
+ real |  | ly 
+ 
+  |  | reason 
+ 
+ reason |  | able 
+ 
+ reason |  | ing 
+ 
+ reason |  | s 
+ 
+  |  | reassure 
+ 
+ reassure |  | d 
+ 
+  |  | recall 
+ 
+  |  | receive 
+ 
+ receive |  | d 
+ 
+ receive |  | s 
+ 
+  |  | recitals 
+ 
+  |  | recognize 
+ 
+ recognize |  | s 
+ 
+  |  | recollections 
+ 
+  |  | record 
+ 
+  |  | recount 
+ 
+  |  | red 
+ 
+  |  | reeling 
+ 
+  |  | reflections 
+ 
+  |  | reflective 
+ 
+  |  | refuses 
+ 
+  |  | regard 
+ 
+  |  | region 
+ 
+  |  | register 
+ 
+  |  | regret 
+ 
+ regret |  | ting 
+ 
+  |  | regularly 
+ 
+  |  | regulated 
+ 
+  |  | reign 
+ 
+  |  | rejected 
+ 
+  |  | relaxation 
+ 
+  |  | relentlessly 
+ 
+  |  | remained 
+ 
+  |  | remarked 
+ 
+  |  | remember 
+ 
+ remember |  | ed 
+ 
+  |  | reminded 
+ 
+  |  | remorse 
+ 
+  |  | repairing 
+ 
+  |  | repairs 
+ 
+  |  | repeat 
+ 
+ repeat |  | ed 
+ 
+  |  | replied 
+ 
+  |  | reply 
+ 
+  |  | report 
+ 
+  |  | repose 
+ 
+  |  | reproaches 
+ 
+  |  | reputation 
+ 
+  |  | require 
+ 
+ require |  | s 
+ 
+  |  | resemblance 
+ 
+  |  | resemble 
+ 
+  |  | resentfulness 
+ 
+  |  | reserve 
+ 
+  |  | resolute 
+ 
+  |  | resounded 
+ 
+  |  | respected 
+ 
+  |  | respectfully 
+ 
+  |  | responded 
+ 
+  |  | response 
+ 
+  |  | responsible 
+ 
+  |  | rest 
+ 
+ rest |  | rain 
+ 
+ rest |  | s 
+ 
+  |  | retorted 
+ 
+  |  | return 
+ 
+  |  | revealed 
+ 
+  |  | reverie 
+ 
+  |  | reviving 
+ 
+  |  | revolution 
+ 
+  |  | revolver 
+ 
+  |  | rheumatism 
+ 
+  |  | rich 
+ 
+ rich |  | est 
+ 
+  |  | rid 
+ 
+ rid |  | dles 
+ 
+ rid |  | ges 
+ 
+ rid |  | iculous 
+ 
+  |  | rifle 
+ 
+  |  | right 
+ 
+ right |  | ly 
+ 
+  |  | ring 
+ 
+  |  | rise 
+ 
+  |  | risk 
+ 
+ risk |  | s 
+ 
+  |  | rite 
+ 
+ rite |  | s 
+ 
+  |  | rivers 
+ 
+  |  | road 
+ 
+ road |  | s 
+ 
+  |  | roar 
+ 
+ roar |  | ing 
+ 
+  |  | robe 
+ 
+  |  | rock 
+ 
+ rock |  | ed 
+ 
+ rock |  | s 
+ 
+  |  | roof 
+ 
+  |  | room 
+ 
+  |  | roots 
+ 
+  |  | rope 
+ 
+  |  | rose 
+ 
+ rose |  | bushes 
+ 
+ rose |  | s 
+ 
+  |  | rosy 
+ 
+  |  | rough 
+ 
+  |  | round 
+ 
+  |  | royal 
+ 
+  |  | ruin 
+ 
+  |  | rule 
+ 
+  |  | rumpled 
+ 
+  |  | run 
+ 
+ run |  | ning 
+ 
+ run |  | s 
+ 
+  |  | rush 
+ 
+ rush |  | ed 
+ 
+ rush |  | ing 
+ 
+  |  | rusty 
+ 
+  |  | s 
+ 
+  |  | sad 
+ 
+ sad |  | dest 
+ 
+ sad |  | ly 
+ 
+ sad |  | ness 
+ 
+  |  | said 
+ 
+  |  | sailor 
+ 
+  |  | salute 
+ 
+ salute |  | d 
+ 
+ salute |  | s 
+ 
+  |  | same 
+ 
+  |  | sand 
+ 
+ sand |  | s 
+ 
+  |  | sank 
+ 
+  |  | sat 
+ 
+ sat |  | isfied 
+ 
+  |  | save 
+ 
+ save |  | d 
+ 
+  |  | saving 
+ 
+  |  | saw 
+ 
+  |  | say 
+ 
+ say |  | ing 
+ 
+ say |  | s 
+ 
+  |  | scarcely 
+ 
+  |  | scarf 
+ 
+  |  | scholar 
+ 
+ scholar |  | s 
+ 
+  |  | science 
+ 
+  |  | scorned 
+ 
+  |  | screen 
+ 
+  |  | sea 
+ 
+ sea |  | s 
+ 
+ sea |  | ted 
+ 
+  |  | second 
+ 
+ second |  | s 
+ 
+  |  | secret 
+ 
+ secret |  | s 
+ 
+  |  | see 
+ 
+ see |  | d 
+ 
+ see |  | ds 
+ 
+ see |  | ing 
+ 
+ see |  | k 
+ 
+ see |  | m 
+ 
+ see |  | med 
+ 
+ see |  | ms 
+ 
+ see |  | n 
+ 
+ see |  | s 
+ 
+  |  | seized 
+ 
+  |  | self 
+ 
+  |  | selling 
+ 
+  |  | send 
+ 
+ send |  | s 
+ 
+  |  | sense 
+ 
+  |  | sensible 
+ 
+  |  | serious 
+ 
+ serious |  | ly 
+ 
+ serious |  | ness 
+ 
+  |  | set 
+ 
+ set |  | ting 
+ 
+ set |  | tled 
+ 
+  |  | seven 
+ 
+ seven |  | th 
+ 
+ seven |  | ty 
+ 
+  |  | several 
+ 
+  |  | shabby 
+ 
+  |  | shall 
+ 
+  |  | sharpened 
+ 
+  |  | she 
+ 
+ she |  | ep 
+ 
+ she |  | et 
+ 
+ she |  | ll 
+ 
+ she |  | lls 
+ 
+ she |  | lter 
+ 
+ she |  | ltered 
+ 
+  |  | shimmer 
+ 
+  |  | shine 
+ 
+ shine |  | s 
+ 
+  |  | ship 
+ 
+ ship |  | wrecked 
+ 
+  |  | shocked 
+ 
+  |  | shook 
+ 
+  |  | shoots 
+ 
+  |  | shop 
+ 
+ shop |  | s 
+ 
+  |  | short 
+ 
+  |  | shot 
+ 
+  |  | should 
+ 
+ should |  | ers 
+ 
+  |  | show 
+ 
+ show |  | ed 
+ 
+ show |  | ing 
+ 
+ show |  | n 
+ 
+  |  | shrub 
+ 
+  |  | shrug 
+ 
+ shrug |  | ging 
+ 
+  |  | shut 
+ 
+ shut |  | s 
+ 
+  |  | sickly 
+ 
+  |  | side 
+ 
+  |  | sigh 
+ 
+ sigh |  | ed 
+ 
+ sigh |  | ted 
+ 
+  |  | silence 
+ 
+  |  | silent 
+ 
+  |  | silk 
+ 
+  |  | silly 
+ 
+  |  | simple 
+ 
+  |  | simplicity 
+ 
+  |  | simplified 
+ 
+  |  | simply 
+ 
+  |  | since 
+ 
+  |  | singing 
+ 
+  |  | single 
+ 
+  |  | sit 
+ 
+ sit |  | s 
+ 
+ sit |  | ting 
+ 
+  |  | six 
+ 
+ six |  | th 
+ 
+  |  | size 
+ 
+  |  | sketch 
+ 
+  |  | skirting 
+ 
+  |  | sky 
+ 
+  |  | sleep 
+ 
+ sleep |  | ing 
+ 
+  |  | slight 
+ 
+ slight |  | ly 
+ 
+  |  | slowly 
+ 
+  |  | small 
+ 
+ small |  | est 
+ 
+  |  | smelled 
+ 
+  |  | smile 
+ 
+ smile |  | d 
+ 
+  |  | smiling 
+ 
+  |  | snake 
+ 
+ snake |  | s 
+ 
+  |  | snow 
+ 
+  |  | so 
+ 
+  |  | sobbing 
+ 
+  |  | softly 
+ 
+  |  | soil 
+ 
+  |  | sold 
+ 
+  |  | solve 
+ 
+  |  | some 
+ 
+ some |  | body 
+ 
+ some |  | one 
+ 
+ some |  | thing 
+ 
+ some |  | times 
+ 
+ some |  | what 
+ 
+ some |  | where 
+ 
+  |  | song 
+ 
+  |  | soon 
+ 
+  |  | soothes 
+ 
+  |  | sorrow 
+ 
+ sorrow |  | s 
+ 
+  |  | sorry 
+ 
+  |  | sort 
+ 
+ sort |  | s 
+ 
+  |  | sound 
+ 
+  |  | source 
+ 
+  |  | space 
+ 
+  |  | speak 
+ 
+ speak |  | ing 
+ 
+  |  | special 
+ 
+  |  | spectacle 
+ 
+  |  | speech 
+ 
+  |  | speedy 
+ 
+  |  | spend 
+ 
+  |  | spite 
+ 
+  |  | splendid 
+ 
+  |  | split 
+ 
+  |  | spoke 
+ 
+  |  | spot 
+ 
+  |  | spray 
+ 
+  |  | spreads 
+ 
+  |  | sprig 
+ 
+  |  | spring 
+ 
+ spring |  | s 
+ 
+  |  | sprinkling 
+ 
+  |  | sprout 
+ 
+ sprout |  | s 
+ 
+  |  | sputtered 
+ 
+  |  | square 
+ 
+ square |  | s 
+ 
+  |  | stage 
+ 
+  |  | stand 
+ 
+ stand |  | ing 
+ 
+  |  | star 
+ 
+ star |  | ed 
+ 
+ star |  | s 
+ 
+ star |  | t 
+ 
+ star |  | ted 
+ 
+ star |  | ting 
+ 
+  |  | stately 
+ 
+  |  | steadily 
+ 
+  |  | step 
+ 
+ step |  | s 
+ 
+  |  | still 
+ 
+  |  | stirred 
+ 
+  |  | stone 
+ 
+ stone |  | s 
+ 
+  |  | stood 
+ 
+  |  | stop 
+ 
+ stop |  | ped 
+ 
+  |  | story 
+ 
+  |  | straight 
+ 
+  |  | strange 
+ 
+  |  | strap 
+ 
+  |  | strategems 
+ 
+  |  | straying 
+ 
+  |  | street 
+ 
+  |  | stretch 
+ 
+ stretch |  | ed 
+ 
+  |  | strictly 
+ 
+  |  | strides 
+ 
+  |  | string 
+ 
+  |  | strolling 
+ 
+  |  | stuck 
+ 
+  |  | studies 
+ 
+  |  | study 
+ 
+  |  | style 
+ 
+  |  | subject 
+ 
+ subject |  | s 
+ 
+  |  | succeed 
+ 
+ succeed |  | ed 
+ 
+  |  | success 
+ 
+ success |  | ful 
+ 
+  |  | such 
+ 
+  |  | sudden 
+ 
+ sudden |  | ly 
+ 
+  |  | suffer 
+ 
+ suffer |  | ed 
+ 
+ suffer |  | ing 
+ 
+  |  | suggestion 
+ 
+  |  | sums 
+ 
+  |  | sun 
+ 
+ sun |  | light 
+ 
+ sun |  | rise 
+ 
+ sun |  | set 
+ 
+ sun |  | sets 
+ 
+ sun |  | shine 
+ 
+  |  | supply 
+ 
+  |  | suppose 
+ 
+  |  | sure 
+ 
+ sure |  | ly 
+ 
+  |  | surface 
+ 
+  |  | surprise 
+ 
+ surprise |  | d 
+ 
+  |  | suspicion 
+ 
+  |  | swallow 
+ 
+ swallow |  | ing 
+ 
+  |  | sweet 
+ 
+ sweet |  | ly 
+ 
+ sweet |  | ness 
+ 
+  |  | swell 
+ 
+  |  | switchman 
+ 
+  |  | t 
+ 
+  |  | table 
+ 
+  |  | take 
+ 
+ take |  | n 
+ 
+ take |  | s 
+ 
+  |  | taking 
+ 
+  |  | tale 
+ 
+ tale |  | s 
+ 
+  |  | talk 
+ 
+ talk |  | ing 
+ 
+  |  | tall 
+ 
+  |  | tame 
+ 
+ tame |  | d 
+ 
+ tame |  | s 
+ 
+  |  | task 
+ 
+ task |  | s 
+ 
+  |  | tears 
+ 
+  |  | tedious 
+ 
+  |  | telescope 
+ 
+  |  | tell 
+ 
+  |  | temples 
+ 
+  |  | ten 
+ 
+ ten |  | ded 
+ 
+ ten |  | derness 
+ 
+  |  | terrible 
+ 
+  |  | than 
+ 
+ than |  | k 
+ 
+ than |  | ks 
+ 
+  |  | that 
+ 
+  |  | the 
+ 
+ the |  | ir 
+ 
+ the |  | m 
+ 
+ the |  | mselves 
+ 
+ the |  | n 
+ 
+ the |  | re 
+ 
+ the |  | refore 
+ 
+ the |  | se 
+ 
+ the |  | y 
+ 
+  |  | thicker 
+ 
+  |  | thing 
+ 
+ thing |  | s 
+ 
+  |  | think 
+ 
+ think |  | ing 
+ 
+  |  | third 
+ 
+  |  | thirst 
+ 
+ thirst |  | y 
+ 
+  |  | thirty 
+ 
+  |  | this 
+ 
+  |  | thorns 
+ 
+  |  | thoroughly 
+ 
+  |  | those 
+ 
+  |  | thought 
+ 
+ thought |  | s 
+ 
+  |  | thousand 
+ 
+  |  | three 
+ 
+  |  | threw 
+ 
+  |  | thriftily 
+ 
+  |  | throbs 
+ 
+  |  | throne 
+ 
+  |  | through 
+ 
+  |  | throw 
+ 
+  |  | thunder 
+ 
+ thunder |  | ed 
+ 
+ thunder |  | struck 
+ 
+  |  | thus 
+ 
+  |  | tie 
+ 
+ tie |  | s 
+ 
+  |  | tigers 
+ 
+  |  | time 
+ 
+ time |  | s 
+ 
+  |  | timid 
+ 
+ timid |  | ly 
+ 
+  |  | tiny 
+ 
+  |  | tipler 
+ 
+  |  | tippler 
+ 
+ tippler |  | s 
+ 
+  |  | tire 
+ 
+ tire |  | d 
+ 
+ tire |  | s 
+ 
+ tire |  | some 
+ 
+  |  | to 
+ 
+  |  | today 
+ 
+  |  | together 
+ 
+  |  | toil 
+ 
+ toil |  | et 
+ 
+  |  | told 
+ 
+  |  | tolerated 
+ 
+  |  | tomorrow 
+ 
+  |  | tone 
+ 
+  |  | tonight 
+ 
+  |  | too 
+ 
+ too |  | k 
+ 
+ too |  | ls 
+ 
+  |  | top 
+ 
+  |  | torment 
+ 
+  |  | torn 
+ 
+  |  | tossed 
+ 
+  |  | touch 
+ 
+ touch |  | ed 
+ 
+  |  | tour 
+ 
+  |  | toward 
+ 
+  |  | towns 
+ 
+  |  | track 
+ 
+ track |  | s 
+ 
+  |  | tragedy 
+ 
+  |  | tragic 
+ 
+  |  | train 
+ 
+ train |  | s 
+ 
+  |  | travel 
+ 
+ travel |  | ed 
+ 
+ travel |  | ers 
+ 
+ travel |  | s 
+ 
+  |  | treasure 
+ 
+  |  | treat 
+ 
+ treat |  | ed 
+ 
+  |  | tree 
+ 
+ tree |  | s 
+ 
+  |  | trembled 
+ 
+  |  | trembling 
+ 
+  |  | tremendous 
+ 
+  |  | trick 
+ 
+  |  | tried 
+ 
+  |  | trouble 
+ 
+  |  | trudged 
+ 
+  |  | true 
+ 
+  |  | truly 
+ 
+  |  | truth 
+ 
+  |  | try 
+ 
+ try |  | ing 
+ 
+  |  | turn 
+ 
+ turn |  | ed 
+ 
+ turn |  | ing 
+ 
+  |  | twelve 
+ 
+  |  | twenty 
+ 
+  |  | twice 
+ 
+  |  | twilight 
+ 
+  |  | twined 
+ 
+  |  | two 
+ 
+  |  | ugly 
+ 
+  |  | uncertainly 
+ 
+  |  | under 
+ 
+ under |  | neath 
+ 
+ under |  | stand 
+ 
+ under |  | standing 
+ 
+ under |  | stands 
+ 
+ under |  | stood 
+ 
+  |  | unhappy 
+ 
+  |  | unique 
+ 
+  |  | universal 
+ 
+  |  | universe 
+ 
+  |  | unlucky 
+ 
+  |  | unnecessary 
+ 
+  |  | unscrew 
+ 
+  |  | until 
+ 
+  |  | untruth 
+ 
+  |  | up 
+ 
+  |  | upon 
+ 
+  |  | upright 
+ 
+  |  | ups 
+ 
+ ups |  | et 
+ 
+  |  | upward 
+ 
+  |  | urgent 
+ 
+  |  | us 
+ 
+  |  | use 
+ 
+ use |  | d 
+ 
+ use |  | ful 
+ 
+  |  | v 
+ 
+  |  | vacation 
+ 
+  |  | valuable 
+ 
+  |  | vanity 
+ 
+  |  | ve 
+ 
+  |  | verge 
+ 
+  |  | veritable 
+ 
+  |  | very 
+ 
+  |  | vexed 
+ 
+  |  | village 
+ 
+  |  | vineyards 
+ 
+  |  | visit 
+ 
+ visit |  | ing 
+ 
+  |  | voice 
+ 
+  |  | volcano 
+ 
+ volcano |  | es 
+ 
+  |  | voluminous 
+ 
+  |  | wait 
+ 
+ wait |  | ed 
+ 
+ wait |  | ing 
+ 
+ wait |  | s 
+ 
+  |  | wakened 
+ 
+  |  | walk 
+ 
+ walk |  | ed 
+ 
+ walk |  | ing 
+ 
+  |  | wall 
+ 
+ wall |  | s 
+ 
+  |  | wander 
+ 
+ wander |  | s 
+ 
+  |  | want 
+ 
+ want |  | ed 
+ 
+ want |  | s 
+ 
+  |  | warfare 
+ 
+  |  | was 
+ 
+ was |  | te 
+ 
+ was |  | ted 
+ 
+  |  | watch 
+ 
+ watch |  | ed 
+ 
+ watch |  | es 
+ 
+  |  | water 
+ 
+ water |  | ed 
+ 
+ water |  | ing 
+ 
+ water |  | s 
+ 
+  |  | waved 
+ 
+  |  | way 
+ 
+ way |  | s 
+ 
+  |  | we 
+ 
+  |  | weak 
+ 
+  |  | wealth 
+ 
+  |  | weapons 
+ 
+  |  | weariness 
+ 
+  |  | wearing 
+ 
+  |  | weathervane 
+ 
+  |  | weed 
+ 
+ weed |  | s 
+ 
+  |  | week 
+ 
+  |  | weeping 
+ 
+  |  | weigh 
+ 
+  |  | well 
+ 
+ well |  | s 
+ 
+  |  | went 
+ 
+  |  | were 
+ 
+  |  | what 
+ 
+ what |  | ever 
+ 
+  |  | wheat 
+ 
+  |  | when 
+ 
+ when |  | ce 
+ 
+ when |  | ever 
+ 
+  |  | where 
+ 
+ where |  | ver 
+ 
+  |  | whether 
+ 
+  |  | which 
+ 
+  |  | while 
+ 
+  |  | white 
+ 
+  |  | who 
+ 
+ who |  | ever 
+ 
+ who |  | le 
+ 
+ who |  | m 
+ 
+  |  | why 
+ 
+  |  | wide 
+ 
+  |  | wild 
+ 
+  |  | will 
+ 
+  |  | wind 
+ 
+ wind |  | ow 
+ 
+ wind |  | owpanes 
+ 
+ wind |  | ows 
+ 
+  |  | wings 
+ 
+  |  | wisdom 
+ 
+  |  | wise 
+ 
+  |  | wish 
+ 
+ wish |  | ed 
+ 
+ wish |  | es 
+ 
+  |  | wit 
+ 
+ wit |  | h 
+ 
+ wit |  | hout 
+ 
+  |  | won 
+ 
+ won |  | der 
+ 
+ won |  | derful 
+ 
+ won |  | dering 
+ 
+  |  | word 
+ 
+ word |  | s 
+ 
+  |  | wore 
+ 
+  |  | work 
+ 
+ work |  | ed 
+ 
+ work |  | ing 
+ 
+  |  | world 
+ 
+ world |  | s 
+ 
+  |  | worried 
+ 
+  |  | worrying 
+ 
+  |  | worst 
+ 
+  |  | worth 
+ 
+  |  | would 
+ 
+ would |  | n 
+ 
+  |  | write 
+ 
+  |  | wrong 
+ 
+  |  | wrote 
+ 
+  |  | yawn 
+ 
+ yawn |  | ed 
+ 
+ yawn |  | ing 
+ 
+  |  | year 
+ 
+ year |  | s 
+ 
+  |  | yellow 
+ 
+  |  | yes 
+ 
+  |  | yet 
+ 
+  |  | yonder 
+ 
+  |  | you 
+ 
+ you |  | ng 
+ 
+ you |  | r 
+ 
+ you |  | rs 
+ 
+ you |  | rself 
+ 
+ you |  | rselves 
+ 
+ you |  | th 
+ 

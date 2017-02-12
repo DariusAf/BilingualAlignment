@@ -3,7 +3,9 @@ import math
 import re
 from virtual_mvc import *
 from widgets import *
-
+from functions import tolower
+import goldsmith as gold
+import radixtrie as art
 """
 Here is the place everything happens.
 """
@@ -164,6 +166,9 @@ class Text(VirtualModel):
         self._txt = ""  # useful for the gui
         self._data = {}
         self._canOperate = False
+        self._gold = gold.Gold()  # Gold object (signature clustering)
+        self._dart = art.Trie('direct')
+        self._iart = art.Trie('inverse')
 
     @property
     def length(self):
@@ -176,6 +181,18 @@ class Text(VirtualModel):
     @property
     def data(self):
         return self._data.keys()
+
+    @property
+    def gold(self):
+        return self._gold
+
+    @property
+    def sig(self):
+        return self._gold.stable_sig
+
+    @property
+    def word_split(self):
+        return self._gold.stable_split
 
     def __getitem__(self, key):
         """Quick access"""
@@ -294,8 +311,76 @@ class Text(VirtualModel):
                 line_is_name = not line_is_name
             self._canOperate = True
 
+    def make_trie(self, column_side):
+        """
+        Build an Adaptative Radix Tree as in radixtrie.py
+        """
+        se = set(self._words)
+
+        for w in se:
+            self._dart.ajoute(w.lower())
+            self._iart.ajoute(w.lower())
+
+        self._dart.concatene_trie()
+        self._dart.concatene_trie()
+        self._dart.trouve_feuilles()
+
+        self._iart.concatene_trie()
+        self._iart.concatene_trie()
+
+        if column_side == LEFT_TEXT:
+            nom_fichier1 = 'save_data/left_trie_split.txt'
+            nom_fichier2 = 'save_data/left_trie_dict.txt'
+        else:
+            nom_fichier1 = 'save_data/right_trie_split.txt'
+            nom_fichier2 = 'save_data/right_trie_dict.txt'
+        art.ecrit_segmentation(nom_fichier1, se, self._iart, self._dart)
+        art.ecrit_dictionnaire(nom_fichier2, self._dart)
+
+    def apply_goldsmith(self, beta, min_oc, side):
+        """
+        Apply the improved Goldsmith segmentation.
+
+        Needed : self.open_raw()
+        Needed : self.make_trie()
+        """
+        suff_list = list()
+        for (leaf, oc) in self._dart.feuilles.items():
+            if oc > min_oc:
+                suff_list.append(leaf)
+        alist = list(map(tolower, self._words))
+
+        self._gold.initialize_text(alist)
+        self._gold.initialize(self._dart)
+        self._gold.initialize_model(alist)
+
+        self._gold.evaluate_suff()
+        self._gold.evaluate_split(beta, suff_list)
+        self._gold.build_new_stem_suff()
+
+        self._gold.make_signatures_to_stems()
+        # self._gold.first_evaluation()
+        self._gold.evaluate_sigs(suff_list)
+        self._gold.make_stems_to_signatures()
+        self._gold.make_words_to_signatures()
+        self._gold.make_signatures_to_words()
+
+        self._gold.word_best_sig()
+
+        self._gold.sort()
+        if side == LEFT_TEXT:
+            self._gold.write_sigs('save_data/left_sig.txt')
+            self._gold.write_suff('save_data/left_suff.txt')
+            self._gold.write_seg('save_data/left_seg.txt')
+        else:
+            self._gold.write_sigs('save_data/right_sig.txt')
+            self._gold.write_suff('save_data/right_suff.txt')
+            self._gold.write_seg('save_data/right_seg.txt')
+        # self._gold.check_stability()
+
 
 def str_tuple(item):
+    """ to be used with a map function when saving """
     return "{}:{}".format(item[0], item[1])
 
 
@@ -306,7 +391,7 @@ class Model(VirtualModel):
         self._txt2 = Text()
 
         self._distWords = {}  # associated words and their distance
-        self._groupFactor = 1  # quantifies how words are associated
+        self._groupFactor = 1.5  # quantifies how words are associated
 
     @property
     def txt1(self):
@@ -435,13 +520,15 @@ class View(VirtualView):
         """
         Connect events
         """
-        self._window.column1.browse.clicked.connect(self.open_dialog1)
-        self._window.column2.browse.clicked.connect(self.open_dialog2)
+        self._window.column1.columnInfo.open.clicked.connect(self.open_dialog1)
+        self._window.column2.columnInfo.open.clicked.connect(self.open_dialog2)
         self._window.column1.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed1)
+        # TODO : reverse side of alignment
         # self._window.column2.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed2)
         self._window.column1.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight1)
         self._window.column2.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight2)
-
+        self._window.column1.columnInfo.search.clicked.connect(self.search_highlight1)
+        self._window.column2.columnInfo.search.clicked.connect(self.search_highlight2)
     # -- Callback functions
 
     def open_dialog1(self):
@@ -460,8 +547,9 @@ class View(VirtualView):
         self.end_task()
         self._window.column2.align_disp.set_text(txt)
 
-    def cursor_changed(self, column_side):
-        """ Process a clicked word """
+    def cursor_changed(self, column_side, bypass_selection=""):
+        """ Process a clicked word on the text """
+
         column = None
         aligned_column = None
         if column_side == LEFT_TEXT:
@@ -471,10 +559,17 @@ class View(VirtualView):
             column = self._window.column2
             aligned_column = self._window.column1
 
-        w = column.align_disp.editor.get_clicked_word()
+        w = None
+        if bypass_selection != "":
+            # bypass the selection and process, used by search_highlight
+            w = bypass_selection
+        else:
+            # else, just select the clicked word
+            w = column.align_disp.editor.get_clicked_word()
+
         if w and w != "" and w != column.align_disp.currentWord:
             try:
-                word, aligned_word = self.controller.process_word(w, column_side)
+                word, aligned_word, goldsmith_rslt = self.controller.process_word(w, column_side)
 
                 # Highlighting
                 column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
@@ -484,19 +579,18 @@ class View(VirtualView):
                                                                  last_pos=aligned_column.align_disp.editor.last_highlighted_block)
                 aligned_column.align_disp.editor.refresh_highlight(aligned_word.str, color=QtGui.QColor(255, 255, 100))
 
-                # TODO : Goldsmith callback TO MERGE
-
                 align_rslt = "dist : <b>{}</b>".format(aligned_word.str)
 
                 column.info_word.set_word(word.str)
                 column.info_word.set_text(align_rslt)
-                column.see_also.set_text("Goldsmith algorithm results")
+                column.see_also.set_text(goldsmith_rslt)
                 column.align_disp.currentWord = word.str
                 column.align_disp.sidebar.currentVect = word.pos
                 column.align_disp.sidebar.draw_vector()
 
                 aligned_column.info_word.set_word(aligned_word.str)
                 aligned_column.info_word.set_text("See also")
+                # TODO : goldsmith on the second column, maybe paste the code or add eternal function
                 aligned_column.see_also.set_text("Goldsmith algorithm results")
                 aligned_column.align_disp.currentWord = aligned_word.str
                 aligned_column.align_disp.sidebar.currentVect = aligned_word.pos
@@ -507,12 +601,19 @@ class View(VirtualView):
                                                          last_pos=column.align_disp.editor.last_highlighted_block)
                 aligned_column.align_disp.editor.clean_highlight(first_pos=aligned_column.align_disp.editor.first_highlighted_block,
                                                                  last_pos=aligned_column.align_disp.editor.last_highlighted_block)
-                column.info_word.set_word("None")
+                column.info_word.set_word("Not found")
                 column.info_word.set_text("Alignment results")
                 column.see_also.set_text("Goldsmith algorithm results")
                 column.align_disp.currentWord = None
                 column.align_disp.sidebar.currentVect = [0, 1]
                 column.align_disp.sidebar.draw_vector()
+
+                aligned_column.info_word.set_word("Not found")
+                aligned_column.info_word.set_text("See also")
+                aligned_column.see_also.set_text("Goldsmith algorithm results")
+                aligned_column.align_disp.currentWord = None
+                aligned_column.align_disp.sidebar.currentVect = [0, 1]
+                aligned_column.align_disp.sidebar.draw_vector()
 
             except DataNotProcessed:
                 column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
@@ -527,10 +628,20 @@ class View(VirtualView):
         self.cursor_changed(RIGHT_TEXT)
 
     def scroll_highlight1(self):
+        """ use the fast highlight algorithm developed in widget.py """
         self._window.column1.align_disp.editor.scroll_highlight(self._window.column1.align_disp.currentWord)
 
     def scroll_highlight2(self):
+        """ use the fast highlight algorithm developed in widget.py """
         self._window.column2.align_disp.editor.scroll_highlight(self._window.column2.align_disp.currentWord)
+
+    def search_highlight1(self):
+        word = self._window.column1.columnInfo.searchLine.text().lower()
+        self.cursor_changed(LEFT_TEXT, bypass_selection=word)
+
+    def search_highlight2(self):
+        word = self._window.column2.columnInfo.searchLine.text().lower()
+        self.cursor_changed(RIGHT_TEXT, bypass_selection=word)
 
     # -- progress bar
 
@@ -581,6 +692,11 @@ class Controller(VirtualController):
         self.opened_txt[column_side] = True
         self.can_align = self.opened_txt[LEFT_TEXT] and self.opened_txt[RIGHT_TEXT]
 
+        # Goldsmith
+        model_txt.make_trie(column_side)
+        model_txt.apply_goldsmith(1.1, 20, column_side)
+
+        # Associate word for alignment if both text were opened
         if self.can_align:
             for view in self.views:
                 view.end_task()
@@ -591,29 +707,30 @@ class Controller(VirtualController):
 
         # TODO : coherent saving to database using model.save_data
 
-        # TODO Cluster using goldsmith
-
         return model_txt.str
 
     def process_word(self, str_word, column_side):
         """ Return the result of the model for a given string from the text str_word.
             Compute if the word doesn't exist. """
         self.mvc_check()
-        if self.can_align:
-            model_txt = None
-            translated_model_txt = None
-            if column_side == LEFT_TEXT:
-                model_txt = self.model.txt1
-                translated_model_txt = self.model.txt2
-            elif column_side == RIGHT_TEXT:
-                model_txt = self.model.txt2
-                translated_model_txt = self.model.txt1
 
-            if str_word in model_txt.data:
+        if self.can_align:
+            processed_txt = None
+            translated_txt = None
+            if column_side == LEFT_TEXT:
+                processed_txt = self.model.txt1
+                translated_txt = self.model.txt2
+            elif column_side == RIGHT_TEXT:
+                processed_txt = self.model.txt2
+                translated_txt = self.model.txt1
+
+            word_info = processed_txt.gold.build_word_info(str_word)
+            if str_word in processed_txt.data:
                 # the selected word is a regular word, just display information
                 align_dist, align_str = self.model.dist_word(str_word)
-                return model_txt[str_word], translated_model_txt[align_str]
+                return processed_txt[str_word], translated_txt[align_str], word_info
             else:
-                # TODO : a new entry, compute everything, for now, raise error
+                # TODO : a new entry, compute everything, but for now, raise an error
                 raise WordNotInDatabase
         raise DataNotProcessed
+
