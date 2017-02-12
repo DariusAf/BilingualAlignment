@@ -401,6 +401,10 @@ class Model(VirtualModel):
     def txt2(self):
         return self._txt2
 
+    @property
+    def dist_words(self):
+        return self._distWords
+
     # -- Bind texts
 
     def mvc_link_texts(self):
@@ -569,7 +573,7 @@ class View(VirtualView):
 
         if w and w != "" and w != column.align_disp.currentWord:
             try:
-                word, aligned_word, goldsmith_rslt = self.controller.process_word(w, column_side)
+                word, aligned_word, goldsmith_rslt, goldsmith_rslt_2 = self.controller.process_word(w, column_side)
 
                 # Highlighting
                 column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
@@ -579,7 +583,7 @@ class View(VirtualView):
                                                                  last_pos=aligned_column.align_disp.editor.last_highlighted_block)
                 aligned_column.align_disp.editor.refresh_highlight(aligned_word.str, color=QtGui.QColor(255, 255, 100))
 
-                align_rslt = "dist : <b>{}</b>".format(aligned_word.str)
+                align_rslt = "{} : <b>{}</b>".format(self.model.dist_words[word.str][aligned_word.str], aligned_word.str)
 
                 column.info_word.set_word(word.str)
                 column.info_word.set_text(align_rslt)
@@ -591,7 +595,7 @@ class View(VirtualView):
                 aligned_column.info_word.set_word(aligned_word.str)
                 aligned_column.info_word.set_text("See also")
                 # TODO : goldsmith on the second column, maybe paste the code or add eternal function
-                aligned_column.see_also.set_text("Goldsmith algorithm results")
+                aligned_column.see_also.set_text(goldsmith_rslt_2)
                 aligned_column.align_disp.currentWord = aligned_word.str
                 aligned_column.align_disp.sidebar.currentVect = aligned_word.pos
                 aligned_column.align_disp.sidebar.draw_vector()
@@ -728,7 +732,8 @@ class Controller(VirtualController):
             if str_word in processed_txt.data:
                 # the selected word is a regular word, just display information
                 align_dist, align_str = self.model.dist_word(str_word)
-                return processed_txt[str_word], translated_txt[align_str], word_info
+                word_info_aligned = translated_txt.gold.build_word_info(align_str)
+                return processed_txt[str_word], translated_txt[align_str], word_info, word_info_aligned
             else:
                 # TODO : a new entry, compute everything, but for now, raise an error
                 raise WordNotInDatabase
