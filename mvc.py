@@ -42,6 +42,14 @@ class DataNotProcessed(Exception):
     def __str__(self):
         return "Database not processed !"
 
+
+class WordNotInDatabase(Exception):
+    def __init__(self):
+        super().__init__()
+
+    def __str__(self):
+        return "Word not found in the computed database"
+
 # TODO : add a cluster type, addition is not suitable for the selection...
 
 
@@ -198,7 +206,7 @@ class Text(VirtualModel):
             raise FileNotFound(name)
 
     def process_raw(self):
-        """Compute the recency vector for each word with a nLog(n) complexity """
+        """ Compute the recency vector for each word with a nLog(n) complexity """
 
         for i in range(self._length):
             word = self._words[i].lower()
@@ -335,6 +343,9 @@ class Model(VirtualModel):
                 if f1 / factor < self._txt2[str2].freq < f1 * factor:
                     self._distWords[str1][str2] = float("inf")
 
+            for view in self._views:
+                    view.notify_progress(1 / len(self._txt1.data))
+
     @staticmethod
     def dtw(warp, v1, v2, mode="naive"):
         """Dynamic Time Wrapping
@@ -369,20 +380,29 @@ class Model(VirtualModel):
                     for i in range(self._txt1[str1].freq + 1)]
 
             for str2 in self._distWords[str1]:
-                dist = self.dtw(warp, self.txt1[str1].rec, self.txt2[str2].rec)
-                self._distWords[str1][str2] = dist
+                dist = float(self._distWords[str1][str2])
+                if dist == float("inf"):
+                    # compute dtw
+                    dist = self.dtw(warp, self.txt1[str1].rec, self.txt2[str2].rec)
+                    self._distWords[str1][str2] = dist
                 if dist < min_dist:
                     min_dist = dist
                     min_str = str2
         return min_dist, min_str
 
-    def compute_dictionary(self, name):
-        """ It's high time to compute everything..."""
+    def compute_dictionary(self, name, nb_process=1, process_number=0):
+        """ It's high time to compute everything...
+            Can be multiprocessed """
         self.mvc_check()
         with open(name, "w", encoding="utf-8") as f:
+            count_word = 0
             for word in self._distWords:
-                dist, aligned_word = self.dist_word(word)
-                f.write("{} -> ({}) {}\n".format(word, dist, aligned_word))
+                if count_word % nb_process == process_number:
+                    dist, aligned_word = self.dist_word(word)
+                    f.write("{} ; {} ; {} ; {} ; {} \n".format(dist, self._txt1[word].freq, self._txt2[aligned_word].freq, word, aligned_word))
+                count_word += 1
+                
+                # notify the views
                 for view in self._views:
                     view.notify_progress(1 / self._txt1.length)
 
@@ -418,7 +438,7 @@ class View(VirtualView):
         self._window.column1.browse.clicked.connect(self.open_dialog1)
         self._window.column2.browse.clicked.connect(self.open_dialog2)
         self._window.column1.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed1)
-        self._window.column2.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed2)
+        # self._window.column2.align_disp.editor.cursorPositionChanged.connect(self.cursor_changed2)
         self._window.column1.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight1)
         self._window.column2.align_disp.editor.verticalScrollBar().valueChanged.connect(self.scroll_highlight2)
 
@@ -440,31 +460,71 @@ class View(VirtualView):
         self.end_task()
         self._window.column2.align_disp.set_text(txt)
 
-    def cursor_changed(self, column, column_side):
+    def cursor_changed(self, column_side):
         """ Process a clicked word """
+        column = None
+        aligned_column = None
+        if column_side == LEFT_TEXT:
+            column = self._window.column1
+            aligned_column = self._window.column2
+        else:
+            column = self._window.column2
+            aligned_column = self._window.column1
+
         w = column.align_disp.editor.get_clicked_word()
         if w and w != "" and w != column.align_disp.currentWord:
-            word, align_rslt, goldsmith_rslt = self.controller.process_word(w, column_side)
+            try:
+                word, aligned_word = self.controller.process_word(w, column_side)
 
-            # Highlighting
-            column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
-                                                     last_pos=column.align_disp.editor.last_highlighted_block)
-            column.align_disp.editor.refresh_highlight(word.str)
+                # Highlighting
+                column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
+                                                         last_pos=column.align_disp.editor.last_highlighted_block)
+                column.align_disp.editor.refresh_highlight(word.str)
+                aligned_column.align_disp.editor.clean_highlight(first_pos=aligned_column.align_disp.editor.first_highlighted_block,
+                                                                 last_pos=aligned_column.align_disp.editor.last_highlighted_block)
+                aligned_column.align_disp.editor.refresh_highlight(aligned_word.str, color=QtGui.QColor(255, 255, 100))
 
-            # TODO : Goldsmith callback (Toulemont)
+                # TODO : Goldsmith callback TO MERGE
 
-            column.info_word.set_word(word.str)
-            column.info_word.set_text("Alignment results")
-            column.see_also.set_text("Goldsmith algorithm results")
-            column.align_disp.currentWord = word.str
-            column.align_disp.sidebar.currentVect = word.pos
-            column.align_disp.sidebar.draw_vector()
+                align_rslt = "dist : <b>{}</b>".format(aligned_word.str)
+
+                column.info_word.set_word(word.str)
+                column.info_word.set_text(align_rslt)
+                column.see_also.set_text("Goldsmith algorithm results")
+                column.align_disp.currentWord = word.str
+                column.align_disp.sidebar.currentVect = word.pos
+                column.align_disp.sidebar.draw_vector()
+
+                aligned_column.info_word.set_word(aligned_word.str)
+                aligned_column.info_word.set_text("See also")
+                aligned_column.see_also.set_text("Goldsmith algorithm results")
+                aligned_column.align_disp.currentWord = aligned_word.str
+                aligned_column.align_disp.sidebar.currentVect = aligned_word.pos
+                aligned_column.align_disp.sidebar.draw_vector()
+
+            except WordNotInDatabase:
+                column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
+                                                         last_pos=column.align_disp.editor.last_highlighted_block)
+                aligned_column.align_disp.editor.clean_highlight(first_pos=aligned_column.align_disp.editor.first_highlighted_block,
+                                                                 last_pos=aligned_column.align_disp.editor.last_highlighted_block)
+                column.info_word.set_word("None")
+                column.info_word.set_text("Alignment results")
+                column.see_also.set_text("Goldsmith algorithm results")
+                column.align_disp.currentWord = None
+                column.align_disp.sidebar.currentVect = [0, 1]
+                column.align_disp.sidebar.draw_vector()
+
+            except DataNotProcessed:
+                column.align_disp.editor.clean_highlight(first_pos=column.align_disp.editor.first_highlighted_block,
+                                                         last_pos=column.align_disp.editor.last_highlighted_block)
+                aligned_column.align_disp.editor.clean_highlight(first_pos=aligned_column.align_disp.editor.first_highlighted_block,
+                                                                 last_pos=aligned_column.align_disp.editor.last_highlighted_block)
 
     def cursor_changed1(self):
-        self.cursor_changed(self._window.column1, LEFT_TEXT)
+        self.cursor_changed(LEFT_TEXT)
 
     def cursor_changed2(self):
-        self.cursor_changed(self._window.column2, RIGHT_TEXT)
+        self.cursor_changed(RIGHT_TEXT)
 
     def scroll_highlight1(self):
         self._window.column1.align_disp.editor.scroll_highlight(self._window.column1.align_disp.currentWord)
@@ -492,6 +552,7 @@ class View(VirtualView):
         while self._progress_bar > self._offset_bar:
             self._offset_bar += 0.01
             self._progress_window.progress(100 * self._progress_bar)
+            # print(100 * self._progress_bar)
 
 
 # ---------------------------------------------------------------------------------------------------------------------
@@ -502,6 +563,8 @@ class View(VirtualView):
 class Controller(VirtualController):
     def __init__(self):
         super().__init__()
+        self.opened_txt = {LEFT_TEXT: False, RIGHT_TEXT: False}
+        self.can_align = False
 
     def process_raw_text(self, file_name, column_side):
         """ Open a file and process the text """
@@ -515,6 +578,18 @@ class Controller(VirtualController):
 
         model_txt.open_raw(file_name)
         model_txt.process_raw()
+        self.opened_txt[column_side] = True
+        self.can_align = self.opened_txt[LEFT_TEXT] and self.opened_txt[RIGHT_TEXT]
+
+        if self.can_align:
+            for view in self.views:
+                view.end_task()
+                view.change_task("Associating words")
+            self.model.associate_words(1.5)
+            for view in self.views:
+                view.end_task()
+
+        # TODO : coherent saving to database using model.save_data
 
         # TODO Cluster using goldsmith
 
@@ -524,18 +599,21 @@ class Controller(VirtualController):
         """ Return the result of the model for a given string from the text str_word.
             Compute if the word doesn't exist. """
         self.mvc_check()
+        if self.can_align:
+            model_txt = None
+            translated_model_txt = None
+            if column_side == LEFT_TEXT:
+                model_txt = self.model.txt1
+                translated_model_txt = self.model.txt2
+            elif column_side == RIGHT_TEXT:
+                model_txt = self.model.txt2
+                translated_model_txt = self.model.txt1
 
-        model_txt = None
-        if column_side == LEFT_TEXT:
-            model_txt = self.model.txt1
-        elif column_side == RIGHT_TEXT:
-            model_txt = self.model.txt2
-
-        # TODO : Align... and process new entries
-
-        if str_word in model_txt.data:
-            # the selected word is a regular word, just display the informations
-            return model_txt[str_word], "Alignment results", "Goldsmith algorithm results"
-        else:
-            # a new entry, compute everything
-            return Word("None"),  "Alignment results", "Goldsmith algorithm results"
+            if str_word in model_txt.data:
+                # the selected word is a regular word, just display information
+                align_dist, align_str = self.model.dist_word(str_word)
+                return model_txt[str_word], translated_model_txt[align_str]
+            else:
+                # TODO : a new entry, compute everything, for now, raise error
+                raise WordNotInDatabase
+        raise DataNotProcessed
