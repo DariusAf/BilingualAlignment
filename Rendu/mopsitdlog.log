@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.28)  11 FEB 2017 18:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.28)  12 FEB 2017 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -318,7 +318,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (52.07896pt too wide) in paragraph at lines 24--24
+Overfull \hbox (61.05038pt too wide) in paragraph at lines 24--24
  [][] 
  []
 
@@ -369,15 +369,6 @@ File: patricia_trie.png Graphic file (type png)
 Package pdftex.def Info: patricia_trie.png used on input line 135.
 (pdftex.def)             Requested size: 200.0pt x 138.1119pt.
  [5 <./patricia_trie.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 148.
-
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 148.
-
 <seg_info.png, id=37, 725.71124pt x 97.36375pt>
 File: seg_info.png Graphic file (type png)
  <use seg_info.png>
@@ -388,7 +379,14 @@ Overfull \hbox (69.99538pt too wide) in paragraph at lines 166--167
  [][] 
  []
 
-[6 <./seg_info.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 175.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 175.
+ [6 <./seg_info.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
@@ -419,7 +417,7 @@ Package pdftex.def Info: example_sig3.png used on input line 192.
 Here is how much of TeX's memory you used:
  4222 strings out of 493089
  57067 string characters out of 6134842
- 129323 words of memory out of 5000000
+ 129324 words of memory out of 5000000
  7627 multiletter control sequences out of 15000+600000
  15912 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -440,7 +438,7 @@ exmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf
 -dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on mopsitdlog.pdf (9 pages, 812041 bytes).
+Output written on mopsitdlog.pdf (9 pages, 811995 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream

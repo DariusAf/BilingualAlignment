@@ -1,0 +1,22 @@
+
+Introduction : 
+
+Etant donné deux textes de langues inconnues nous voulions apprendre le maximum de choses sur chacune des langues et sur leur relation. (sic)
+ 
+Classification Morphologique :
+
+Après avoir effectué l’alignement, nous voulions avoir la possibilité de traduire un mot par un groupe de mots dans l’autre langue. Nous nous sommes d’abord tournés vers la méthode employé par John Goldsmith dans (1), datant de 2001,qui emploie le concept de Minimum Description Length de Rissanen. Suite à des résultats et un échange de mail avec l’intéressé nous avons décidé de changer de méthode. 
+
+Le manque de temps nous a forcé à utiliser des heuristiques plutôt que d’implémenter d’autres approches développées par des chercheurs.
+
+Etape 1 : Encoder le texte dans un Patricia Trie
+Etape 2 : Trouver les suffixes et les coupures dans l’arbre. 
+
+Etape 3 : Pour chaque mot du texte créer un ensemble de segmentations.
+Etape 4 : Calcul des indices de vraisemblances pour chaque segmentation, en prenant en compte l’Etape 2.
+Etape 5 : Ne garder que la segmentation la plus vraisemblable pour chaque mot.
+
+Etape 6 : Créer les signatures. 
+
+
+
