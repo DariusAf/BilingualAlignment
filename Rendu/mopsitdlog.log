@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.28)  12 FEB 2017 18:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.28)  12 FEB 2017 19:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -328,11 +328,6 @@ File: diag_pack.jpg Graphic file (type jpg)
 Package pdftex.def Info: diag_pack.jpg used on input line 38.
 (pdftex.def)             Requested size: 260.0pt x 135.90897pt.
 
-Overfull \hbox (12.77129pt too wide) in paragraph at lines 42--43
-[]\T1/cmr/m/n/10.95 Pour notre in-ter-face gra-phique on a uti-lisé une ar-chi-
-tec-ture MVC ( Modèle-Vue-contrôleur).
- []
-
 <mvc.png, id=2, 1407.2575pt x 391.4625pt>
 File: mvc.png Graphic file (type png)
  <use mvc.png>
@@ -379,14 +374,7 @@ Overfull \hbox (69.99538pt too wide) in paragraph at lines 166--167
  [][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 175.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 175.
- [6 <./seg_info.png>]
+[6 <./seg_info.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
@@ -415,13 +403,13 @@ Package pdftex.def Info: example_sig3.png used on input line 192.
 
 [7 <./example_sig.png> <./example_sig3.png>] [8] [9] (./mopsitdlog.aux) ) 
 Here is how much of TeX's memory you used:
- 4222 strings out of 493089
- 57067 string characters out of 6134842
- 129324 words of memory out of 5000000
- 7627 multiletter control sequences out of 15000+600000
+ 4204 strings out of 493089
+ 56746 string characters out of 6134842
+ 128324 words of memory out of 5000000
+ 7612 multiletter control sequences out of 15000+600000
  15912 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,30p,1189b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,30p,1199b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/
 local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/loc
@@ -438,7 +426,7 @@ exmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf
 -dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on mopsitdlog.pdf (9 pages, 811995 bytes).
+Output written on mopsitdlog.pdf (9 pages, 811417 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream

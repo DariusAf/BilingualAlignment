@@ -5,6 +5,11 @@ Etant donné deux textes de langues inconnues nous voulions apprendre le maximum
  
 Classification Morphologique :
 
+Hypothèses : - On n’étudie que les mots de longueur > 4
+	     - La taille des suffixes varient suivant la longueur du mot. Le max étant 5.
+	     - On ne connait pas la langue du texte.
+
+
 Après avoir effectué l’alignement, nous voulions avoir la possibilité de traduire un mot par un groupe de mots dans l’autre langue. Nous nous sommes d’abord tournés vers la méthode employé par John Goldsmith dans (1), datant de 2001,qui emploie le concept de Minimum Description Length de Rissanen. Suite à des résultats et un échange de mail avec l’intéressé nous avons décidé de changer de méthode. 
 
 Le manque de temps nous a forcé à utiliser des heuristiques plutôt que d’implémenter d’autres approches développées par des chercheurs.
@@ -19,4 +24,21 @@ Etape 5 : Ne garder que la segmentation la plus vraisemblable pour chaque mot.
 Etape 6 : Créer les signatures. 
 
 
+Analyse des résultats : 
 
+Classification morphologique : 
+On observe trois choses : 
+	- Une tendance a tombé dans des optima locaux : signature avec un seul suffixe ou un seul radical.
+	- On obtient de bonnes signatures pour les verbes.
+	- Cette classification a trop d’hypothèses.
+
+Développement Interface : 
+
+
+Nous avons choisi une architecture MVC. Mis à part le framework PyQt, toute l’interface a été conçue à la main. La gestion des différentes classes et le surlignage des mots cliqués fut particulièrement éreintant. 
+
+
+Limites et améliorations : 
+
+Classification Morphologique : 
+La méthode que nous avons appliqué n’est pertinente que pour les langues latines et l’anglais. Ceci à cause de l’hypothèse forte sur la taille des suffixes. Si nous avions eu plus de temps, nous aurions sans doute essayé l’approche de Mathias Creutz et Krista Lagus visant à maximiser la probabilité a posteriori des segmentations. Cette approche est non-supervisée et se libère des hypothèses que nous avons effectuées.
