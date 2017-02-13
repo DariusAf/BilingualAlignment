@@ -32,7 +32,7 @@ Ensuite, nous avons essayé de faire une classification morphologique des mots qu
 %\subsection{}
 \section{Architecture choisie}
 \subsection{Diagramme de package}
-Ce diagramme de package décrit les principales fonctionnalités de notre projet et les principales parties sur lesquelles on a travaillé.
+Ce diagramme de package décrit les principales fonctionnalités de notre projet et les principales parties sur lesquelles nous avons travaillé.
 \begin{figure}[h!]
 \centering
 \includegraphics[width = 260pt]{diag_pack.jpg}
@@ -59,17 +59,28 @@ Et ce diagramme détaille les différentes classes qui constituent notre fenêtre:
 \section{Alignement de mot}
 Il existe plusieurs systèmes d'alignement de textes qui se basent sur les formes de similitude graphique entre un texte et sa traduction. Comme l'alignement par cognats ( lexicaux ou de ponctuation). L'idée de base pour l'alignement par cognats lexicaux est l'exploitation de la similitude graphique entre un mot et sa traduction, surtout lorsqu'il s'agit de noms propres ou de mots d'origine grecque ou latine et qui s'écrivent de la même manière dans les langues européennes. 
 
-L'alignement que nous avons effectué se base sur les algorithmes dynamiques de dilatation temporelle, qui sont basés sur la distribution dans le texte entier d'un mot et de sa traduction. L'idée derrière cette approche, est que le signal du mot à  traduire dans le corpus à  aligner ressemble à  celui de sa traduction dans la langue cible.
+L'alignement que nous avons effectué se base sur la distribution d'un mot dans le texte entier et la distribution de son équivalent sur le texte traduit. L'idée derrière cette approche, est que le signal du mot à  traduire dans le corpus à  aligner ressemble à  celui de sa traduction dans la langue cible.
 
-La méthode fonctionne de la manière suivante: 
+Pour quantifier la ressemblance entre les vecteurs d'apparitions des mots, on utilise un algorithme de dilatation temporelle (DTW). Il s'agit d'une technique classique d'alignement de deux séquences de longueurs différentes qui minimise la distortion.
 
-- Traitement des textes à  aligner dans la mémoire.
+\begin{figure}[h!]
+\centering
+\includegraphics[width = 300pt]{align.jpg}
+\end{figure}
 
-- Nous calculons pour chaque mot son vecteur de récence: on représente la distance ( en nombre de caractères ) entre chaque apparition du mot.
+\subsection{Algorithme complet}
+On associe tout d'abord chaque mot du premier texte à un ensemble probable de candidats du second texte. En première approche, on a choisi les mots qui apparaissent un nombre proche de fois dans les deux textes. Puis on calcule les distances entre chaque mot et chaque candidats grâce au DTW. On trouve celui qui minimise cette distance. Enfin on analyse la qualité de la distance pour savoir si le mot est bien traduit ou non.
+\subsection{Premiers résultats}
+Avec un alignement simple, on obtient 25\% de mots correctement traduits en moyenne. L'algorithme est notamment incapable d'aligner les verbes qui peuvent se décliner de multiples façon dans une langue mais n'avoir qu'une forme dans une autre.
+En associant les morphènes proches d'un même texte avec une distance de Jaro-Winkler on améliore un peu ce résultat.
 
-- Nous normalisons ce vecteurs en passant à  des fractions du texte entier.
 
-- La similitude des signaux ( qui apparaissent sur le diagramme des vecteurs de récences ) est ce qui determine les paires de mots que nous pourrons aligner.
+\subsection{Limites}
+Malgré les heuristiques et les apprentissages de la morphologie, les langues sont chargées d?exceptions et de lois propres, elles n'obéissent pas à des règles mathématiques générales. Difficile donc d'espérer faire mieux en terme de résultats sans connaissances sur les langues considérées.
+
+\subsection{Complexité}
+Un livre moyen comportant plusieurs milliers de mots, trouver l'alignement entre deux devint rapidement très long. Nous avons donc toujours fait en sorte d'avoir une complexité minimale à chaque opération et mis en place un système de sauvegarde des prétraitements.
+
 
 \section{Interface}
 \begin{figure}[h!]
@@ -106,7 +117,7 @@ L'idée principale de cette méthode est de créer un ensemble de segmentation des 
 mot = \{(radical_{i}, suffixe_{i})\}
 \end{equation}
 
-Une fois cette segmentation effectuée, on veut former ce qu'on appelle des signatures défini comme suit : 
+Une fois cette segmentation effectuée, on veut former ce qu'on appelle des signatures définies comme suit : 
 \begin{equation}
 signature = \{radical_{i}, radical_{j}...\} <-> \{suffixe_{k}, suffixe_{m}\}
 \end{equation}
@@ -138,16 +149,16 @@ Ici nous avons commencé par encoder le texte dans un Patricia Trie.
 \caption{Cette photo provient de la page wikipedia sur les patricia trie}
 \end{figure}
 
-Une fois cet arbre construit, nous pouvons avoir accès à  ses feuilles dont on est sûr qu'elles constituent des suffixes. De plus en parcourant l'arbre et en s'arrêtant dès qu'on tombe sur un mot du texte on obtient une première décomposition du mot et de tous ceux qui suivent dans l'arbre. En bref, l'utilisation d'un patricia trie nous permet d'obtenir un premier sous ensembles de suffixes et une première segmentation pour chaque mot. Pour construire cet arbre nous avons bénéficié du code de Mr Clerc qui nous a permis de construire un premier trie (une lettre par noeud). Nous l'avons ensuite 'concaténé' dès qu'il y avait deux lettres ou plus (noeuds) consécutifs n'ayant qu'un enfant.
+Une fois cet arbre construit, nous pouvons avoir accès à  ses feuilles dont on est sûr qu'elles constituent des suffixes. De plus en parcourant l'arbre et en s'arrêtant dès qu'on tombe sur un mot du texte on obtient une première décomposition du mot et de tous ceux qui suivent dans l'arbre. En bref, l'utilisation d'un patricia trie nous permet d'obtenir un premier sous ensemble de suffixes et une première segmentation pour chaque mot. Pour construire cet arbre nous avons bénéficié du code de Mr Clerc qui nous a permis de construire un premier trie (une lettre par noeud). Nous l'avons ensuite 'concaténé' dès qu'il y avait deux lettres ou plus (noeuds) consécutifs n'ayant qu'un enfant.
 
-Nous avons de plus garder l'heuristique développé dans l'article de Mr Goldsmith qui consiste à  créer un ensemble de segmentations pour chaque mot. Puis pour caractériser la vraisemblance d'une segmentation $mot = \{(radical_{i}, suffixe_{i})\}$ nous utilisons l'estimateur suivant : 
+Nous avons de plus gardé l'heuristique développée dans l'article de Mr Goldsmith qui consiste à  créer un ensemble de segmentations pour chaque mot. Puis pour caractériser la vraisemblance d'une segmentation $mot = \{(radical_{i}, suffixe_{i})\}$ nous utilisons l'estimateur suivant : 
 
 \begin{equation}
  (-1) * log(\frac{[radical_{i}+suffixe_{k}]}{[radical_{i}] * [suffixe_{k}]})
 \end{equation}
 
 
-Pour qualifier la vraisemblance d'un suffixe et d'un radical nous n'utilisons plus l'information mutuelle pondÃ©rÃ© mais les estimateurs suivants : 
+Pour qualifier la vraisemblance d'un suffixe et d'un radical nous n'utilisons plus l'information mutuelle pondérée mais les estimateurs suivants : 
 
 \begin{equation}
 suffixe : (-1) * \sum_{segmentation = (radical, suffixe) }^{}  log(\frac{[radical + suffixe]}{[radical] * [suffixe]})
@@ -173,8 +184,8 @@ et $"right seg.txt"$ pour le texte de droite. Par exemple pour le premier Harry 
 En regardant ses résultats on se rend compte qu'on ne peut pas choisir une segmentation en ne triant que sur un seul indice. Pour parvenir à  une unique segmentation nous appliquons l'arbre de décision suivant :
 
 Si pour les maximums pour chacune des informations nous donnent une unique segmentation on utilise celle-là . \\
-Si on obtient deux maximum menant Ã  une segmentation alors on garde celle-ci. \\
-Si toutes les segmentations sont diffÃ©rentes alors on prends celle donnée par le maximum d'information provenant des radicaux. 
+Si on obtient deux maximum menant à une segmentation alors on garde celle-ci. \\
+Si toutes les segmentations sont différentes alors on prends celle donnée par le maximum d'information provenant des radicaux. 
 
 
 Dans le cas de l'exemple ci-dessus on a : 
@@ -184,7 +195,7 @@ Dans le cas de l'exemple ci-dessus on a :
 \item Le maximum au sens des radicaux est : 'approch' + 'èrent' \\
 \end{itemize}
 
-Nous avons trois segmentations, on garde celle au sens des radicaux donc : 'approch' + 'èrent'. Nous avons désormais une unique segmentation pour chaque mot, on créer les signatures et on les sauvegarde
+Nous avons trois segmentations, on garde celle au sens des radicaux donc : 'approch' + 'èrent'. Nous avons désormais une unique segmentation pour chaque mot, on crée les signatures et on les sauvegarde
 dans $"leftsig.txt"$ et $"rightsig.txt"$. 
 
 Par exemple on obtient : 
@@ -204,21 +215,29 @@ Plusieurs observations peuvent être faîtes sur la démarche effectuée. Contrairem
 \item La troisième est que l'on obtient quand même de bonnes signatures ( voir les deux premières sur la photo ci-dessus.)
 \end{itemize}
 
-Les deux premières correspondent, je pense, Ã  des optimums locaux. La première parce que les signatures de cette forme ne contiennent généralement qu'un seul radical, qui est suivi de beaucoup de suffixes. Le radical a donc une 
-grande vraisemblance et est gardé. La seconde parce que les signatures de cette forme ne contiennent généralement qu'un suffixe et pour les même raisons la segmentation et le suffixe auront une grande vraisemblance. Il faut aussi noter que dans la construction des suffixes la taille des suffixes que l'on créés dépends de la taille du mot. Plus le mot est long plus nous autorisons les suffixes long. De plus nous ne prenons pas en compte les mots de taille inférieur à  4. Sur les 8088 mots d'origine dans Harry Potter (en français) nous en étudions 7320. Nous obtenons au final 5149 radicaux différents et 348 suffixes différents. On peut penser qu'il serait judicieux de traiter les suffixes que l'on retrouve dans d'autres suffixes ('ons' et 'rons' par exemple) mais en faisant cela on risque de se retrouver avec seulement des suffixes à  une lettre. Ce n'est pas ce que l'on veut. Nous constatons aussi que les suffixes des formes verbales apparaissent dans plusieurs signatures, ceci est bon signe. En effet avec des textes plus long où chaque verbe apparaît sous plus de formes notre méthode permettra d'extraire plus de généralité sur le langage étudié. 
+Les deux premières correspondent, je pense, à des optimums locaux. La première parce que les signatures de cette forme ne contiennent généralement qu'un seul radical, qui est suivi de beaucoup de suffixes. Le radical a donc une 
+grande vraisemblance et est gardé. La seconde parce que les signatures de cette forme ne contiennent généralement qu'un suffixe et pour les mêmes raisons la segmentation et le suffixe auront une grande vraisemblance. Il faut aussi noter que dans la construction des suffixes la taille des suffixes que l'on crée dépend de la taille du mot. Plus le mot est long plus nous autorisons les suffixes longs. De plus nous ne prenons pas en compte les mots de taille inférieure à  4. Sur les 8088 mots d'origine dans Harry Potter (en français) nous en étudions 7320. Nous obtenons au final 5149 radicaux différents et 348 suffixes différents. On peut penser qu'il serait judicieux de traiter les suffixes que l'on retrouve dans d'autres suffixes ('ons' et 'rons' par exemple) mais en faisant cela on risque de se retrouver avec seulement des suffixes à  une lettre. Ce n'est pas ce que l'on veut. Nous constatons aussi que les suffixes des formes verbales apparaissent dans plusieurs signatures, ceci est bon signe. En effet avec des textes plus longs où chaque verbe apparaît sous plus de formes notre méthode permettra d'extraire plus de généralités sur le langage étudié. 
 
-Cette méthode est indépendante de la langue utilisée. En raison des hypothèses faites sur les tailles des suffixes cette méthode obtiendra de meilleurs résultats sur les langues indo-européennes et plus particulièrement pour les langues latines et l'anglais. L'allemand par exemple ou des mots juxtaposés peuvent former de nouveaux mots n'est pas adapté à  cette méthode. 
+Cette méthode est indépendante de la langue utilisée. En raison des hypothèses faites sur les tailles des suffixes cette méthode obtiendra de meilleurs résultats sur les langues indo-européennes et plus particulièrement pour les langues latines et l'anglais. L'allemand par exemple où des mots juxtaposés peuvent former de nouveaux mots n'est pas adapté à  cette méthode. 
 
 
 \paragraph{Aller plus loin}
 
-On se rend compte que l'Ã©tape primordiale est ici de trouver une bonne segmentation des mots. Les signatures se font ensuite très rapidement sans aucune autre hypothèse que les segmentations trouvées. Pour cela, il y a une méthode que j'aurai voulu essayer si j'avais eu plus de temps. Il s'agit de celle défini par MATHIAS CREUTZ and KRISTA LAGUS dans leur article de \underline{Unsupervised Models for Morpheme Segmentation} \underline{and Morphology Learning} où il choisissent de maximiser la probabilité a posteriori de la segmentation. Si cette méthode me tente, c'est parce qu'elle est non-supervisée et qu'elle se libère de l'hypothèse sur la taille des suffixes. Je souhaiterai aussi pouvoir implémenter un outil de segmentation d'un texte. Ces algorithmes visent à  retrouver les mots dans un texte où les espaces ont été enlevés. Ceci nous permettrai de faire de l'alignement sur des langues comme le japonais ou le chinois.
+On se rend compte que l'étape primordiale est ici de trouver une bonne segmentation des mots. Les signatures se font ensuite très rapidement sans aucune autre hypothèse que les segmentations trouvées. Pour cela, il y a une méthode que j'aurais voulu essayer si j'avais eu plus de temps. Il s'agit de celle défini par MATHIAS CREUTZ and KRISTA LAGUS dans leur article de \underline{Unsupervised Models for Morpheme Segmentation} \underline{and Morphology Learning} où il choisissent de maximiser la probabilité a posteriori de la segmentation. Si cette méthode me tente, c'est parce qu'elle est non-supervisée et qu'elle se libère de l'hypothèse sur la taille des suffixes. Je souhaiterai aussi pouvoir implémenter un outil de segmentation d'un texte. Ces algorithmes visent à  retrouver les mots dans un texte où les espaces ont été enlevés. Ceci nous permettrait de faire de l'alignement sur des langues comme le japonais ou le chinois.
 
  
+\section{Analyse des résultats}
 
+Nous avons testé notre logiciel à l'aide de plusieurs textes de longueur variable (e.g. Le Petit Prince et Les Misérables).
 
+\subsection{Pertinence de la traduction}
+Nous avons trié les mots traduits en fonction de leur distance moyenne et compté le pourcentage de mots justes que nous obtenions avec l'augmentation de celle-ci, afin de pouvoir indiquer à l'utilisateur une estimation de la pertinence de la traduction.
 
-
+\begin{figure}[!h]
+\centering
+\includegraphics[width = 300pt]{res.jpg}
+\caption{Pourcentage de mots justes en fonction de la distance par occurence}
+\end{figure}
 
 
 
