@@ -2,2650 +2,5884 @@ Signature ('suffixe 1', 'suffixe 2', ...)
 mot | radical   nombre d'occurences du mot 
     ....   
 
-('ier', 'éer') : 
- crier | cr-ier  1 
- créer | cr-éer  2 
-
- 
-('ent', 'er') : 
- intéresser | intéress-er  2 
- intéressent | intéress-ent  1 
-
- 
-('a', 'ai', 'lent') : 
- rappellent | rappel-lent  1 
- rappela | rappel-a  1 
- rappelai | rappel-ai  1 
-
- 
-('in',) : 
- enfin | enf-in  7 
- plein | ple-in  1 
- demain | dema-in  2 
-
- 
-('gnit',) : 
- éteignit | étei-gnit  2 
-
- 
-('coup',) : 
- beaucoup | beau-coup  18 
-
- 
-('ait', 'ant', 'e', 'ent', 'er', 'erai', 'é') : 
- donner | donn-er  5 
- donnerai | donn-erai  1 
- donnent | donn-ent  1 
- donnant | donn-ant  1 
- donné | donn-é  3 
- donnait | donn-ait  2 
- donne | donn-e  2 
-
- 
-('e', 'es', 'ion') : 
- milles | mill-es  7 
- mille | mill-e  18 
- million | mill-ion  1 
-
- 
-('e', 'ément') : 
- énorme | énorm-e  1 
- énormément | énorm-ément  1 
-
- 
-('a', 'ez', 'é') : 
- conseillé | conseill-é  1 
- conseillez | conseill-ez  1 
- conseilla | conseill-a  2 
-
- 
-('ques', 's') : 
- quels | quel-s  1 
- quelques | quel-ques  1 
-
- 
-('ng',) : 
- meeting | meeti-ng  1 
-
- 
-('th',) : 
- werth | wer-th  2 
-
- 
-('aient', 'er', 'é') : 
- travaillaient | travaill-aient  1 
- travaillé | travaill-é  2 
- travailler | travaill-er  1 
-
- 
-('sum',) : 
- pensum | pen-sum  1 
-
- 
-('ger', 'lon', 'ton') : 
- bouger | bou-ger  2 
- boulon | bou-lon  4 
- bouton | bou-ton  1 
-
- 
-('cher', 'lait', 'ler') : 
- coulait | cou-lait  1 
- couler | cou-ler  1 
- coucher | cou-cher  8 
-
- 
-('tres',) : 
- quatres | qua-tres  1 
-
- 
-('uer',) : 
- avouer | avo-uer  1 
- saluer | sal-uer  3 
-
- 
-('rai', 'ter') : 
- sauter | sau-ter  1 
- saurai | sau-rai  1 
-
- 
-('aient', 'er') : 
- tremblaient | trembl-aient  1 
- trembler | trembl-er  1 
-
- 
-('atif', 'é') : 
- médité | médit-é  1 
- méditatif | médit-atif  1 
-
- 
-('t',) : 
- tremblait | tremblai-t  1 
- gémit | gémi-t  1 
- maladroit | maladroi-t  1 
- surtout | surtou-t  2 
- couramment | courammen-t  1 
- paraît | paraî-t  2 
- verseront | verseron-t  1 
- cependant | cependan-t  10 
- fallait | fallai-t  2 
- bracelet | bracele-t  1 
- brûlent | brûlen-t  1 
- pourrait | pourrai-t  4 
- ballet | balle-t  1 
- mouvement | mouvemen-t  1 
- émeut | émeu-t  1 
- agissait | agissai-t  1 
- chant | chan-t  2 
- turent | turen-t  2 
- sortirait | sortirai-t  1 
- réchauffait | réchauffai-t  1 
- plutôt | plutô-t  1 
- digérait | digérai-t  1 
- aisément | aisémen-t  1 
- regret | regre-t  2 
- soigneusement | soigneusemen-t  2 
- fruit | frui-t  1 
- piquet | pique-t  1 
- riant | rian-t  1 
- éléphant | éléphan-t  3 
- bruit | brui-t  8 
- apparut | apparu-t  1 
- regrettait | regrettai-t  2 
- croiront | croiron-t  2 
- rougissant | rougissan-t  1 
- endroit | endroi-t  2 
- embellit | embelli-t  1 
- justement | justemen-t  3 
- secrèt | secrè-t  2 
- assoit | assoi-t  1 
- oubliant | oublian-t  1 
- ennuyait | ennuyai-t  1 
- meurt | meur-t  2 
- front | fron-t  2 
- vraiment | vraimen-t  5 
- vistit | visti-t  1 
- paraissait | paraissai-t  2 
- absolument | absolumen-t  1 
- stupéfait | stupéfai-t  2 
- peuvent | peuven-t  4 
- enfoncent | enfoncen-t  1 
- laisseront | laisseron-t  1 
- étonnait | étonnai-t  1 
- fallut | fallu-t  2 
- écrivait | écrivai-t  1 
- amusant | amusan-t  3 
- pendant | pendan-t  4 
- gravement | gravemen-t  3 
- debout | debou-t  3 
- assistait | assistai-t  1 
- viendrait | viendrai-t  1 
- attentivement | attentivemen-t  2 
- finissait | finissai-t  1 
- commençait | commençai-t  1 
- durant | duran-t  4 
- également | égalemen-t  1 
- tirant | tiran-t  1 
- hausseront | hausseron-t  1 
- extrèmement | extrèmemen-t  1 
- parvenait | parvenai-t  1 
- défait | défai-t  1 
- ayant | ayan-t  7 
- seront | seron-t  4 
- élèvent | élèven-t  1 
- secouait | secouai-t  1 
- portrait | portrai-t  1 
- achètent | achèten-t  1 
- evidemment | evidemmen-t  1 
- discret | discre-t  1 
- choisissait | choisissai-t  1 
- ravissant | ravissan-t  2 
- exécutait | exécutai-t  1 
- cultivent | cultiven-t  1 
- stupéfiait | stupéfiai-t  1 
- heureusement | heureusemen-t  1 
- pourtant | pourtan-t  1 
- ouvrit | ouvri-t  1 
- égarerait | égarerai-t  1 
- bredouillait | bredouillai-t  1 
- partout | partou-t  1 
- exact | exac-t  4 
- départ | dépar-t  4 
- puissant | puissan-t  2 
- avalait | avalai-t  1 
- fouillant | fouillan-t  1 
- impressionnant | impressionnan-t  1 
- diament | diamen-t  1 
- satisfait | satisfai-t  1 
- bientôt | bientô-t  1 
- verticalement | verticalemen-t  1 
- gênant | gênan-t  1 
- ressembleraient | ressembleraien-t  1 
- logeraient | logeraien-t  1 
- endormait | endormai-t  1 
- tabouret | taboure-t  1 
- élégant | élégan-t  1 
- encombrant | encombran-t  1 
- mentait | mentai-t  1 
- escamotaient | escamotaien-t  1 
- songeant | songean-t  1 
- mangeassent | mangeassen-t  1 
- apaisent | apaisen-t  1 
- souviennent | souviennen-t  1 
- rassemblent | rassemblen-t  1 
- hochait | hochai-t  1 
- rougit | rougi-t  4 
- habit | habi-t  1 
- tantôt | tantô-t  6 
- maintenant | maintenan-t  6 
- apparaissaient | apparaissaien-t  1 
- frôlaient | frôlaien-t  1 
- vingt | ving-t  11 
- différent | différen-t  3 
- renonçait | renonçai-t  1 
- démodent | démoden-t  1 
- entraînerait | entraînerai-t  1 
- méchant | méchan-t  1 
- enhardit | enhardi-t  1 
- sortant | sortan-t  1 
- paignait | paignai-t  1 
- possédait | possédai-t  2 
- enchantait | enchantai-t  1 
- instant | instan-t  2 
- siégeait | siégeai-t  1 
- agaçant | agaçan-t  1 
- gouvernement | gouvernemen-t  1 
- sujet | suje-t  2 
- semblaît | semblaî-t  1 
- connaît | connaî-t  2 
- répandait | répandai-t  1 
- ajustait | ajustai-t  1 
- essentiellement | essentiellemen-t  1 
- désert | déser-t  13 
- règnent | règnen-t  1 
- esprit | espri-t  1 
- tolérait | tolérai-t  1 
- voulut | voulu-t  2 
- soulevant | soulevan-t  2 
- tousserait | tousserai-t  1 
- timidement | timidemen-t  2 
- appelait | appelai-t  1 
- aussitôt | aussitô-t  3 
- point | poin-t  7 
- réguliérement | réguliéremen-t  1 
- objet | obje-t  1 
- représentait | représentai-t  3 
- embaumait | embaumai-t  2 
- laisserait | laisserai-t  1 
- écrasent | écrasen-t  1 
- forêt | forê-t  1 
- grondant | grondan-t  1 
- inconvénient | inconvénien-t  1 
- intéressant | intéressan-t  3 
- dansaient | dansaien-t  2 
- définitivement | définitivemen-t  1 
- marchant | marchan-t  1 
- endort | endor-t  1 
- poliment | polimen-t  2 
- ponctuellement | ponctuellemen-t  1 
- lentement | lentemen-t  3 
- sourit | souri-t  2 
- atteint | attein-t  1 
- enfant | enfan-t  5 
- traiteront | traiteron-t  1 
- conséquent | conséquen-t  2 
- patient | patien-t  1 
- secret | secre-t  3 
- régulièrement | régulièremen-t  1 
- souvint | souvin-t  1 
- cachait | cachai-t  1 
- sûrement | sûremen-t  2 
- intelligent | intelligen-t  1 
- malheureusement | malheureusemen-t  3 
- buvant | buvan-t  1 
- brillent | brillen-t  1 
- entraient | entraien-t  1 
- droit | droi-t  3 
- haussant | haussan-t  1 
- éclat | écla-t  2 
- vivant | vivan-t  1 
- doigt | doig-t  2 
- reprit | repri-t  4 
- valait | valai-t  1 
- plaît | plaî-t  3 
- parfait | parfai-t  1 
- respectueusement | respectueusemen-t  1 
- devant | devan-t  3 
- épuisait | épuisai-t  1 
- répontit | réponti-t  3 
- intérêt | intérê-t  1 
- effet | effe-t  3 
- redevint | redevin-t  1 
- fatigant | fatigan-t  1 
- croirait | croirai-t  1 
- parviennent | parviennen-t  1 
- noterait | noterai-t  1 
- adorent | adoren-t  1 
- bâillant | bâillan-t  1 
- fermement | fermemen-t  1 
- tellement | tellemen-t  16 
- baissant | baissan-t  1 
-
- 
-('ent', 's', 't') : 
- pouvait | pouvai-t  3 
- était | étai-t  66 
- étais | étai-s  17 
- étaient | étai-ent  7 
- pouvais | pouvai-s  3 
- allaient | allai-ent  1 
- allait | allai-t  1 
- allais | allai-s  1 
- pouvaient | pouvai-ent  1 
-
- 
-('a', 'aient', 'e', 'ent') : 
- arriva | arriv-a  1 
- arrivaient | arriv-aient  1 
- arrive | arriv-e  2 
- arrivent | arriv-ent  1 
-
- 
-('ion',) : 
- région | rég-ion  3 
- avion | av-ion  6 
-
- 
-('ait', 'er', 'es', 'é') : 
- montrer | montr-er  1 
- montré | montr-é  1 
- montres | montr-es  1 
- montrait | montr-ait  1 
-
- 
-('a', 'ent', 's') : 
- écrient | écri-ent  1 
- écris | écri-s  1 
- écria | écri-a  4 
-
- 
-('er', 'é') : 
- respirer | respir-er  1 
- acheté | achet-é  1 
- illuminer | illumin-er  1 
- retrouver | retrouv-er  1 
- essayer | essay-er  2 
- retrouvé | retrouv-é  1 
- dédier | dédi-er  1 
- illuminé | illumin-é  3 
- écouter | écout-er  3 
- dédié | dédi-é  1 
- acheter | achet-er  1 
- respiré | respir-é  1 
- écouté | écout-é  1 
- essayé | essay-é  1 
-
- 
-('r', 'rait') : 
- éclairait | éclai-rait  1 
- éclair | éclai-r  1 
-
- 
-('ction', 'it') : 
- distraction | distra-ction  1 
- distrait | distra-it  1 
-
- 
-('r', 's') : 
- attaches | attache-s  1 
- réussir | réussi-r  4 
- réussis | réussi-s  3 
- sortir | sorti-r  1 
- sortis | sorti-s  2 
- attacher | attache-r  3 
-
- 
-('u', 'ux') : 
- oiseaux | oisea-ux  1 
- oiseau | oisea-u  3 
-
- 
-('e', 'ez') : 
- verrez | verr-ez  1 
- mettre | mettr-e  5 
- mettrez | mettr-ez  1 
- verre | verr-e  2 
-
- 
-('ait', 'ient', 'inai') : 
- devait | dev-ait  1 
- devinai | dev-inai  1 
- devient | dev-ient  1 
-
- 
-('ai', 'ation', 'é') : 
- installai | install-ai  1 
- installé | install-é  2 
- installation | install-ation  1 
-
- 
-('ai', 'ait') : 
- ferai | fer-ai  2 
- ferait | fer-ait  2 
-
- 
-('quer', 'ux') : 
- choux | cho-ux  1 
- choquer | cho-quer  1 
-
- 
-('rait', 'sent', 't') : 
- suffit | suffi-t  5 
- suffirait | suffi-rait  2 
- suffisent | suffi-sent  1 
-
- 
-('ait',) : 
- posait | pos-ait  1 
-
- 
-('s', 't') : 
- aperçus | aperçu-s  2 
- disait | disai-t  9 
- venait | venai-t  6 
- éteins | étein-s  1 
- aperçut | aperçu-t  5 
- parlais | parlai-s  2 
- croyais | croyai-s  2 
- venais | venai-s  1 
- avait | avai-t  48 
- revins | revin-s  1 
- osait | osai-t  1 
- voulait | voulai-t  4 
- disais | disai-s  5 
- croyait | croyai-t  2 
- sentait | sentai-t  2 
- revint | revin-t  3 
- parlait | parlai-t  2 
- éteint | étein-t  6 
- savais | savai-s  9 
- osais | osai-s  1 
- voulais | voulai-s  3 
- désirait | désirai-t  2 
- refis | refi-s  2 
- sentais | sentai-s  4 
- refit | refi-t  1 
- savait | savai-t  1 
- avais | avai-s  23 
- désirais | désirai-s  1 
- comprennait | comprennai-t  1 
- comprennais | comprennai-s  1 
-
- 
-('n', 'nnent') : 
- questionnent | questio-nnent  1 
- question | questio-n  10 
-
- 
-('ait', 'ent', 'it') : 
- poursuivit | poursuiv-it  1 
- poursuivait | poursuiv-ait  1 
- poursuivent | poursuiv-ent  2 
-
- 
-('e', 'é') : 
- surveillé | surveill-é  1 
- allume | allum-e  2 
- allumé | allum-é  1 
- douté | dout-é  1 
- mangé | mang-é  3 
- doute | dout-e  2 
- mange | mang-e  5 
- couche | couch-e  2 
- surveille | surveill-e  1 
- couché | couch-é  1 
-
- 
-('ables', 'e', 'ement') : 
- raisonne | raisonn-e  1 
- raisonnables | raisonn-ables  2 
- raisonnement | raisonn-ement  1 
-
- 
-('é', 'ément') : 
- décidé | décid-é  2 
- décidément | décid-ément  3 
-
- 
-('ai', 'e') : 
- éprouve | éprouv-e  2 
- éprouvai | éprouv-ai  1 
-
- 
-('es',) : 
- regrettes | regrett-es  1 
- homes | hom-es  1 
-
- 
-('nt', 'rai') : 
- agitent | agite-nt  1 
- agiterai | agite-rai  1 
-
- 
-('e',) : 
- enquète | enquèt-e  2 
- devinre | devinr-e  1 
- science | scienc-e  1 
- expérience | expérienc-e  1 
- tombée | tombé-e  1 
- soixante | soixant-e  2 
- afrique | afriqu-e  3 
- minute | minut-e  5 
- moindre | moindr-e  1 
- découverte | découvert-e  2 
- fragile | fragil-e  3 
- dédicace | dédicac-e  1 
- répondre | répondr-e  2 
- feuille | feuill-e  1 
- carrosse | carross-e  1 
- muselière | muselièr-e  5 
- télescope | télescop-e  1 
- obéie | obéi-e  1 
- bonne | bonn-e  6 
- chute | chut-e  2 
- dedicace | dedicac-e  1 
- exemplaire | exemplair-e  1 
- immobile | immobil-e  1 
- monotonie | monotoni-e  1 
- eusse | euss-e  2 
- consigne | consign-e  9 
- pacifique | pacifiqu-e  1 
- pensée | pensé-e  1 
- sèche | sèch-e  1 
- supporte | support-e  1 
- locomotive | locomotiv-e  1 
- interrompue | interrompu-e  1 
- ignore | ignor-e  2 
- raisonnable | raisonnabl-e  3 
- astronome | astronom-e  3 
- venue | venu-e  1 
- discipline | disciplin-e  1 
- panne | pann-e  3 
- amérique | amériqu-e  2 
- intimide | intimid-e  1 
- vigne | vign-e  1 
- quelconque | quelconqu-e  1 
- bouche | bouch-e  1 
- fauve | fauv-e  1 
- journée | journé-e  2 
- nonchalance | nonchalanc-e  1 
- craindre | craindr-e  1 
- herbe | herb-e  6 
- monde | mond-e  14 
- mystère | mystèr-e  3 
- silence | silenc-e  10 
- possible | possibl-e  3 
- poupée | poupé-e  1 
- tâtonne | tâtonn-e  1 
- invisible | invisibl-e  4 
- catastrophe | catastroph-e  1 
- drôle | drôl-e  8 
- course | cours-e  1 
- contraire | contrair-e  1 
- plante | plant-e  3 
- mordre | mordr-e  1 
- justice | justic-e  2 
- promène | promèn-e  1 
- promesse | promess-e  2 
- example | exampl-e  1 
- aille | aill-e  1 
- abîme | abîm-e  1 
- origine | origin-e  1 
- téléscope | téléscop-e  1 
- absence | absenc-e  1 
- vieille | vieill-e  2 
- image | imag-e  2 
- splendide | splendid-e  1 
- évidence | évidenc-e  1 
- abritée | abrité-e  1 
- échange | échang-e  1 
- croire | croir-e  1 
- arrivée | arrivé-e  1 
- légende | légend-e  1 
- épargne | épargn-e  1 
- bénie | béni-e  1 
- acclame | acclam-e  1 
- apportée | apporté-e  1 
- ivrogne | ivrogn-e  1 
- laissée | laissé-e  1 
- enrhumée | enrhumé-e  1 
- légère | légèr-e  1 
- contre | contr-e  7 
- indiscipline | indisciplin-e  1 
- voire | voir-e  1 
- malade | malad-e  1 
- résiste | résist-e  1 
- quelque | quelqu-e  13 
- hermine | hermin-e  3 
- consolée | consolé-e  1 
- prochaine | prochain-e  2 
- belle | bell-e  5 
- astronomie | astronomi-e  1 
- compte | compt-e  5 
- espérence | espérenc-e  1 
- cache | cach-e  2 
- chose | chos-e  14 
- douze | douz-e  3 
- ordre | ordr-e  5 
- morsure | morsur-e  1 
- nouvelle | nouvell-e  1 
- visage | visag-e  1 
- distingue | distingu-e  1 
- encore | encor-e  39 
- armure | armur-e  1 
- guerre | guerr-e  1 
- courroie | courroi-e  1 
- avance | avanc-e  1 
- trente | trent-e  6 
- triste | trist-e  10 
- grave | grav-e  2 
- caisse | caiss-e  3 
- recompte | recompt-e  1 
- russie | russi-e  1 
- abandonnée | abandonné-e  2 
- tolère | tolèr-e  1 
- cheville | chevill-e  2 
- rejoindre | rejoindr-e  1 
- patience | patienc-e  1 
- entrée | entré-e  1 
- pourpre | pourpr-e  1 
- difficile | difficil-e  5 
- chambre | chambr-e  1 
- approche | approch-e  1 
- tonnere | tonner-e  1 
- anniversaire | anniversair-e  1 
- preuve | preuv-e  2 
- désobéissance | désobéissanc-e  1 
- attendre | attendr-e  4 
- encre | encr-e  1 
- rapide | rapid-e  4 
- publique | publiqu-e  1 
- découvre | découvr-e  1 
- facile | facil-e  1 
- montagne | montagn-e  4 
- sagesse | sagess-e  1 
- indulgence | indulgenc-e  1 
- quinze | quinz-e  2 
- terre | terr-e  23 
- chapitre | chapitr-e  27 
- pousse | pouss-e  1 
- cette | cett-e  37 
- neige | neig-e  1 
- cinquième | cinquièm-e  2 
- zélande | zéland-e  1 
- fraîche | fraîch-e  1 
- astreindre | astreindr-e  1 
- corrige | corrig-e  1 
- colère | colèr-e  1 
- première | premièr-e  4 
- injuste | injust-e  1 
- responsable | responsabl-e  5 
- géographie | géographi-e  4 
- posée | posé-e  4 
- ravissante | ravissant-e  1 
- oeuvre | oeuvr-e  1 
- naive | naiv-e  1 
- drame | dram-e  2 
- montrée | montré-e  1 
- gauche | gauch-e  1 
- orgueilleuse | orgueilleus-e  1 
- prendre | prendr-e  1 
- gagne | gagn-e  2 
- reconnaître | reconnaîtr-e  4 
- guère | guèr-e  1 
- collectionne | collectionn-e  1 
- lucide | lucid-e  1 
- ensemble | ensembl-e  2 
- huitième | huitièm-e  1 
- carrière | carrièr-e  2 
- ensoleillée | ensoleillé-e  1 
- quarante | quarant-e  3 
- ordinaire | ordinair-e  2 
- confidence | confidenc-e  1 
- trace | trac-e  1 
- défendre | défendr-e  1 
- coquette | coquett-e  1 
- tienne | tienn-e  1 
- désire | désir-e  1 
- connaître | connaîtr-e  9 
- lorsque | lorsqu-e  4 
- rhumatisme | rhumatism-e  1 
- tâche | tâch-e  2 
- seconde | second-e  5 
- écoutée | écouté-e  1 
- surprendre | surprendr-e  1 
- obéissance | obéissanc-e  1 
- compliquée | compliqué-e  1 
- crépuscule | crépuscul-e  1 
- étiquette | étiquett-e  1 
- taire | tair-e  1 
- fièvre | fièvr-e  1 
- poulie | pouli-e  6 
- redescendre | redescendr-e  1 
- politique | politiqu-e  1 
- flamme | flamm-e  1 
- connaissance | connaissanc-e  1 
- tragédie | tragédi-e  1 
- grâce | grâc-e  3 
- préfère | préfèr-e  1 
- moraliste | moralist-e  1 
- chante | chant-e  1 
- droite | droit-e  1 
- copie | copi-e  1 
- vexée | vexé-e  1 
- arbre | arbr-e  2 
- livre | livr-e  7 
- monotone | monoton-e  1 
- faire | fair-e  18 
- sibérie | sibéri-e  1 
- tonnaire | tonnair-e  1 
- européenne | européenn-e  1 
- absurde | absurd-e  4 
- poche | poch-e  4 
- honte | hont-e  4 
- ridicule | ridicul-e  2 
- haute | haut-e  2 
- quatrième | quatrièm-e  2 
- émouvante | émouvant-e  1 
- jungle | jungl-e  1 
- verte | vert-e  1 
- ministre | ministr-e  2 
- puisque | puisqu-e  9 
- cabine | cabin-e  1 
- rouillée | rouillé-e  1 
- ombrageuse | ombrageus-e  1 
- dernière | dernièr-e  3 
- faute | faut-e  6 
- confrère | confrèr-e  1 
- vierge | vierg-e  1 
- notre | notr-e  2 
- miraculeuse | miraculeus-e  1 
- geste | gest-e  2 
- ensuite | ensuit-e  1 
- pierre | pierr-e  2 
- mince | minc-e  1 
- minuscule | minuscul-e  1 
- cinquante | cinquant-e  4 
- septième | septièm-e  1 
- monarque | monarqu-e  5 
- messe | mess-e  1 
- signifie | signifi-e  11 
- juste | just-e  5 
- enlève | enlèv-e  1 
- quarrante | quarrant-e  2 
- présence | présenc-e  2 
- courte | court-e  1 
- foudre | foudr-e  1 
- espèce | espèc-e  1 
- lugubre | lugubr-e  1 
- plaindre | plaindr-e  1 
- courage | courag-e  1 
- musique | musiqu-e  2 
- rouge | roug-e  1 
- amuse | amus-e  1 
- risque | risqu-e  2 
- rentre | rentr-e  1 
- mélancolique | mélancoliqu-e  2 
- quelle | quell-e  7 
- globe | glob-e  5 
- jaune | jaun-e  1 
- grande | grand-e  13 
- carabine | carabin-e  1 
- route | rout-e  3 
- supplie | suppli-e  1 
- fausse | fauss-e  1 
- girouette | girouett-e  1 
- surprise | surpris-e  1 
- corde | cord-e  3 
- source | sourc-e  1 
- impitoyable | impitoyabl-e  1 
- époque | époqu-e  1 
- appelle | appell-e  1 
- bizarre | bizarr-e  1 
- sixième | sixièm-e  1 
- extraordinaire | extraordinair-e  3 
- étoile | étoil-e  10 
- mystérieuse | mystérieus-e  1 
- lumière | lumièr-e  2 
- pusse | puss-e  1 
- costume | costum-e  2 
- mémoire | mémoir-e  1 
- tendresse | tendress-e  1 
- europe | europ-e  1 
- importe | import-e  7 
- utile | util-e  5 
- écrire | écrir-e  1 
- confiance | confianc-e  1 
- envie | envi-e  2 
- mensonge | mensong-e  1 
- salée | salé-e  1 
- fidèle | fidèl-e  2 
- exercice | exercic-e  1 
- semblable | semblabl-e  5 
- votre | votr-e  4 
- calme | calm-e  1 
- essaie | essai-e  1 
- réverbère | réverbèr-e  11 
- portée | porté-e  1 
- rhume | rhum-e  1 
- dessinée | dessiné-e  1 
- chine | chin-e  2 
- autre | autr-e  16 
- importance | importanc-e  3 
- halte | halt-e  1 
- démontage | démontag-e  1 
- vaste | vast-e  1 
- arbuste | arbust-e  1 
- mente | ment-e  1 
- irréparable | irréparabl-e  1 
- rêverie | rêveri-e  1 
- chaque | chaqu-e  4 
- chaise | chais-e  3 
- compréhensive | compréhensiv-e  1 
- traîne | traîn-e  1 
- menacée | menacé-e  1 
- étrange | étrang-e  1 
- entière | entièr-e  1 
- homme | homm-e  10 
- astéroide | astéroid-e  6 
- parce | parc-e  10 
- donnée | donné-e  1 
- éphémère | éphémèr-e  4 
- étire | étir-e  1 
- préambule | préambul-e  1 
- ruine | ruin-e  1 
- toute | tout-e  15 
- crise | cris-e  1 
- mauvaise | mauvais-e  2 
- nulle | null-e  1 
- inverse | invers-e  1 
- riche | rich-e  4 
- trône | trôn-e  1 
- personne | personn-e  27 
- morde | mord-e  1 
- excuse | excus-e  3 
- problème | problèm-e  2 
- troisième | troisièm-e  4 
- fantaisie | fantaisi-e  1 
- celle | cell-e  5 
- régistre | régistr-e  1 
- paysage | paysag-e  3 
- faible | faibl-e  2 
- sérieuse | sérieus-e  2 
- large | larg-e  1 
- ancienne | ancienn-e  1 
- magnifique | magnifiqu-e  3 
- existe | exist-e  5 
- lampe | lamp-e  1 
- rancune | rancun-e  1 
- humiliée | humilié-e  1 
- grammaire | grammair-e  2 
- aucune | aucun-e  2 
- instruire | instruir-e  1 
- remettre | remettr-e  2 
- suivante | suivant-e  1 
- mélancolie | mélancoli-e  4 
- naître | naîtr-e  1 
- réserve | réserv-e  1 
- mienne | mienn-e  3 
- décrire | décrir-e  2 
- fenêtre | fenêtr-e  1 
- réponse | répons-e  2 
- perfore | perfor-e  1 
- genre | genr-e  1 
- fripée | fripé-e  1 
- machine | machin-e  2 
- forme | form-e  1 
- proche | proch-e  1 
- village | villag-e  3 
- aiguillage | aiguillag-e  1 
- expédie | expédi-e  1 
- éteindre | éteindr-e  3 
- table | tabl-e  1 
- décoifée | décoifé-e  1 
- perplexe | perplex-e  1 
- encombre | encombr-e  1 
- sourire | sourir-e  2 
- prenne | prenn-e  2 
- faille | faill-e  1 
- arrosée | arrosé-e  1 
- planète | planèt-e  62 
- grosse | gross-e  1 
- battre | battr-e  1 
- caravane | caravan-e  1 
- urgence | urgenc-e  1 
- stylographe | stylograph-e  1 
- danse | dans-e  1 
- cheminée | cheminé-e  1 
- boîte | boît-e  1 
- intelligence | intelligenc-e  1 
- poétique | poétiqu-e  1 
- écorce | écorc-e  2 
- avale | aval-e  1 
- atteindre | atteindr-e  1 
- sotte | sott-e  1 
- joindre | joindr-e  1 
- encombrée | encombré-e  1 
- langage | langag-e  1 
- margelle | margell-e  1 
- épouvantable | épouvantabl-e  1 
- double | doubl-e  1 
- modèle | modèl-e  1 
- bonhomme | bonhomm-e  13 
- capable | capabl-e  1 
- derrière | derrièr-e  1 
- apparence | apparenc-e  1 
- brindille | brindill-e  2 
- rapporte | rapport-e  1 
- agisse | agiss-e  1 
- goutte | goutt-e  1 
- peintre | peintr-e  1 
- apprendre | apprendr-e  1 
- armée | armé-e  2 
- brusquerie | brusqueri-e  1 
- scène | scèn-e  1 
- respectée | respecté-e  1 
- cigarette | cigarett-e  1 
- chance | chanc-e  4 
- peinture | peintur-e  1 
- tranquille | tranquill-e  2 
- australie | australi-e  1 
- éloignée | éloigné-e  1 
- toilette | toilett-e  3 
- honnaîte | honnaît-e  1 
- inutile | inutil-e  2 
- sienne | sienn-e  1 
- entendre | entendr-e  5 
- exemple | exempl-e  4 
- quatre | quatr-e  11 
- proie | proi-e  1 
- oubliée | oublié-e  1 
- terrible | terribl-e  1 
- croître | croîtr-e  1 
- navire | navir-e  1 
- royaume | royaum-e  1 
- curieuse | curieus-e  1 
- prince | princ-e  207 
- commode | commod-e  1 
- année | anné-e  3 
- onlise | onlis-e  1 
- graine | grain-e  2 
- unique | uniqu-e  8 
- grandiose | grandios-e  1 
- banque | banqu-e  1 
- semaine | semain-e  2 
- bridge | bridg-e  1 
- mesure | mesur-e  1 
- pointue | pointu-e  1 
- apparaître | apparaîtr-e  2 
- lassitude | lassitud-e  1 
-
- 
-('i',) : 
- soulevai | souleva-i  1 
- voici | voic-i  4 
- xxvii | xxvi-i  1 
- réussi | réuss-i  3 
- jeudi | jeud-i  2 
- servi | serv-i  2 
- preurerai | preurera-i  1 
- réfléchi | réfléch-i  1 
- xxiii | xxii-i  1 
- autrui | autru-i  1 
- celui | celu-i  14 
- astéroi | astéro-i  2 
- enfoui | enfou-i  1 
- ainsi | ains-i  15 
- aussi | auss-i  33 
- inquiéterai | inquiétera-i  1 
- cramoisi | cramois-i  1 
- endormi | endorm-i  3 
- xviii | xvii-i  1 
- abaissai | abaissa-i  1 
- hissai | hissa-i  1 
- berçai | berça-i  1 
- fourni | fourn-i  1 
- pourquoi | pourquo-i  18 
- dormi | dorm-i  2 
-
- 
-('ges',) : 
- rouges | rou-ges  1 
-
- 
-('eau',) : 
- anneau | ann-eau  1 
-
- 
-('e', 'ent', 'er', 'ez', 'é') : 
- voyagent | voyag-ent  2 
- voyagez | voyag-ez  1 
- voyagé | voyag-é  1 
- voyager | voyag-er  1 
- voyage | voyag-e  7 
-
- 
-('rai',) : 
- apercevrai | apercev-rai  1 
-
- 
-('r',) : 
- arrosoir | arrosoi-r  1 
- bonheur | bonheu-r  1 
- souffrir | souffri-r  1 
- dictateur | dictateu-r  1 
- réjouir | réjoui-r  1 
- lueur | lueu-r  1 
- meilleur | meilleu-r  2 
- vieillir | vieilli-r  1 
- autour | autou-r  3 
- jupiter | jupite-r  1 
- chauffer | chauffe-r  1 
- mâcher | mâche-r  1 
- ambassadeur | ambassadeu-r  1 
- intérieur | intérieu-r  1 
- avertir | averti-r  1 
- enfuir | enfui-r  1 
- plaisir | plaisi-r  4 
- revenir | reveni-r  2 
- dormir | dormi-r  3 
- condamner | condamne-r  1 
- cueillir | cueilli-r  2 
- pouvoir | pouvoi-r  3 
- devoir | devoi-r  1 
- trésor | tréso-r  3 
- protéger | protége-r  2 
- explorateur | explorateu-r  9 
- révolver | révolve-r  1 
- douceur | douceu-r  3 
- vouloir | vouloi-r  1 
- tiroir | tiroi-r  1 
- servir | servi-r  2 
- monsieur | monsieu-r  5 
- calendrier | calendrie-r  1 
- amour | amou-r  1 
- bonjour | bonjou-r  21 
- bonsoir | bonsoi-r  2 
- recevoir | recevoi-r  1 
- flâner | flâne-r  1 
- apercevoir | apercevoi-r  1 
- annoncer | annonce-r  1 
- avoir | avoi-r  7 
- mourir | mouri-r  3 
- horreur | horreu-r  2 
- débarasser | débarasse-r  1 
- aiguilleur | aiguilleu-r  7 
- entretenir | entreteni-r  1 
- repartir | reparti-r  2 
- tenir | teni-r  2 
- piloter | pilote-r  1 
- buveur | buveu-r  8 
- coeur | coeu-r  9 
- rêver | rêve-r  1 
- gonfler | gonfle-r  1 
- infliger | inflige-r  1 
- expliquer | explique-r  1 
- entasser | entasse-r  1 
- moteur | moteu-r  3 
- couleur | couleu-r  7 
- humeur | humeu-r  1 
- mourrir | mourri-r  3 
- souvenir | souveni-r  5 
- espoir | espoi-r  1 
- admirateur | admirateu-r  1 
- pommier | pommie-r  1 
- asseoir | asseoi-r  4 
- retenir | reteni-r  1 
- appliquer | applique-r  1 
- mouchoir | mouchoi-r  1 
- solliciter | sollicite-r  1 
- rêvasser | rêvasse-r  2 
- dévisser | dévisse-r  1 
- reigner | reigne-r  1 
- bélier | bélie-r  1 
- grandir | grandi-r  1 
- allumeur | allumeu-r  13 
- déjeuner | déjeune-r  2 
- empêcher | empêche-r  1 
- anéantir | anéanti-r  1 
- partir | parti-r  2 
- voyageur | voyageu-r  1 
- secourir | secouri-r  1 
- savoir | savoi-r  6 
- contenir | conteni-r  1 
- échapper | échappe-r  1 
- choisir | choisi-r  1 
- dépenser | dépense-r  1 
- breveter | brevete-r  1 
- devenir | deveni-r  1 
- soupir | soupi-r  2 
- désobéir | désobéi-r  1 
- attendrir | attendri-r  1 
- revoir | revoi-r  3 
-
- 
-('ment', 's') : 
- naivement | naive-ment  1 
- naives | naive-s  1 
-
- 
-('eux',) : 
- ennuyeux | ennuy-eux  1 
- cheveux | chev-eux  4 
- dangereux | danger-eux  1 
- mieux | mi-eux  5 
-
- 
-('a', 'e', 'ent', 'er') : 
- bâillent | bâill-ent  1 
- bâille | bâill-e  1 
- bâiller | bâill-er  4 
- bâilla | bâill-a  2 
-
- 
-('ation', 'ent', 'er', 'ez') : 
- imagination | imagin-ation  1 
- imaginent | imagin-ent  1 
- imaginer | imagin-er  1 
- imaginez | imagin-ez  2 
-
- 
-('mpit',) : 
- interrompit | interro-mpit  1 
-
- 
-('er', 'ez') : 
- parlez | parl-ez  1 
- parler | parl-er  3 
-
- 
-('ndes',) : 
- secondes | seco-ndes  1 
-
- 
-('ent',) : 
- disent | dis-ent  1 
- taisent | tais-ent  1 
- exécutent | exécut-ent  1 
- maintenent | mainten-ent  3 
- étent | ét-ent  1 
- connaissent | connaiss-ent  1 
- voient | voi-ent  2 
-
- 
-('a', 'e', 'ent', 'er', 'é') : 
- cherchent | cherch-ent  5 
- chercha | cherch-a  1 
- chercher | cherch-er  7 
- cherché | cherch-é  2 
- cherche | cherch-e  2 
-
- 
-('ai', 'ent') : 
- dirent | dir-ent  2 
- dirai | dir-ai  1 
-
- 
-('aient',) : 
- éteignaient | éteign-aient  2 
- ébauchaient | ébauch-aient  1 
-
- 
-('o',) : 
- numéro | numér-o  5 
-
- 
-('e', 'er', 'é') : 
- réveiller | réveill-er  2 
- réveille | réveill-e  1 
- consolé | consol-é  2 
- console | consol-e  1 
- réveillé | réveill-é  1 
- consoler | consol-er  1 
-
- 
-('ment', 's', 't') : 
- sentiment | senti-ment  2 
- sentit | senti-t  1 
- sentis | senti-s  1 
-
- 
-('ez',) : 
- conseillerez | conseiller-ez  1 
- pressez | press-ez  1 
- soyez | soy-ez  2 
- devinerez | deviner-ez  1 
- écrivez | écriv-ez  1 
- pardonnez | pardonn-ez  1 
- régnez | régn-ez  1 
- assez | ass-ez  2 
-
- 
-('des',) : 
- mondes | mon-des  1 
-
- 
-('rent', 't') : 
- parurent | paru-rent  1 
- parut | paru-t  2 
-
- 
-('a', 'ai', 'e', 'ent', 'er', 'erez', 'ez', 'é') : 
- demander | demand-er  1 
- demandé | demand-é  1 
- demandai | demand-ai  1 
- demandez | demand-ez  1 
- demanderez | demand-erez  1 
- demande | demand-e  6 
- demandent | demand-ent  1 
- demanda | demand-a  12 
-
- 
-('prit',) : 
- comprit | com-prit  3 
-
- 
-('rdu',) : 
- perdu | pe-rdu  4 
-
- 
-('ation', 'é') : 
- réparation | répar-ation  1 
- réparé | répar-é  1 
-
- 
-('e', 'er', 'ez') : 
- ordonnez | ordonn-ez  1 
- ordonne | ordonn-e  4 
- ordonner | ordonn-er  1 
-
- 
-('e', 'er', 'èrent') : 
- commencèrent | commenc-èrent  1 
- commence | commenc-e  3 
- commencer | commenc-er  2 
-
- 
-('a', 'er', 'é') : 
- ajouté | ajout-é  1 
- pensa | pens-a  2 
- ajouta | ajout-a  11 
- remarqua | remarqu-a  2 
- ajouter | ajout-er  1 
- remarquer | remarqu-er  1 
- penser | pens-er  1 
- remarqué | remarqu-é  1 
- pensé | pens-é  1 
-
- 
-('e', 'ent') : 
- comment | comm-ent  5 
- peuple | peupl-e  2 
- ressemblent | ressembl-ent  4 
- chasse | chass-e  1 
- chassent | chass-ent  2 
- répètent | répèt-ent  1 
- puissent | puiss-ent  1 
- possède | possèd-e  8 
- ressemble | ressembl-e  2 
- cause | caus-e  10 
- comme | comm-e  80 
- paraisse | paraiss-e  1 
- peuplent | peupl-ent  1 
- répète | répèt-e  1 
- possèdent | possèd-ent  1 
- puisse | puiss-e  1 
- causent | caus-ent  1 
- paraissent | paraiss-ent  1 
-
- 
-('der',) : 
- aider | ai-der  2 
-
- 
-('ent', 'ez') : 
- perdent | perd-ent  1 
- perdez | perd-ez  1 
-
- 
-('es', 's') : 
- tempes | temp-es  1 
- temps | temp-s  13 
-
- 
-('ieu',) : 
- milieu | mil-ieu  2 
-
- 
-('a',) : 
- répliqua | répliqu-a  2 
- dépendera | dépender-a  1 
- arizona | arizon-a  1 
- faufilla | faufill-a  1 
- pourra | pourr-a  1 
- répéta | répét-a  6 
- avancera | avancer-a  1 
- aborda | abord-a  1 
- sahara | sahar-a  1 
- ramena | ramen-a  1 
- plaira | plair-a  1 
- enroula | enroul-a  1 
- profita | profit-a  1 
- riposta | ripost-a  1 
- releva | relev-a  1 
- interrogea | interroge-a  2 
- durera | durer-a  1 
- enfonça | enfonç-a  1 
- suffira | suffir-a  1 
- acheva | achev-a  1 
- opéra | opér-a  1 
- cessa | cess-a  1 
- servira | servir-a  1 
- avoua | avou-a  1 
- gronda | grond-a  2 
- recommença | recommenç-a  2 
- devina | devin-a  1 
- trouvera | trouver-a  1 
- découragea | décourage-a  1 
- demeura | demeur-a  1 
- perdra | perdr-a  1 
- découvrira | découvrir-a  1 
- informa | inform-a  2 
- plongea | plonge-a  2 
- soupira | soupir-a  1 
- souffla | souffl-a  1 
- épongea | éponge-a  1 
- remua | remu-a  1 
- imposa | impos-a  1 
- commença | commenç-a  2 
- consulta | consult-a  1 
- entoura | entour-a  1 
- traversa | travers-a  1 
- émerveilla | émerveill-a  1 
- désigna | désign-a  1 
- appelera | appeler-a  1 
- salua | salu-a  2 
-
- 
-('ient',) : 
- revient | rev-ient  1 
- menaient | mena-ient  1 
- riaient | ria-ient  1 
-
- 
-('ait', 'e') : 
- boire | boir-e  8 
- boirait | boir-ait  1 
-
- 
-('ait', 'ant', 'e', 'er', 'é') : 
- passer | pass-er  2 
- passant | pass-ant  1 
- passé | pass-é  1 
- passe | pass-e  2 
- passait | pass-ait  1 
-
- 
-('a', 'ai', 'ant', 'e', 'er', 'erai', 'ez', 'é') : 
- regardai | regard-ai  2 
- regardez | regard-ez  2 
- regarde | regard-e  3 
- regardé | regard-é  2 
- regardant | regard-ant  2 
- regarder | regard-er  3 
- regarderai | regard-erai  2 
- regarda | regard-a  8 
-
- 
-('ures',) : 
- couleures | coule-ures  1 
-
- 
-('ai', 'ait', 'pent', 'vait', 'vent') : 
- serait | ser-ait  7 
- servait | ser-vait  1 
- servent | ser-vent  3 
- serpent | ser-pent  15 
- serai | ser-ai  2 
-
- 
-('nent', 's') : 
- reviens | revien-s  1 
- reviennent | revien-nent  1 
-
- 
-('eux', 's') : 
- malheurs | malheur-s  1 
- malheureux | malheur-eux  2 
-
- 
-('nent',) : 
- comprennent | compren-nent  2 
-
- 
-('e', 'er', 'erai') : 
- exigerai | exig-erai  1 
- exiger | exig-er  2 
- exige | exig-e  1 
-
- 
-('e', 'es', 'i') : 
- sorti | sort-i  2 
- sorte | sort-e  1 
- sortes | sort-es  1 
-
- 
-('ait', 'ent') : 
- durait | dur-ait  1 
- obéissent | obéiss-ent  2 
- durent | dur-ent  1 
- obéissait | obéiss-ait  1 
-
- 
-('ent', 'it', 's') : 
- entendit | entend-it  1 
- entends | entend-s  2 
- entendent | entend-ent  1 
-
- 
-('r', 'res') : 
- fleures | fleu-res  3 
- fleur | fleu-r  51 
-
- 
-('e', 'er') : 
- visiter | visit-er  2 
- peine | pein-e  10 
- placer | plac-er  1 
- entrer | entr-er  1 
- visite | visit-e  3 
- repose | repos-e  1 
- entre | entr-e  3 
- reposer | repos-er  3 
- place | plac-e  8 
- peiner | pein-er  1 
-
- 
-('é',) : 
- découragé | décourag-é  2 
- songé | song-é  1 
- moralité | moralit-é  2 
- beauté | beaut-é  2 
- mouillé | mouill-é  1 
- fidélité | fidélit-é  1 
- éxisté | éxist-é  1 
- naufragé | naufrag-é  1 
- majesté | majest-é  1 
- agacé | agac-é  1 
- électricité | électricit-é  1 
- obligé | oblig-é  1 
- isolé | isol-é  1 
- bonté | bont-é  1 
- serré | serr-é  3 
- négligé | néglig-é  1 
- objecté | object-é  1 
- volonté | volont-é  1 
- pitié | piti-é  1 
- déconcentré | déconcentr-é  1 
- abandonné | abandonn-é  1 
- sauté | saut-é  1 
- conservé | conserv-é  1 
- activité | activit-é  3 
- renoncé | renonc-é  2 
- terminé | termin-é  1 
- fermé | ferm-é  2 
- infesté | infest-é  1 
- révélé | révél-é  2 
- égaré | égar-é  2 
- oisiveté | oisivet-é  1 
- cassé | cass-é  1 
- immensité | immensit-é  1 
- lâché | lâch-é  1 
- intrigué | intrigu-é  2 
- compliqué | compliqu-é  2 
- étudié | étudi-é  1 
- germé | germ-é  1 
- simplicité | simplicit-é  1 
- vérité | vérit-é  1 
- glacé | glac-é  1 
- menacé | menac-é  1 
- humanité | humanit-é  1 
- malgré | malgr-é  1 
- forcé | forc-é  1 
- refusé | refus-é  1 
- évadé | évad-é  1 
- méchanceté | méchancet-é  1 
- dérangé | dérang-é  1 
- animé | anim-é  1 
- simplifié | simplifi-é  1 
- autorité | autorit-é  3 
- dressé | dress-é  1 
- méprisé | mépris-é  1 
- amélioré | amélior-é  1 
- frotté | frott-é  1 
-
- 
-('u',) : 
- nouveau | nouvea-u  8 
- devenu | deven-u  1 
- bureau | burea-u  1 
- cadeau | cadea-u  5 
- marteau | martea-u  3 
- troupeau | troupea-u  3 
- manteau | mantea-u  2 
- adieu | adie-u  7 
- aperçu | aperç-u  2 
- quelqu | quelq-u  4 
- jusqu | jusq-u  5 
- voulu | voul-u  1 
- puisqu | puisq-u  2 
- tombédu | tombéd-u  1 
- répondu | répond-u  4 
- rideau | ridea-u  1 
- revenu | reven-u  2 
- absolu | absol-u  2 
- connu | conn-u  4 
- détendu | détend-u  1 
- lorsqu | lorsq-u  1 
- genou | geno-u  2 
-
- 
-('ai', 'e', 'er', 'erai', 's', 'é') : 
- dessiner | dessin-er  3 
- dessinerai | dessin-erai  2 
- dessins | dessin-s  3 
- dessinai | dessin-ai  1 
- dessine | dessin-e  5 
- dessiné | dessin-é  6 
-
- 
-('ent', 'eux') : 
- vieux | vi-eux  9 
- vient | vi-ent  1 
-
- 
-('a', 'e', 'er') : 
- ramone | ramon-e  2 
- ramoner | ramon-er  1 
- ramona | ramon-a  2 
-
- 
-('ent', 's') : 
- croient | croi-ent  2 
- crois | croi-s  11 
-
- 
-('a', 'ai') : 
- lançai | lanç-ai  1 
- lança | lanç-a  1 
-
- 
-('ait', 'and', 'e', 'er', 'é') : 
- marche | march-e  3 
- marchait | march-ait  1 
- marché | march-é  2 
- marchand | march-and  3 
- marcher | march-er  3 
-
- 
-('nger', 'peau', 'qu') : 
- changer | cha-nger  2 
- chapeau | cha-peau  7 
- chaqu | cha-qu  2 
-
- 
-('e', 'ent', 'é') : 
- changent | chang-ent  1 
- change | chang-e  3 
- changé | chang-é  3 
-
- 
-('ent', 't') : 
- ressemblait | ressemblai-t  3 
- faisait | faisai-t  5 
- ressemblaient | ressemblai-ent  1 
- faisaient | faisai-ent  1 
- tenaient | tenai-ent  2 
- tenait | tenai-t  1 
-
- 
-('ignon', 's') : 
- champs | champ-s  2 
- champignon | champ-ignon  2 
-
- 
-('ez', 'rai', 's') : 
- attendez | attend-ez  1 
- attends | attend-s  1 
- attendrai | attend-rai  1 
-
- 
-('ation', 'e', 'er') : 
- admiration | admir-ation  1 
- admire | admir-e  2 
- admirer | admir-er  2 
-
- 
-('a', 'e', 'er', 'é') : 
- apprivoisa | apprivois-a  1 
- frappa | frapp-a  1 
- frappe | frapp-e  1 
- frapper | frapp-er  1 
- frappé | frapp-é  1 
- apprivoiser | apprivois-er  3 
- apprivoise | apprivois-e  4 
- apprivoisé | apprivois-é  7 
-
- 
-('a', 'ait', 'e', 'ent', 'er', 'é') : 
- trouve | trouv-e  3 
- trouvait | trouv-ait  1 
- trouva | trouv-a  2 
- trouvent | trouv-ent  3 
- trouver | trouv-er  1 
- trouvé | trouv-é  2 
-
- 
-('onnai',) : 
- griffonnai | griff-onnai  1 
-
- 
-('d', 'dait', 'dit') : 
- répondit | répon-dit  35 
- répond | répon-d  1 
- répondait | répon-dait  2 
-
- 
-('t', 'çai') : 
- effort | effor-t  4 
- efforçai | effor-çai  1 
-
- 
-('e', 'eux') : 
- nombreux | nombr-eux  1 
- heureux | heur-eux  8 
- nombre | nombr-e  1 
- heure | heur-e  7 
-
- 
-('ner',) : 
- promener | prome-ner  1 
-
- 
-('s', 'ses') : 
- mauvaises | mauvai-ses  3 
- mauvais | mauvai-s  2 
-
- 
-('er',) : 
- posséder | posséd-er  3 
- noter | not-er  1 
- aller | all-er  4 
- jouer | jou-er  3 
- papier | papi-er  3 
- éclairer | éclair-er  1 
- voler | vol-er  1 
- léger | lég-er  1 
- porter | port-er  1 
- humilier | humili-er  1 
- terrier | terri-er  1 
- tirer | tir-er  3 
- trember | tremb-er  1 
-
- 
-('ter',) : 
- jeter | je-ter  2 
- vanter | van-ter  1 
-
- 
-('a', 'e', 'é') : 
- fatigua | fatigu-a  1 
- tomba | tomb-a  2 
- tombé | tomb-é  4 
- fatigue | fatigu-e  3 
- fatigué | fatigu-é  2 
- tombe | tomb-e  2 
-
- 
-('e', 'eai', 'er') : 
- interroger | interrog-er  3 
- interroge | interrog-e  2 
- interrogeai | interrog-eai  1 
-
- 
-('ait', 'ent', 'er') : 
- emportent | emport-ent  1 
- emportait | emport-ait  1 
- emporter | emport-er  4 
-
- 
-('a', 'ition') : 
- proposa | propos-a  1 
- proposition | propos-ition  1 
-
- 
-('îtrai',) : 
- connaîtrai | conna-îtrai  1 
-
- 
-('irai',) : 
- sentirai | sent-irai  1 
-
- 
-('a', 'e') : 
- rendre | rendr-e  1 
- touche | touch-e  1 
- comprendre | comprendr-e  10 
- rendra | rendr-a  1 
- hésita | hésit-a  2 
- rencontre | rencontr-e  1 
- arrosa | arros-a  1 
- enferme | enferm-e  2 
- comprendra | comprendr-a  1 
- rencontra | rencontr-a  1 
- enferma | enferm-a  1 
- taille | taill-e  1 
- hésite | hésit-e  1 
- toucha | touch-a  1 
- arrose | arros-e  1 
- tailla | taill-a  1 
-
- 
-('it',) : 
- minuit | minu-it  1 
- considérait | considéra-it  1 
- voyait | voya-it  2 
- enquit | enqu-it  2 
-
- 
-('e', 'ement') : 
- simple | simpl-e  3 
- rayonnement | rayonn-ement  3 
- modestement | modest-ement  2 
- véritablement | véritabl-ement  2 
- rayonne | rayonn-e  2 
- simplement | simpl-ement  1 
- majestueusement | majestueus-ement  1 
- majestueuse | majestueus-e  1 
- modeste | modest-e  1 
- véritable | véritabl-e  3 
-
- 
-('ait', 'e', 'er', 'erai', 'ées') : 
- habitait | habit-ait  1 
- habitées | habit-ées  1 
- habiterai | habit-erai  1 
- habite | habit-e  2 
- habiter | habit-er  1 
-
- 
-('ètes',) : 
- planètes | plan-ètes  4 
-
- 
-('b',) : 
- aplomb | aplom-b  1 
- baobab | baoba-b  3 
-
- 
-('d', 'tion') : 
- attention | atten-tion  1 
- attend | atten-d  1 
-
- 
-('a', 'ai', 'er') : 
- prépara | prépar-a  1 
- préparai | prépar-ai  1 
- préparer | prépar-er  3 
-
- 
-('d',) : 
- aujourd | aujour-d  1 
- renard | renar-d  35 
- grand | gran-d  7 
- second | secon-d  1 
- lourd | lour-d  3 
- regard | regar-d  1 
- accord | accor-d  1 
- froid | froi-d  2 
- entend | enten-d  1 
- hasard | hasar-d  6 
- abord | abor-d  9 
- foulard | foular-d  1 
-
- 
-('e', 'erai') : 
- quitterai | quitt-erai  3 
- quitte | quitt-e  1 
-
- 
-('s', 'ster', 't') : 
- assis | assi-s  4 
- assit | assi-t  4 
- assister | assi-ster  2 
-
- 
-('sser',) : 
- pousser | pou-sser  1 
-
- 
-('ilà',) : 
- voilà | vo-ilà  7 
-
- 
-('a', 'ait', 'e', 'er') : 
- resta | rest-a  1 
- rester | rest-er  1 
- reste | rest-e  2 
- restait | rest-ait  1 
-
- 
-('ement', 'er') : 
- étonnement | étonn-ement  1 
- étonner | étonn-er  1 
-
- 
-('l',) : 
- soleil | solei-l  22 
- calcul | calcu-l  3 
- éternel | éterne-l  1 
- général | généra-l  5 
- orgueil | orguei-l  1 
- travail | travai-l  7 
- universel | universe-l  1 
- détail | détai-l  1 
- métal | méta-l  1 
- international | internationa-l  1 
- essentiel | essentie-l  3 
- nouvel | nouve-l  2 
-
- 
-('ation', 'e', 'ent', 'é') : 
- occupation | occup-ation  2 
- occupe | occup-e  2 
- occupé | occup-é  2 
- occupent | occup-ent  1 
-
- 
-('ait', 'ant', 'e') : 
- semble | sembl-e  1 
- semblait | sembl-ait  6 
- semblant | sembl-ant  2 
-
- 
-('son',) : 
- maison | mai-son  10 
+('ly', 'osed') : 
+ supposed | supp-osed  16 
+ supply | supp-ly  1 
+
+ 
+('dst',) : 
+ midst | mi-dst  1 
+
+ 
+('y',) : 
+ lazily | lazil-y  1 
+ candy | cand-y  4 
+ grimly | griml-y  2 
+ greasy | greas-y  2 
+ nearly | nearl-y  37 
+ breathlessly | breathlessl-y  2 
+ daddy | dadd-y  2 
+ softly | softl-y  4 
+ carelessly | carelessl-y  1 
+ apothecary | apothecar-y  3 
+ gregory | gregor-y  1 
+ forty | fort-y  2 
+ dreamily | dreamil-y  1 
+ plainly | plainl-y  2 
+ ruefully | ruefull-y  1 
+ mutely | mutel-y  1 
+ heavily | heavil-y  4 
+ harry | harr-y  1327 
+ pasty | past-y  3 
+ bushy | bush-y  3 
+ unblinkingly | unblinkingl-y  2 
+ currently | currentl-y  2 
+ happy | happ-y  13 
+ malfay | malfa-y  3 
+ birthday | birthda-y  14 
+ badly | badl-y  5 
+ definitely | definitel-y  3 
+ slowly | slowl-y  20 
+ hardly | hardl-y  22 
+ canary | canar-y  1 
+ gravy | grav-y  2 
+ springy | spring-y  1 
+ safely | safel-y  7 
+ promptly | promptl-y  1 
+ ministry | ministr-y  7 
+ dairy | dair-y  1 
+ merrily | merril-y  4 
+ probably | probabl-y  11 
+ angry | angr-y  15 
+ teddy | tedd-y  2 
+ pomftey | pomfte-y  1 
+ dirty | dirt-y  4 
+ cranberry | cranberr-y  1 
+ timidly | timidl-y  2 
+ guilty | guilt-y  2 
+ swiftly | swiftl-y  3 
+ tabby | tabb-y  4 
+ queasy | queas-y  1 
+ cheerfully | cheerfull-y  3 
+ pompously | pompousl-y  1 
+ really | reall-y  73 
+ differently | differentl-y  1 
+ remarkably | remarkabl-y  1 
+ dully | dull-y  1 
+ already | alread-y  43 
+ raspberry | raspberr-y  1 
+ impressively | impressivel-y  1 
+ noiselessly | noiselessl-y  1 
+ knobbly | knobbl-y  3 
+ tightly | tightl-y  5 
+ completely | completel-y  6 
+ smarmy | smarm-y  1 
+ gloomily | gloomil-y  1 
+ bossy | boss-y  2 
+ fondly | fondl-y  1 
+ hoggy | hogg-y  1 
+ money | mone-y  18 
+ pucey | puce-y  3 
+ astronomy | astronom-y  3 
+ blissfully | blissfull-y  1 
+ anyway | anywa-y  31 
+ mummy | mumm-y  1 
+ silently | silentl-y  7 
+ bitterly | bitterl-y  3 
+ slimy | slim-y  1 
+ tawny | tawn-y  2 
+ halfheartedly | halfheartedl-y  1 
+ smoothly | smoothl-y  2 
+ saturday | saturda-y  7 
+ wickedly | wickedl-y  1 
+ merely | merel-y  1 
+ loudly | loudl-y  18 
+ gallery | galler-y  2 
+ sunny | sunn-y  2 
+ muddy | mudd-y  1 
+ betray | betra-y  1 
+ sleepily | sleepil-y  3 
+ anxiously | anxiousl-y  5 
+ somebody | somebod-y  4 
+ mimsy | mims-y  2 
+ precisely | precisel-y  1 
+ harvey | harve-y  1 
+ separately | separatel-y  1 
+ dittany | dittan-y  1 
+ actually | actuall-y  2 
+ smartly | smartl-y  1 
+ grubby | grubb-y  4 
+ necessary | necessar-y  1 
+ bletchley | bletchle-y  1 
+ malfoy | malfo-y  123 
+ baggy | bagg-y  2 
+ violently | violentl-y  1 
+ worry | worr-y  13 
+ positively | positivel-y  1 
+ hurriedly | hurriedl-y  1 
+ whippy | whipp-y  1 
+ bakery | baker-y  1 
+ stupidly | stupidl-y  2 
+ nearby | nearb-y  2 
+ nastily | nastil-y  2 
+ vigorously | vigorousl-y  2 
+ flimsy | flims-y  1 
+ herbology | herbolog-y  5 
+ usually | usuall-y  11 
+ fortunately | fortunatel-y  1 
+ wrongly | wrongl-y  1 
+ family | famil-y  29 
+ rickety | ricket-y  1 
+ gloomy | gloom-y  4 
+ absolutely | absolutel-y  2 
+ extraordinary | extraordinar-y  2 
+ beefy | beef-y  1 
+ surely | surel-y  3 
+ grumpily | grumpil-y  2 
+ impatiently | impatientl-y  3 
+ accidentally | accidentall-y  2 
+ enjoy | enjo-y  1 
+ ordinary | ordinar-y  9 
+ dramatically | dramaticall-y  1 
+ hopefully | hopefull-y  2 
+ caughty | caught-y  1 
+ carefully | carefull-y  13 
+ rapidly | rapidl-y  1 
+ today | toda-y  15 
+ ferociously | ferociousl-y  1 
+ ceremony | ceremon-y  3 
+ friday | frida-y  4 
+ tapestry | tapestr-y  1 
+ ruddy | rudd-y  3 
+ holiday | holida-y  1 
+ legendary | legendar-y  1 
+ spindly | spindl-y  3 
+ curiously | curiousl-y  5 
+ enemy | enem-y  1 
+ turkey | turke-y  3 
+ furiously | furiousl-y  11 
+ longingly | longingl-y  1 
+ invisibility | invisibilit-y  14 
+ merry | merr-y  3 
+ intently | intentl-y  1 
+ angrily | angril-y  7 
+ perfectly | perfectl-y  5 
+ especially | especiall-y  3 
+ passageway | passagewa-y  8 
+ journey | journe-y  3 
+ filthy | filth-y  1 
+ glory | glor-y  2 
+ hungry | hungr-y  6 
+ penalty | penalt-y  3 
+ naughty | naught-y  2 
+ dinky | dink-y  1 
+ library | librar-y  24 
+ security | securit-y  2 
+ thursday | thursda-y  2 
+ unusually | unusuall-y  2 
+ happily | happil-y  5 
+ saintly | saintl-y  1 
+ misery | miser-y  2 
+ bunny | bunn-y  2 
+ crikey | crike-y  1 
+ crisply | crispl-y  1 
+ jealousy | jealous-y  1 
+ percy | perc-y  39 
+ company | compan-y  2 
+ sunday | sunda-y  1 
+ sternly | sternl-y  1 
+ sadly | sadl-y  3 
+ excitedly | excitedl-y  6 
+ twenty | twent-y  12 
+ paisley | paisle-y  1 
+ constantly | constantl-y  1 
+ alley | alle-y  8 
+ safety | safet-y  1 
+ victory | victor-y  2 
+ everybody | everybod-y  6 
+ starry | starr-y  1 
+ brary | brar-y  1 
+ gingerly | gingerl-y  1 
+ stiffly | stiffl-y  3 
+ gradually | graduall-y  1 
+ uncertainly | uncertainl-y  2 
+ weakly | weakl-y  1 
+ roughly | roughl-y  4 
+ mommy | momm-y  4 
+ funny | funn-y  29 
+ beauty | beaut-y  1 
+ specially | speciall-y  1 
+ weasley | weasle-y  48 
+ carry | carr-y  5 
+ wildly | wildl-y  4 
+ scabby | scabb-y  1 
+ suddenly | suddenl-y  69 
+ fixedly | fixedl-y  1 
+ helplessly | helplessl-y  1 
+ beady | bead-y  2 
+ nervously | nervousl-y  11 
+ chivalry | chivalr-y  1 
+ enviously | enviousl-y  1 
+ country | countr-y  4 
+ agony | agon-y  2 
+ grudgingly | grudgingl-y  1 
+ brightly | brightl-y  4 
+ swarthy | swarth-y  1 
+ nobody | nobod-y  11 
+ certainly | certainl-y  8 
+ halfway | halfwa-y  8 
+ highsecurity | highsecurit-y  1 
+ secondary | secondar-y  1 
+ reasonably | reasonabl-y  1 
+ alchemy | alchem-y  3 
+ sincerely | sincerel-y  1 
+ doorway | doorwa-y  6 
+ steadily | steadil-y  1 
+ mossy | moss-y  1 
+ monday | monda-y  3 
+ mysteriously | mysteriousl-y  1 
+ firmly | firml-y  3 
+ immediately | immediatel-y  4 
+ strangely | strangel-y  5 
+ childishly | childishl-y  1 
+ faithfully | faithfull-y  1 
+ proudly | proudl-y  3 
+ neatly | neatl-y  2 
+ steady | stead-y  2 
+ silkily | silkil-y  1 
+ yesterday | yesterda-y  7 
+ distinctly | distinctl-y  1 
+ ebony | ebon-y  1 
+ bravery | braver-y  3 
+ mostly | mostl-y  1 
+ mandy | mand-y  1 
+ personally | personall-y  1 
+ celebrity | celebrit-y  1 
+ hurry | hurr-y  12 
+ century | centur-y  4 
+ shifty | shift-y  1 
+ naturally | naturall-y  1 
+ mystery | myster-y  1 
+ study | stud-y  9 
+ shaggy | shagg-y  2 
+ dangerously | dangerousl-y  1 
+ shrilly | shrill-y  1 
+ obviously | obviousl-y  13 
+ trolley | trolle-y  1 
+ normally | normall-y  3 
+ daily | dail-y  3 
+ strawberry | strawberr-y  1 
+ glumly | gluml-y  1 
+ lucky | luck-y  17 
+ moldy | mold-y  2 
+ finally | finall-y  23 
+ plenty | plent-y  1 
+ ginny | ginn-y  5 
+ thoughtfully | thoughtfull-y  2 
+ railway | railwa-y  1 
+ mahogany | mahogan-y  2 
+ dursley | dursle-y  56 
+ importantly | importantl-y  2 
+ pansy | pans-y  1 
+ disapprovingly | disapprovingl-y  1 
+ passersby | passersb-y  2 
+ kidney | kidne-y  1 
+ thirty | thirt-y  9 
+ duddy | dudd-y  1 
+ dudley | dudle-y  139 
+ briskly | briskl-y  2 
+ diagonally | diagonall-y  1 
+ secretary | secretar-y  1 
+ theory | theor-y  1 
+ frantically | franticall-y  4 
+ blimey | blime-y  5 
+ silvery | silver-y  4 
+ deputy | deput-y  1 
+ nasty | nast-y  14 
+ calmly | calml-y  3 
+ slightly | slightl-y  7 
+ highway | highwa-y  1 
+ snowy | snow-y  5 
+ strictly | strictl-y  1 
+ contrary | contrar-y  2 
+ dormitory | dormitor-y  10 
+ broadly | broadl-y  1 
+ commentary | commentar-y  1 
+ unfortunately | unfortunatel-y  4 
+ playfully | playfull-y  1 
+ memory | memor-y  2 
+ every | ever-y  54 
+ irritably | irritabl-y  3 
+ urgently | urgentl-y  2 
+ driveway | drivewa-y  1 
+ painfully | painfull-y  2 
+ honestly | honestl-y  6 
+ gateway | gatewa-y  2 
+ gloatingly | gloatingl-y  1 
+ pomfrey | pomfre-y  13 
+ steeply | steepl-y  1 
+ instantly | instantl-y  1 
+ wizardry | wizardr-y  6 
+ particularly | particularl-y  7 
+ tuesday | tuesda-y  3 
+ trophy | troph-y  6 
+ sandy | sand-y  3 
+ owlery | owler-y  4 
+ fluffy | fluff-y  27 
+ hungrily | hungril-y  2 
+ casually | casuall-y  4 
+ mainly | mainl-y  2 
+ slyly | slyl-y  1 
+ easily | easil-y  7 
+ lonely | lonel-y  1 
+ sorry | sorr-y  31 
+ lullaby | lullab-y  1 
+ coldly | coldl-y  4 
+ misty | mist-y  3 
+ unluckily | unluckil-y  1 
+ juicy | juic-y  1 
+ reply | repl-y  1 
+ fletchley | fletchle-y  1 
+ pretty | prett-y  5 
+ shortly | shortl-y  4 
+ ptolemy | ptolem-y  1 
+ sherry | sherr-y  1 
+ terry | terr-y  2 
+ quickly | quickl-y  44 
+ deadly | deadl-y  2 
+ barely | barel-y  5 
+ strongly | strongl-y  4 
+ difficulty | difficult-y  3 
+ sharply | sharpl-y  7 
+ crazy | craz-y  2 
+ mercy | merc-y  3 
+ desperately | desperatel-y  4 
+ fiercely | fiercel-y  2 
+ chimney | chimne-y  2 
+ spectacularly | spectacularl-y  1 
+ extremely | extremel-y  4 
+ surrey | surre-y  1 
+ brilliantly | brilliantl-y  1 
+ stiffily | stiffil-y  1 
+ eagerly | eagerl-y  7 
+ uneasy | uneas-y  2 
+ jelly | jell-y  1 
+ airily | airil-y  1 
+ archway | archwa-y  5 
+ rarely | rarel-y  1 
+ wednesday | wednesda-y  3 
+ astonishingly | astonishingl-y  1 
+ privately | privatel-y  2 
+ velvety | velvet-y  1 
+ awkwardly | awkwardl-y  1 
+ fishy | fish-y  1 
+ pearly | pearl-y  2 
+ fancy | fanc-y  1 
+ greasily | greasil-y  1 
+ properly | properl-y  7 
+ curry | curr-y  1 
+ history | histor-y  7 
+ feverishly | feverishl-y  1 
+ gleefully | gleefull-y  1 
+ shabby | shabb-y  2 
+ exactly | exactl-y  22 
+ anxiety | anxiet-y  1 
+ annoy | anno-y  1 
+ delicately | delicatel-y  1 
+ quietly | quietl-y  14 
+ untidy | untid-y  2 
+ gruffly | gruffl-y  3 
+ scrawny | scrawn-y  2 
+ coolly | cooll-y  3 
+ seriously | seriousl-y  2 
+ bloody | blood-y  9 
+ grassy | grass-y  1 
+
+ 
+('p', 's') : 
+ grasp | gras-p  1 
+ grass | gras-s  8 
+
+ 
+('ick', 'ief', 'ing', 'rew', 'ump') : 
+ thump | th-ump  1 
+ thick | th-ick  14 
+ thief | th-ief  1 
+ thing | th-ing  49 
+ threw | th-rew  17 
+
+ 
+('ling', 'ther') : 
+ further | fur-ther  1 
+ furling | fur-ling  1 
+
+ 
+('pped', 'wed') : 
+ stewed | ste-wed  1 
+ stepped | ste-pped  18 
+
+ 
+('nch', 'rly') : 
+ burly | bu-rly  1 
+ bunch | bu-nch  2 
+
+ 
+('p',) : 
+ championship | championshi-p  4 
+ doorstep | doorste-p  2 
+ bishop | bisho-p  3 
+ mugwump | mugwum-p  1 
+ ketchup | ketchu-p  2 
+ group | grou-p  2 
+ scoop | scoo-p  1 
+ codswallop | codswallo-p  2 
+ asleep | aslee-p  21 
+ cleansweep | cleanswee-p  1 
+ desktop | deskto-p  1 
+ unwrap | unwra-p  4 
+ swoop | swoo-p  1 
+ nonstop | nonsto-p  1 
+ checkup | checku-p  1 
+
+ 
+('nned', 'tter') : 
+ stutter | stu-tter  2 
+ stunned | stu-nned  6 
+
+ 
+('ed', 'er', 'ing', 's') : 
+ cracked | crack-ed  2 
+ cracking | crack-ing  2 
+ cracker | crack-er  1 
+ player | play-er  4 
+ cracks | crack-s  2 
+ playing | play-ing  14 
+ plays | play-s  1 
+ played | play-ed  4 
 
  
 ('d', 't') : 
- quand | quan-d  48 
- quant | quan-t  1 
+ spent | spen-t  11 
+ spend | spen-d  2 
+ build | buil-d  1 
+ built | buil-t  1 
 
  
-('iron',) : 
- environ | env-iron  1 
+('e', 'ed', 'ing', 's') : 
+ breathe | breath-e  5 
+ arguing | argu-ing  2 
+ breathed | breath-ed  2 
+ breaths | breath-s  1 
+ argus | argu-s  1 
+ breathing | breath-ing  6 
+ argued | argu-ed  1 
+ argue | argu-e  4 
 
  
-('don', 'lant', 'liez') : 
- parlant | par-lant  2 
- pardon | par-don  5 
- parliez | par-liez  1 
+('al', 'ed', 'ing') : 
+ arrival | arriv-al  1 
+ arriving | arriv-ing  1 
+ arrived | arriv-ed  17 
 
  
-('ment',) : 
- brusquement | brusque-ment  4 
- doucement | douce-ment  13 
- seulement | seule-ment  3 
+('t', 'tting') : 
+ committing | commi-tting  1 
+ commit | commi-t  1 
 
  
-('ai', 'ait', 'iez') : 
- aurait | aur-ait  3 
- auriez | aur-iez  2 
- aurai | aur-ai  6 
+('ided', 'ked') : 
+ decked | dec-ked  1 
+ decided | dec-ided  11 
 
  
-('lent', 'nt') : 
- avant | ava-nt  4 
- avalent | ava-lent  1 
+('h',) : 
+ yellowish | yellowis-h  3 
+ selfish | selfis-h  1 
+ punch | punc-h  1 
+ aargh | aarg-h  1 
+ teeth | teet-h  9 
+ rubbish | rubbis-h  7 
+ watch | watc-h  18 
+ scratch | scratc-h  1 
+ flash | flas-h  7 
+ oooooh | ooooo-h  1 
+ snitch | snitc-h  18 
+ undursleyish | undursleyis-h  1 
+ beneath | beneat-h  6 
+ lionfish | lionfis-h  1 
+ vanish | vanis-h  2 
+ lunch | lunc-h  3 
+ foolish | foolis-h  4 
+ triumph | triump-h  1 
+ hannah | hanna-h  3 
+ ninth | nint-h  1 
+ radish | radis-h  1 
+ underneath | underneat-h  11 
+ screech | screec-h  3 
+ fourth | fourt-h  3 
+ earth | eart-h  10 
+ welsh | wels-h  1 
+ bewitch | bewitc-h  1 
+ health | healt-h  1 
+ branch | branc-h  1 
+ breath | breat-h  15 
+ filch | filc-h  52 
+ although | althoug-h  11 
+ wristwatch | wristwatc-h  1 
+ twentieth | twentiet-h  2 
+ death | deat-h  10 
+ though | thoug-h  86 
+ oooooooh | ooooooo-h  1 
+ spinach | spinac-h  1 
+ enough | enoug-h  48 
+ stretch | stretc-h  1 
+ grayish | grayis-h  1 
+ aaaaaaaaaargh | aaaaaaaaaarg-h  1 
+ crush | crus-h  1 
+ undergrowth | undergrowt-h  1 
+ warmth | warmt-h  5 
+ stench | stenc-h  1 
+ through | throug-h  125 
+ aaaargh | aaaarg-h  1 
+ smash | smas-h  2 
+ shhhh | shhh-h  2 
+ english | englis-h  1 
+ smooth | smoot-h  3 
+ stomach | stomac-h  6 
+ crash | cras-h  10 
+ catch | catc-h  24 
+ mouth | mout-h  21 
+ flourish | flouris-h  1 
+ finish | finis-h  4 
+ length | lengt-h  2 
+ touch | touc-h  11 
+ cokeworth | cokewort-h  1 
+ truth | trut-h  8 
+ bleaaargh | bleaaarg-h  1 
+ swish | swis-h  3 
+ quidditch | quidditc-h  60 
+ search | searc-h  4 
+ eleventh | elevent-h  1 
+ weigh | weig-h  1 
+ sandwich | sandwic-h  1 
+ reddish | reddis-h  1 
+ strength | strengt-h  3 
 
  
-('t', 'tes') : 
- ouvertes | ouver-tes  1 
- importantes | importan-tes  1 
- ouvert | ouver-t  2 
- important | importan-t  8 
- petites | peti-tes  5 
- petit | peti-t  238 
+('ver',) : 
+ cover | co-ver  3 
+ clever | cle-ver  3 
+ silver | sil-ver  33 
 
  
-('ndes', 'nit') : 
- granit | gra-nit  1 
- grandes | gra-ndes  22 
+('mber',) : 
+ december | dece-mber  1 
 
  
-('e', 'ser') : 
- économie | économi-e  1 
- économiser | économi-ser  1 
+('ies', 'ing') : 
+ movies | mov-ies  1 
+ moving | mov-ing  8 
 
  
-('gent',) : 
- mangent | man-gent  5 
+('k', 'tled') : 
+ whistled | whis-tled  3 
+ whisk | whis-k  1 
 
  
-('ton',) : 
- mouton | mou-ton  33 
+('e', 't') : 
+ spore | spor-e  1 
+ shore | shor-e  1 
+ short | shor-t  5 
+ sport | spor-t  3 
 
  
-('e', 'es') : 
- géographes | géograph-es  1 
- sables | sabl-es  1 
- fontaine | fontain-e  3 
- jeune | jeun-e  2 
- histoires | histoir-es  1 
- sable | sabl-e  10 
- jeunes | jeun-es  1 
- fontaines | fontain-es  1 
- géographe | géograph-e  20 
- histoire | histoir-e  8 
+('mber', 'nces', 'nged', 'pter', 'sed', 'ser', 'tter') : 
+ chamber | cha-mber  15 
+ chances | cha-nces  1 
+ chaser | cha-ser  5 
+ chased | cha-sed  2 
+ chapter | cha-pter  17 
+ chatter | cha-tter  2 
+ changed | cha-nged  11 
 
  
-('vent',) : 
- paravent | para-vent  3 
- doivent | doi-vent  1 
+('hter',) : 
+ laughter | laug-hter  6 
+
+ 
+('e', 'ted') : 
+ scented | scen-ted  1 
+ scene | scen-e  1 
+
+ 
+('aco', 'ink', 'oop') : 
+ draco | dr-aco  10 
+ droop | dr-oop  1 
+ drink | dr-ink  9 
+
+ 
+('les', 'lly', 'och', 'pes', 'tly') : 
+ holly | ho-lly  2 
+ holes | ho-les  1 
+ hotly | ho-tly  1 
+ hopes | ho-pes  1 
+ hooch | ho-och  12 
+
+ 
+('eak', 'eed', 'ied', 'ost') : 
+ freed | fr-eed  1 
+ freak | fr-eak  1 
+ frost | fr-ost  1 
+ fried | fr-ied  1 
+
+ 
+('t', 'ved') : 
+ desert | deser-t  1 
+ deserved | deser-ved  1 
+
+ 
+('red',) : 
+ bothered | bothe-red  3 
+ undred | und-red  1 
+ tired | ti-red  6 
+ lowered | lowe-red  3 
+
+ 
+('ging', 'king') : 
+ clinking | clin-king  1 
+ clinging | clin-ging  1 
+
+ 
+('ed', 'ing', 'n', 's') : 
+ shown | show-n  3 
+ showing | show-ing  7 
+ showed | show-ed  16 
+ shows | show-s  8 
+
+ 
+('er', 'est', 'ger') : 
+ finger | fin-ger  3 
+ finer | fin-er  2 
+ finest | fin-est  1 
+
+ 
+('e', 'ed', 'ing') : 
+ noticing | notic-ing  9 
+ raised | rais-ed  19 
+ seizing | seiz-ing  1 
+ measured | measur-ed  2 
+ smiled | smil-ed  13 
+ examining | examin-ing  1 
+ score | scor-e  5 
+ celebrated | celebrat-ed  1 
+ force | forc-e  8 
+ wrestle | wrestl-e  1 
+ realize | realiz-e  10 
+ imagined | imagin-ed  2 
+ struggle | struggl-e  1 
+ tremble | trembl-e  1 
+ scoring | scor-ing  1 
+ measure | measur-e  3 
+ imagine | imagin-e  6 
+ surprise | surpris-e  10 
+ ignore | ignor-e  3 
+ smoked | smok-ed  1 
+ measuring | measur-ing  2 
+ rattle | rattl-e  1 
+ smoke | smok-e  6 
+ celebrate | celebrat-e  2 
+ raise | rais-e  2 
+ ignored | ignor-ed  7 
+ confused | confus-ed  4 
+ explode | explod-e  1 
+ scored | scor-ed  2 
+ refused | refus-ed  1 
+ ignoring | ignor-ing  1 
+ struggling | struggl-ing  4 
+ rattled | rattl-ed  4 
+ rattling | rattl-ing  4 
+ seize | seiz-e  3 
+ examine | examin-e  2 
+ refuse | refus-e  3 
+ exploding | explod-ing  1 
+ surprised | surpris-ed  7 
+ seized | seiz-ed  13 
+ trembling | trembl-ing  8 
+ forcing | forc-ing  1 
+ confusing | confus-ing  2 
+ examined | examin-ed  3 
+ refusing | refus-ing  1 
+ realized | realiz-ed  17 
+ imagining | imagin-ing  5 
+ raising | rais-ing  3 
+ trembled | trembl-ed  3 
+ smiling | smil-ing  20 
+ wrestling | wrestl-ing  3 
+ smoking | smok-ing  1 
+ forced | forc-ed  5 
+ surprising | surpris-ing  1 
+ celebrating | celebrat-ing  5 
+ noticed | notic-ed  29 
+ realizing | realiz-ing  4 
+ confuse | confus-e  1 
+ struggled | struggl-ed  4 
+ smile | smil-e  13 
+ wrestled | wrestl-ed  1 
+ exploded | explod-ed  5 
+ notice | notic-e  8 
+
+ 
+('nced',) : 
+ pounced | pou-nced  1 
+ glanced | gla-nced  3 
+
+ 
+('lied',) : 
+ replied | rep-lied  1 
+
+ 
+('d', 'l', 'ping') : 
+ stool | stoo-l  8 
+ stood | stoo-d  37 
+ stooping | stoo-ping  1 
+
+ 
+('ever',) : 
+ however | how-ever  21 
+ forever | for-ever  5 
+
+ 
+('t', 'ta') : 
+ mighta | migh-ta  3 
+ might | migh-t  55 
+
+ 
+('er', 'ling') : 
+ amber | amb-er  1 
+ dangling | dang-ling  3 
+ ambling | amb-ling  1 
+ danger | dang-er  5 
+
+ 
+('ing',) : 
+ carrying | carry-ing  10 
+ riding | rid-ing  1 
+ spotting | spott-ing  1 
+ astonishing | astonish-ing  3 
+ buzzing | buzz-ing  1 
+ discussing | discuss-ing  1 
+ evening | even-ing  14 
+ switching | switch-ing  1 
+ fading | fad-ing  2 
+ belting | belt-ing  1 
+ testing | test-ing  1 
+ messing | mess-ing  2 
+ sending | send-ing  2 
+ pinning | pinn-ing  1 
+ doing | do-ing  34 
+ taking | tak-ing  19 
+ giving | giv-ing  9 
+ calming | calm-ing  1 
+ eating | eat-ing  9 
+ bringing | bring-ing  5 
+ stuttering | stutter-ing  2 
+ selling | sell-ing  2 
+ sprinting | sprint-ing  2 
+ scooping | scoop-ing  1 
+ saying | say-ing  44 
+ dreading | dread-ing  2 
+ spending | spend-ing  1 
+ getting | gett-ing  33 
+ bucking | buck-ing  1 
+ spreading | spread-ing  1 
+ fuming | fum-ing  1 
+ using | us-ing  1 
+ ringing | ring-ing  1 
+ running | runn-ing  14 
+ grinning | grinn-ing  2 
+ copying | copy-ing  3 
+ building | build-ing  3 
+ toasting | toast-ing  1 
+ hiding | hid-ing  7 
+ clapping | clapp-ing  5 
+ joking | jok-ing  5 
+ catching | catch-ing  1 
+ dropping | dropp-ing  3 
+ studying | study-ing  10 
+ spinning | spinn-ing  1 
+ sizing | siz-ing  1 
+ pounding | pound-ing  2 
+ jinxing | jinx-ing  1 
+ prodding | prodd-ing  1 
+ something | someth-ing  132 
+ saving | sav-ing  1 
+ living | liv-ing  11 
+ scowling | scowl-ing  2 
+ swelling | swell-ing  1 
+ comforting | comfort-ing  2 
+ everything | everyth-ing  30 
+ basking | bask-ing  1 
+ emptying | empty-ing  2 
+ humming | humm-ing  1 
+ flying | fly-ing  15 
+ swaying | sway-ing  1 
+ wiping | wip-ing  5 
+ forgetting | forgett-ing  1 
+ thumping | thump-ing  1 
+ nothing | noth-ing  57 
+ paying | pay-ing  1 
+ baking | bak-ing  1 
+ guessing | guess-ing  1 
+ teaching | teach-ing  1 
+ panting | pant-ing  1 
+ waking | wak-ing  1 
+ lining | lin-ing  1 
+ facing | fac-ing  9 
+ bowling | bowl-ing  1 
+ alarming | alarm-ing  1 
+ dragging | dragg-ing  1 
+ falling | fall-ing  2 
+ tying | ty-ing  1 
+ hurtling | hurtl-ing  1 
+ worrying | worry-ing  3 
+ shrinking | shrink-ing  1 
+ icing | ic-ing  1 
+ swapping | swapp-ing  1 
+ flinging | fling-ing  1 
+ trying | try-ing  64 
+ having | hav-ing  15 
+ hurrying | hurry-ing  6 
+ hunting | hunt-ing  1 
+ swearing | swear-ing  1 
+ flitting | flitt-ing  1 
+ fighting | fight-ing  6 
+ meeting | meet-ing  5 
+ waving | wav-ing  8 
+ tripping | tripp-ing  1 
+ boarding | board-ing  1 
+ bursting | burst-ing  4 
+ slipping | slipp-ing  3 
+ poking | pok-ing  4 
+ bothering | bother-ing  1 
+ racing | rac-ing  11 
+ stopping | stopp-ing  1 
+ flooding | flood-ing  1 
+ vacationing | vacation-ing  1 
+ during | dur-ing  10 
+ beginning | beginn-ing  1 
+ sliding | slid-ing  3 
+ arching | arch-ing  1 
+ rising | ris-ing  3 
+ hooting | hoot-ing  1 
+ buying | buy-ing  3 
+ steeling | steel-ing  1 
+ dialing | dial-ing  1 
+ crying | cry-ing  8 
+ setting | sett-ing  3 
+
+ 
+('ked', 'ned', 'ved', 'ver') : 
+ lived | li-ved  9 
+ lined | li-ned  2 
+ liver | li-ver  2 
+ liked | li-ked  14 
+
+ 
+('e', 'ever') : 
+ where | wher-e  109 
+ wherever | wher-ever  6 
+
+ 
+('ered', 'y') : 
+ battered | batt-ered  4 
+ batty | batt-y  1 
+
+ 
+('ung',) : 
+ swung | sw-ung  14 
+
+ 
+('d',) : 
+ destroyed | destroye-d  4 
+ troduced | troduce-d  1 
+ cloud | clou-d  2 
+ rotted | rotte-d  1 
+ approached | approache-d  1 
+ indeed | indee-d  10 
+ unexpected | unexpecte-d  1 
+ background | backgroun-d  1 
+ unsettled | unsettle-d  1 
+ drenched | drenche-d  1 
+ reeled | reele-d  1 
+ brand | bran-d  1 
+ chorused | choruse-d  1 
+ shuddered | shuddere-d  3 
+ announced | announce-d  2 
+ slouched | slouche-d  1 
+ invented | invente-d  2 
+ understood | understoo-d  2 
+ avoid | avoi-d  1 
+ harold | harol-d  1 
+ complicated | complicate-d  2 
+ beyond | beyon-d  1 
+ oiled | oile-d  1 
+ wrinkled | wrinkle-d  2 
+ dotted | dotte-d  2 
+ toward | towar-d  71 
+ jabbed | jabbe-d  2 
+ record | recor-d  3 
+ wicked | wicke-d  3 
+ injured | injure-d  1 
+ forward | forwar-d  34 
+ enraged | enrage-d  1 
+ emerald | emeral-d  6 
+ pound | poun-d  2 
+ declared | declare-d  1 
+ mystified | mystifie-d  1 
+ steamrollered | steamrollere-d  1 
+ disgruntled | disgruntle-d  2 
+ weird | weir-d  2 
+ standard | standar-d  2 
+ assured | assure-d  1 
+ cupboard | cupboar-d  22 
+ offhand | offhan-d  1 
+ untouched | untouche-d  1 
+ spread | sprea-d  3 
+ remind | remin-d  1 
+ chessboard | chessboar-d  1 
+ stand | stan-d  19 
+ shredded | shredde-d  1 
+ nearsighted | nearsighte-d  1 
+ postcard | postcar-d  3 
+ patrolled | patrolle-d  1 
+ blond | blon-d  4 
+ waggled | waggle-d  1 
+ amazed | amaze-d  4 
+ apologized | apologize-d  1 
+ helmeted | helmete-d  1 
+ splattered | splattere-d  1 
+ awkward | awkwar-d  1 
+ demand | deman-d  1 
+ pretend | preten-d  4 
+ outlawed | outlawe-d  1 
+ giggled | giggle-d  1 
+ skyward | skywar-d  3 
+ swaggered | swaggere-d  1 
+ aboard | aboar-d  1 
+ shriveled | shrivele-d  2 
+ restricted | restricte-d  6 
+ ireland | irelan-d  1 
+ backward | backwar-d  6 
+ embarrassed | embarrasse-d  2 
+ organized | organize-d  2 
+ stupid | stupi-d  20 
+ fidgeted | fidgete-d  1 
+ confiscated | confiscate-d  1 
+ lopsided | lopside-d  1 
+ wormwood | wormwoo-d  2 
+ canceled | cancele-d  1 
+ distracted | distracte-d  1 
+ second | secon-d  44 
+ erised | erise-d  7 
+ instead | instea-d  16 
+ howard | howar-d  1 
+ overshadowed | overshadowe-d  1 
+ husband | husban-d  1 
+ involved | involve-d  5 
+ determined | determine-d  3 
+ jostled | jostle-d  3 
+ afterward | afterwar-d  2 
+ award | awar-d  4 
+ observed | observe-d  1 
+ dumbled | dumble-d  1 
+ behind | behin-d  79 
+ bedspread | bedsprea-d  1 
+ boarhound | boarhoun-d  2 
+ afford | affor-d  6 
+ conjured | conjure-d  1 
+ proud | prou-d  7 
+ bound | boun-d  4 
+ pecked | pecke-d  1 
+ england | englan-d  2 
+ unlocked | unlocke-d  2 
+ upturned | upturne-d  1 
+ world | worl-d  25 
+ engraved | engrave-d  1 
+ ceased | cease-d  1 
+ underground | undergroun-d  7 
+ biased | biase-d  1 
+ plowed | plowe-d  1 
+ sound | soun-d  18 
+ wrapped | wrappe-d  7 
+ engulfed | engulfe-d  1 
+ splendid | splendi-d  2 
+ livid | livi-d  1 
+ sniveled | snivele-d  1 
+ round | roun-d  25 
+ sucked | sucke-d  1 
+ ruffled | ruffle-d  4 
+ upward | upwar-d  3 
+ aloud | alou-d  2 
+ legend | legen-d  1 
+ courtyard | courtyar-d  2 
+ field | fiel-d  17 
+ squid | squi-d  1 
+ gossiped | gossipe-d  1 
+ sacked | sacke-d  2 
+ whacked | whacke-d  1 
+ found | foun-d  69 
+ lumbered | lumbere-d  1 
+ downward | downwar-d  3 
+ around | aroun-d  142 
+ threshold | threshol-d  1 
+ bewildered | bewildere-d  3 
+ smudged | smudge-d  1 
+ wound | woun-d  3 
+ overhead | overhea-d  6 
+ understand | understan-d  17 
+ repeated | repeate-d  6 
+ nosebleed | noseblee-d  1 
+ broad | broa-d  2 
+ considered | considere-d  1 
+ beechwood | beechwoo-d  1 
+ dimpled | dimple-d  1 
+ forehead | forehea-d  12 
+ thousand | thousan-d  19 
+ lasted | laste-d  2 
+ onward | onwar-d  2 
+ dumbfounded | dumbfounde-d  1 
+ erupted | erupte-d  2 
+ lipped | lippe-d  1 
+ unafraid | unafrai-d  1 
+ crockford | crockfor-d  3 
+ scuttled | scuttle-d  2 
+ rammed | ramme-d  1 
+ blackboard | blackboar-d  1 
+ foretold | foretol-d  1 
+ sagged | sagge-d  2 
+ vomitflavored | vomitflavore-d  1 
+ liquid | liqui-d  1 
+ boogerflavored | boogerflavore-d  1 
+ bumped | bumpe-d  1 
+ plunged | plunge-d  3 
+ faltered | faltere-d  1 
+ ahead | ahea-d  16 
+ forbid | forbi-d  3 
+ commanded | commande-d  1 
+ occurred | occurre-d  1 
+ absurd | absur-d  1 
+ reward | rewar-d  1 
+ could | coul-d  198 
+ rigid | rigi-d  1 
+ behead | behea-d  1 
+ dabbed | dabbe-d  1 
+ ronald | ronal-d  3 
+ dappled | dapple-d  1 
+ sipped | sippe-d  1 
+ grindelwald | grindelwal-d  2 
+ solid | soli-d  7 
+ depended | depende-d  1 
+ toppled | topple-d  4 
+ afraid | afrai-d  9 
+ clobbered | clobbere-d  1 
+ dunderhead | dunderhea-d  1 
+ hagrid | hagri-d  370 
+ password | passwor-d  3 
+ chortled | chortle-d  2 
+ cobbled | cobble-d  1 
+ defend | defen-d  1 
+ wrenched | wrenche-d  3 
+ interrupted | interrupte-d  3 
+ nudged | nudge-d  1 
+ child | chil-d  2 
+ miffed | miffe-d  1 
+ board | boar-d  6 
+ firsthand | firsthan-d  1 
+ displeased | displease-d  1 
+ childhood | childhoo-d  1 
+ outstretched | outstretche-d  1 
+ strengthened | strengthene-d  1 
+ traveled | travele-d  1 
+ ushered | ushere-d  1 
+ grumbled | grumble-d  1 
+ guard | guar-d  7 
+ cantered | cantere-d  1 
+ glimmered | glimmere-d  1 
+ wizard | wizar-d  48 
+ coward | cowar-d  1 
+ hesitated | hesitate-d  2 
+ should | shoul-d  44 
+ existed | existe-d  1 
+ prepared | prepare-d  2 
+ hoisted | hoiste-d  1 
+ third | thir-d  19 
+ redheaded | redheade-d  1 
+ fluid | flui-d  1 
+ grand | gran-d  1 
+ slumped | slumpe-d  3 
+ unraveled | unravele-d  1 
+ beckoned | beckone-d  1 
+ suspend | suspen-d  1 
+ monkshood | monkshoo-d  2 
+ bellowed | bellowe-d  5 
+ blood | bloo-d  23 
+ clenched | clenche-d  2 
+ exhausted | exhauste-d  1 
+ urged | urge-d  2 
+ ground | groun-d  34 
+
+ 
+('ank', 'ast', 'ink', 'ock') : 
+ blank | bl-ank  2 
+ block | bl-ock  2 
+ blast | bl-ast  2 
+ blink | bl-ink  2 
+
+ 
+('ier', 'y') : 
+ skinnier | skinn-ier  1 
+ skinny | skinn-y  2 
+
+ 
+('iled', 'rter', 'ver') : 
+ quailed | qua-iled  1 
+ quarter | qua-rter  1 
+ quaver | qua-ver  1 
+
+ 
+('e', 'er', 'led') : 
+ strangled | strang-led  1 
+ stranger | strang-er  7 
+ strange | strang-e  23 
+
+ 
+('ed', 'ing', 's', 't') : 
+ burning | burn-ing  3 
+ burned | burn-ed  2 
+ burns | burn-s  1 
+ burnt | burn-t  1 
+
+ 
+('ning',) : 
+ morning | mor-ning  32 
+
+ 
+('d', 's') : 
+ echoes | echoe-s  1 
+ bodies | bodie-s  1 
+ bandages | bandage-s  1 
+ bandaged | bandage-d  1 
+ tangles | tangle-s  1 
+ bodied | bodie-d  1 
+ produces | produce-s  1 
+ produced | produce-d  1 
+ tangled | tangle-d  2 
+ echoed | echoe-d  3 
+
+ 
+('ched', 't') : 
+ flinched | flin-ched  1 
+ flint | flin-t  14 
+
+ 
+('cing',) : 
+ dancing | dan-cing  3 
+
+ 
+('ded', 'sed') : 
+ pleased | plea-sed  19 
+ pleaded | plea-ded  1 
+
+ 
+('ed', 's', 'y') : 
+ parted | part-ed  2 
+ hairs | hair-s  2 
+ horns | horn-s  2 
+ horned | horn-ed  1 
+ parts | part-s  1 
+ party | part-y  2 
+ horny | horn-y  1 
+ hairy | hair-y  4 
+ haired | hair-ed  8 
+
+ 
+('ack',) : 
+ knack | kn-ack  2 
+ aback | ab-ack  1 
+
+ 
+('ing', 'y') : 
+ ready | read-y  16 
+ scratching | scratch-ing  3 
+ kindling | kindl-ing  1 
+ shiny | shin-y  4 
+ scratchy | scratch-y  1 
+ kindly | kindl-y  2 
+ bendy | bend-y  1 
+ reading | read-ing  5 
+ bending | bend-ing  1 
+ shining | shin-ing  2 
+
+ 
+('er', 'y') : 
+ duster | dust-er  1 
+ fuller | full-er  1 
+ dusty | dust-y  2 
+ fully | full-y  1 
 
  
 ('n', 'r') : 
- venin | veni-n  2 
- venir | veni-r  2 
+ bitter | bitte-r  1 
+ bitten | bitte-n  3 
 
  
-('a', 'ait', 'ent', 'er') : 
- pleurer | pleur-er  4 
- pleura | pleur-a  1 
- pleurent | pleur-ent  1 
- pleurait | pleur-ait  1 
+('ed', 'y') : 
+ story | stor-y  11 
+ discovery | discover-y  2 
+ destiny | destin-y  1 
+ discovered | discover-ed  1 
+ squeaky | squeak-y  1 
+ squashed | squash-ed  1 
+ destined | destin-ed  1 
+ squeaked | squeak-ed  4 
+ squashy | squash-y  4 
+ dumpy | dump-y  1 
+ stormed | storm-ed  1 
+ stored | stor-ed  1 
+ chilled | chill-ed  1 
+ dumped | dump-ed  1 
+ stormy | storm-y  1 
+ chilly | chill-y  1 
 
  
-('eux', 's', 'sion') : 
- précieux | préci-eux  1 
- précis | préci-s  1 
- précision | préci-sion  1 
+('ed', 'ing', 'y') : 
+ jumpy | jump-y  1 
+ smelling | smell-ing  1 
+ smelled | smell-ed  4 
+ watering | water-ing  1 
+ glittery | glitter-y  1 
+ curling | curl-ing  1 
+ smelly | smell-y  1 
+ leaky | leak-y  10 
+ flashing | flash-ing  1 
+ jumping | jump-ing  3 
+ watery | water-y  1 
+ curly | curl-y  1 
+ swishing | swish-ing  3 
+ curled | curl-ed  3 
+ watered | water-ed  1 
+ leaked | leak-ed  1 
+ jumped | jump-ed  14 
+ flashed | flash-ed  4 
+ swishy | swish-y  1 
+ swished | swish-ed  1 
+ glittering | glitter-ing  5 
+ flashy | flash-y  1 
+ glittered | glitter-ed  2 
+ leaking | leak-ing  1 
 
  
-('ition', 'u') : 
- apparition | appar-ition  2 
- disparition | dispar-ition  2 
- apparu | appar-u  1 
- disparu | dispar-u  1 
+('ap', 'ck', 'er') : 
+ cheer | che-er  8 
+ cheap | che-ap  1 
+ check | che-ck  2 
 
  
-('nt', 'r') : 
- fabriquer | fabrique-r  1 
- fabriquent | fabrique-nt  1 
+('lder',) : 
+ boulder | bou-lder  1 
 
  
-('ait', 'e', 'ent', 'é') : 
- manquent | manqu-ent  2 
- manquait | manqu-ait  1 
- manqué | manqu-é  1 
- manque | manqu-e  1 
+('lled',) : 
+ expelled | expe-lled  13 
+ swelled | swe-lled  2 
 
  
-('ger',) : 
- loger | lo-ger  1 
- juger | ju-ger  7 
+('w', 'wly') : 
+ narrow | narro-w  10 
+ narrowly | narro-wly  1 
 
  
-('ent', 'rai') : 
- rirai | ri-rai  1 
- rient | ri-ent  1 
+('e', 'ed', 'er') : 
+ receive | receiv-e  1 
+ receiver | receiv-er  1 
+ received | receiv-ed  4 
 
  
-('ait', 'er', 'ez', 'é') : 
- oublié | oubli-é  4 
- oublier | oubli-er  6 
- oubliait | oubli-ait  1 
- oubliez | oubli-ez  1 
+('ic',) : 
+ emetic | emet-ic  2 
+ elfric | elfr-ic  1 
+ nonmagic | nonmag-ic  1 
+ gigantic | gigant-ic  3 
+ fantastic | fantast-ic  2 
+ traffic | traff-ic  3 
+ godric | godr-ic  1 
+ fanatic | fanat-ic  1 
+ elastic | elast-ic  1 
+ basic | bas-ic  1 
+ garlic | garl-ic  2 
+ music | mus-ic  5 
+ hygienic | hygien-ic  1 
+ public | publ-ic  2 
+ alberic | alber-ic  1 
 
  
-('l', 'ment') : 
- gentiment | genti-ment  1 
- gentil | genti-l  2 
+('tta',) : 
+ outta | ou-tta  10 
 
  
-('a', 'aient') : 
- dérangea | dérange-a  1 
- dérangeaient | dérange-aient  1 
+('ever', 'oped') : 
+ whoever | who-ever  1 
+ whooped | who-oped  1 
 
  
-('ger', 'sent') : 
- dansent | dan-sent  1 
- danger | dan-ger  5 
+('ang', 'ing') : 
+ spring | spr-ing  1 
+ sprang | spr-ang  7 
 
  
-('nes',) : 
- bonnes | bon-nes  3 
+('ched', 'dred') : 
+ hunched | hun-ched  2 
+ hundred | hun-dred  29 
 
  
-('eux', 'é') : 
- vanité | vanit-é  1 
- vaniteux | vanit-eux  12 
+('pped',) : 
+ chopped | cho-pped  1 
+ tripped | tri-pped  2 
+ chipped | chi-pped  2 
+ trapped | tra-pped  2 
+ slipped | sli-pped  10 
 
  
-('nc',) : 
- princ | pri-nc  1 
+('ed', 't') : 
+ sight | sigh-t  25 
+ sighed | sigh-ed  8 
+
+ 
+('weed',) : 
+ seaweed | sea-weed  1 
+
+ 
+('ling', 's') : 
+ sparkling | spark-ling  4 
+ sparks | spark-s  7 
+
+ 
+('oop',) : 
+ whoop | wh-oop  1 
+
+ 
+('nder',) : 
+ slender | sle-nder  1 
+
+ 
+('ling',) : 
+ peeling | pee-ling  2 
+ stifling | stif-ling  1 
+ shelling | shel-ling  1 
+ shoveling | shove-ling  1 
+
+ 
+('ing', 'plex') : 
+ complex | com-plex  1 
+ coming | com-ing  34 
+
+ 
+('ed', 'ing', 'ped') : 
+ hopped | hop-ped  2 
+ hoped | hop-ed  4 
+ hoping | hop-ing  11 
+
+ 
+('nned', 'pped', 'tted') : 
+ grinned | gri-nned  5 
+ gritted | gri-tted  1 
+ gripped | gri-pped  3 
+
+ 
+('e', 'ing') : 
+ waffling | waffl-ing  1 
+ chuckling | chuckl-ing  2 
+ leaving | leav-ing  12 
+ behaving | behav-ing  3 
+ savage | savag-e  1 
+ overtaking | overtak-ing  1 
+ choosing | choos-ing  2 
+ chasing | chas-ing  3 
+ whistle | whistl-e  5 
+ freezing | freez-ing  3 
+ vibrate | vibrat-e  1 
+ slope | slop-e  1 
+ drive | driv-e  20 
+ phone | phon-e  1 
+ choose | choos-e  3 
+ change | chang-e  9 
+ escaping | escap-ing  2 
+ cursing | curs-ing  3 
+ escape | escap-e  3 
+ shake | shak-e  8 
+ sloping | slop-ing  1 
+ freeze | freez-e  1 
+ whistling | whistl-ing  2 
+ phoning | phon-ing  1 
+ weaving | weav-ing  1 
+ glance | glanc-e  3 
+ managing | manag-ing  1 
+ judging | judg-ing  1 
+ glancing | glanc-ing  4 
+ concentrating | concentrat-ing  1 
+ chuckle | chuckl-e  1 
+ flame | flam-e  1 
+ waffle | waffl-e  1 
+ behave | behav-e  1 
+ meddling | meddl-ing  1 
+ chase | chas-e  1 
+ interfere | interfer-e  2 
+ vibrating | vibrat-ing  1 
+ judge | judg-e  1 
+ weave | weav-e  1 
+ leave | leav-e  19 
+ changing | chang-ing  2 
+ meddle | meddl-e  1 
+ concentrate | concentrat-e  3 
+ interfering | interfer-ing  2 
+ curse | curs-e  10 
+ savaging | savag-ing  1 
+ overtake | overtak-e  2 
+ flaming | flam-ing  4 
+ manage | manag-e  4 
+ driving | driv-ing  2 
+ shaking | shak-ing  13 
+
+ 
+('ing', 'iped', 'oked', 'ong') : 
+ string | str-ing  1 
+ striped | str-iped  1 
+ strong | str-ong  3 
+ stroked | str-oked  3 
+
+ 
+('king',) : 
+ lurking | lur-king  6 
+
+ 
+('led', 'ped', 'tch') : 
+ pitch | pi-tch  2 
+ piled | pi-led  7 
+ piped | pi-ped  1 
+
+ 
+('d', 'k') : 
+ break | brea-k  15 
+ bread | brea-d  1 
+
+ 
+('e', 'ing', 'y') : 
+ heaving | heav-ing  1 
+ heave | heav-e  1 
+ heavy | heav-y  12 
+
+ 
+('n', 's') : 
+ given | give-n  19 
+ gives | give-s  4 
+ taken | take-n  28 
+ takes | take-s  1 
+ lines | line-s  5 
+ linen | line-n  1 
+
+ 
+('uter',) : 
+ computer | comp-uter  6 
+
+ 
+('eral',) : 
+ funeral | fun-eral  1 
+
+ 
+('llo',) : 
+ hullo | hu-llo  2 
+
+ 
+('ed', 'ing', 'kly', 'ling') : 
+ dared | dar-ed  3 
+ darkly | dar-kly  6 
+ daring | dar-ing  3 
+ darling | dar-ling  1 
+
+ 
+('gler',) : 
+ bungler | bun-gler  1 
+
+ 
+('e', 'es', 'y') : 
+ noisy | nois-y  2 
+ noises | nois-es  2 
+ noise | nois-e  22 
+
+ 
+('turb',) : 
+ disturb | dis-turb  2 
+
+ 
+('ed', 'er', 'ing') : 
+ counting | count-ing  3 
+ glided | glid-ed  3 
+ gliding | glid-ing  4 
+ counter | count-er  4 
+ longed | long-ed  1 
+ glider | glid-er  1 
+ counted | count-ed  4 
+ rubbing | rubb-ing  3 
+ longing | long-ing  1 
+ rubber | rubb-er  1 
+ longer | long-er  3 
+ rubbed | rubb-ed  1 
+
+ 
+('ed', 'ing', 'ow', 's') : 
+ yelled | yell-ed  15 
+ yelling | yell-ing  2 
+ yellow | yell-ow  6 
+ yells | yell-s  1 
+
+ 
+('zed',) : 
+ gazed | ga-zed  1 
+ dazed | da-zed  1 
+ sneezed | snee-zed  1 
+
+ 
+('k', 'r') : 
+ speak | spea-k  20 
+ spear | spea-r  1 
+
+ 
+('ides', 'ist') : 
+ insist | ins-ist  1 
+ insides | ins-ides  2 
+
+ 
+('r',) : 
+ their | thei-r  217 
+ professor | professo-r  181 
+ flavor | flavo-r  9 
+ together | togethe-r  20 
+ repair | repai-r  1 
+ spectacular | spectacula-r  2 
+ customer | custome-r  1 
+ harbor | harbo-r  2 
+ either | eithe-r  23 
+ color | colo-r  3 
+ hamburger | hamburge-r  4 
+ headmaster | headmaste-r  4 
+ friar | fria-r  4 
+ bigger | bigge-r  3 
+ sister | siste-r  14 
+ tidier | tidie-r  1 
+ armor | armo-r  7 
+ inspector | inspecto-r  1 
+ disappear | disappea-r  1 
+ whenever | wheneve-r  2 
+ similar | simila-r  1 
+ favor | favo-r  1 
+ visitor | visito-r  2 
+ discover | discove-r  1 
+ rumor | rumo-r  1 
+ newspaper | newspape-r  7 
+ floor | floo-r  53 
+ knickerbocker | knickerbocke-r  1 
+ enter | ente-r  3 
+ sorcerer | sorcere-r  17 
+ firecracker | firecracke-r  1 
+ bezoar | bezoa-r  3 
+ sinister | siniste-r  1 
+ order | orde-r  4 
+ mutter | mutte-r  3 
+ another | anothe-r  56 
+ oliver | olive-r  5 
+ honor | hono-r  2 
+ mirror | mirro-r  47 
+ unfair | unfai-r  1 
+ gibber | gibbe-r  1 
+ grandmother | grandmothe-r  2 
+ daughter | daughte-r  1 
+ terror | terro-r  2 
+ whichever | whicheve-r  2 
+ grandfather | grandfathe-r  2 
+ scamander | scamande-r  1 
+ jupiter | jupite-r  1 
+ peculiar | peculia-r  4 
+ midair | midai-r  7 
+ unpopular | unpopula-r  1 
+ november | novembe-r  1 
+ vapor | vapo-r  1 
+ neither | neithe-r  10 
+ locomotor | locomoto-r  1 
+ gryffindor | gryffindo-r  86 
+ collar | colla-r  1 
+ neighbor | neighbo-r  1 
+ horror | horro-r  11 
+ butter | butte-r  1 
+ newscaster | newscaste-r  1 
+ thunder | thunde-r  1 
+ conductor | conducto-r  1 
+ utter | utte-r  1 
+ popular | popula-r  1 
+ hammer | hamme-r  1 
+ jigger | jigge-r  1 
+ farther | farthe-r  1 
+ pepper | peppe-r  1 
+ deliver | delive-r  3 
+ sugar | suga-r  2 
+ pewter | pewte-r  3 
+ appear | appea-r  1 
+ trevor | trevo-r  3 
+ centaur | centau-r  8 
+ after | afte-r  68 
+ familiar | familia-r  1 
+ director | directo-r  2 
+ armchair | armchai-r  3 
+ temper | tempe-r  4 
+ trapdoor | trapdoo-r  10 
+ answer | answe-r  22 
+ ollivander | ollivande-r  18 
+ bartender | bartende-r  4 
+ elixir | elixi-r  5 
+ whatever | whateve-r  9 
+ humor | humo-r  1 
+ chair | chai-r  10 
+ escalator | escalato-r  2 
+ september | septembe-r  4 
+ corridor | corrido-r  30 
+ murmur | murmu-r  1 
+ lavender | lavende-r  2 
+ other | othe-r  90 
+ furor | furo-r  1 
+ processor | processo-r  1 
+ downpour | downpou-r  1 
+ caretaker | caretake-r  2 
+ wonder | wonde-r  10 
+ muscular | muscula-r  1 
+ master | maste-r  6 
+ uproar | uproa-r  1 
+ inter | inte-r  2 
+ behavior | behavio-r  1 
+ constrictor | constricto-r  5 
+
+ 
+('k', 'l') : 
+ squeal | squea-l  2 
+ squeak | squea-k  2 
+
+ 
+('ed', 'ing', 's') : 
+ training | train-ing  6 
+ trained | train-ed  1 
+ happens | happen-s  5 
+ screams | scream-s  2 
+ reminds | remind-s  3 
+ calling | call-ing  2 
+ following | follow-ing  9 
+ heads | head-s  19 
+ calls | call-s  2 
+ pelting | pelt-ing  2 
+ rooted | root-ed  2 
+ howled | howl-ed  1 
+ turning | turn-ing  16 
+ sounds | sound-s  3 
+ whispering | whisper-ing  4 
+ guards | guard-s  1 
+ happened | happen-ed  31 
+ howling | howl-ing  7 
+ banged | bang-ed  2 
+ shrieking | shriek-ing  1 
+ looking | look-ing  109 
+ started | start-ed  49 
+ banging | bang-ing  2 
+ roots | root-s  2 
+ guarding | guard-ing  14 
+ shrieked | shriek-ed  5 
+ worked | work-ed  7 
+ wanted | want-ed  46 
+ trains | train-s  1 
+ contains | contain-s  1 
+ shouting | shout-ing  3 
+ happening | happen-ing  4 
+ working | work-ing  10 
+ blocking | block-ing  1 
+ gasping | gasp-ing  2 
+ gasps | gasp-s  2 
+ growled | growl-ed  7 
+ pelted | pelt-ed  1 
+ wanting | want-ing  8 
+ expects | expect-s  1 
+ works | work-s  1 
+ moaning | moan-ing  2 
+ growling | growl-ing  1 
+ answers | answer-s  1 
+ moaned | moan-ed  6 
+ belonging | belong-ing  1 
+ called | call-ed  44 
+ headed | head-ed  10 
+ looked | look-ed  169 
+ turns | turn-s  3 
+ follows | follow-s  2 
+ whispers | whisper-s  2 
+ roars | roar-s  1 
+ bangs | bang-s  2 
+ followed | follow-ed  20 
+ ducked | duck-ed  2 
+ moans | moan-s  1 
+ killed | kill-ed  14 
+ sounded | sound-ed  10 
+ starts | start-s  3 
+ shouts | shout-s  1 
+ rolled | roll-ed  11 
+ ducking | duck-ing  2 
+ killing | kill-ing  2 
+ gasped | gasp-ed  20 
+ answered | answer-ed  4 
+ shouted | shout-ed  29 
+ contained | contain-ed  2 
+ reminding | remind-ing  1 
+ shrieks | shriek-s  2 
+ sounding | sound-ing  7 
+ ducks | duck-s  1 
+ belongs | belong-s  1 
+ screaming | scream-ing  4 
+ heading | head-ing  1 
+ boiling | boil-ing  3 
+ roaring | roar-ing  3 
+ containing | contain-ing  1 
+ blocked | block-ed  4 
+ whispered | whisper-ed  35 
+ howls | howl-s  2 
+ rolls | roll-s  2 
+ expecting | expect-ing  2 
+ wants | want-s  7 
+ roared | roar-ed  4 
+ belonged | belong-ed  3 
+ rooting | root-ing  1 
+ looks | look-s  8 
+ expected | expect-ed  12 
+ turned | turn-ed  77 
+ reminded | remind-ed  10 
+ starting | start-ing  10 
+ kills | kill-s  1 
+ boiled | boil-ed  2 
+ screamed | scream-ed  13 
+ pelts | pelt-s  1 
+ remembering | remember-ing  2 
+ remembers | remember-s  3 
+ towered | tower-ed  3 
+ boils | boil-s  3 
+ rolling | roll-ing  2 
+ remembered | remember-ed  10 
+ growls | growl-s  3 
+ answering | answer-ing  1 
+ towers | tower-s  2 
+ towering | tower-ing  5 
+ blocks | block-s  1 
+ guarded | guard-ed  1 
+
+ 
+('st', 'ther') : 
+ leather | lea-ther  4 
+ least | lea-st  11 
+
+ 
+('tter',) : 
+ smatter | sma-tter  1 
+
+ 
+('a', 'n') : 
+ coulda | could-a  1 
+ couldn | could-n  106 
+
+ 
+('ded',) : 
+ mended | men-ded  1 
+
+ 
+('ch', 'cher', 'rful') : 
+ teacher | tea-cher  13 
+ tearful | tea-rful  1 
+ teach | tea-ch  8 
+
+ 
+('a', 's') : 
+ kinds | kind-s  1 
+ kinda | kind-a  1 
+
+ 
+('k', 'p') : 
+ sleek | slee-k  2 
+ sleep | slee-p  18 
+
+ 
+('ra',) : 
+ opera | ope-ra  1 
+
+ 
+('m',) : 
+ alarm | alar-m  2 
+ uniform | unifor-m  7 
+ bedroom | bedroo-m  6 
+ platform | platfor-m  20 
+ spasm | spas-m  1 
+ freedom | freedo-m  1 
+ staffroom | staffroo-m  2 
+ classroom | classroo-m  12 
+ charm | char-m  3 
+ longbottom | longbotto-m  9 
+ program | progra-m  1 
+ vacuum | vacuu-m  1 
+ inform | infor-m  1 
+ random | rando-m  1 
+ wingardium | wingardiu-m  3 
+ transform | transfor-m  1 
+ tantrum | tantru-m  3 
+ emporium | emporiu-m  2 
+ malcolm | malcol-m  1 
+ madam | mada-m  36 
+ dream | drea-m  10 
+ boredom | boredo-m  1 
+ problem | proble-m  4 
+ bathroom | bathroo-m  5 
+ scream | screa-m  3 
+
+ 
+('ked', 'ker', 'les', 'uch', 'wer') : 
+ power | po-wer  10 
+ poked | po-ked  3 
+ poles | po-les  1 
+ pouch | po-uch  1 
+ poker | po-ker  2 
+
+ 
+('s', 'sbow') : 
+ cross | cros-s  10 
+ crossbow | cros-sbow  5 
+
+ 
+('ng',) : 
+ wrong | wro-ng  18 
 
  
 ('x',) : 
- majesteuex | majesteue-x  1 
- merveilleux | merveilleu-x  2 
- paresseux | paresseu-x  2 
- mystérieux | mystérieu-x  2 
- grincheux | grincheu-x  1 
- sérieux | sérieu-x  15 
- soucieux | soucieu-x  2 
+ phoenix | phoeni-x  4 
+ relax | rela-x  3 
+ snuffbox | snuffbo-x  2 
 
  
-('ier',) : 
- rosier | ros-ier  1 
- métier | mét-ier  2 
+('l', 'ting') : 
+ smell | smel-l  12 
+ smelting | smel-ting  7 
 
  
-('a', 'ait') : 
- faudrait | faudr-ait  1 
- faudra | faudr-a  1 
+('ced', 'ded') : 
+ faced | fa-ced  8 
+ faded | fa-ded  8 
 
  
-('a', 'er') : 
- éclater | éclat-er  1 
- ralluma | rallum-a  2 
- rallumer | rallum-er  2 
- arracher | arrach-er  2 
- arracha | arrach-a  1 
- éclata | éclat-a  1 
+('ched', 'form') : 
+ perched | per-ched  4 
+ perform | per-form  1 
 
  
-('nues', 'tent') : 
- content | con-tent  6 
- connues | con-nues  1 
+('ied', 'y') : 
+ bullied | bull-ied  1 
+ bully | bull-y  1 
 
  
-('nner',) : 
- pardonner | pardo-nner  1 
+('rting',) : 
+ supporting | suppo-rting  1 
 
  
-('mier', 'nd', 'sser') : 
- premier | pre-mier  7 
- prend | pre-nd  2 
- presser | pre-sser  1 
+('o',) : 
+ buffalo | buffal-o  1 
+ baruffio | baruffi-o  1 
+ potato | potat-o  1 
+ dunno | dunn-o  8 
+ video | vide-o  3 
+ palomino | palomin-o  1 
+ humberto | humbert-o  1 
+ inferno | infern-o  1 
+ amigo | amig-o  1 
 
  
-('ver', 'çon') : 
- leçon | le-çon  1 
- lever | le-ver  4 
+('ed', 'ging') : 
+ whined | whin-ed  1 
+ whinging | whin-ging  1 
 
  
-('n',) : 
- sinon | sino-n  2 
- businessman | businessma-n  9 
- collection | collectio-n  2 
- dessin | dessi-n  20 
- jardin | jardi-n  3 
- moyen | moye-n  1 
- chacun | chacu-n  1 
- évasion | évasio-n  1 
- combien | combie-n  4 
- chagrin | chagri-n  2 
- ascension | ascensio-n  1 
- addition | additio-n  1 
- hanneton | hanneto-n  1 
- garçon | garço-n  4 
- exception | exceptio-n  1 
- businessmen | businessme-n  1 
- invention | inventio-n  1 
- révollution | révollutio-n  1 
- opinion | opinio-n  1 
- océan | océa-n  2 
- matin | mati-n  10 
- méchanicien | méchanicie-n  1 
- vilain | vilai-n  1 
- soudain | soudai-n  2 
- besoin | besoi-n  9 
- contemplation | contemplatio-n  1 
- provision | provisio-n  1 
- réflexion | réflexio-n  1 
- papillon | papillo-n  1 
- démonstration | démonstratio-n  2 
- digestion | digestio-n  1 
- migration | migratio-n  1 
- certain | certai-n  1 
- population | populatio-n  1 
- raison | raiso-n  1 
- volcan | volca-n  4 
- aucun | aucu-n  1 
- lendemain | lendemai-n  2 
- réputation | réputatio-n  2 
+('oted', 'tch') : 
+ scotch | sco-tch  1 
+ scooted | sco-oted  1 
 
  
-('ux',) : 
- travaux | trava-ux  1 
+('ed', 'ried', 'ved') : 
+ carved | car-ved  2 
+ cared | car-ed  3 
+ carried | car-ried  10 
 
  
-('s',) : 
- fleuves | fleuve-s  3 
- entendais | entendai-s  1 
- trouves | trouve-s  2 
- églises | église-s  1 
- mouvements | mouvement-s  1 
- après | aprè-s  8 
- dites | dite-s  3 
- prononcés | prononcé-s  1 
- récits | récit-s  1 
- regardais | regardai-s  2 
- toujours | toujour-s  22 
- vides | vide-s  2 
- viens | vien-s  15 
- idées | idée-s  2 
- ressemblants | ressemblant-s  1 
- chenilles | chenille-s  2 
- jours | jour-s  9 
- auxquelles | auxquelle-s  1 
- sahariens | saharien-s  2 
- bêtes | bête-s  2 
- océans | océan-s  2 
- sérieuses | sérieuse-s  4 
- années | année-s  4 
- gênées | gênée-s  1 
- millions | million-s  16 
- respirais | respirai-s  1 
- pierres | pierre-s  2 
- volcaniques | volcanique-s  1 
- reflexions | reflexion-s  1 
- dehors | dehor-s  1 
- arbres | arbre-s  1 
- taisais | taisai-s  4 
- surpris | surpri-s  5 
- rosiers | rosier-s  1 
- détails | détail-s  2 
- enfants | enfant-s  10 
- poules | poule-s  5 
- volcans | volcan-s  12 
- erreurs | erreur-s  1 
- énigmes | énigme-s  1 
- achevéses | achevése-s  1 
- marcheras | marchera-s  1 
- intéressants | intéressant-s  1 
- ébauches | ébauche-s  1 
- familiers | familier-s  1 
- souhaitais | souhaitai-s  1 
- louanges | louange-s  1 
- habitais | habitai-s  1 
- aiguilles | aiguille-s  1 
- indulgents | indulgent-s  1 
- confonds | confond-s  1 
- parles | parle-s  3 
- chiffres | chiffre-s  3 
- faites | faite-s  4 
- vends | vend-s  1 
- chiffons | chiffon-s  1 
- colombes | colombe-s  1 
- dessus | dessu-s  3 
- indications | indication-s  1 
- moutons | mouton-s  6 
- trouvais | trouvai-s  1 
- moquais | moquai-s  1 
- garçons | garçon-s  1 
- dorés | doré-s  1 
- ouverts | ouvert-s  3 
- essayerais | essayerai-s  1 
- allumeurs | allumeur-s  5 
- pendantes | pendante-s  1 
- quelquefois | quelquefoi-s  3 
- brindilles | brindille-s  1 
- souvenirs | souvenir-s  4 
- crains | crain-s  2 
- vénus | vénu-s  1 
- régions | région-s  1 
- neiges | neige-s  1 
- fainéants | fainéant-s  1 
- longtemps | longtemp-s  13 
- étoiles | étoile-s  39 
- griffes | griffe-s  3 
- contradictoires | contradictoire-s  1 
- écorces | écorce-s  1 
- sujets | sujet-s  1 
- explications | explication-s  3 
- tiennes | tienne-s  1 
- serrais | serrai-s  1 
- oreilles | oreille-s  2 
- pétales | pétale-s  3 
- outils | outil-s  1 
- villes | ville-s  3 
- vitres | vitre-s  1 
- lumières | lumière-s  1 
- marchands | marchand-s  2 
- radis | radi-s  1 
- courrants | courrant-s  2 
- longues | longue-s  1 
- poursuivis | poursuivi-s  1 
- aurons | auron-s  1 
- convincues | convincue-s  1 
- géraniums | géranium-s  1 
- congrès | congrè-s  1 
- épines | épine-s  12 
- cherchons | cherchon-s  1 
- experts | expert-s  1 
- ronds | rond-s  1 
- apprennais | apprennai-s  1 
- connais | connai-s  4 
- grelots | grelot-s  4 
- abeilles | abeille-s  1 
- forêts | forêt-s  1 
- connus | connu-s  1 
- gentils | gentil-s  1 
- éruptions | éruption-s  2 
- indes | inde-s  1 
- pourras | pourra-s  2 
- ruses | ruse-s  1 
- dessinerais | dessinerai-s  1 
- caisses | caisse-s  1 
- réflexions | réflexion-s  1 
- serpents | serpent-s  6 
- regarderas | regardera-s  2 
- possèdes | possède-s  1 
- choses | chose-s  11 
- cours | cour-s  1 
- serais | serai-s  2 
- favorables | favorable-s  2 
- mélanges | mélange-s  1 
- sommes | somme-s  2 
- amies | amie-s  1 
- voyais | voyai-s  3 
- épaules | épaule-s  2 
- confus | confu-s  2 
- travers | traver-s  2 
- voudrais | voudrai-s  1 
- voudras | voudra-s  3 
- bâillements | bâillement-s  1 
- souvens | souven-s  1 
- explorateurs | explorateur-s  3 
- marcherais | marcherai-s  1 
- géographies | géographie-s  1 
- vieilles | vieille-s  1 
- renards | renard-s  1 
- aventures | aventure-s  1 
- pilules | pilule-s  1 
- lampions | lampion-s  1 
- mettais | mettai-s  1 
- nuits | nuit-s  1 
- raisons | raison-s  1 
- alors | alor-s  49 
- mîmes | mîme-s  1 
- remords | remord-s  1 
- personnes | personne-s  21 
- comprendras | comprendra-s  1 
- répondis | répondi-s  4 
- ramonés | ramoné-s  1 
- actes | acte-s  1 
- jambes | jambe-s  1 
- apercevais | apercevai-s  1 
- pressés | pressé-s  1 
- énormes | énorme-s  1 
- tiens | tien-s  2 
- compris | compri-s  6 
- pauvres | pauvre-s  1 
- allons | allon-s  2 
- briques | brique-s  1 
- frais | frai-s  1 
- rencontrais | rencontrai-s  1 
- jamais | jamai-s  42 
- endroits | endroit-s  1 
- condamneras | condamnera-s  1 
- aimeras | aimera-s  1 
- admires | admire-s  1 
- étranges | étrange-s  1 
- auprès | auprè-s  2 
- dernières | dernière-s  1 
- pieds | pied-s  1 
- pleines | pleine-s  1 
- reproches | reproche-s  1 
- souvenais | souvenai-s  1 
- éteignais | éteignai-s  1 
- graines | graine-s  5 
- fermés | fermé-s  4 
- retournais | retournai-s  1 
- catastrophes | catastrophe-s  1 
- différentes | différente-s  1 
- éphémères | éphémère-s  1 
- rapides | rapide-s  1 
- gagnes | gagne-s  1 
- ivrognes | ivrogne-s  2 
- pousses | pousse-s  1 
- guides | guide-s  1 
- ajoutais | ajoutai-s  1 
- connaissons | connaisson-s  1 
- éclairées | éclairée-s  1 
- attendis | attendi-s  1 
- herbes | herbe-s  4 
- trois | troi-s  20 
- considérables | considérable-s  1 
- passagers | passager-s  1 
- difficultés | difficulté-s  1 
- auxquels | auxquel-s  1 
- seras | sera-s  5 
- cornes | corne-s  2 
- noirs | noir-s  1 
- cravates | cravate-s  1 
- baobabs | baobab-s  17 
- fusils | fusil-s  1 
- reviendras | reviendra-s  1 
- dimensions | dimension-s  1 
- paquets | paquet-s  1 
- certains | certain-s  1 
- leurs | leur-s  5 
- continents | continent-s  1 
- coquelicots | coquelicot-s  1 
- extraordinaires | extraordinaire-s  1 
- portraits | portrait-s  1 
- supportais | supportai-s  1 
- calculs | calcul-s  1 
- personneûs | personneû-s  1 
- sourires | sourire-s  1 
- centaines | centaine-s  1 
- vécues | vécue-s  1 
- sauvages | sauvage-s  1 
- moquons | moquon-s  1 
- enjambées | enjambée-s  1 
- ordonnais | ordonnai-s  3 
- interdis | interdi-s  1 
- vierges | vierge-s  1 
- routes | route-s  1 
- conditions | condition-s  2 
- lèvres | lèvre-s  2 
- gracieras | graciera-s  1 
- rites | rite-s  1 
- éveillés | éveillé-s  1 
- appris | appri-s  5 
- papillons | papillon-s  3 
- envers | enver-s  1 
- crayons | crayon-s  1 
- insuccès | insuccè-s  1 
- trous | trou-s  1 
- invisibles | invisible-s  1 
- résous | résou-s  1 
- terribles | terrible-s  2 
- coulisses | coulisse-s  1 
- projets | projet-s  1 
- trains | train-s  1 
- chasseurs | chasseur-s  3 
- autres | autre-s  20 
- puits | puit-s  11 
- entendis | entendi-s  1 
- voyageurs | voyageur-s  1 
- mouches | mouche-s  1 
- écrivons | écrivon-s  1 
- bouteilles | bouteille-s  1 
- verras | verra-s  2 
- etats | etat-s  1 
- moins | moin-s  3 
- recevais | recevai-s  1 
- lampes | lampe-s  1 
- belles | belle-s  2 
- éléphants | éléphant-s  2 
- corps | corp-s  3 
- bouleilles | bouleille-s  1 
- minutes | minute-s  5 
- mains | main-s  3 
- entrevis | entrevi-s  1 
- additions | addition-s  2 
- vacances | vacance-s  1 
- fleuries | fleurie-s  1 
- habitants | habitant-s  1 
- ordres | ordre-s  2 
- deviens | devien-s  1 
- nègres | nègre-s  1 
- racines | racine-s  2 
- frères | frère-s  1 
- étonnés | étonné-s  1 
- questions | question-s  4 
- réveillons | réveillon-s  1 
- montagnes | montagne-s  5 
- mèches | mèche-s  1 
- camarades | camarade-s  1 
- mêmes | même-s  2 
- risques | risque-s  1 
- pattes | patte-s  1 
- heures | heure-s  7 
- parfois | parfoi-s  1 
- notons | noton-s  1 
- avions | avion-s  2 
- déserts | désert-s  3 
- creusés | creusé-s  1 
- hommes | homme-s  18 
- perfctionnées | perfctionnée-s  1 
- milliards | milliard-s  2 
- aiguisées | aiguisée-s  1 
- roses | rose-s  9 
- autrefois | autrefoi-s  3 
- apprivoises | apprivoise-s  2 
- admirateurs | admirateur-s  1 
- réverbères | réverbère-s  7 
- tigres | tigre-s  4 
- livres | livre-s  5 
- liens | lien-s  2 
- ouvriras | ouvrira-s  1 
- curiosités | curiosité-s  1 
- problèmes | problème-s  1 
- étions | étion-s  1 
- donnais | donnai-s  1 
- allumais | allumai-s  1 
- elles | elle-s  42 
- larmes | larme-s  2 
- excuses | excuse-s  1 
- promenais | promenai-s  1 
- comprends | comprend-s  2 
- parvins | parvin-s  1 
- doigts | doigt-s  1 
- numéros | numéro-s  1 
- cambouis | camboui-s  1 
- couleurs | couleur-s  1 
- diras | dira-s  2 
- contes | conte-s  1 
- filles | fille-s  1 
- balivernes | baliverne-s  1 
- arbustes | arbuste-s  5 
- aveugles | aveugle-s  1 
- semblables | semblable-s  2 
- aurais | aurai-s  6 
- savants | savant-s  1 
- premiers | premier-s  1 
- rends | rend-s  1 
- tentatives | tentative-s  1 
- dedans | dedan-s  2 
- malentendus | malentendu-s  1 
- grosses | grosse-s  3 
- ordonnes | ordonne-s  1 
- remis | remi-s  1 
- miennes | mienne-s  1 
- repos | repo-s  1 
- contacts | contact-s  1 
- couchers | coucher-s  6 
- réglés | réglé-s  1 
- emportes | emporte-s  1 
- parlons | parlon-s  1 
- ornées | ornée-s  1 
- fenêtres | fenêtre-s  1 
- semaines | semaine-s  1 
- faibles | faible-s  1 
- bizarres | bizarre-s  2 
- simples | simple-s  2 
- preuves | preuve-s  1 
- serrés | serré-s  1 
- volais | volai-s  1 
- depuis | depui-s  4 
- jaunes | jaune-s  1 
- comprenons | comprenon-s  1 
- assoiras | assoira-s  1 
- cents | cent-s  3 
- voyons | voyon-s  1 
- jugeras | jugera-s  1 
- cherches | cherche-s  2 
- mètres | mètre-s  1 
- éternelles | éternelle-s  1 
- tandis | tandi-s  1 
- auras | aura-s  6 
- courus | couru-s  1 
- eûmes | eûme-s  1 
- grandioses | grandiose-s  1 
- sanglots | sanglot-s  1 
- préparatifs | préparatif-s  1 
- univers | univer-s  2 
+('ckly', 'nner', 'rst') : 
+ thickly | thi-ckly  1 
+ thirst | thi-rst  1 
+ thinner | thi-nner  1 
 
  
-('cerai',) : 
- commencerai | commen-cerai  1 
+('k', 'm') : 
+ streak | strea-k  1 
+ stream | strea-m  2 
+ creak | crea-k  1 
+ cream | crea-m  3 
 
  
-('n', 'nnai') : 
- crayon | crayo-n  3 
- crayonnai | crayo-nnai  1 
+('ed', 'sed') : 
+ cured | cur-ed  1 
+ cursed | cur-sed  4 
 
  
-('e', 'es', 's') : 
- seules | seul-es  2 
- seule | seul-e  5 
- seuls | seul-s  4 
+('e',) : 
+ nighttime | nighttim-e  3 
+ drooble | droobl-e  1 
+ marble | marbl-e  8 
+ little | littl-e  71 
+ please | pleas-e  23 
+ marmalade | marmalad-e  2 
+ unbelievable | unbelievabl-e  1 
+ passage | passag-e  4 
+ blame | blam-e  4 
+ ghoulie | ghouli-e  1 
+ handsome | handsom-e  2 
+ fierce | fierc-e  4 
+ knuckle | knuckl-e  1 
+ protective | protectiv-e  1 
+ katie | kati-e  1 
+ suppose | suppos-e  30 
+ bridge | bridg-e  1 
+ mouse | mous-e  2 
+ require | requir-e  1 
+ unfortunate | unfortunat-e  1 
+ close | clos-e  19 
+ message | messag-e  1 
+ collapsible | collapsibl-e  2 
+ goose | goos-e  1 
+ nettle | nettl-e  2 
+ minute | minut-e  15 
+ wrote | wrot-e  1 
+ supreme | suprem-e  1 
+ prune | prun-e  1 
+ pence | penc-e  2 
+ bloke | blok-e  1 
+ telescope | telescop-e  2 
+ pleasure | pleasur-e  1 
+ advice | advic-e  3 
+ couple | coupl-e  8 
+ terence | terenc-e  1 
+ drone | dron-e  1 
+ luggage | luggag-e  1 
+ nibble | nibbl-e  2 
+ troublesome | troublesom-e  1 
+ approve | approv-e  1 
+ uncle | uncl-e  122 
+ adventure | adventur-e  5 
+ complete | complet-e  4 
+ bottle | bottl-e  11 
+ sickle | sickl-e  2 
+ tapdance | tapdanc-e  1 
+ middle | middl-e  13 
+ because | becaus-e  85 
+ ornate | ornat-e  1 
+ these | thes-e  39 
+ pliable | pliabl-e  1 
+ reserve | reserv-e  2 
+ flexible | flexibl-e  1 
+ service | servic-e  1 
+ snake | snak-e  18 
+ yorkshire | yorkshir-e  2 
+ spite | spit-e  1 
+ beetle | beetl-e  2 
+ ghostie | ghosti-e  1 
+ tortoise | tortois-e  1 
+ shame | sham-e  4 
+ postage | postag-e  2 
+ auntie | aunti-e  2 
+ volume | volum-e  1 
+ unlike | unlik-e  1 
+ tingle | tingl-e  1 
+ desire | desir-e  2 
+ huddle | huddl-e  2 
+ toffee | toffe-e  1 
+ guide | guid-e  3 
+ shove | shov-e  1 
+ anyone | anyon-e  39 
+ puncture | punctur-e  1 
+ sardine | sardin-e  1 
+ image | imag-e  1 
+ since | sinc-e  22 
+ glimpse | glimps-e  1 
+ future | futur-e  2 
+ meanwhile | meanwhil-e  5 
+ lunchtime | lunchtim-e  2 
+ budge | budg-e  4 
+ strode | strod-e  7 
+ smuggle | smuggl-e  1 
+ sunrise | sunris-e  1 
+ stalagmite | stalagmit-e  2 
+ algie | algi-e  3 
+ anymore | anymor-e  7 
+ alternative | alternativ-e  1 
+ people | peopl-e  97 
+ impossible | impossibl-e  4 
+ route | rout-e  1 
+ bonfire | bonfir-e  1 
+ minuscule | minuscul-e  1 
+ somewhere | somewher-e  23 
+ nonexplodable | nonexplodabl-e  1 
+ state | stat-e  2 
+ froze | froz-e  1 
+ apple | appl-e  1 
+ trifle | trifl-e  2 
+ airplane | airplan-e  2 
+ valuable | valuabl-e  2 
+ castle | castl-e  23 
+ sleeve | sleev-e  4 
+ muggle | muggl-e  22 
+ amuse | amus-e  2 
+ battle | battl-e  3 
+ slice | slic-e  1 
+ fudge | fudg-e  4 
+ silence | silenc-e  15 
+ persuade | persuad-e  2 
+ firenze | firenz-e  19 
+ cigarette | cigarett-e  1 
+ maybe | mayb-e  19 
+ outrage | outrag-e  1 
+ pineapple | pineappl-e  1 
+ quite | quit-e  36 
+ upside | upsid-e  1 
+ porcupine | porcupin-e  1 
+ unwelcome | unwelcom-e  1 
+ concrete | concret-e  1 
+ excuse | excus-e  8 
+ hinge | hing-e  1 
+ tinge | ting-e  1 
+ plate | plat-e  4 
+ eerie | eeri-e  1 
+ bedtime | bedtim-e  1 
+ severe | sever-e  1 
+ pressure | pressur-e  1 
+ goggle | goggl-e  1 
+ chocolate | chocolat-e  16 
+ rifle | rifl-e  2 
+ package | packag-e  13 
+ snakelike | snakelik-e  2 
+ table | tabl-e  45 
+ supple | suppl-e  1 
+ inside | insid-e  59 
+ quaffle | quaffl-e  19 
+ beware | bewar-e  1 
+ alongside | alongsid-e  1 
+ awake | awak-e  8 
+ circe | circ-e  1 
+ sensible | sensibl-e  1 
+ nerve | nerv-e  5 
+ rejoice | rejoic-e  1 
+ imprecise | imprecis-e  1 
+ revenge | reveng-e  1 
+ soothe | sooth-e  1 
+ twelve | twelv-e  18 
+ appearance | appearanc-e  2 
+ substance | substanc-e  2 
+ trimble | trimbl-e  1 
+ loose | loos-e  1 
+ countercurse | countercurs-e  2 
+ feeble | feebl-e  2 
+ palace | palac-e  1 
+ sausage | sausag-e  3 
+ lecture | lectur-e  1 
+ achieve | achiev-e  1 
+ ounce | ounc-e  2 
+ chance | chanc-e  11 
+ value | valu-e  1 
+ greenhouse | greenhous-e  1 
+ unbearable | unbearabl-e  1 
+ swipe | swip-e  1 
+ sunshine | sunshin-e  2 
+ favorite | favorit-e  6 
+ fireplace | fireplac-e  4 
+ hermione | hermion-e  270 
+ porridge | porridg-e  2 
+ engine | engin-e  3 
+ subtle | subtl-e  1 
+ trouble | troubl-e  28 
+ meantime | meantim-e  1 
+ yvonne | yvonn-e  1 
+ desperate | desperat-e  8 
+ bettie | betti-e  3 
+ house | hous-e  77 
+ opposite | opposit-e  9 
+ visible | visibl-e  2 
+ marge | marg-e  5 
+ meringue | meringu-e  1 
+ exercise | exercis-e  2 
+ crime | crim-e  2 
+ babble | babbl-e  3 
+ sense | sens-e  4 
+ aconite | aconit-e  1 
+ drove | drov-e  6 
+ nosie | nosi-e  1 
+ kettle | kettl-e  3 
+ audience | audienc-e  1 
+ chose | chos-e  1 
+ tongue | tongu-e  3 
+ lamplike | lamplik-e  1 
+ worse | wors-e  14 
+ admirable | admirabl-e  1 
+ coffee | coffe-e  1 
+ memorize | memoriz-e  1 
+ shade | shad-e  1 
+ someone | someon-e  31 
+ office | offic-e  5 
+ responsible | responsibl-e  1 
+ stage | stag-e  1 
+ above | abov-e  16 
+ mimblewimble | mimblewimbl-e  1 
+ ravine | ravin-e  1 
+ stole | stol-e  3 
+ treacle | treacl-e  3 
+ malade | malad-e  1 
+ invisible | invisibl-e  10 
+ noble | nobl-e  2 
+ dumbledore | dumbledor-e  159 
+ hoarse | hoars-e  3 
+ forevermore | forevermor-e  1 
+ pince | pinc-e  3 
+ bulstrode | bulstrod-e  1 
+ flute | flut-e  6 
+ notable | notabl-e  1 
+ staircase | staircas-e  13 
+ telephone | telephon-e  6 
+ terrible | terribl-e  16 
+ george | georg-e  30 
+ horse | hors-e  5 
+ maple | mapl-e  1 
+ stroke | strok-e  1 
+ spoke | spok-e  19 
+ crate | crat-e  12 
+ birdcage | birdcag-e  1 
+ treasure | treasur-e  2 
+ nowhere | nowher-e  3 
+ bronze | bronz-e  5 
+ needle | needl-e  2 
+ cabbage | cabbag-e  2 
+ science | scienc-e  1 
+ creature | creatur-e  2 
+ granite | granit-e  1 
+ picture | pictur-e  2 
+ tripe | trip-e  1 
+ mauve | mauv-e  1 
+ crabbe | crabb-e  21 
+ yehve | yehv-e  1 
+ course | cours-e  49 
+ treble | trebl-e  1 
+ create | creat-e  1 
+ knowledge | knowledg-e  1 
+ beside | besid-e  4 
+ garage | garag-e  1 
+ bertie | berti-e  1 
+ stove | stov-e  1 
+ blonde | blond-e  2 
+ eagle | eagl-e  3 
+ sometime | sometim-e  1 
+ goyle | goyl-e  24 
+ surname | surnam-e  1 
+ difference | differenc-e  6 
+ defense | defens-e  4 
+ otherwise | otherwis-e  1 
+ ronnie | ronni-e  1 
+ remote | remot-e  2 
+ zombie | zombi-e  2 
+ whole | whol-e  33 
+ village | villag-e  3 
+ keyhole | keyhol-e  3 
+ signature | signatur-e  1 
+ dormice | dormic-e  1 
+ homemade | homemad-e  1 
+ nightmare | nightmar-e  3 
+ nonsense | nonsens-e  4 
+ piece | piec-e  9 
+ sauce | sauc-e  1 
+ hermlone | hermlon-e  1 
+ cause | caus-e  6 
+ comfortable | comfortabl-e  2 
+ existence | existenc-e  1 
+ figure | figur-e  8 
+ alone | alon-e  20 
+ licorice | licoric-e  1 
+ aside | asid-e  4 
+ fruitcake | fruitcak-e  1 
+ grate | grat-e  2 
+ peevsie | peevsi-e  1 
+ snare | snar-e  5 
+ befuddle | befuddl-e  1 
+ capture | captur-e  1 
+ survive | surviv-e  1 
+ littie | litti-e  1 
+ massive | massiv-e  2 
+ uncomfortable | uncomfortabl-e  1 
+ applause | applaus-e  2 
+ price | pric-e  1 
+ attractive | attractiv-e  1 
+ motorcycle | motorcycl-e  8 
+ envelope | envelop-e  9 
+ snape | snap-e  172 
+ therefore | therefor-e  2 
+ forge | forg-e  1 
+ fortune | fortun-e  3 
+ disagree | disagre-e  1 
+ three | thre-e  80 
+ dense | dens-e  2 
+ mixture | mixtur-e  4 
+ handle | handl-e  8 
+ dinnertime | dinnertim-e  1 
+ experience | experienc-e  1 
+ space | spac-e  3 
+ scuse | scus-e  1 
+ shape | shap-e  3 
+ distance | distanc-e  4 
+ vampire | vampir-e  1 
+ grade | grad-e  1 
+ reptile | reptil-e  3 
+ purpose | purpos-e  5 
+ remorse | remors-e  1 
+ muscle | muscl-e  1 
+ squeeze | squeez-e  1 
+ diggle | diggl-e  5 
+ shone | shon-e  4 
+ wolfsbane | wolfsban-e  2 
+ private | privat-e  3 
+ statue | statu-e  4 
+ everyone | everyon-e  60 
+ choice | choic-e  4 
+ unable | unabl-e  2 
+ beastie | beasti-e  1 
+ puzzle | puzzl-e  1 
+ league | leagu-e  1 
+ welcome | welcom-e  7 
+ neville | nevill-e  117 
+ peace | peac-e  2 
+ torture | tortur-e  1 
+ countryside | countrysid-e  3 
+ ickle | ickl-e  5 
+ charlie | charli-e  23 
+ orange | orang-e  4 
+ before | befor-e  107 
+ while | whil-e  60 
+ decide | decid-e  4 
+ astride | astrid-e  1 
+ briefcase | briefcas-e  1 
+ mistletoe | mistleto-e  1 
+ dundee | dunde-e  1 
+ positive | positiv-e  1 
+ sneeze | sneez-e  1 
+ stone | ston-e  80 
+ became | becam-e  16 
+ outside | outsid-e  36 
+ broke | brok-e  11 
+ bicycle | bicycl-e  1 
+ blaise | blais-e  1 
+ stalactite | stalactit-e  1 
+ frame | fram-e  3 
+ syllable | syllabl-e  1 
+ chappie | chappi-e  1 
+ anywhere | anywher-e  7 
+ mantelpiece | mantelpiec-e  1 
+ perenelle | perenell-e  2 
+ twice | twic-e  15 
+ those | thos-e  26 
+ anytime | anytim-e  1 
+ delicate | delicat-e  1 
+ whose | whos-e  3 
+ purple | purpl-e  14 
+ title | titl-e  1 
+ checkmate | checkmat-e  1 
+ square | squar-e  2 
+ forgive | forgiv-e  5 
+ bathrobe | bathrob-e  4 
+ prince | princ-e  1 
+ improve | improv-e  2 
+ alive | aliv-e  8 
+ everywhere | everywher-e  6 
+ furniture | furnitur-e  1 
+ courage | courag-e  6 
 
  
-('çon',) : 
- façon | fa-çon  2 
+('per',) : 
+ copper | cop-per  3 
+ upper | up-per  1 
+
+ 
+('ewed', 'uff') : 
+ scruff | scr-uff  1 
+ screwed | scr-ewed  2 
+
+ 
+('ping', 's') : 
+ shopping | shop-ping  2 
+ straps | strap-s  1 
+ strapping | strap-ping  1 
+ shops | shop-s  7 
+
+ 
+('ried',) : 
+ worried | wor-ried  11 
+
+ 
+('d', 'dship') : 
+ friend | frien-d  11 
+ friendship | frien-dship  1 
+
+ 
+('st',) : 
+ safest | safe-st  2 
+
+ 
+('ezed',) : 
+ squeezed | sque-ezed  4 
+
+ 
+('ed', 'es') : 
+ noted | not-ed  1 
+ notes | not-es  7 
+
+ 
+('mmed', 'ning') : 
+ craning | cra-ning  2 
+ crammed | cra-mmed  2 
+
+ 
+('ner',) : 
+ banner | ban-ner  3 
+
+ 
+('tted',) : 
+ spotted | spo-tted  11 
+ admitted | admi-tted  2 
+
+ 
+('ntic', 'yed') : 
+ frantic | fra-ntic  1 
+ frayed | fra-yed  1 
+
+ 
+('k', 'ked') : 
+ attack | attac-k  2 
+ attacked | attac-ked  1 
+
+ 
+('ered', 'ing') : 
+ flowered | flow-ered  1 
+ flowing | flow-ing  1 
+
+ 
+('nch', 'res', 'tch') : 
+ finch | fi-nch  1 
+ fitch | fi-tch  2 
+ fires | fi-res  2 
+
+ 
+('ping',) : 
+ stomping | stom-ping  1 
+
+ 
+('eful', 'her') : 
+ father | fat-her  36 
+ fateful | fat-eful  1 
+
+ 
+('der', 'ped', 'tch') : 
+ wider | wi-der  2 
+ witch | wi-tch  12 
+ wiped | wi-ped  3 
+
+ 
+('ged',) : 
+ lunged | lun-ged  1 
+ surged | sur-ged  1 
+ rigged | rig-ged  1 
+ legged | leg-ged  2 
+
+ 
+('ated',) : 
+ unseated | unse-ated  1 
+
+ 
+('e', 'es', 'ing') : 
+ voice | voic-e  59 
+ voices | voic-es  5 
+ mistake | mistak-e  10 
+ becomes | becom-es  1 
+ mistaking | mistak-ing  3 
+ becoming | becom-ing  5 
+ mistakes | mistak-es  1 
+ voicing | voic-ing  1 
+ become | becom-e  8 
+
+ 
+('i',) : 
+ zabini | zabin-i  1 
+
+ 
+('eck', 'ell', 'oil') : 
+ spoil | sp-oil  2 
+ spell | sp-ell  14 
+ speck | sp-eck  1 
+
+ 
+('thed',) : 
+ loathed | loa-thed  1 
+
+ 
+('a', 'ed', 'ing', 's') : 
+ sorta | sort-a  2 
+ sorted | sort-ed  4 
+ sorts | sort-s  4 
+ sorting | sort-ing  8 
+
+ 
+('led',) : 
+ crumpled | crump-led  3 
+ sailed | sai-led  2 
+ sidled | sid-led  2 
+ muffled | muff-led  3 
+ wailed | wai-led  3 
+
+ 
+('gged', 'tted') : 
+ dragged | dra-gged  6 
+ dratted | dra-tted  1 
+
+ 
+('t',) : 
+ headfirst | headfirs-t  1 
+ quiet | quie-t  13 
+ sunlight | sunligh-t  3 
+ proudest | proudes-t  1 
+ effect | effec-t  1 
+ biggest | bigges-t  3 
+ decent | decen-t  1 
+ loudest | loudes-t  2 
+ night | nigh-t  49 
+ goblet | goble-t  2 
+ daylight | dayligh-t  5 
+ slightest | slightes-t  1 
+ tallest | talles-t  3 
+ pavement | pavemen-t  1 
+ parrot | parro-t  1 
+ adalbert | adalber-t  1 
+ puppet | puppe-t  1 
+ nitwit | nitwi-t  1 
+ transport | transpor-t  1 
+ downright | downrigh-t  2 
+ sheet | shee-t  1 
+ great | grea-t  72 
+ contact | contac-t  5 
+ toilet | toile-t  9 
+ punishment | punishmen-t  2 
+ instinct | instinc-t  1 
+ first | firs-t  115 
+ forest | fores-t  36 
+ front | fron-t  52 
+ crept | crep-t  11 
+ student | studen-t  2 
+ element | elemen-t  1 
+ innocent | innocen-t  1 
+ forget | forge-t  21 
+ prevent | preven-t  1 
+ effort | effor-t  3 
+ insult | insul-t  1 
+ giant | gian-t  24 
+ unpleasant | unpleasan-t  4 
+ split | spli-t  6 
+ right | righ-t  127 
+ blanket | blanke-t  1 
+ bonnet | bonne-t  1 
+ fastest | fastes-t  2 
+ moment | momen-t  47 
+ instant | instan-t  2 
+ drift | drif-t  1 
+ ought | ough-t  4 
+ quilt | quil-t  1 
+ pocket | pocke-t  17 
+ brocklehurst | brocklehurs-t  1 
+ suggest | sugges-t  4 
+ collect | collec-t  2 
+ abbott | abbot-t  1 
+ accept | accep-t  2 
+ transparent | transparen-t  1 
+ recent | recen-t  4 
+ light | ligh-t  27 
+ comfort | comfor-t  2 
+ resist | resis-t  1 
+ violent | violen-t  1 
+ vault | vaul-t  10 
+ delight | deligh-t  3 
+ elephant | elephan-t  1 
+ ghost | ghos-t  15 
+ oldest | oldes-t  3 
+ fought | fough-t  3 
+ percent | percen-t  1 
+ draught | draugh-t  1 
+ knight | knigh-t  8 
+ present | presen-t  5 
+ rocket | rocke-t  1 
+ against | agains-t  34 
+ throughout | throughou-t  1 
+ thinnest | thinnes-t  1 
+ fight | figh-t  9 
+ roast | roas-t  5 
+ expect | expec-t  13 
+ astonishment | astonishmen-t  1 
+ wrist | wris-t  6 
+ visit | visi-t  7 
+ disgust | disgus-t  2 
+ bright | brigh-t  20 
+ fleet | flee-t  3 
+ patient | patien-t  1 
+ deepest | deepes-t  1 
+ longest | longes-t  1 
+ greatest | greates-t  5 
+ doormat | doorma-t  3 
+ ancient | ancien-t  2 
+ impatient | impatien-t  1 
+ accident | acciden-t  1 
+ bagshot | bagsho-t  1 
+ profit | profi-t  1 
+ slight | sligh-t  2 
+ scarlet | scarle-t  6 
+ privet | prive-t  16 
+ bucket | bucke-t  2 
+ fright | frigh-t  1 
+ caught | caugh-t  39 
+ await | awai-t  2 
+ account | accoun-t  1 
+ disappointment | disappointmen-t  1 
+ smallest | smalles-t  4 
+ about | abou-t  225 
+ accountant | accountan-t  1 
+ moonlight | moonligh-t  6 
+ respect | respec-t  1 
+ resident | residen-t  1 
+ president | presiden-t  2 
+ conduct | conduc-t  1 
+ credit | credi-t  1 
+ wrought | wrough-t  1 
+ violet | viole-t  3 
+ brilliant | brillian-t  8 
+ point | poin-t  14 
+ treat | trea-t  1 
+ doughnut | doughnu-t  1 
+ object | objec-t  1 
+ prefect | prefec-t  10 
+ strict | stric-t  3 
+ excitement | excitemen-t  5 
+ mount | moun-t  2 
+ count | coun-t  2 
+ suspect | suspec-t  1 
+ excellent | excellen-t  7 
+ headlight | headligh-t  1 
+ snout | snou-t  7 
+ didnt | didn-t  1 
+ brought | brough-t  18 
+ rowboat | rowboa-t  1 
+ different | differen-t  20 
+ affect | affec-t  1 
+ overcoat | overcoa-t  4 
+ nearest | neares-t  6 
+ bought | bough-t  10 
+ spinnet | spinne-t  2 
+ haircut | haircu-t  2 
+ tight | tigh-t  9 
+ stunt | stun-t  1 
+ walnut | walnu-t  2 
+ coconut | coconu-t  2 
+ feast | feas-t  7 
+ millicent | millicen-t  1 
+ stoat | stoa-t  2 
+ urgent | urgen-t  1 
+ straight | straigh-t  25 
+ idiot | idio-t  4 
+ taught | taugh-t  4 
+ exact | exac-t  1 
+ assistant | assistan-t  1 
+ forgot | forgo-t  1 
+ comet | come-t  1 
+ improvement | improvemen-t  1 
+ prophet | prophe-t  3 
+ trust | trus-t  7 
+ happiest | happies-t  1 
+ important | importan-t  16 
+ plant | plan-t  10 
+ talent | talen-t  1 
+ flight | fligh-t  2 
+ wight | wigh-t  1 
+ gaunt | gaun-t  1 
+ doubt | doub-t  4 
+ midnight | midnigh-t  11 
+ lightest | lightes-t  1 
+ restaurant | restauran-t  1 
+ defeat | defea-t  2 
+ firelight | fireligh-t  1 
+ except | excep-t  24 
+ grunt | grun-t  1 
+ coast | coas-t  1 
+ serpent | serpen-t  2 
+ movement | movemen-t  3 
+ sprout | sprou-t  4 
+ doorpost | doorpos-t  1 
+ candlelight | candleligh-t  1 
+ august | augus-t  1 
+ banquet | banque-t  4 
+ forecast | forecas-t  1 
+ swift | swif-t  1 
+ bullet | bulle-t  1 
+ poltergeist | poltergeis-t  2 
+ puzzlement | puzzlemen-t  1 
+ magnificent | magnificen-t  2 
+ summat | summa-t  7 
+ caput | capu-t  1 
+ softest | softes-t  1 
+ alchemist | alchemis-t  1 
+ hengist | hengis-t  1 
+ almost | almos-t  47 
+ argument | argumen-t  1 
+ youngest | younges-t  6 
+ carpet | carpe-t  1 
+ stupidest | stupides-t  1 
+ earshot | earsho-t  2 
+ witchcraft | witchcraf-t  5 
+ voldemort | voldemor-t  38 
+ ticket | ticke-t  7 
+ street | stree-t  21 
+ burst | burs-t  11 
+ thought | though-t  96 
+ apart | apar-t  13 
+ upright | uprigh-t  2 
+ chestnut | chestnu-t  1 
+ shortcut | shortcu-t  1 
+ swept | swep-t  2 
+ jacket | jacke-t  3 
+ amazement | amazemen-t  4 
+ perfect | perfec-t  6 
+ velvet | velve-t  1 
+ faintest | faintes-t  2 
+ subject | subjec-t  3 
+ easiest | easies-t  1 
+ breakfast | breakfas-t  11 
+ norbert | norber-t  27 
+ triumphant | triumphan-t  1 
+ equipment | equipmen-t  3 
+ portrait | portrai-t  14 
+ throat | throa-t  5 
+ silent | silen-t  9 
+ difficult | difficul-t  12 
+ report | repor-t  4 
+ attract | attrac-t  2 
+ topmost | topmos-t  1 
+ fault | faul-t  4 
+ without | withou-t  41 
+ rabbit | rabbi-t  3 
+ twist | twis-t  1 
+ slept | slep-t  3 
+ largest | larges-t  1 
+ crackpot | crackpo-t  1 
+ thickset | thickse-t  1 
+ servant | servan-t  2 
+ distant | distan-t  4 
+ basket | baske-t  1 
+ eight | eigh-t  6 
+ compartment | compartmen-t  9 
+ upset | upse-t  5 
+ dearest | deares-t  1 
+ amount | amoun-t  1 
+ oddment | oddmen-t  1 
+ tonight | tonigh-t  21 
+ spurt | spur-t  1 
+ detest | detes-t  1 
+ honest | hones-t  1 
+ direct | direc-t  2 
+ peppermint | peppermin-t  3 
+ teapot | teapo-t  3 
+ armpit | armpi-t  1 
+ weirdest | weirdes-t  1 
+ toast | toas-t  4 
+ interest | interes-t  4 
+ shout | shou-t  4 
+ woodcroft | woodcrof-t  1 
+ racket | racke-t  2 
+ somersault | somersaul-t  1 
+ parchment | parchmen-t  9 
+ protect | protec-t  4 
+
+ 
+('ber',) : 
+ member | mem-ber  1 
+
+ 
+('aged', 'gled', 'ner') : 
+ mangled | man-gled  1 
+ manner | man-ner  1 
+ managed | man-aged  20 
+
+ 
+('ying',) : 
+ denying | den-ying  1 
+
+ 
+('elf',) : 
+ meself | mes-elf  3 
+
+ 
+('e', 'ed', 'y') : 
+ taste | tast-e  2 
+ tasty | tast-y  1 
+ tasted | tast-ed  2 
+
+ 
+('k',) : 
+ quick | quic-k  9 
+ black | blac-k  57 
+ thank | than-k  9 
+ shrunk | shrun-k  1 
+ chalk | chal-k  3 
+ cloak | cloa-k  57 
+ ridgeback | ridgebac-k  4 
+ trunk | trun-k  9 
+ flitwick | flitwic-k  20 
+ drunk | drun-k  2 
+ firework | firewor-k  1 
+ cheek | chee-k  4 
+ drawback | drawbac-k  1 
+ broomstick | broomstic-k  27 
+ think | thin-k  123 
+ whelk | whel-k  1 
+ warlock | warloc-k  1 
+ shriek | shrie-k  2 
+ somefink | somefin-k  1 
+ berserk | berser-k  1 
+ patchwork | patchwor-k  1 
+ homework | homewor-k  7 
+ overtook | overtoo-k  1 
+ knock | knoc-k  9 
+ struck | struc-k  6 
+ shrank | shran-k  3 
+ backpack | backpac-k  1 
+ goshawk | goshaw-k  1 
+ griphook | griphoo-k  12 
+
+ 
+('k', 't', 'ting') : 
+ shooting | shoo-ting  6 
+ shoot | shoo-t  2 
+ shook | shoo-k  18 
+
+ 
+('shed', 'tter') : 
+ flushed | flu-shed  4 
+ flutter | flu-tter  3 
+
+ 
+('t', 'wked') : 
+ squat | squa-t  1 
+ squawked | squa-wked  1 
+
+ 
+('r', 't') : 
+ swear | swea-r  1 
+ sweat | swea-t  2 
+
+ 
+('sing',) : 
+ uprising | upri-sing  1 
+
+ 
+('ack', 'eep') : 
+ creep | cr-eep  2 
+ crack | cr-ack  6 
+
+ 
+('oded', 'pped') : 
+ flopped | flo-pped  3 
+ flooded | flo-oded  4 
+
+ 
+('ch',) : 
+ reach | rea-ch  3 
+
+ 
+('ped', 'tted') : 
+ slotted | slo-tted  1 
+ sloped | slo-ped  3 
+
+ 
+('wled', 'y') : 
+ sprawled | spra-wled  1 
+ spray | spra-y  2 
+
+ 
+('rted',) : 
+ snorted | sno-rted  2 
+
+ 
+('kled',) : 
+ crinkled | crin-kled  1 
+
+ 
+('der', 'nner') : 
+ spider | spi-der  1 
+ spinner | spi-nner  1 
+
+ 
+('d', 'ing') : 
+ overhearing | overhear-ing  1 
+ bearing | bear-ing  1 
+ overheard | overhear-d  1 
+ beard | bear-d  12 
+
+ 
+('nded',) : 
+ offended | offe-nded  2 
+
+ 
+('l', 'n') : 
+ train | trai-n  33 
+ trail | trai-l  1 
+
+ 
+('n', 'ng') : 
+ pudding | puddi-ng  2 
+ swarming | swarmi-ng  1 
+ puddin | puddi-n  1 
+ swarmin | swarmi-n  1 
+
+ 
+('f',) : 
+ werewolf | werewol-f  5 
+ relief | relie-f  9 
+ geroff | gerof-f  1 
+ fluff | fluf-f  1 
+ myself | mysel-f  10 
+ himself | himsel-f  65 
+ yourself | yoursel-f  14 
+ hufflepuff | hufflepuf-f  18 
+ dwarf | dwar-f  1 
+ proof | proo-f  2 
+ itself | itsel-f  6 
+ riffraff | riffraf-f  1 
+ handkerchief | handkerchie-f  5 
+ yerself | yersel-f  2 
+
+ 
+('ding',) : 
+ grinding | grin-ding  1 
+ binding | bin-ding  2 
+ brooding | broo-ding  1 
+ breeding | bree-ding  2 
+ striding | stri-ding  2 
+
+ 
+('e', 'ely', 'er') : 
+ politely | polit-ely  1 
+ polite | polit-e  2 
+ politer | polit-er  1 
+
+ 
+('mber', 'mped', 'pped', 'sped', 'sses') : 
+ clapped | cla-pped  11 
+ clasped | cla-sped  2 
+ clamped | cla-mped  2 
+ clamber | cla-mber  2 
+ classes | cla-sses  6 
+
+ 
+('shed',) : 
+ burnished | burni-shed  1 
+
+ 
+('dged',) : 
+ trudged | tru-dged  1 
+
+ 
+('ly',) : 
+ widely | wide-ly  1 
+ oddly | odd-ly  2 
+ lovely | love-ly  1 
+
+ 
+('her',) : 
+ rather | rat-her  22 
+
+ 
+('ked',) : 
+ cooked | coo-ked  1 
+
+ 
+('ll', 'ver') : 
+ quiver | qui-ver  3 
+ quill | qui-ll  4 
+
+ 
+('ened',) : 
+ wizened | wiz-ened  1 
+ lessened | less-ened  1 
+ darkened | dark-ened  1 
+
+ 
+('s', 't') : 
+ chest | ches-t  6 
+ pains | pain-s  1 
+ meant | mean-t  9 
+ means | mean-s  7 
+ paint | pain-t  1 
+ chess | ches-s  12 
+
+ 
+('ed', 'n', 's') : 
+ needs | need-s  7 
+ needed | need-ed  9 
+ needn | need-n  3 
+
+ 
+('ed', 'ged') : 
+ raged | rag-ed  1 
+ ragged | rag-ged  1 
+
+ 
+('n', 'r', 'rly') : 
+ clean | clea-n  7 
+ clearly | clea-rly  11 
+ clear | clea-r  7 
+
+ 
+('ees', 'ow') : 
+ throw | thr-ow  5 
+ threes | thr-ees  1 
+
+ 
+('dled', 'l') : 
+ wheel | whee-l  1 
+ wheedled | whee-dled  1 
+
+ 
+('n', 't') : 
+ cannon | canno-n  2 
+ cannot | canno-t  4 
+
+ 
+('lly', 'zed') : 
+ silly | si-lly  3 
+ sized | si-zed  1 
+
+ 
+('h', 'y') : 
+ sixty | sixt-y  5 
+ fifth | fift-h  2 
+ fifty | fift-y  17 
+ seventy | sevent-y  3 
+ seventh | sevent-h  2 
+ sixth | sixt-h  2 
+
+ 
+('ssed',) : 
+ confessed | confe-ssed  1 
+
+ 
+('e', 'n') : 
+ thern | ther-n  1 
+ there | ther-e  312 
+
+ 
+('ing', 'ker', 'med', 'ping') : 
+ seemed | see-med  72 
+ seeing | see-ing  4 
+ seeker | see-ker  14 
+ seeping | see-ping  1 
+
+ 
+('ed', 'nged') : 
+ cringed | cri-nged  1 
+ cried | cri-ed  11 
+
+ 
+('ed', 'ing') : 
+ reciting | recit-ing  1 
+ zoomed | zoom-ed  1 
+ squinted | squint-ed  1 
+ mixed | mix-ed  4 
+ panicked | panick-ed  1 
+ twisting | twist-ing  2 
+ clicked | click-ed  7 
+ slowed | slow-ed  2 
+ settled | settl-ed  1 
+ zooming | zoom-ing  2 
+ insisting | insist-ing  1 
+ knocking | knock-ing  8 
+ galloping | gallop-ing  2 
+ visited | visit-ed  3 
+ snoozed | snooz-ed  1 
+ edging | edg-ing  1 
+ pouring | pour-ing  1 
+ sneaked | sneak-ed  1 
+ patted | patt-ed  2 
+ asked | ask-ed  60 
+ streaming | stream-ing  2 
+ pushed | push-ed  16 
+ kicking | kick-ing  1 
+ glaring | glar-ing  3 
+ tumbled | tumbl-ed  1 
+ annoyed | annoy-ed  1 
+ tickling | tickl-ing  1 
+ drooling | drool-ing  1 
+ hovering | hover-ing  1 
+ gawked | gawk-ed  1 
+ landing | land-ing  2 
+ warned | warn-ed  8 
+ piercing | pierc-ing  4 
+ rested | rest-ed  1 
+ snatched | snatch-ed  4 
+ crouching | crouch-ing  2 
+ scraped | scrap-ed  1 
+ kissed | kiss-ed  2 
+ galloped | gallop-ed  1 
+ floating | float-ing  6 
+ wriggled | wriggl-ed  2 
+ tugged | tugg-ed  1 
+ stuffing | stuff-ing  2 
+ wheezed | wheez-ed  1 
+ fluttering | flutter-ing  4 
+ bustling | bustl-ing  1 
+ tackling | tackl-ing  1 
+ awarded | award-ed  3 
+ passing | pass-ing  7 
+ slammed | slamm-ed  7 
+ wandering | wander-ing  9 
+ trusting | trust-ing  1 
+ frowned | frown-ed  1 
+ drumming | drumm-ing  1 
+ yawning | yawn-ing  3 
+ hammering | hammer-ing  2 
+ checking | check-ing  3 
+ quivered | quiver-ed  2 
+ rumbling | rumbl-ing  3 
+ climbed | climb-ed  15 
+ blinding | blind-ing  3 
+ poured | pour-ed  1 
+ bustled | bustl-ed  1 
+ loomed | loom-ed  1 
+ crashing | crash-ing  2 
+ unwrapped | unwrapp-ed  5 
+ snatching | snatch-ing  1 
+ gawking | gawk-ing  1 
+ listened | listen-ed  2 
+ charging | charg-ing  1 
+ punishing | punish-ing  1 
+ hushed | hush-ed  2 
+ drooled | drool-ed  1 
+ fixed | fix-ed  6 
+ twisted | twist-ed  8 
+ lifted | lift-ed  2 
+ scraping | scrap-ing  3 
+ listening | listen-ing  11 
+ interesting | interest-ing  10 
+ greeting | greet-ing  1 
+ frightening | frighten-ing  3 
+ finishing | finish-ing  1 
+ leaning | lean-ing  5 
+ wheezing | wheez-ing  3 
+ fascinated | fascinat-ed  1 
+ finished | finish-ed  13 
+ laughed | laugh-ed  9 
+ soaring | soar-ing  2 
+ boomed | boom-ed  1 
+ stammered | stammer-ed  3 
+ soared | soar-ed  2 
+ wheeled | wheel-ed  2 
+ vanished | vanish-ed  6 
+ admiring | admir-ing  3 
+ hammered | hammer-ed  1 
+ walking | walk-ing  14 
+ disgusting | disgust-ing  2 
+ crashed | crash-ed  4 
+ cleared | clear-ed  6 
+ talking | talk-ing  29 
+ pacing | pac-ing  1 
+ protecting | protect-ing  1 
+ floated | float-ed  2 
+ rapping | rapp-ing  1 
+ exciting | excit-ing  2 
+ looming | loom-ing  1 
+ packing | pack-ing  2 
+ puffed | puff-ed  1 
+ leaned | lean-ed  12 
+ landed | land-ed  11 
+ brushed | brush-ed  1 
+ hugged | hugg-ed  3 
+ jerked | jerk-ed  10 
+ circled | circl-ed  1 
+ drifting | drift-ing  1 
+ annoying | annoy-ing  2 
+ reaching | reach-ing  3 
+ skipped | skipp-ed  1 
+ lingered | linger-ed  1 
+ painted | paint-ed  1 
+ stayed | stay-ed  7 
+ twinkling | twinkl-ing  2 
+ nodded | nodd-ed  10 
+ sobbed | sobb-ed  4 
+ spluttering | splutter-ing  1 
+ grunted | grunt-ed  7 
+ treated | treat-ed  1 
+ jerking | jerk-ing  1 
+ dashed | dash-ed  3 
+ punched | punch-ed  1 
+ trailing | trail-ing  2 
+ stumbled | stumbl-ed  4 
+ pulling | pull-ing  10 
+ bewitching | bewitch-ing  2 
+ pretending | pretend-ing  5 
+ insisted | insist-ed  2 
+ bewitched | bewitch-ed  5 
+ disappearing | disappear-ing  1 
+ opened | open-ed  19 
+ passed | pass-ed  24 
+ muttered | mutter-ed  21 
+ touched | touch-ed  7 
+ wondered | wonder-ed  14 
+ crouched | crouch-ed  1 
+ shuffling | shuffl-ing  2 
+ shuffled | shuffl-ed  4 
+ hatched | hatch-ed  1 
+ helped | help-ed  5 
+ swooped | swoop-ed  7 
+ stretching | stretch-ing  3 
+ dashing | dash-ing  3 
+ unfolding | unfold-ing  2 
+ peering | peer-ing  7 
+ learned | learn-ed  10 
+ kicked | kick-ed  7 
+ steered | steer-ed  1 
+ streamed | stream-ed  2 
+ knitting | knitt-ing  1 
+ sneaking | sneak-ing  4 
+ twitching | twitch-ing  4 
+ pushing | push-ing  3 
+ admired | admir-ed  1 
+ hissing | hiss-ing  4 
+ searching | search-ing  1 
+ putted | putt-ed  1 
+ kissing | kiss-ing  1 
+ tickled | tickl-ed  1 
+ pretended | pretend-ed  3 
+ pulled | pull-ed  51 
+ snored | snor-ed  1 
+ lifting | lift-ing  1 
+ opening | open-ing  1 
+ clicking | click-ing  1 
+ ended | end-ed  1 
+ filled | fill-ed  7 
+ stammering | stammer-ing  1 
+ depressed | depress-ed  1 
+ wriggling | wriggl-ing  1 
+ spilled | spill-ed  1 
+ tottered | totter-ed  1 
+ disgusted | disgust-ed  2 
+ sneering | sneer-ing  1 
+ explained | explain-ed  5 
+ resting | rest-ing  1 
+ flicking | flick-ing  1 
+ shivered | shiver-ed  6 
+ slowing | slow-ing  1 
+ putting | putt-ing  5 
+ knitted | knitt-ed  1 
+ grasped | grasp-ed  1 
+ tapping | tapp-ing  4 
+ walked | walk-ed  46 
+ clutching | clutch-ing  7 
+ separating | separat-ing  1 
+ mixing | mix-ing  2 
+ disappeared | disappear-ed  17 
+ excited | excit-ed  4 
+ squinting | squint-ing  5 
+ stretched | stretch-ed  6 
+ vanishing | vanish-ing  2 
+ strayed | stray-ed  1 
+ reached | reach-ed  37 
+ straying | stray-ing  1 
+ slamming | slamm-ing  2 
+ blinded | blind-ed  1 
+ filling | fill-ing  1 
+ joining | join-ing  1 
+ paced | pac-ed  2 
+ climbing | climb-ing  3 
+ knocked | knock-ed  18 
+ wheeling | wheel-ing  2 
+ laughing | laugh-ing  8 
+ gleamed | gleam-ed  1 
+ sneered | sneer-ed  2 
+ grunting | grunt-ing  1 
+ circling | circl-ing  2 
+ hatching | hatch-ing  2 
+ searched | search-ed  2 
+ limped | limp-ed  2 
+ blinked | blink-ed  5 
+ mumbled | mumbl-ed  5 
+ flailed | flail-ed  1 
+ scribbled | scribbl-ed  3 
+ waiting | wait-ing  19 
+ starved | starv-ed  1 
+ pierced | pierc-ed  1 
+ warning | warn-ing  8 
+ tottering | totter-ing  1 
+ wandered | wander-ed  2 
+ rumbled | rumbl-ed  1 
+ drifted | drift-ed  2 
+ talked | talk-ed  3 
+ brushing | brush-ing  1 
+ unwrapping | unwrapp-ing  2 
+ choked | chok-ed  3 
+ snoozing | snooz-ing  1 
+ shivering | shiver-ing  1 
+ starving | starv-ing  1 
+ replaced | replac-ed  1 
+ stumbling | stumbl-ing  1 
+ punished | punish-ed  4 
+ recited | recit-ed  1 
+ fixing | fix-ing  1 
+ mounted | mount-ed  2 
+ stuffed | stuff-ed  3 
+ missed | miss-ed  4 
+ crushed | crush-ed  1 
+ twinkled | twinkl-ed  1 
+ blinking | blink-ing  4 
+ helping | help-ing  2 
+ protected | protect-ed  2 
+ tapped | tapp-ed  5 
+ collected | collect-ed  1 
+ choking | chok-ing  2 
+ scrambling | scrambl-ing  2 
+ edged | edg-ed  2 
+ flailing | flail-ing  1 
+ trusted | trust-ed  2 
+ surrounding | surround-ing  2 
+ clanging | clang-ing  1 
+ frightened | frighten-ed  5 
+ scrambled | scrambl-ed  5 
+ grasping | grasp-ing  1 
+ greeted | greet-ed  1 
+ settling | settl-ing  1 
+ depressing | depress-ing  1 
+ visiting | visit-ing  1 
+ rapped | rapp-ed  2 
+ watching | watch-ing  19 
+ lingering | linger-ing  1 
+ quivering | quiver-ing  4 
+ tumbling | tumbl-ing  1 
+ yawned | yawn-ed  2 
+ beaming | beam-ing  5 
+ darting | dart-ing  2 
+ swooping | swoop-ing  4 
+ gleaming | gleam-ing  3 
+ strained | strain-ed  3 
+ darted | dart-ed  2 
+ fluttered | flutter-ed  4 
+ panicking | panick-ing  1 
+ scribbling | scribbl-ing  1 
+ asking | ask-ing  8 
+ frowning | frown-ing  3 
+ collecting | collect-ing  3 
+ touching | touch-ing  2 
+ tugging | tugg-ing  1 
+ acting | act-ing  3 
+ learning | learn-ing  4 
+ chewed | chew-ed  1 
+ missing | miss-ing  4 
+ treating | treat-ing  1 
+ whimpering | whimper-ing  1 
+ wondering | wonder-ing  12 
+ awarding | award-ing  1 
+ waited | wait-ed  7 
+ rummaging | rummag-ing  2 
+ glowed | glow-ed  2 
+ mounting | mount-ing  1 
+ steering | steer-ing  2 
+ clearing | clear-ing  10 
+ advancing | advanc-ing  1 
+ chewing | chew-ing  1 
+ advanced | advanc-ed  1 
+ clutched | clutch-ed  4 
+ rummaged | rummag-ed  1 
+ explaining | explain-ing  3 
+ surrounded | surround-ed  1 
+ fascinating | fascinat-ing  1 
+ flickering | flicker-ing  3 
+ spluttered | splutter-ed  2 
+ wished | wish-ed  8 
+ entered | enter-ed  7 
+ peered | peer-ed  7 
+ glared | glar-ed  4 
+ replacing | replac-ing  1 
+ ending | end-ing  1 
+ joined | join-ed  10 
+ glowing | glow-ing  3 
+ skipping | skipp-ing  1 
+ hovered | hover-ed  2 
+ flicked | flick-ed  3 
+ muttering | mutter-ing  7 
+ drummed | drumm-ed  1 
+ mumbling | mumbl-ing  1 
+ staying | stay-ing  4 
+ gathered | gather-ed  3 
+ patting | patt-ing  3 
+ trailed | trail-ed  1 
+ hugging | hugg-ing  2 
+ straining | strain-ing  2 
+ acted | act-ed  2 
+ interested | interest-ed  8 
+ straightened | straighten-ed  2 
+ nodding | nodd-ing  4 
+ spilling | spill-ing  1 
+ whimpered | whimper-ed  1 
+ checked | check-ed  2 
+ beamed | beam-ed  3 
+ wishing | wish-ing  4 
+ hushing | hush-ing  1 
+ flickered | flicker-ed  2 
+ straightening | straighten-ing  1 
+ limping | limp-ing  1 
+ watched | watch-ed  21 
+ unfolded | unfold-ed  1 
+ bouncing | bounc-ing  2 
+ charged | charg-ed  1 
+ punching | punch-ing  3 
+ entering | enter-ing  2 
+ puffing | puff-ing  3 
+ tackled | tackl-ed  1 
+ bounced | bounc-ed  1 
+ hissed | hiss-ed  7 
+ clanged | clang-ed  1 
+ twitched | twitch-ed  5 
+ snoring | snor-ing  1 
+ booming | boom-ing  1 
+ packed | pack-ed  7 
+ painting | paint-ing  1 
+ separated | separat-ed  1 
+ sobbing | sobb-ing  3 
+ crushing | crush-ing  1 
+ gathering | gather-ing  2 
+
+ 
+('w',) : 
+ ravenclaw | ravencla-w  10 
+ railview | railvie-w  1 
+ elbow | elbo-w  2 
+ askew | aske-w  2 
+ tomorrow | tomorro-w  10 
+ nephew | nephe-w  2 
+
+ 
+('dded', 'per', 'pped') : 
+ propped | pro-pped  1 
+ prodded | pro-dded  2 
+ proper | pro-per  5 
+
+ 
+('ndly', 's') : 
+ friendly | frie-ndly  5 
+ fries | frie-s  1 
+
+ 
+('ared', 'er') : 
+ sheared | she-ared  1 
+ sheer | she-er  1 
+
+ 
+('ief',) : 
+ grief | gr-ief  1 
 
  
 ('tes',) : 
- toutes | tou-tes  25 
+ bites | bi-tes  1 
 
  
-('ant', 'ent') : 
- savent | sav-ent  5 
- savant | sav-ant  1 
+('gled',) : 
+ mingled | min-gled  1 
 
  
-('eaux',) : 
- carreaux | carr-eaux  1 
+('e', 'ing', 'oked') : 
+ proving | prov-ing  1 
+ provoked | prov-oked  1 
+ prove | prov-e  1 
 
  
-('a', 'e', 'er', 'ez', 'é') : 
- laisse | laiss-e  3 
- laisser | laiss-er  2 
- laissez | laiss-ez  1 
- laissé | laiss-é  2 
- laissa | laiss-a  1 
+('led', 'y') : 
+ hobby | hobb-y  1 
+ hobbled | hobb-led  1 
 
  
-('a', 'ent', 'é') : 
- rassura | rassur-a  1 
- rassurent | rassur-ent  1 
- rassuré | rassur-é  1 
- tourna | tourn-a  1 
- tournent | tourn-ent  1 
- tourné | tourn-é  1 
+('ces', 'ler', 'per', 'tch', 'wed') : 
+ paler | pa-ler  1 
+ patch | pa-tch  2 
+ pawed | pa-wed  2 
+ paper | pa-per  13 
+ paces | pa-ces  2 
 
  
-('ent', 'gner') : 
- soigner | soi-gner  1 
- soient | soi-ent  3 
+('e', 'o') : 
+ brave | brav-e  7 
+ bravo | brav-o  1 
 
  
-('e', 'i', 's') : 
- fleure | fleur-e  1 
- fleurs | fleur-s  11 
- fleuri | fleur-i  1 
+('ed',) : 
+ concerned | concern-ed  2 
+ disappointed | disappoint-ed  1 
+ reflected | reflect-ed  4 
+ doubted | doubt-ed  1 
+ feared | fear-ed  2 
+ scrawled | scrawl-ed  1 
+ served | serv-ed  1 
+ lurched | lurch-ed  1 
+ bated | bat-ed  1 
+ armed | arm-ed  2 
+ stumped | stump-ed  3 
+ pressed | press-ed  7 
+ inched | inch-ed  1 
+ taped | tap-ed  2 
+ screeched | screech-ed  2 
+ swallowed | swallow-ed  8 
+ coughed | cough-ed  2 
+ shocked | shock-ed  7 
+ rushed | rush-ed  8 
+ insulted | insult-ed  1 
+ buttered | butter-ed  1 
+ impressed | impress-ed  5 
+ conducted | conduct-ed  1 
+ whisked | whisk-ed  1 
+ groaned | groan-ed  5 
+ ticked | tick-ed  3 
+ suspected | suspect-ed  4 
+ steadied | steadi-ed  1 
+ complained | complain-ed  5 
+ hooded | hood-ed  4 
+ blasted | blast-ed  1 
+ addressed | address-ed  4 
+ collapsed | collaps-ed  5 
+ performed | perform-ed  2 
+ murmured | murmur-ed  7 
+ mentioned | mention-ed  4 
+ fashioned | fashion-ed  1 
+ seared | sear-ed  1 
+ added | add-ed  13 
+ fastened | fasten-ed  1 
+ hooked | hook-ed  1 
+ defeated | defeat-ed  1 
+ thundered | thunder-ed  4 
+ dressed | dress-ed  7 
+ clambered | clamber-ed  6 
+ confed | conf-ed  1 
+ streaked | streak-ed  5 
+ creaked | creak-ed  1 
+ suspended | suspend-ed  1 
+ deserted | desert-ed  1 
+ reared | rear-ed  1 
+ crossed | cross-ed  7 
+ squealed | squeal-ed  1 
+ drained | drain-ed  2 
+ petrified | petrifi-ed  4 
+ unused | unus-ed  1 
+ exasperated | exasperat-ed  1 
+ informed | inform-ed  2 
+ compared | compar-ed  3 
+ patched | patch-ed  1 
+ bolted | bolt-ed  3 
+ returned | return-ed  3 
+ barred | barr-ed  1 
+ mastered | master-ed  1 
+ staggered | stagger-ed  1 
+ bowed | bow-ed  9 
+ accepted | accept-ed  2 
+ chimed | chim-ed  1 
+ relaxed | relax-ed  1 
+ delivered | deliver-ed  1 
+ rounded | round-ed  4 
+ failed | fail-ed  3 
+ borrowed | borrow-ed  3 
+ appeared | appear-ed  12 
+ suggested | suggest-ed  8 
+ dawned | dawn-ed  1 
+ related | relat-ed  1 
+ chickened | chicken-ed  1 
+ narrowed | narrow-ed  2 
+ melted | melt-ed  2 
+ smashed | smash-ed  1 
+ whirled | whirl-ed  2 
+ gaped | gap-ed  1 
+ gulped | gulp-ed  2 
+ speared | spear-ed  1 
+ wounded | wound-ed  1 
+ dried | dri-ed  2 
+ recorded | record-ed  1 
+ transfigured | transfigur-ed  1 
+ tucked | tuck-ed  3 
+ repaired | repair-ed  1 
+ stained | stain-ed  1 
+ greed | gre-ed  2 
 
  
-('dez', 'trer') : 
- rendez | ren-dez  1 
- rentrer | ren-trer  2 
+('n', 'ned', 'ring') : 
+ flattened | flatte-ned  2 
+ flatten | flatte-n  2 
+ flattering | flatte-ring  1 
 
  
-('ait', 'er', 'é') : 
- racontait | racont-ait  1 
- habillait | habill-ait  1 
- raconter | racont-er  1 
- habiller | habill-er  2 
- habillé | habill-é  2 
- raconté | racont-é  3 
+('ech', 'ing') : 
+ beech | be-ech  1 
+ being | be-ing  38 
 
  
-('r', 's', 't') : 
- découvris | découvri-s  1 
- découvrir | découvri-r  2 
- découvrit | découvri-t  2 
+('dly', 'gic', 'rch', 'tch') : 
+ madly | ma-dly  2 
+ march | ma-rch  1 
+ magic | ma-gic  48 
+ match | ma-tch  24 
+
+ 
+('ed', 'ing', 'red') : 
+ hatred | hat-red  1 
+ hating | hat-ing  1 
+ hated | hat-ed  9 
+
+ 
+('ing', 's') : 
+ sinks | sink-s  1 
+ seems | seem-s  8 
+ seats | seat-s  7 
+ wearing | wear-ing  18 
+ flocks | flock-s  1 
+ refereeing | referee-ing  3 
+ hurts | hurt-s  1 
+ presents | present-s  10 
+ thinks | think-s  7 
+ seeming | seem-ing  1 
+ thinking | think-ing  16 
+ wears | wear-s  1 
+ winding | wind-ing  2 
+ holding | hold-ing  26 
+ barks | bark-s  1 
+ flocking | flock-ing  1 
+ breaking | break-ing  8 
+ feeling | feel-ing  25 
+ referees | referee-s  1 
+ finds | find-s  4 
+ breaks | break-s  1 
+ enjoying | enjoy-ing  2 
+ awaits | await-s  1 
+ bombing | bomb-ing  1 
+ tells | tell-s  1 
+ wizards | wizard-s  20 
+ sinking | sink-ing  2 
+ barking | bark-ing  1 
+ presenting | present-ing  1 
+ telling | tell-ing  18 
+ seating | seat-ing  1 
+ wizarding | wizard-ing  6 
+ stamps | stamp-s  1 
+ feels | feel-s  1 
+ enjoys | enjoy-s  2 
+ bombs | bomb-s  1 
+ hurting | hurt-ing  2 
+ tears | tear-s  7 
+ tearing | tear-ing  3 
+ winds | wind-s  1 
+ holds | hold-s  1 
+ stands | stand-s  9 
+ awaiting | await-ing  1 
+ finding | find-ing  7 
+ stamping | stamp-ing  1 
+ standing | stand-ing  33 
+
+ 
+('ick', 'ies', 'ing', 'ock', 'ump', 'ung') : 
+ flock | fl-ock  1 
+ flick | fl-ick  4 
+ flung | fl-ung  2 
+ flies | fl-ies  1 
+ flump | fl-ump  1 
+ fling | fl-ing  1 
+
+ 
+('ched', 'ned') : 
+ pinched | pin-ched  1 
+ pinned | pin-ned  6 
+
+ 
+('eved', 'ving') : 
+ reliving | reli-ving  1 
+ relieved | reli-eved  6 
+
+ 
+('ked', 'rier') : 
+ barked | bar-ked  5 
+ barrier | bar-rier  10 
+
+ 
+('ch', 'mper', 'pped', 'sper') : 
+ whimper | whi-mper  1 
+ which | whi-ch  89 
+ whisper | whi-sper  8 
+ whipped | whi-pped  4 
+
+ 
+('pped', 'tted') : 
+ flipped | fli-pped  2 
+ flitted | fli-tted  2 
+
+ 
+('low',) : 
+ pillow | pil-low  3 
+ hollow | hol-low  1 
+ mellow | mel-low  1 
+
+ 
+('ing', 't') : 
+ leapt | leap-t  14 
+ leaping | leap-ing  1 
+
+ 
+('er', 's') : 
+ poster | post-er  2 
+ wander | wand-er  1 
+ posts | post-s  6 
+ wands | wand-s  12 
+
+ 
+('ing', 'song') : 
+ singsong | sing-song  1 
+ singing | sing-ing  3 
+
+ 
+('llo', 'who') : 
+ hewho | he-who  1 
+ hello | he-llo  3 
+
+ 
+('a', 'er', 'n') : 
+ shoulder | should-er  15 
+ shouldn | should-n  13 
+ shoulda | should-a  1 
+
+ 
+('paper',) : 
+ wastepaper | waste-paper  2 
+
+ 
+('dow', 'kily', 'ped') : 
+ shaped | sha-ped  4 
+ shakily | sha-kily  2 
+ shadow | sha-dow  3 
+
+ 
+('fer',) : 
+ prefer | pre-fer  1 
+
+ 
+('ong', 'ow') : 
+ belong | bel-ong  3 
+ below | bel-ow  6 
+
+ 
+('lier', 'ly', 'ned') : 
+ early | ear-ly  4 
+ earlier | ear-lier  3 
+ earned | ear-ned  1 
+
+ 
+('bber', 'dger', 'rted', 'shed') : 
+ blubber | blu-bber  1 
+ blushed | blu-shed  2 
+ bludger | blu-dger  9 
+ blurted | blu-rted  3 
+
+ 
+('ring',) : 
+ chattering | chatte-ring  2 
+
+ 
+('tch',) : 
+ switch | swi-tch  1 
+ stitch | sti-tch  1 
+ fetch | fe-tch  1 
+
+ 
+('e', 'ed', 'ing', 's', 't', 'tled') : 
+ stars | star-s  9 
+ startled | star-tled  2 
+ staring | star-ing  23 
+ stared | star-ed  35 
+ stare | star-e  5 
+ start | star-t  20 
+
+ 
+('ed', 's') : 
+ loaded | load-ed  1 
+ stacks | stack-s  1 
+ clawed | claw-ed  1 
+ loads | load-s  8 
+ heeled | heel-ed  1 
+ covered | cover-ed  9 
+ reported | report-ed  1 
+ fouls | foul-s  1 
+ covers | cover-s  2 
+ backed | back-ed  3 
+ crowded | crowd-ed  4 
+ dreams | dream-s  3 
+ scared | scar-ed  14 
+ cloaked | cloak-ed  1 
+ demanded | demand-ed  3 
+ colors | color-s  2 
+ signs | sign-s  1 
+ colored | color-ed  2 
+ delighted | delight-ed  6 
+ crowds | crowd-s  2 
+ nailed | nail-ed  1 
+ demands | demand-s  1 
+ fouled | foul-ed  1 
+ pocketed | pocket-ed  1 
+ walls | wall-s  16 
+ powdered | powder-ed  3 
+ dreamed | dream-ed  4 
+ bounds | bound-s  3 
+ reports | report-s  1 
+ corners | corner-s  1 
+ bounded | bound-ed  2 
+ marked | mark-ed  1 
+ pockets | pocket-s  10 
+ minds | mind-s  5 
+ winged | wing-ed  1 
+ mouths | mouth-s  2 
+ scars | scar-s  2 
+ ruined | ruin-ed  3 
+ marks | mark-s  4 
+ stacked | stack-ed  2 
+ orders | order-s  2 
+ mouthed | mouth-ed  3 
+ chains | chain-s  1 
+ cornered | corner-ed  1 
+ powders | powder-s  1 
+ nails | nail-s  2 
+ backs | back-s  3 
+ parks | park-s  1 
+ signed | sign-ed  2 
+ chained | chain-ed  1 
+ ruins | ruin-s  1 
+ ordered | order-ed  3 
+ spells | spell-s  7 
+ heels | heel-s  1 
+ minded | mind-ed  1 
+ parked | park-ed  1 
+ favors | favor-s  2 
+ walled | wall-ed  1 
+ favored | favor-ed  3 
+ claws | claw-s  2 
+ flanked | flank-ed  1 
+ flanks | flank-s  1 
+ wings | wing-s  5 
+ delights | delight-s  1 
+ spelled | spell-ed  1 
+ cloaks | cloak-s  5 
+
+ 
+('d', 'n') : 
+ would | woul-d  108 
+ crowd | crow-d  17 
+ wouln | woul-n  1 
+ crown | crow-n  1 
+
+ 
+('rged',) : 
+ emerged | eme-rged  1 
+
+ 
+('er', 'ing', 's') : 
+ keeping | keep-ing  10 
+ drinks | drink-s  2 
+ keeps | keep-s  2 
+ beater | beat-er  1 
+ drinking | drink-ing  4 
+ beating | beat-ing  2 
+ keeper | keep-er  11 
+ beats | beat-s  1 
+ drinker | drink-er  2 
+
+ 
+('pped', 'rled', 'tch') : 
+ snatch | sna-tch  1 
+ snapped | sna-pped  25 
+ snarled | sna-rled  8 
+
+ 
+('g',) : 
+ dripping | drippin-g  1 
+ sizzling | sizzlin-g  1 
+ frying | fryin-g  2 
+ suffering | sufferin-g  2 
+ prowling | prowlin-g  1 
+ bloodcurdling | bloodcurdlin-g  1 
+ stabbing | stabbin-g  1 
+ scattering | scatterin-g  2 
+ blundering | blunderin-g  1 
+ zigzagging | zigzaggin-g  2 
+ rustling | rustlin-g  4 
+ stinking | stinkin-g  1 
+ defrosting | defrostin-g  1 
+ bobbing | bobbin-g  4 
+ bawling | bawlin-g  1 
+ skimming | skimmin-g  2 
+ sweltering | swelterin-g  1 
+ crunching | crunchin-g  4 
+ nagging | naggin-g  2 
+ billowing | billowin-g  2 
+ dyeing | dyein-g  1 
+ twanging | twangin-g  1 
+ leering | leerin-g  1 
+ fussing | fussin-g  1 
+ colorcoding | colorcodin-g  1 
+ licking | lickin-g  3 
+ astounding | astoundin-g  1 
+ dividing | dividin-g  1 
+ crawling | crawlin-g  2 
+ earsplitting | earsplittin-g  1 
+ waddling | waddlin-g  1 
+ cunning | cunnin-g  1 
+ rasping | raspin-g  1 
+ sitting | sittin-g  26 
+ paving | pavin-g  1 
+ unsticking | unstickin-g  1 
+ cutting | cuttin-g  1 
+ slithering | slitherin-g  5 
+ snuffling | snufflin-g  1 
+ wolfing | wolfin-g  1 
+ shutting | shuttin-g  2 
+ slapping | slappin-g  1 
+ fiddling | fiddlin-g  1 
+ deafening | deafenin-g  3 
+ gangling | ganglin-g  1 
+ sickening | sickenin-g  2 
+ retracing | retracin-g  1 
+ threatening | threatenin-g  4 
+ disapproving | disapprovin-g  1 
+ smothering | smotherin-g  1 
+ clattering | clatterin-g  1 
+ glistening | glistenin-g  1 
+ including | includin-g  1 
+ outstanding | outstandin-g  2 
+ morag | mora-g  1 
+ selfstirring | selfstirrin-g  1 
+ revolting | revoltin-g  2 
+ catcalling | catcallin-g  1 
+ ceiling | ceilin-g  20 
+ balancing | balancin-g  1 
+ anticheating | anticheatin-g  1 
+ describing | describin-g  1 
+ fumbling | fumblin-g  1 
+ smirking | smirkin-g  1 
+ correcting | correctin-g  1 
+ skidding | skiddin-g  1 
+ thronging | throngin-g  1 
+ hedwig | hedwi-g  13 
+ lying | lyin-g  12 
+ shimmering | shimmerin-g  1 
+ losing | losin-g  6 
+ scudding | scuddin-g  1 
+ swimming | swimmin-g  2 
+ praying | prayin-g  1 
+ simmering | simmerin-g  1 
+ thrashing | thrashin-g  2 
+ cowering | cowerin-g  1 
+ interestinglooking | interestinglookin-g  1 
+ heartstring | heartstrin-g  1 
+ loosening | loosenin-g  2 
+ criticizing | criticizin-g  1 
+ blistering | blisterin-g  2 
+ crumbling | crumblin-g  1 
+ uncoiling | uncoilin-g  1 
+ tinkling | tinklin-g  1 
+ rulebreaking | rulebreakin-g  1 
+ glinting | glintin-g  4 
+ slinking | slinkin-g  1 
+ plotting | plottin-g  1 
+ grappling | grapplin-g  1 
+ whooshing | whooshin-g  1 
+ ensnaring | ensnarin-g  1 
+ whizzing | whizzin-g  1 
+ potionmaking | potionmakin-g  1 
+ trotting | trottin-g  1 
+ stirring | stirrin-g  1 
+ taunting | tauntin-g  1 
+ skulking | skulkin-g  1 
+ according | accordin-g  1 
+ scrabbling | scrabblin-g  1 
+ encouraging | encouragin-g  1 
+ blossoming | blossomin-g  1 
+ spying | spyin-g  3 
+ dribbling | dribblin-g  1 
+ dying | dyin-g  4 
+
+ 
+('ed', 'er') : 
+ locked | lock-ed  10 
+ locker | lock-er  7 
+ owner | own-er  2 
+ owned | own-ed  4 
+
+ 
+('eak',) : 
+ tweak | tw-eak  1 
+
+ 
+('ping', 't') : 
+ sweeping | swee-ping  3 
+ sweet | swee-t  4 
+
+ 
+('e', 'er') : 
+ badge | badg-e  3 
+ badger | badg-er  1 
+ large | larg-e  51 
+ larger | larg-er  1 
+
+ 
+('ing', 's', 'y') : 
+ sticky | stick-y  2 
+ sleepy | sleep-y  3 
+ speeding | speed-ing  6 
+ speedy | speed-y  1 
+ speeds | speed-s  1 
+ creeps | creep-s  1 
+ sticking | stick-ing  4 
+ sticks | stick-s  5 
+ sleeps | sleep-s  1 
+ sleeping | sleep-ing  3 
+ creeping | creep-ing  2 
+ creepy | creep-y  2 
+
+ 
+('ed', 'ing', 's', 'y') : 
+ cheering | cheer-ing  6 
+ pointed | point-ed  21 
+ pointy | point-y  1 
+ cheered | cheer-ed  3 
+ points | point-s  44 
+ cheers | cheer-s  6 
+ pointing | point-ing  18 
+ cheery | cheer-y  1 
+
+ 
+('aked', 'oked', 'ssly') : 
+ crossly | cro-ssly  1 
+ croaked | cro-aked  3 
+ crooked | cro-oked  2 
+
+ 
+('ick', 'ing', 'oom') : 
+ bring | br-ing  5 
+ broom | br-oom  34 
+ brick | br-ick  3 
+
+ 
+('ong',) : 
+ along | al-ong  32 
+ among | am-ong  4 
+
+ 
+('ck', 'es', 'ved') : 
+ shoes | sho-es  2 
+ shoved | sho-ved  1 
+ shock | sho-ck  11 
+
+ 
+('d', 'r') : 
+ corned | corne-d  1 
+ corner | corne-r  25 
+
+ 
+('e', 'y') : 
+ horribly | horribl-y  3 
+ gently | gentl-y  6 
+ gentle | gentl-e  1 
+ breezy | breez-y  1 
+ simply | simpl-y  8 
+ incredibly | incredibl-y  1 
+ breeze | breez-e  2 
+ miserable | miserabl-e  2 
+ possibly | possibl-y  5 
+ incredible | incredibl-e  4 
+ miserably | miserabl-y  5 
+ spine | spin-e  1 
+ possible | possibl-e  12 
+ spiny | spin-y  1 
+ simple | simpl-e  3 
+ horrible | horribl-e  21 
+
+ 
+('ened', 'er', 's') : 
+ tights | tight-s  1 
+ tightened | tight-ened  2 
+ tighter | tight-er  1 
+
+ 
+('der',) : 
+ under | un-der  39 
+
+ 
+('ack', 'all', 'eep', 'elf') : 
+ shack | sh-ack  2 
+ shelf | sh-elf  3 
+ sheep | sh-eep  1 
+ shall | sh-all  7 
+
+ 
+('ter',) : 
+ matter | mat-ter  14 
+ easter | eas-ter  1 
+ better | bet-ter  41 
+ potter | pot-ter  104 
+
+ 
+('ful',) : 
+ awful | aw-ful  1 
+
+ 
+('cies', 'ech', 'ed') : 
+ speech | spe-ech  2 
+ speed | spe-ed  6 
+ species | spe-cies  1 
+
+ 
+('n', 'y') : 
+ musty | must-y  1 
+ mustn | must-n  3 
+
+ 
+('k', 'n') : 
+ greek | gree-k  1 
+ green | gree-n  31 
+
+ 
+('nes', 'ter', 'ugh') : 
+ laugh | la-ugh  6 
+ later | la-ter  43 
+ lanes | la-nes  1 
+
+ 
+('ing', 'n') : 
+ growing | grow-ing  1 
+ throwing | throw-ing  10 
+ thrown | throw-n  6 
+ blown | blow-n  5 
+ blowing | blow-ing  2 
+ grown | grow-n  6 
+
+ 
+('aded', 'king', 'tner', 'vati') : 
+ parvati | par-vati  4 
+ partner | par-tner  3 
+ paraded | par-aded  1 
+ parking | par-king  3 
+
+ 
+('e', 'ed') : 
+ convinced | convinc-ed  2 
+ refereed | refere-ed  1 
+ convince | convinc-e  1 
+ paused | paus-ed  2 
+ dodged | dodg-ed  4 
+ mustache | mustach-e  6 
+ dislike | dislik-e  1 
+ agree | agre-e  2 
+ singled | singl-ed  1 
+ continue | continu-e  2 
+ place | plac-e  34 
+ tiptoed | tipto-ed  1 
+ continued | continu-ed  1 
+ introduced | introduc-ed  1 
+ single | singl-e  10 
+ agreed | agre-ed  10 
+ damage | damag-e  2 
+ pause | paus-e  3 
+ tiptoe | tipto-e  2 
+ promise | promis-e  2 
+ nursed | nurs-ed  1 
+ bundled | bundl-ed  1 
+ dodge | dodg-e  1 
+ bundle | bundl-e  5 
+ wasted | wast-ed  1 
+ exchanged | exchang-ed  1 
+ believe | believ-e  22 
+ ppose | ppos-e  1 
+ referee | refere-e  3 
+ enclosed | enclos-ed  1 
+ buckle | buckl-e  2 
+ damaged | damag-ed  1 
+ disliked | dislik-ed  1 
+ introduce | introduc-e  2 
+ placed | plac-ed  1 
+ entranced | entranc-ed  1 
+ prickled | prickl-ed  2 
+ double | doubl-e  3 
+ promised | promis-ed  3 
+ doubled | doubl-ed  1 
+ recognize | recogniz-e  3 
+ buckled | buckl-ed  1 
+ entrance | entranc-e  10 
+ nurse | nurs-e  1 
+ cackled | cackl-ed  2 
+ enclose | enclos-e  1 
+ recognized | recogniz-ed  4 
+ mustached | mustach-ed  1 
+ prickle | prickl-e  1 
+ believed | believ-ed  5 
+ pposed | ppos-ed  2 
+ waste | wast-e  2 
+ exchange | exchang-e  1 
+ cackle | cackl-e  1 
+
+ 
+('cal', 'gic', 'tta', 'ved', 'ver') : 
+ lotta | lo-tta  1 
+ lover | lo-ver  1 
+ local | lo-cal  1 
+ logic | lo-gic  3 
+ loved | lo-ved  2 
+
+ 
+('ped',) : 
+ tipped | tip-ped  2 
+ groped | gro-ped  1 
+ popped | pop-ped  2 
+
+ 
+('des', 'red', 'tch') : 
+ hitch | hi-tch  1 
+ hired | hi-red  1 
+ hides | hi-des  1 
+
+ 
+('er', 'ing') : 
+ letting | lett-ing  2 
+ leading | lead-ing  6 
+ hanging | hang-ing  13 
+ speaking | speak-ing  6 
+ gamekeeper | gamekeep-er  6 
+ maker | mak-er  1 
+ leader | lead-er  1 
+ speaker | speak-er  1 
+ gamekeeping | gamekeep-ing  1 
+ letter | lett-er  46 
+ making | mak-ing  18 
+ hanger | hang-er  1 
+
+ 
+('gged', 'red', 'tly', 'tter') : 
+ flared | fla-red  2 
+ flagged | fla-gged  1 
+ flatly | fla-tly  2 
+ flatter | fla-tter  1 
+
+ 
+('dow', 'ked', 'ning', 'ter') : 
+ window | win-dow  32 
+ winked | win-ked  5 
+ winning | win-ning  5 
+ winter | win-ter  1 
+
+ 
+('ing', 'n', 's') : 
+ known | know-n  12 
+ knowing | know-ing  10 
+ knows | know-s  21 
+
+ 
+('ing', 'l', 'ling', 'n') : 
+ drawl | draw-l  1 
+ drawn | draw-n  2 
+ drawing | draw-ing  4 
+ drawling | draw-ling  2 
+
+ 
+('nded', 'w', 'y') : 
+ stranded | stra-nded  1 
+ stray | stra-y  1 
+ straw | stra-w  1 
+
+ 
+('ngi',) : 
+ fungi | fu-ngi  4 
+
+ 
+('er', 'eted', 's') : 
+ rocks | rock-s  1 
+ rocketed | rock-eted  1 
+ rocker | rock-er  2 
+
+ 
+('er', 'ing', 'y') : 
+ sweating | sweat-ing  1 
+ sweater | sweat-er  10 
+ sweaty | sweat-y  3 
+
+ 
+('self',) : 
+ herself | her-self  8 
+
+ 
+('llow', 'pped', 'yed') : 
+ swapped | swa-pped  2 
+ swallow | swa-llow  1 
+ swayed | swa-yed  2 
+
+ 
+('ed', 'ful', 'ing', 's', 'y') : 
+ handing | hand-ing  3 
+ handy | hand-y  1 
+ handful | hand-ful  2 
+ handed | hand-ed  9 
+ hands | hand-s  34 
+
+ 
+('ned', 'pped', 'wned') : 
+ droned | dro-ned  1 
+ drowned | dro-wned  2 
+ dropped | dro-pped  21 
+
+ 
+('sed',) : 
+ nosed | no-sed  2 
+ pursed | pur-sed  1 
+ advised | advi-sed  1 
+
+ 
+('ly', 'st') : 
+ latest | late-st  2 
+ lately | late-ly  3 
+
+ 
+('ging',) : 
+ wringing | wrin-ging  1 
+ begging | beg-ging  1 
+ bulging | bul-ging  2 
+
+ 
+('fru', 'ses') : 
+ cases | ca-ses  1 
+ cafru | ca-fru  1 
+
+ 
+('om',) : 
+ gloom | glo-om  3 
+
+ 
+('ow', 'y') : 
+ sallow | sall-ow  1 
+ sally | sall-y  1 
+
+ 
+('e', 'ed', 'ing', 'p') : 
+ share | shar-e  5 
+ shared | shar-ed  2 
+ sharing | shar-ing  2 
+ sharp | shar-p  12 
+
+ 
+('ved',) : 
+ dived | di-ved  6 
+ saved | sa-ved  5 
+ heaved | hea-ved  2 
+
+ 
+('ch', 'rded', 'st') : 
+ beach | bea-ch  1 
+ beast | bea-st  3 
+ bearded | bea-rded  1 
+
+ 
+('ed', 'led') : 
+ chucked | chuck-ed  1 
+ chuckled | chuck-led  7 
+
+ 
+('ow',) : 
+ arrow | arr-ow  1 
+
+ 
+('red', 't') : 
+ sniggered | snigge-red  2 
+ snigget | snigge-t  1 
+
+ 
+('ered',) : 
+ offered | off-ered  4 
+
+ 
+('med',) : 
+ hummed | hum-med  3 
+ named | na-med  1 
+ jammed | jam-med  2 
+
+ 
+('e', 'king') : 
+ stalking | stal-king  1 
+ stale | stal-e  1 
+
+ 
+('ded', 'low') : 
+ folded | fol-ded  3 
+ follow | fol-low  18 
+
+ 
+('er', 'ly') : 
+ deeply | deep-ly  4 
+ numbly | numb-ly  1 
+ deeper | deep-er  4 
+ number | numb-er  17 
+
+ 
+('ed', 'ing', 'ling', 'y') : 
+ sniffed | sniff-ed  4 
+ sniffling | sniff-ling  1 
+ sniffing | sniff-ing  1 
+ sniffy | sniff-y  1 
+
+ 
+('ff',) : 
+ myseff | myse-ff  1 
+
+ 
+('ack', 'aff', 'amp', 'eak', 'eam', 'eep', 'ick', 'iff', 'orm', 'uck', 'uff', 'ump', 'ung') : 
+ stung | st-ung  1 
+ staff | st-aff  2 
+ steam | st-eam  1 
+ steep | st-eep  3 
+ stiff | st-iff  2 
+ stuff | st-uff  15 
+ stump | st-ump  1 
+ stack | st-ack  2 
+ steak | st-eak  3 
+ storm | st-orm  10 
+ stuck | st-uck  9 
+ stick | st-ick  10 
+ stamp | st-amp  4 
+
+ 
+('e', 'tled') : 
+ white | whit-e  35 
+ whittled | whit-tled  1 
+
+ 
+('ted',) : 
+ sprinted | sprin-ted  5 
+ fitted | fit-ted  4 
+ hooted | hoo-ted  2 
+ witted | wit-ted  1 
+
+ 
+('hsi', 'rst', 'rth') : 
+ worth | wo-rth  8 
+ worst | wo-rst  5 
+ wohsi | wo-hsi  1 
+
+ 
+('bles', 'ched', 'ried') : 
+ marched | mar-ched  8 
+ marbles | mar-bles  1 
+ married | mar-ried  2 
+
+ 
+('bbed', 'nger') : 
+ granger | gra-nger  25 
+ grabbed | gra-bbed  12 
+
+ 
+('a',) : 
+ gotta | gott-a  8 
+ agrippa | agripp-a  3 
+ saliva | saliv-a  1 
+ alicia | alici-a  1 
+ africa | afric-a  1 
+ cliodna | cliodn-a  1 
+ haaaaaa | haaaaa-a  1 
+ romania | romani-a  5 
+ majorca | majorc-a  1 
+ petunia | petuni-a  58 
+ tarantula | tarantul-a  1 
+ oughta | ought-a  1 
+ morgana | morgan-a  2 
+ bathilda | bathild-a  1 
+ umbrella | umbrell-a  10 
+ phyllida | phyllid-a  1 
+ angelina | angelin-a  4 
+ extra | extr-a  6 
+ camera | camer-a  3 
+ gorilla | gorill-a  1 
+ miranda | mirand-a  1 
+ leviosa | levios-a  3 
+ sahara | sahar-a  1 
+ minerva | minerv-a  1 
+ alohomora | alohomor-a  2 
+
+ 
+('ried', 'tled') : 
+ hurried | hur-ried  14 
+ hurtled | hur-tled  5 
+
+ 
+('gh',) : 
+ cough | cou-gh  1 
+
+ 
+('nkly', 'zing') : 
+ blankly | bla-nkly  1 
+ blazing | bla-zing  2 
+
+ 
+('ied', 'ier', 'y') : 
+ empty | empt-y  23 
+ emptier | empt-ier  1 
+ emptied | empt-ied  4 
+
+ 
+('ked', 'pped', 'pper', 'res') : 
+ stoked | sto-ked  1 
+ stopper | sto-pper  1 
+ stopped | sto-pped  29 
+ stores | sto-res  1 
+
+ 
+('ger',) : 
+ eager | ea-ger  3 
+
+ 
+('ick', 'iff', 'imb', 'ung') : 
+ clung | cl-ung  1 
+ click | cl-ick  1 
+ cliff | cl-iff  3 
+ climb | cl-imb  1 
+
+ 
+('cued',) : 
+ rescued | res-cued  1 
+
+ 
+('ed', 'ling', 's', 'y') : 
+ tricked | trick-ed  1 
+ tricky | trick-y  3 
+ trickling | trick-ling  1 
+ tricks | trick-s  1 
+
+ 
+('d', 'ing', 't') : 
+ heard | hear-d  75 
+ hearing | hear-ing  1 
+ heart | hear-t  25 
+
+ 
+('ing', 'nna') : 
+ gonna | go-nna  4 
+ going | go-ing  135 
+
+ 
+('al', 'e', 'ing') : 
+ practicing | practic-ing  3 
+ practice | practic-e  13 
+ practical | practic-al  1 
+
+ 
+('er',) : 
+ happier | happi-er  2 
+ outer | out-er  3 
+ sharper | sharp-er  1 
+ mother | moth-er  33 
+ louder | loud-er  1 
+ easier | easi-er  3 
+ fewer | few-er  2 
+ colder | cold-er  3 
+ warmer | warm-er  1 
+ redder | redd-er  2 
+ water | wat-er  9 
+ monster | monst-er  1 
+ greener | green-er  1 
+ angrier | angri-er  1 
+ remember | rememb-er  39 
+ bother | both-er  3 
+ lower | low-er  5 
+ nearer | near-er  14 
+ nastier | nasti-er  1 
+ center | cent-er  1 
+ shorter | short-er  1 
+ taller | tall-er  2 
+ quicker | quick-er  4 
+ smarter | smart-er  1 
+ sooner | soon-er  3 
+ higher | high-er  7 
+ heavier | heavi-er  2 
+ never | nev-er  126 
+ smoother | smooth-er  1 
+ hunger | hung-er  2 
+ smaller | small-er  3 
+ tower | tow-er  13 
+ stronger | strong-er  1 
+ poorer | poor-er  1 
+ harder | hard-er  7 
+ faster | fast-er  5 
+ dealer | deal-er  1 
+ wilder | wild-er  2 
+ minister | minist-er  1 
+ anger | ang-er  4 
+ thicker | thick-er  1 
+ older | old-er  6 
+ nicer | nic-er  2 
+ summer | summ-er  8 
+
+ 
+('ed', 'ing', 't') : 
+ weight | weigh-t  1 
+ weighed | weigh-ed  1 
+ weighing | weigh-ing  3 
+
+ 
+('ming',) : 
+ roaming | roa-ming  1 
+
+ 
+('ing', 'ow') : 
+ willow | will-ow  1 
+ willing | will-ing  1 
+
+ 
+('rly',) : 
+ dearly | dea-rly  1 
+
+ 
+('ished', 'y') : 
+ brandy | brand-y  4 
+ brandished | brand-ished  1 
+
+ 
+('n',) : 
+ sunburn | sunbur-n  1 
+ concen | conce-n  1 
+ johnson | johnso-n  4 
+ stolen | stole-n  3 
+ tartan | tarta-n  1 
+ station | statio-n  11 
+ ribbon | ribbo-n  1 
+ detention | detentio-n  5 
+ needin | needi-n  1 
+ learn | lear-n  15 
+ goblin | gobli-n  11 
+ ahern | aher-n  1 
+ infusion | infusio-n  2 
+ modern | moder-n  3 
+ shinin | shini-n  1 
+ turban | turba-n  14 
+ takin | taki-n  4 
+ spokesgoblin | spokesgobli-n  1 
+ return | retur-n  6 
+ copyin | copyi-n  1 
+ shoutin | shouti-n  1 
+ sayin | sayi-n  3 
+ concern | concer-n  2 
+ stern | ster-n  4 
+ turpin | turpi-n  1 
+ cauldron | cauldro-n  18 
+ relation | relatio-n  1 
+ fasten | faste-n  1 
+ woven | wove-n  1 
+ thirteen | thirtee-n  9 
+ motion | motio-n  1 
+ vision | visio-n  1 
+ chessmen | chessme-n  8 
+ broken | broke-n  14 
+ brown | brow-n  10 
+ convention | conventio-n  1 
+ halloween | hallowee-n  10 
+ studyin | studyi-n  1 
+ unknown | unknow-n  2 
+ inscription | inscriptio-n  1 
+ askin | aski-n  3 
+ frightenin | frighteni-n  1 
+ decoration | decoratio-n  2 
+ woman | woma-n  18 
+ spawn | spaw-n  1 
+ eaten | eate-n  5 
+ question | questio-n  10 
+ paddington | paddingto-n  1 
+ overgrown | overgrow-n  1 
+ attention | attentio-n  7 
+ brain | brai-n  3 
+ thumpin | thumpi-n  1 
+ facedown | facedow-n  2 
+ stain | stai-n  1 
+ unbroken | unbroke-n  1 
+ britain | britai-n  3 
+ reckon | recko-n  7 
+ rabbitin | rabbiti-n  1 
+ person | perso-n  8 
+ diagon | diago-n  8 
+ viridian | viridia-n  1 
+ javelin | javeli-n  1 
+ tryin | tryi-n  1 
+ baron | baro-n  9 
+ kitchen | kitche-n  14 
+ opinion | opinio-n  5 
+ frozen | froze-n  2 
+ beaverskin | beaverski-n  1 
+ discussion | discussio-n  1 
+ wouldn | would-n  52 
+ maroon | maroo-n  3 
+ chicken | chicke-n  3 
+ again | agai-n  101 
+ cartoon | cartoo-n  1 
+ suspicion | suspicio-n  1 
+ guardin | guardi-n  3 
+ flyin | flyi-n  1 
+ quentin | quenti-n  1 
+ smarten | smarte-n  1 
+ hebridean | hebridea-n  1 
+ mcguffin | mcguffi-n  1 
+ fourteen | fourtee-n  2 
+ haven | have-n  22 
+ imagination | imaginatio-n  2 
+ information | informatio-n  1 
+ television | televisio-n  10 
+ gotten | gotte-n  20 
+ within | withi-n  3 
+ human | huma-n  6 
+ woken | woke-n  4 
+ london | londo-n  14 
+ possession | possessio-n  6 
+ diversion | diversio-n  1 
+ trodden | trodde-n  2 
+ fallen | falle-n  6 
+ meanin | meani-n  1 
+ bidin | bidi-n  1 
+ vernon | verno-n  116 
+ common | commo-n  23 
+ readin | readi-n  1 
+ curtain | curtai-n  1 
+ alien | alie-n  1 
+ ronan | rona-n  20 
+ devon | devo-n  1 
+ driven | drive-n  3 
+ buyin | buyi-n  1 
+ reason | reaso-n  22 
+ dozen | doze-n  3 
+ wizardin | wizardi-n  1 
+ gentleman | gentlema-n  1 
+ changin | changi-n  1 
+ weren | were-n  26 
+ fattenin | fatteni-n  1 
+ dumbledorein | dumbledorei-n  1 
+ merlin | merli-n  2 
+ turnin | turni-n  1 
+ milkman | milkma-n  1 
+ mistaken | mistake-n  1 
+ heaven | heave-n  2 
+ queen | quee-n  4 
+ dragon | drago-n  36 
+ seventeen | seventee-n  3 
+ caution | cautio-n  2 
+ lemon | lemo-n  7 
+ forgettin | forgetti-n  1 
+ forbidden | forbidde-n  8 
+ specimen | specime-n  1 
+ laden | lade-n  2 
+ sudden | sudde-n  14 
+ insultin | insulti-n  1 
+ foghorn | foghor-n  1 
+ makin | maki-n  1 
+ ashen | ashe-n  1 
+ fashion | fashio-n  2 
+ balloon | balloo-n  3 
+ malkin | malki-n  7 
+ began | bega-n  23 
+ african | africa-n  1 
+ explosion | explosio-n  1 
+ between | betwee-n  22 
+ gallopin | gallopi-n  1 
+ havin | havi-n  1 
+ popkin | popki-n  1 
+ messin | messi-n  1 
+ tellin | telli-n  1 
+ complain | complai-n  5 
+ woolen | woole-n  1 
+ captain | captai-n  5 
+ hidden | hidde-n  10 
+ seven | seve-n  23 
+ resolution | resolutio-n  1 
+ cryin | cryi-n  1 
+ lecturin | lecturi-n  1 
+ vacation | vacatio-n  2 
+ speakin | speaki-n  1 
+ waitin | waiti-n  1 
+ section | sectio-n  6 
+ explain | explai-n  12 
+ gordon | gordo-n  1 
+ gettin | getti-n  6 
+ frighten | frighte-n  1 
+ eleven | eleve-n  16 
+ watchin | watchi-n  1 
+ postman | postma-n  1 
+ listen | liste-n  17 
+ cushion | cushio-n  1 
+ unseen | unsee-n  1 
+ ambition | ambitio-n  2 
+ killin | killi-n  2 
+ protection | protectio-n  3 
+ pumpkin | pumpki-n  4 
+ grunnion | grunnio-n  1 
+ frown | frow-n  1 
+ librarian | libraria-n  1 
+ cousin | cousi-n  3 
+ combination | combinatio-n  1 
+ exasperation | exasperatio-n  1 
+ tenpin | tenpi-n  1 
+ pattern | patter-n  1 
+ norwegian | norwegia-n  4 
+ adrian | adria-n  2 
+ children | childre-n  2 
+ runnin | runni-n  1 
+ swollen | swolle-n  1 
+ jordan | jorda-n  11 
+ meddlin | meddli-n  1 
+ reflection | reflectio-n  8 
+ unicorn | unicor-n  23 
+ doesn | does-n  10 
+ foribidden | foribidde-n  1 
+ anythin | anythi-n  13 
+ deliverin | deliveri-n  1 
+ lesson | lesso-n  7 
+ transfiguration | transfiguratio-n  5 
+ written | writte-n  11 
+ griffin | griffi-n  1 
+ forgotten | forgotte-n  17 
+ groan | groa-n  1 
+ chosen | chose-n  4 
+ playin | playi-n  1 
+ mentionin | mentioni-n  1 
+ weapon | weapo-n  1 
+ slain | slai-n  1 
+ comin | comi-n  1 
+ slytherin | slytheri-n  50 
+ wantin | wanti-n  1 
+ finnigan | finniga-n  7 
+ begin | begi-n  3 
+ garden | garde-n  6 
+ suspension | suspensio-n  1 
+ staggerin | staggeri-n  1 
+ moleskin | moleski-n  2 
+ susan | susa-n  2 
+ poison | poiso-n  3 
+ golden | golde-n  10 
+ wooden | woode-n  8 
+ somethin | somethi-n  7 
+ sixteen | sixtee-n  3 
+ mountain | mountai-n  6 
+ justin | justi-n  1 
+ women | wome-n  3 
+ galleon | galleo-n  1 
+ confusion | confusio-n  3 
+ expression | expressio-n  2 
+ nothin | nothi-n  6 
+ plain | plai-n  3 
+ drain | drai-n  1 
+ porpington | porpingto-n  1 
+ tremblin | trembli-n  2 
+ knowin | knowi-n  4 
+ mightn | might-n  1 
+ chasin | chasi-n  1 
+ often | ofte-n  8 
+ fetchin | fetchi-n  1 
+ payin | payi-n  1 
+ everythin | everythi-n  3 
+ resign | resig-n  2 
+ dungeon | dungeo-n  3 
+ weatherman | weatherma-n  1 
+ brazilian | brazilia-n  1 
+ gulpin | gulpi-n  1 
+ spoken | spoke-n  1 
+ bacon | baco-n  7 
+ session | sessio-n  2 
+ potion | potio-n  9 
+ mention | mentio-n  8 
+ dampen | dampe-n  1 
+ lookin | looki-n  4 
+ parkinson | parkinso-n  2 
+ fifteen | fiftee-n  3 
+ bidden | bidde-n  1 
+ promisin | promisi-n  1 
+ nation | natio-n  1 
+ season | seaso-n  1 
+ afternoon | afternoo-n  16 
+ direction | directio-n  13 
+ certain | certai-n  1 
+ begun | begu-n  1 
+ shaken | shake-n  3 
+ happen | happe-n  11 
+
+ 
+('ed', 'ful', 's') : 
+ thanks | thank-s  15 
+ thanked | thank-ed  1 
+ thankful | thank-ful  1 
+
+ 
+('ed', 'ing', 'row') : 
+ bored | bor-ed  3 
+ boring | bor-ing  3 
+ borrow | bor-row  2 
+
+ 
+('ting',) : 
+ cheating | chea-ting  1 
+ hitting | hit-ting  3 
+ commentating | commenta-ting  1 
+ ranting | ran-ting  1 
+ wafting | waf-ting  1 
+
+ 
+('s', 'shed') : 
+ brooms | broom-s  13 
+ broomshed | broom-shed  1 
+
+ 
+('ked', 'ker') : 
+ baked | ba-ked  2 
+ baker | ba-ker  1 
+
+ 
+('ack', 'ash', 'ick', 'ied', 'oll', 'uly') : 
+ tried | tr-ied  63 
+ troll | tr-oll  37 
+ trick | tr-ick  3 
+ track | tr-ack  1 
+ trash | tr-ash  5 
+ truly | tr-uly  1 
+
+ 
+('ump',) : 
+ plump | pl-ump  4 
+
+ 
+('dded',) : 
+ embedded | embe-dded  1 
+
+ 
+('kly',) : 
+ weekly | wee-kly  1 
+
+ 
+('ed', 'er', 'ing', 'ning', 's') : 
+ lighter | light-er  2 
+ lighted | light-ed  2 
+ lights | light-s  5 
+ lighting | light-ing  1 
+ lightning | light-ning  6 
+
+ 
+('d', 'e', 'n') : 
+ swore | swor-e  3 
+ sworn | swor-n  2 
+ sword | swor-d  1 
+
+ 
+('bled',) : 
+ gambled | gam-bled  1 
+
+ 
+('owed',) : 
+ allowed | all-owed  18 
+
+ 
+('dium',) : 
+ stadium | sta-dium  1 
+
+ 
+('ayed',) : 
+ delayed | del-ayed  2 
+
+ 
+('hing',) : 
+ anything | anyt-hing  74 
+
+ 
+('nth', 'ved') : 
+ month | mo-nth  4 
+ moved | mo-ved  22 
+
+ 
+('s', 'y') : 
+ lumps | lump-s  1 
+ loopy | loop-y  1 
+ drafty | draft-y  1 
+ loops | loop-s  1 
+ cloudy | cloud-y  2 
+ clouds | cloud-s  3 
+ tufts | tuft-s  1 
+ whiskery | whisker-y  1 
+ warts | wart-s  1 
+ shadowy | shadow-y  2 
+ warty | wart-y  2 
+ lumpy | lump-y  6 
+ slippers | slipper-s  1 
+ risks | risk-s  1 
+ tufty | tuft-y  1 
+ risky | risk-y  1 
+ whiskers | whisker-s  2 
+ drafts | draft-s  1 
+ shadows | shadow-s  7 
+ slippery | slipper-y  1 
+
+ 
+('fied',) : 
+ horrified | horri-fied  2 
+ terrified | terri-fied  8 
+
+ 
+('ll', 'nk') : 
+ shrink | shri-nk  1 
+ shrill | shri-ll  1 
+
+ 
+('knob', 's') : 
+ doorknob | door-knob  2 
+ doors | door-s  15 
+
+ 
+('ic', 'ted') : 
+ panted | pan-ted  6 
+ panic | pan-ic  5 
+
+ 
+('l', 's') : 
+ flamel | flame-l  28 
+ flames | flame-s  6 
 
  
 ('cer',) : 
- tracer | tra-cer  1 
+ soccer | soc-cer  6 
 
  
-('e', 's') : 
- habités | habité-s  1 
- petits | petit-s  4 
- éteinte | éteint-e  1 
- petite | petit-e  9 
- ennuie | ennui-e  1 
- francs | franc-s  1 
- jolis | joli-s  1 
- importante | important-e  4 
- éteints | éteint-s  2 
- contents | content-s  2 
- précédents | précédent-s  1 
- france | franc-e  4 
- importants | important-s  1 
- ennuis | ennui-s  1 
- contente | content-e  1 
- habitée | habité-e  8 
- jolie | joli-e  1 
- précédente | précédent-e  1 
+('ed', 'ing', 'ly') : 
+ directed | direct-ed  1 
+ directing | direct-ing  1 
+ directly | direct-ly  1 
 
  
-('aient', 'e', 'erai', 'é') : 
- tromperai | tromp-erai  1 
- trompe | tromp-e  1 
- trompé | tromp-é  1 
- trompaient | tromp-aient  1 
+('know', 'ng', 'nger', 'th') : 
+ younger | you-nger  4 
+ young | you-ng  10 
+ youth | you-th  1 
+ youknow | you-know  2 
 
  
-('ment', 'ées') : 
- dorées | dor-ées  1 
- dorment | dor-ment  3 
+('ing', 'ner') : 
+ dinner | din-ner  8 
+ dining | din-ing  1 
 
  
-('nt', 'r', 'rai', 's', 'z') : 
- aimerai | aime-rai  1 
- aimes | aime-s  2 
- aiment | aime-nt  1 
- aimez | aime-z  1 
- aimer | aime-r  1 
+('t', 'tly') : 
+ faintly | fain-tly  2 
+ secret | secre-t  15 
+ secretly | secre-tly  1 
+ faint | fain-t  5 
 
  
-('a', 'é') : 
- toussé | touss-é  1 
- confié | confi-é  1 
- confia | confi-a  2 
- toussa | touss-a  1 
- tourmenté | tourment-é  1 
- irrité | irrit-é  2 
- pencha | pench-a  2 
- penché | pench-é  1 
- irrita | irrit-a  1 
- tourmenta | tourment-a  1 
+('er', 'ixed') : 
+ transfixed | transf-ixed  2 
+ transfer | transf-er  1 
+
+ 
+('ced', 'vely', 'ver') : 
+ braver | bra-ver  4 
+ bravely | bra-vely  2 
+ braced | bra-ced  1 
+
+ 
+('ied', 'ying') : 
+ scurried | scurr-ied  1 
+ burying | bur-ying  1 
+ buried | bur-ied  3 
+ scurrying | scurr-ying  1 
+
+ 
+('ther',) : 
+ feather | fea-ther  7 
+ brother | bro-ther  9 
+ weather | wea-ther  4 
+ whether | whe-ther  10 
+
+ 
+('ned',) : 
+ tinned | tin-ned  1 
+
+ 
+('rded',) : 
+ boarded | boa-rded  2 
+
+ 
+('oved',) : 
+ removed | rem-oved  1 
+
+ 
+('tom',) : 
+ bottom | bot-tom  8 
+
+ 
+('ck', 'sed', 'sely', 'ser', 'th', 'uted') : 
+ cloth | clo-th  1 
+ clock | clo-ck  16 
+ closer | clo-ser  12 
+ closely | clo-sely  3 
+ clouted | clo-uted  1 
+ closed | clo-sed  5 
+
+ 
+('ist', 'ved') : 
+ waved | wa-ved  10 
+ waist | wa-ist  3 
+
+ 
+('l',) : 
+ illegal | illega-l  2 
+ personal | persona-l  1 
+ truthful | truthfu-l  1 
+ spiral | spira-l  4 
+ reveal | revea-l  2 
+ bristol | bristo-l  1 
+ steal | stea-l  11 
+ steel | stee-l  1 
+ metal | meta-l  3 
+ hopeful | hopefu-l  1 
+ wonderful | wonderfu-l  6 
+ mcgonagall | mcgonagal-l  101 
+ abysmal | abysma-l  1 
+ football | footbal-l  1 
+ windowsill | windowsil-l  2 
+ abnormal | abnorma-l  1 
+ admiral | admira-l  1 
+ normal | norma-l  10 
+ doorbell | doorbel-l  1 
+ cannonball | cannonbal-l  1 
+ careful | carefu-l  10 
+ immortal | immorta-l  1 
+ typical | typica-l  1 
+ grateful | gratefu-l  3 
+ multilevel | multileve-l  1 
+ several | severa-l  13 
+ until | unti-l  45 
+ international | internationa-l  1 
+ crystal | crysta-l  2 
+ bluebell | bluebel-l  1 
+ quirrell | quirrel-l  112 
+ natural | natura-l  2 
+ still | stil-l  92 
+ peaceful | peacefu-l  1 
+ scroll | scrol-l  1 
+ scandal | scanda-l  1 
+ whirl | whir-l  2 
+ cereal | cerea-l  1 
+ hotel | hote-l  3 
+ patil | pati-l  6 
+ control | contro-l  6 
+ identical | identica-l  1 
+ scowl | scow-l  1 
+ asphodel | asphode-l  2 
+ painful | painfu-l  3 
+ material | materia-l  2 
+ snowball | snowbal-l  1 
+ brazil | brazi-l  3 
+ angel | ange-l  1 
+ dwell | dwel-l  2 
+ tunnel | tunne-l  1 
+ model | mode-l  1 
+ unusual | unusua-l  5 
+ oddball | oddbal-l  1 
+ sorrowful | sorrowfu-l  1 
+ quirtell | quirtel-l  1 
+ windmill | windmil-l  1 
+ useful | usefu-l  6 
+ cheerful | cheerfu-l  2 
+ carousel | carouse-l  1 
+ special | specia-l  7 
+ level | leve-l  3 
+ faithful | faithfu-l  1 
+ parcel | parce-l  9 
+ macdougal | macdouga-l  1 
+ baseball | basebal-l  1 
+ loyal | loya-l  1 
+ downfall | downfal-l  1 
+ devil | devi-l  5 
+ jewel | jewe-l  2 
+ hospital | hospita-l  6 
+ small | smal-l  32 
+ blackpool | blackpoo-l  1 
+ magical | magica-l  11 
+ stonewall | stonewal-l  4 
+ scrawl | scraw-l  1 
+ remembrall | remembral-l  8 
+ basketball | basketbal-l  2 
+ powerful | powerfu-l  12 
+ council | counci-l  1 
+ mouthful | mouthfu-l  2 
+ boastful | boastfu-l  1 
+ school | schoo-l  69 
+ beautiful | beautifu-l  4 
+ cruel | crue-l  1 
+ infernal | inferna-l  1 
+ usual | usua-l  18 
+ nightfall | nightfal-l  1 
+ animal | anima-l  3 
+ footstool | footstoo-l  2 
+
+ 
+('e', 'er', 'ing') : 
+ writing | writ-ing  4 
+ writer | writ-er  1 
+ write | writ-e  2 
+
+ 
+('rch',) : 
+ lurch | lu-rch  1 
+
+ 
+('eak', 'eer', 'iff') : 
+ sneer | sn-eer  3 
+ sniff | sn-iff  2 
+ sneak | sn-eak  1 
+
+ 
+('s',) : 
+ knickerbockers | knickerbocker-s  2 
+ gorgons | gorgon-s  1 
+ chops | chop-s  2 
+ schedules | schedule-s  2 
+ shelves | shelve-s  6 
+ languages | language-s  1 
+ seconds | second-s  15 
+ alibis | alibi-s  1 
+ brains | brain-s  3 
+ ravenclaws | ravenclaw-s  2 
+ strawberries | strawberrie-s  1 
+ monstrous | monstrou-s  2 
+ cards | card-s  5 
+ arrangements | arrangement-s  1 
+ tentacles | tentacle-s  1 
+ words | word-s  24 
+ barbers | barber-s  1 
+ dennis | denni-s  1 
+ tibbles | tibble-s  1 
+ fumes | fume-s  1 
+ comets | comet-s  1 
+ doughnuts | doughnut-s  1 
+ thoughts | thought-s  1 
+ troops | troop-s  1 
+ animals | animal-s  4 
+ firecrackers | firecracker-s  1 
+ motionless | motionles-s  1 
+ questions | question-s  14 
+ arguments | argument-s  1 
+ detentions | detention-s  2 
+ beaks | beak-s  1 
+ headless | headles-s  6 
+ eclairs | eclair-s  1 
+ passes | passe-s  2 
+ scissors | scissor-s  1 
+ bills | bill-s  1 
+ dudleykins | dudleykin-s  1 
+ enchantments | enchantment-s  5 
+ affairs | affair-s  1 
+ perks | perk-s  1 
+ phoenixes | phoenixe-s  1 
+ guess | gues-s  4 
+ planets | planet-s  6 
+ shapes | shape-s  1 
+ folds | fold-s  1 
+ surprises | surprise-s  2 
+ socks | sock-s  5 
+ stories | storie-s  2 
+ sadness | sadnes-s  1 
+ pocus | pocu-s  1 
+ believes | believe-s  2 
+ fences | fence-s  1 
+ weeds | weed-s  1 
+ dursleys | dursley-s  50 
+ getups | getup-s  1 
+ sightings | sighting-s  1 
+ haircuts | haircut-s  1 
+ boaters | boater-s  1 
+ scuffles | scuffle-s  1 
+ puddings | pudding-s  1 
+ nicolas | nicola-s  16 
+ polkiss | polkis-s  2 
+ earths | earth-s  1 
+ spectacles | spectacle-s  2 
+ eyebrows | eyebrow-s  4 
+ lessons | lesson-s  11 
+ seekers | seeker-s  3 
+ peppermints | peppermint-s  1 
+ bogies | bogie-s  2 
+ curses | curse-s  2 
+ armchairs | armchair-s  4 
+ games | game-s  2 
+ bloodiness | bloodines-s  1 
+ hogwarts | hogwart-s  79 
+ revenges | revenge-s  1 
+ jokes | joke-s  1 
+ senses | sense-s  2 
+ liquids | liquid-s  1 
+ drops | drop-s  3 
+ sneakers | sneaker-s  1 
+ columns | column-s  1 
+ yerselves | yerselve-s  1 
+ things | thing-s  54 
+ hours | hour-s  8 
+ rules | rule-s  9 
+ turnips | turnip-s  1 
+ tennis | tenni-s  1 
+ bundles | bundle-s  1 
+ potions | potion-s  15 
+ crutches | crutche-s  1 
+ motorcycles | motorcycle-s  2 
+ cornflakes | cornflake-s  1 
+ hoops | hoop-s  6 
+ bricks | brick-s  1 
+ scabbets | scabbet-s  1 
+ vicious | viciou-s  1 
+ heartstrings | heartstring-s  1 
+ heaps | heap-s  1 
+ hinges | hinge-s  1 
+ movements | movement-s  4 
+ shaves | shave-s  1 
+ marcus | marcu-s  5 
+ sickles | sickle-s  3 
+ noses | nose-s  7 
+ misters | mister-s  1 
+ killers | killer-s  1 
+ catches | catche-s  1 
+ girls | girl-s  7 
+ fists | fist-s  3 
+ shallows | shallow-s  1 
+ relatives | relative-s  1 
+ famous | famou-s  24 
+ ledgers | ledger-s  1 
+ hooves | hoove-s  2 
+ followers | follower-s  2 
+ ollivanders | ollivander-s  3 
+ impress | impres-s  1 
+ herbs | herb-s  4 
+ daisies | daisie-s  1 
+ helicopters | helicopter-s  1 
+ punishments | punishment-s  1 
+ parties | partie-s  2 
+ inches | inche-s  11 
+ balloons | balloon-s  1 
+ carpets | carpet-s  1 
+ needles | needle-s  2 
+ ourselves | ourselve-s  4 
+ dolphins | dolphin-s  1 
+ headmistress | headmistres-s  2 
+ dungeons | dungeon-s  7 
+ newspapers | newspaper-s  1 
+ upstairs | upstair-s  13 
+ streets | street-s  2 
+ ankles | ankle-s  3 
+ icicles | icicle-s  1 
+ makers | maker-s  1 
+ yourselves | yourselve-s  5 
+ bodyguards | bodyguard-s  1 
+ gardens | garden-s  1 
+ firsties | firstie-s  2 
+ careless | careles-s  2 
+ sweets | sweet-s  7 
+ turkeys | turkey-s  1 
+ stones | stone-s  3 
+ galoshes | galoshe-s  1 
+ sleepless | sleeples-s  1 
+ sacrifices | sacrifice-s  1 
+ toads | toad-s  2 
+ jewels | jewel-s  1 
+ knees | knee-s  12 
+ squares | square-s  3 
+ scabbers | scabber-s  13 
+ dives | dive-s  1 
+ duties | dutie-s  1 
+ beans | bean-s  6 
+ spleens | spleen-s  1 
+ hates | hate-s  2 
+ edges | edge-s  1 
+ spoils | spoil-s  1 
+ chipolatas | chipolata-s  1 
+ phials | phial-s  1 
+ spots | spot-s  3 
+ gargoyles | gargoyle-s  1 
+ students | student-s  29 
+ brass | bras-s  5 
+ photographs | photograph-s  5 
+ sleeves | sleeve-s  2 
+ wasters | waster-s  1 
+ christmas | christma-s  25 
+ pellets | pellet-s  1 
+ feathers | feather-s  5 
+ fields | field-s  3 
+ cobras | cobra-s  1 
+ owners | owner-s  1 
+ forgetfulness | forgetfulnes-s  1 
+ chooses | choose-s  2 
+ fingers | finger-s  14 
+ secrets | secret-s  1 
+ dangerous | dangerou-s  10 
+ circumstances | circumstance-s  2 
+ arsenius | arseniu-s  1 
+ bonnets | bonnet-s  1 
+ creepers | creeper-s  1 
+ clues | clue-s  2 
+ pictures | picture-s  1 
+ bowlers | bowler-s  1 
+ strings | string-s  1 
+ restless | restles-s  1 
+ buildings | building-s  1 
+ desserts | dessert-s  2 
+ spiders | spider-s  2 
+ lanterns | lantern-s  1 
+ themselves | themselve-s  15 
+ matches | matche-s  2 
+ donkeys | donkey-s  1 
+ terms | term-s  1 
+ press | pres-s  1 
+ pigtails | pigtail-s  1 
+ nettles | nettle-s  1 
+ rumors | rumor-s  3 
+ greatness | greatnes-s  1 
+ increases | increase-s  1 
+ teabags | teabag-s  1 
+ trees | tree-s  15 
+ crackers | cracker-s  2 
+ blankets | blanket-s  6 
+ sandwiches | sandwiche-s  5 
+ sirius | siriu-s  2 
+ bludgers | bludger-s  13 
+ quills | quill-s  7 
+ baskets | basket-s  1 
+ doris | dori-s  3 
+ genius | geniu-s  2 
+ reflections | reflection-s  2 
+ gloves | glove-s  2 
+ mattress | mattres-s  1 
+ notices | notice-s  1 
+ stairs | stair-s  10 
+ times | time-s  18 
+ hills | hill-s  1 
+ defenseless | defenseles-s  1 
+ chasers | chaser-s  8 
+ saints | saint-s  1 
+ poisons | poison-s  1 
+ rubies | rubie-s  1 
+ investigations | investigation-s  1 
+ plants | plant-s  1 
+ beings | being-s  1 
+ telescopes | telescope-s  2 
+ foreheads | forehead-s  1 
+ letters | letter-s  21 
+ pheasants | pheasant-s  1 
+ experts | expert-s  1 
+ dress | dres-s  1 
+ subjects | subject-s  2 
+ fastenings | fastening-s  1 
+ witches | witche-s  8 
+ woods | wood-s  1 
+ candles | candle-s  3 
+ slugs | slug-s  1 
+ forgets | forget-s  1 
+ pythons | python-s  1 
+ stargazers | stargazer-s  1 
+ crumpets | crumpet-s  1 
+ indoors | indoor-s  1 
+ curious | curiou-s  7 
+ pages | page-s  1 
+ pajamas | pajama-s  2 
+ fireworks | firework-s  1 
+ trunks | trunk-s  4 
+ teaches | teache-s  1 
+ classrooms | classroom-s  2 
+ depths | depth-s  2 
+ markings | marking-s  3 
+ exams | exam-s  9 
+ angles | angle-s  2 
+ platforms | platform-s  6 
+ wristwatches | wristwatche-s  1 
+ pinpricks | pinprick-s  1 
+ beginners | beginner-s  1 
+ outlines | outline-s  1 
+ stops | stop-s  1 
+ twins | twin-s  23 
+ positions | position-s  1 
+ forces | force-s  1 
+ problems | problem-s  4 
+ feelings | feeling-s  2 
+ charms | charm-s  7 
+ warlocks | warlock-s  1 
+ across | acros-s  38 
+ barrels | barrel-s  2 
+ earmuffs | earmuff-s  1 
+ fabulous | fabulou-s  1 
+ happiness | happines-s  1 
+ programs | program-s  1 
+ vindictus | vindictu-s  1 
+ peeves | peeve-s  33 
+ potatoes | potatoe-s  4 
+ spectators | spectator-s  1 
+ substitutes | substitute-s  1 
+ seamus | seamu-s  20 
+ bubbles | bubble-s  2 
+ weasleys | weasley-s  12 
+ windows | window-s  10 
+ chips | chip-s  1 
+ creatures | creature-s  2 
+ hangings | hanging-s  2 
+ biscuits | biscuit-s  2 
+ piles | pile-s  2 
+ towns | town-s  1 
+ parents | parent-s  24 
+ basics | basic-s  1 
+ loyalties | loyaltie-s  1 
+ goodness | goodnes-s  4 
+ bonus | bonu-s  1 
+ visitors | visitor-s  1 
+ misses | misse-s  1 
+ enormous | enormou-s  5 
+ plates | plate-s  6 
+ birthdays | birthday-s  1 
+ embers | ember-s  1 
+ humans | human-s  3 
+ paracelsus | paracelsu-s  1 
+ touches | touche-s  2 
+ grips | grip-s  1 
+ others | other-s  15 
+ pupils | pupil-s  2 
+ torches | torche-s  2 
+ centuries | centurie-s  1 
+ drills | drill-s  6 
+ holidays | holiday-s  10 
+ titles | title-s  2 
+ doorways | doorway-s  1 
+ pumpkins | pumpkin-s  1 
+ totalus | totalu-s  1 
+ prefects | prefect-s  6 
+ rivers | river-s  1 
+ feasts | feast-s  2 
+ knuts | knut-s  6 
+ thomas | thoma-s  3 
+ anxious | anxiou-s  2 
+ grandfathers | grandfather-s  1 
+ sleepiness | sleepines-s  1 
+ whisperers | whisperer-s  1 
+ suspicious | suspiciou-s  1 
+ eyeglasses | eyeglasse-s  1 
+ waves | wave-s  1 
+ papers | paper-s  2 
+ leaves | leave-s  12 
+ enemies | enemie-s  3 
+ grounds | ground-s  14 
+ sundays | sunday-s  1 
+ beaters | beater-s  4 
+ goblets | goblet-s  1 
+ eeylops | eeylop-s  2 
+ folks | folk-s  1 
+ thieves | thieve-s  1 
+ books | book-s  43 
+ flitwicles | flitwicle-s  1 
+ reckons | reckon-s  2 
+ sweaters | sweater-s  1 
+ muggles | muggle-s  19 
+ ropes | rope-s  5 
+ developments | development-s  2 
+ tokens | token-s  1 
+ occasions | occasion-s  2 
+ pasties | pastie-s  3 
+ albus | albu-s  12 
+ smeltings | smelting-s  4 
+ thunderous | thunderou-s  1 
+ arrows | arrow-s  1 
+ wrists | wrist-s  1 
+ shoulders | shoulder-s  7 
+ cheeks | cheek-s  1 
+ lives | live-s  4 
+ creams | cream-s  2 
+ dreadlocks | dreadlock-s  1 
+ circus | circu-s  1 
+ centaurs | centaur-s  4 
+ perhaps | perhap-s  18 
+ toadless | toadles-s  3 
+ galleons | galleon-s  4 
+ hundreds | hundred-s  11 
+ pocuss | pocus-s  1 
+ portraits | portrait-s  2 
+ dishes | dishe-s  1 
+ scruffs | scruff-s  1 
+ dunderheads | dunderhead-s  1 
+ quarters | quarter-s  8 
+ dodges | dodge-s  1 
+ dears | dear-s  1 
+ strangers | stranger-s  2 
+ greenhouses | greenhouse-s  1 
+ statues | statue-s  1 
+ passages | passage-s  1 
+ years | year-s  52 
+ shortcuts | shortcut-s  1 
+ coats | coat-s  3 
+ cabbages | cabbage-s  1 
+ sapphires | sapphire-s  1 
+ yelps | yelp-s  1 
+ stools | stool-s  2 
+ veins | vein-s  1 
+ carriages | carriage-s  1 
+ nimbus | nimbu-s  16 
+ bottles | bottle-s  7 
+ results | result-s  4 
+ lizards | lizard-s  1 
+ friends | friend-s  15 
+ fingertips | fingertip-s  1 
+ globes | globe-s  1 
+ shapeless | shapeles-s  1 
+ unicorns | unicorn-s  3 
+ bones | bone-s  2 
+ decorations | decoration-s  2 
+ grades | grade-s  1 
+ always | alway-s  41 
+ useless | useles-s  1 
+ shields | shield-s  1 
+ clothes | clothe-s  8 
+ jeans | jean-s  1 
+ events | event-s  3 
+ sides | side-s  3 
+ spaces | space-s  1 
+ wanderings | wandering-s  1 
+ rooms | room-s  2 
+ tomatoes | tomatoe-s  1 
+ objects | object-s  1 
+ tourists | tourist-s  1 
+ ridgebacks | ridgeback-s  1 
+ nights | night-s  1 
+ tureens | tureen-s  1 
+ obvious | obviou-s  4 
+ harness | harnes-s  1 
+ higgs | higg-s  2 
+ wriggles | wriggle-s  1 
+ potters | potter-s  11 
+ carts | cart-s  1 
+ broomsticks | broomstick-s  9 
+ tries | trie-s  3 
+ chairs | chair-s  3 
+ grunnings | grunning-s  2 
+ cornelius | corneliu-s  1 
+ slytherins | slytherin-s  14 
+ tapestries | tapestrie-s  1 
+ cakes | cake-s  6 
+ duffers | duffer-s  1 
+ malfoys | malfoy-s  2 
+ punctures | puncture-s  1 
+ severus | severu-s  5 
+ nerves | nerve-s  4 
+ boxes | boxe-s  3 
+ dentists | dentist-s  1 
+ suits | suit-s  1 
+ hearts | heart-s  4 
+ twigs | twig-s  2 
+ balls | ball-s  10 
+ dormitories | dormitorie-s  2 
+ skies | skie-s  1 
+ threequarters | threequarter-s  1 
+ trances | trance-s  1 
+ viewers | viewer-s  1 
+ makes | make-s  4 
+ showers | shower-s  1 
+ wakes | wake-s  1 
+ bunches | bunche-s  1 
+ tendrils | tendril-s  1 
+ snakes | snake-s  1 
+ players | player-s  7 
+ glasses | glasse-s  15 
+ piers | pier-s  15 
+ versus | versu-s  1 
+ duddydums | duddydum-s  1 
+ crybabies | crybabie-s  1 
+ rations | ration-s  2 
+ marshmallows | marshmallow-s  1 
+ packages | package-s  4 
+ toilets | toilet-s  1 
+ brothers | brother-s  12 
+ sizes | size-s  1 
+ faces | face-s  13 
+ lamps | lamp-s  1 
+ discoveries | discoverie-s  2 
+ palms | palm-s  1 
+ raisins | raisin-s  1 
+ bananas | banana-s  1 
+ cauldrons | cauldron-s  4 
+ drearns | drearn-s  1 
+ downstairs | downstair-s  4 
+ instruments | instrument-s  1 
+ darkness | darknes-s  7 
+ outskirts | outskirt-s  1 
+ blackness | blacknes-s  1 
+ pebbles | pebble-s  1 
+ snowballs | snowball-s  1 
+ jealous | jealou-s  1 
+ tracks | track-s  3 
+ furious | furiou-s  9 
+ glass | glas-s  21 
+ freckles | freckle-s  4 
+ blotts | blott-s  1 
+ sideways | sideway-s  4 
+ thumbs | thumb-s  1 
+ speechless | speechles-s  2 
+ stalactites | stalactite-s  1 
+ endless | endles-s  1 
+ ronniekins | ronniekin-s  1 
+ weirdos | weirdo-s  2 
+ watchers | watcher-s  1 
+ corridors | corridor-s  10 
+ stalagmites | stalagmite-s  1 
+ coils | coil-s  1 
+ triumphs | triumph-s  1 
+ stitches | stitche-s  1 
+ youngsters | youngster-s  1 
+ poisonous | poisonou-s  2 
+ smiles | smile-s  3 
+ james | jame-s  5 
+ ridiculous | ridiculou-s  2 
+ cleverness | clevernes-s  1 
+ directions | direction-s  2 
+ hourglasses | hourglasse-s  1 
+ mckinnons | mckinnon-s  1 
+ thanksss | thankss-s  1 
+ symbols | symbol-s  1 
+ dedalus | dedalu-s  4 
+ rebellions | rebellion-s  1 
+ bathrobes | bathrobe-s  2 
+ passageways | passageway-s  2 
+ begins | begin-s  2 
+ dates | date-s  2 
+ splashes | splashe-s  1 
+ desks | desk-s  2 
+ lawns | lawn-s  1 
+ victims | victim-s  1 
+ delicious | deliciou-s  4 
+ draconis | draconi-s  1 
+ stubs | stub-s  1 
+ circles | circle-s  1 
+ binns | binn-s  3 
+ fangs | fang-s  5 
+ instructions | instruction-s  1 
+ class | clas-s  23 
+ weeks | week-s  11 
+ deserves | deserve-s  1 
+ minutes | minute-s  30 
+ bedrooms | bedroom-s  1 
+ ideas | idea-s  3 
+ meals | meal-s  1 
+ houses | house-s  8 
+ nightmares | nightmare-s  2 
+ rubeus | rubeu-s  3 
+ crisis | crisi-s  1 
+ hufflepuffis | hufflepuffi-s  1 
+ numbers | number-s  2 
+ sports | sport-s  1 
+ humbugs | humbug-s  2 
+ tables | table-s  6 
+ likes | like-s  1 
+ afternoons | afternoon-s  1 
+ curtains | curtain-s  4 
+ thousands | thousand-s  7 
+ vaults | vault-s  3 
+ platters | platter-s  1 
+ types | type-s  1 
+ ingredients | ingredient-s  3 
+ druidess | druides-s  1 
+ blacks | black-s  1 
+ carrots | carrot-s  1 
+ knuckles | knuckle-s  2 
+ turrets | turret-s  1 
+ figures | figure-s  1 
+ gains | gain-s  1 
+ horses | horse-s  1 
+ photos | photo-s  2 
+ binoculars | binocular-s  7 
+ teacups | teacup-s  1 
+ spirits | spirit-s  2 
+ maniacs | maniac-s  1 
+ cinemas | cinema-s  1 
+ families | familie-s  11 
+ teams | team-s  5 
+ toothless | toothles-s  2 
+ compartments | compartment-s  1 
+ boogers | booger-s  1 
+ neighbors | neighbor-s  2 
+ powers | power-s  3 
+ werewolves | werewolve-s  2 
+ trowels | trowel-s  1 
+ footsteps | footstep-s  9 
+ coals | coal-s  1 
+ hufflepuffs | hufflepuff-s  3 
+ gales | gale-s  1 
+ remains | remain-s  1 
+ nicholas | nichola-s  3 
+ branches | branche-s  8 
+ bullets | bullet-s  1 
+ wardrobes | wardrobe-s  1 
+ muffins | muffin-s  1 
+ vampires | vampire-s  3 
+ solutions | solution-s  1 
+ miles | mile-s  5 
+ sweetums | sweetum-s  1 
+ places | place-s  5 
+ evenings | evening-s  1 
+ robes | robe-s  26 
+ crashes | crashe-s  1 
+ tarts | tart-s  1 
+ moons | moon-s  2 
+ meters | meter-s  1 
+ frogs | frog-s  8 
+ discuss | discus-s  1 
+ names | name-s  5 
+ trousers | trouser-s  3 
+ hocus | hocu-s  2 
+ hoodlums | hoodlum-s  1 
+ arrivals | arrival-s  1 
+ fours | four-s  1 
+ tulips | tulip-s  1 
+ hatches | hatche-s  1 
+ festoons | festoon-s  1 
+ teachers | teacher-s  16 
+ sometimes | sometime-s  8 
+ staircases | staircase-s  2 
+ sausages | sausage-s  6 
+ steps | step-s  9 
+ months | month-s  4 
+ pieces | piece-s  9 
+ trials | trial-s  1 
+ yours | your-s  8 
+ beetles | beetle-s  1 
+ unless | unles-s  10 
+ kitchens | kitchen-s  4 
+ business | busines-s  10 
+ mounds | mound-s  1 
+ precious | preciou-s  2 
+ restaurants | restaurant-s  2 
+ floors | floor-s  4 
+ throats | throat-s  1 
+ mothers | mother-s  1 
+ express | expres-s  2 
+ tunnels | tunnel-s  1 
+ gryffindors | gryffindor-s  16 
+ norris | norri-s  13 
+ excuses | excuse-s  1 
+ boots | boot-s  5 
+ pairs | pair-s  4 
+ tickets | ticket-s  1 
+ groups | group-s  2 
+ tailcoats | tailcoat-s  1 
+ boats | boat-s  7 
+ mountains | mountain-s  3 
+ accidents | accident-s  2 
+ nostrils | nostril-s  8 
+ goblins | goblin-s  7 
+ deaths | death-s  1 
+ panels | panel-s  1 
+ footfalls | footfall-s  1 
+ countercurses | countercurse-s  1 
+ sprouts | sprout-s  1 
+ admirers | admirer-s  1 
+ ghosts | ghost-s  6 
+ nervous | nervou-s  14 
+ bless | bles-s  2 
+ coins | coin-s  5 
+ duels | duel-s  1 
+ posters | poster-s  1 
+ moments | moment-s  4 
+ hedges | hedge-s  1 
+ address | addres-s  3 
+ forests | forest-s  1 
+ banks | bank-s  1 
+ jackets | jacket-s  2 
+ mysterious | mysteriou-s  6 
+ sheets | sheet-s  5 
+ snores | snore-s  1 
+ beasts | beast-s  2 
+ exits | exit-s  1 
+ candies | candie-s  1 
+ celebrations | celebration-s  1 
+ slits | slit-s  1 
+ birds | bird-s  5 
+ serious | seriou-s  4 
+ scales | scale-s  3 
+ riders | rider-s  1 
+ petrificus | petrificu-s  1 
+ necks | neck-s  4 
+ heavens | heaven-s  3 
+ courageous | courageou-s  1 
+ nevertheless | nevertheles-s  1 
+ mortis | morti-s  1 
+ dragons | dragon-s  14 
+ trolls | troll-s  2 
+ reasons | reason-s  2 
+ gringotts | gringott-s  28 
+ prewetts | prewett-s  1 
+ luminous | luminou-s  2 
+
+ 
+('ely', 'ing') : 
+ likely | lik-ely  1 
+ liking | lik-ing  3 
+
+ 
+('nbow',) : 
+ rainbow | rai-nbow  1 
+
+ 
+('amed',) : 
+ ashamed | ash-amed  2 
+
+ 
+('how',) : 
+ somehow | some-how  13 
+
+ 
+('ed', 'ing', 'led') : 
+ ripping | ripp-ing  2 
+ ripped | ripp-ed  4 
+ pickled | pick-led  1 
+ picked | pick-ed  16 
+ rippled | ripp-led  1 
+ picking | pick-ing  2 
+
+ 
+('nned', 'stic') : 
+ plastic | pla-stic  5 
+ planned | pla-nned  1 
 
  
