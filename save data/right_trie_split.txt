@@ -1,5810 +1,13308 @@
-  |  | 1909 
+  |  | 0 
  
-  |  | 1920 
+  |  | 1 
  
-  |  | 325 
+  |  | 1473 
  
- 325 |  | 1 
+  |  | 1637 
  
-  |  | 326 
+  |  | 17 
  
-  |  | 327 
+  |  | 1709 
  
-  |  | 328 
+  |  | 1945 
  
-  |  | 329 
+  |  | 2 
  
-  |  | 330 
+  |  | 3 
  
-  |  | 612 
+  |  | 31 
+ 
+  |  | 382 
+ 
+  |  | 4 
+ 
+  |  | 90 
  
   |  | A 
  
-  |  | Abejas 
+  |  | AAAAAAAAAARGH 
  
-  |  | Adiós 
+  |  | AAAARGH 
  
-  |  | Admirar 
+  |  | ALBUS 
+ 
+  |  | ALL 
+ 
+  |  | ALLEY 
+ 
+  |  | ALLOWED 
+ 
+  |  | AM 
+ 
+  |  | AND 
+ 
+  |  | ANYTHING 
+ 
+  |  | ARE 
+ 
+  |  | AT 
+ 
+  |  | Aaah 
+ 
+  |  | Aargh 
+ 
+  |  | Abbott 
+ 
+  |  | Abou 
+ 
+  |  | About 
+ 
+  |  | Absolutely 
+ 
+  |  | According 
+ 
+  |  | Adalbert 
+ 
+  |  | Add 
+ 
+  |  | Adrian 
+ 
+  |  | Africa 
+ 
+  |  | African 
+ 
+  |  | After 
+ 
+  |  | Against 
+ 
+  |  | Ages 
+ 
+  |  | Agrippa 
  
   |  | Ah 
  
-  |  | Ahora 
+  |  | Aha 
  
-  |  | Ahí 
+  |  | Ahead 
  
-  |  | Al 
+  |  | Ahem 
  
-  |  | Algo 
+  |  | Ahern 
  
-  |  | Alguien 
+  |  | Alas 
  
-  |  | Alguna 
+  |  | Alberic 
  
-  |  | Algunas 
+  |  | Albus 
  
-  |  | Allá 
+  |  | Algie 
  
-  |  | América 
+  |  | Alicia 
  
-  |  | Anda 
+  |  | All 
  
-  |  | Apagar 
+  |  | Alley 
  
-  |  | Aparecían 
+  |  | Alohomora 
  
-  |  | Aprendí 
+  |  | Although 
  
-  |  | Aproxímate 
+  |  | Always 
  
-  |  | Aquel 
+  |  | Am 
  
-  |  | Aquella 
+  |  | An 
  
-  |  | Aquí 
+  |  | And 
  
-  |  | Arizona 
+  |  | Angelina 
  
-  |  | Astronomía 
+  |  | Anne 
  
-  |  | Así 
+  |  | Another 
  
-  |  | Atarlo 
+  |  | Anti 
  
-  |  | Aunque 
+  |  | AntiCheating 
  
-  |  | Australia 
+  |  | Any 
+ 
+  |  | Anyone 
+ 
+  |  | Anythin 
+ 
+  |  | Anything 
+ 
+  |  | Anyway 
+ 
+  |  | Apothecary 
+ 
+  |  | Are 
+ 
+  |  | Aren 
+ 
+  |  | Argus 
+ 
+  |  | Around 
+ 
+  |  | Arsenius 
+ 
+  |  | Arts 
+ 
+  |  | As 
+ 
+  |  | Asked 
+ 
+  |  | Astronomy 
+ 
+  |  | At 
+ 
+  |  | Ate 
+ 
+  |  | Atta 
+ 
+  |  | August 
+ 
+  |  | Aunt 
+ 
+  |  | Auntie 
  
   |  | B 
  
-  |  | Baobab 
+  |  | BED 
  
-  |  | Baobabs 
+  |  | BEHIND 
  
-  |  | Bebo 
+  |  | BELIEVE 
  
-  |  | Bien 
+  |  | BOOKS 
  
-  |  | Buenas 
+  |  | BOOM 
  
-  |  | Bueno 
+  |  | BOY 
  
-  |  | Buenos 
+  |  | BREAK 
  
-  |  | Busco 
+  |  | BROOMSTICKS 
  
-  |  | Cada 
+  |  | Back 
  
-  |  | Cazo 
+  |  | Bad 
  
-  |  | Caí 
+  |  | Bagshot 
  
-  |  | China 
+  |  | Bane 
  
-  |  | Ciertamente 
+  |  | Barking 
  
-  |  | Cinco 
+  |  | Barn 
  
-  |  | Claro 
+  |  | Baron 
  
-  |  | Comienzo 
+  |  | Barrels 
  
-  |  | Como 
+  |  | Bars 
  
-  |  | Comprendes 
+  |  | Baruffio 
  
-  |  | Comprendí 
+  |  | Bathilda 
  
-  |  | Con 
+  |  | Be 
  
-  |  | Confieso 
+  |  | Beans 
  
-  |  | Conoceré 
+  |  | Beasts 
  
-  |  | Conozco 
+  |  | Beater 
  
-  |  | Continué 
+  |  | Beaters 
  
-  |  | Corrijo 
+  |  | Beats 
  
-  |  | Crear 
+  |  | Because 
  
-  |  | Crees 
+  |  | Bedroom 
  
-  |  | Creo 
+  |  | Beechwood 
  
-  |  | Creía 
+  |  | Before 
  
-  |  | Cualquiera 
+  |  | Befuddle 
  
-  |  | Cuando 
+  |  | Beginners 
  
-  |  | Cuanto 
+  |  | Behind 
  
-  |  | Cuernos 
+  |  | Bell 
  
-  |  | Cuánto 
+  |  | Below 
  
-  |  | Cuántos 
+  |  | Bertie 
  
-  |  | Cómo 
+  |  | Best 
  
-  |  | De 
+  |  | Bet 
  
-  |  | Debes 
+  |  | Better 
  
-  |  | Debí 
+  |  | Bettie 
  
-  |  | Decididamente 
+  |  | Bewitch 
  
-  |  | Decía 
+  |  | Bill 
  
-  |  | Deme 
+  |  | Bin 
  
-  |  | Derecho 
+  |  | Bind 
  
-  |  | Desde 
+  |  | Binns 
  
-  |  | Desgraciadamente 
+  |  | Birthday 
  
-  |  | Deshollinó 
+  |  | Bit 
  
-  |  | Después 
+  |  | Black 
  
-  |  | Dibujé 
+  |  | Blackpool 
  
-  |  | Dijo 
+  |  | Blacks 
  
-  |  | Dios 
+  |  | Blaise 
  
-  |  | Dirigió 
+  |  | Blasted 
  
-  |  | Dirigí 
+  |  | Bleaaargh 
  
-  |  | Divisé 
+  |  | Bless 
  
-  |  | Doce 
+  |  | Bletchley 
  
-  |  | Dos 
+  |  | Blimey 
  
-  |  | Dudo 
+  |  | Blocks 
  
-  |  | Durante 
+  |  | Blood 
  
-  |  | Déjame 
+  |  | Bloody 
  
-  |  | Dónde 
+  |  | Blotts 
  
-  |  | E 
+  |  | Blowing 
  
-  |  | Echando 
+  |  | Blown 
  
-  |  | Efectivamente 
+  |  | Blubber 
  
-  |  | Eh 
+  |  | Bludger 
  
-  |  | Ejem 
+  |  | Bludgers 
  
-  |  | El 
+  |  | Boa 
  
-  |  | Elegía 
+  |  | Body 
  
-  |  | Ellos 
+  |  | Bogies 
  
-  |  | En 
+  |  | Bones 
  
-  |  | Encendían 
+  |  | Bonfire 
  
-  |  | Enciendo 
+  |  | Book 
  
-  |  | Enseñé 
+  |  | Books 
  
-  |  | Entonces 
+  |  | Boot 
  
-  |  | Entre 
+  |  | Borrowed 
  
-  |  | Era 
+  |  | Both 
  
-  |  | Eres 
+  |  | Bott 
  
-  |  | Es 
+  |  | Brass 
  
-  |  | Escribidme 
+  |  | Brazil 
  
-  |  | Ese 
+  |  | Brazilian 
  
-  |  | Eso 
+  |  | Break 
  
-  |  | Esperar 
+  |  | Breathing 
  
-  |  | Esperé 
+  |  | Breeding 
  
-  |  | Esta 
+  |  | Bright 
  
-  |  | Estaba 
+  |  | Brilliant 
  
-  |  | Estados 
+  |  | Bring 
  
-  |  | Este 
+  |  | Bristol 
  
-  |  | Esto 
+  |  | Britain 
  
-  |  | Estos 
+  |  | Brocklehurst 
  
-  |  | Estoy 
+  |  | Broken 
  
-  |  | Estreché 
+  |  | Broomsticks 
  
-  |  | Estrellas 
+  |  | Brought 
  
-  |  | Está 
+  |  | Brown 
  
-  |  | Estás 
+  |  | Budge 
  
-  |  | Europa 
+  |  | Bulstrode 
  
-  |  | Exactamente 
+  |  | Bungler 
  
-  |  | Falto 
+  |  | Busy 
  
-  |  | Felizmente 
+  |  | But 
  
-  |  | Formo 
+  |  | By 
  
-  |  | Francia 
+  |  | Bye 
  
-  |  | Fue 
+  |  | C 
  
-  |  | Fueron 
+  |  | CAR 
  
-  |  | Gano 
+  |  | CHAPTER 
  
-  |  | Golpea 
+  |  | CHARMS 
  
-  |  | Gritó 
+  |  | COME 
  
-  |  | Hablas 
+  |  | CONK 
  
-  |  | Habría 
+  |  | CORRIDOR 
  
-  |  | Había 
+  |  | COURSE 
  
-  |  | Hace 
+  |  | CRACKPOT 
  
-  |  | Hacía 
+  |  | CRASH 
+ 
+  |  | CURRENTLY 
+ 
+  |  | Cakes 
+ 
+  |  | Call 
+ 
+  |  | Calm 
+ 
+  |  | Can 
+ 
+  |  | Cap 
+ 
+  |  | Captain 
+ 
+  |  | Caput 
+ 
+  |  | CarA 
+ 
+  |  | Catch 
+ 
+  |  | Catching 
+ 
+  |  | Caught 
+ 
+  |  | Cauldron 
+ 
+  |  | Cauldrons 
+ 
+  |  | Cause 
+ 
+  |  | Centaurs 
+ 
+  |  | Century 
+ 
+  |  | Ceremony 
+ 
+  |  | Certainly 
+ 
+  |  | Charlie 
+ 
+  |  | Charms 
+ 
+  |  | Chaser 
+ 
+  |  | Chasers 
+ 
+  |  | Cheer 
+ 
+  |  | Chess 
+ 
+  |  | Chf 
+ 
+  |  | Chocolate 
+ 
+  |  | Choose 
+ 
+  |  | Christmas 
+ 
+  |  | Chuckling 
+ 
+  |  | Circe 
+ 
+  |  | Class 
+ 
+  |  | Cleansweep 
+ 
+  |  | Clearly 
+ 
+  |  | Cliodna 
+ 
+  |  | Code 
+ 
+  |  | Codswallop 
+ 
+  |  | Cokeworth 
+ 
+  |  | Cold 
+ 
+  |  | Collapsible 
+ 
+  |  | Columns 
+ 
+  |  | Comb 
+ 
+  |  | Come 
+ 
+  |  | Comet 
+ 
+  |  | Comets 
+ 
+  |  | Coming 
+ 
+  |  | Common 
+ 
+  |  | Compared 
+ 
+  |  | Conduct 
+ 
+  |  | Confed 
+ 
+  |  | Confuse 
+ 
+  |  | Considered 
+ 
+  |  | Constrictor 
+ 
+  |  | Convention 
+ 
+  |  | Copper 
+ 
+  |  | Copyin 
+ 
+  |  | Cornelius 
+ 
+  |  | Could 
+ 
+  |  | Couldn 
+ 
+  |  | Countercurses 
+ 
+  |  | Course 
+ 
+  |  | Crabbe 
+ 
+  |  | Crikey 
+ 
+  |  | Crockford 
+ 
+  |  | Cross 
+ 
+  |  | Cup 
+ 
+  |  | Cupboard 
+ 
+  |  | Cups 
+ 
+  |  | Curious 
+ 
+  |  | Curse 
+ 
+  |  | Curses 
+ 
+  |  | D 
+ 
+  |  | DIAGON 
+ 
+  |  | DO 
+ 
+  |  | DOING 
+ 
+  |  | DON 
+ 
+  |  | DOWN 
+ 
+  |  | DUDLEY 
+ 
+  |  | DUEL 
+ 
+  |  | DUMBLEDORE 
+ 
+  |  | DUMBLEDOREIN 
+ 
+  |  | DURSLEY 
+ 
+  |  | Dad 
+ 
+  |  | Daddy 
+ 
+  |  | Daily 
+ 
+  |  | Danger 
+ 
+  |  | Dare 
+ 
+  |  | Dark 
+ 
+  |  | Darling 
+ 
+  |  | Dead 
+ 
+  |  | Dean 
+ 
+  |  | Dear 
+ 
+  |  | Death 
+ 
+  |  | December 
+ 
+  |  | Dedalus 
+ 
+  |  | Deep 
+ 
+  |  | Defense 
+ 
+  |  | Delighted 
+ 
+  |  | Dennis 
+ 
+  |  | Deputy 
+ 
+  |  | Desert 
+ 
+  |  | Destroyed 
+ 
+  |  | Detention 
+ 
+  |  | Developments 
+ 
+  |  | Devil 
+ 
+  |  | Devon 
+ 
+  |  | Diagon 
+ 
+  |  | Did 
+ 
+  |  | Didn 
+ 
+  |  | Difficult 
+ 
+  |  | Diggle 
+ 
+  |  | Dinky 
+ 
+  |  | Disappeared 
+ 
+  |  | Discoveries 
+ 
+  |  | Disgusted 
+ 
+  |  | Dittany 
+ 
+  |  | Do 
+ 
+  |  | Does 
+ 
+  |  | Doi 
+ 
+  |  | Don 
+ 
+  |  | Door 
+ 
+  |  | Doris 
+ 
+  |  | DotA 
+ 
+  |  | Dotted 
+ 
+  |  | Double 
+ 
+  |  | Down 
+ 
+  |  | Draco 
+ 
+  |  | Draconis 
+ 
+  |  | Drafts 
+ 
+  |  | Dragon 
+ 
+  |  | Dragons 
+ 
+  |  | Draught 
+ 
+  |  | Drive 
+ 
+  |  | Drooble 
+ 
+  |  | Ducking 
+ 
+  |  | Dud 
+ 
+  |  | Duddy 
+ 
+  |  | Duddydums 
+ 
+  |  | Dudley 
+ 
+  |  | Dudleykins 
+ 
+  |  | Dumbled 
+ 
+  |  | Dumbledore 
+ 
+  |  | Dundee 
+ 
+  |  | Dunno 
+ 
+  |  | Dursley 
+ 
+  |  | Dursleys 
+ 
+  |  | EIGHT 
+ 
+  |  | ELEVEN 
+ 
+  |  | END 
+ 
+  |  | EQUIPMENT 
+ 
+  |  | ERISED 
+ 
+  |  | Each 
+ 
+  |  | Eager 
+ 
+  |  | Ear 
+ 
+  |  | Easily 
+ 
+  |  | Easter 
+ 
+  |  | Eeylops 
+ 
+  |  | Egg 
+ 
+  |  | Eleven 
+ 
+  |  | Elfric 
+ 
+  |  | Elixir 
+ 
+  |  | Emetic 
+ 
+  |  | Emporium 
+ 
+  |  | Enemies 
+ 
+  |  | England 
+ 
+  |  | English 
+ 
+  |  | Enid 
+ 
+  |  | Enough 
+ 
+  |  | Enter 
+ 
+  |  | Er 
+ 
+  |  | Erised 
+ 
+  |  | Erm 
+ 
+  |  | Eve 
+ 
+  |  | Even 
+ 
+  |  | Events 
+ 
+  |  | Ever 
+ 
+  |  | Every 
+ 
+  |  | Everybody 
+ 
+  |  | Everyone 
+ 
+  |  | Everything 
+ 
+  |  | Everywhere 
+ 
+  |  | Evil 
+ 
+  |  | Exactly 
+ 
+  |  | Except 
+ 
+  |  | Excitement 
+ 
+  |  | Excuse 
+ 
+  |  | Excuses 
+ 
+  |  | Experts 
+ 
+  |  | Explain 
+ 
+  |  | Express 
+ 
+  |  | Eyes 
+ 
+  |  | F 
+ 
+  |  | FACES 
+ 
+  |  | FIFTEEN 
+ 
+  |  | FIRST 
+ 
+  |  | FIVE 
+ 
+  |  | FLAMEL 
+ 
+  |  | FLUMP 
+ 
+  |  | FLY 
+ 
+  |  | FOOL 
+ 
+  |  | FOR 
+ 
+  |  | FORBID 
+ 
+  |  | FOREST 
+ 
+  |  | FORIBIDDEN 
+ 
+  |  | FORWARD 
+ 
+  |  | FOUR 
+ 
+  |  | FOURTEEN 
+ 
+  |  | FROM 
+ 
+  |  | FRONT 
+ 
+  |  | Facing 
+ 
+  |  | Fall 
+ 
+  |  | Famous 
+ 
+  |  | Fancy 
+ 
+  |  | Fang 
+ 
+  |  | Fantastic 
+ 
+  |  | Fat 
+ 
+  |  | Father 
+ 
+  |  | Fear 
+ 
+  |  | Feeling 
+ 
+  |  | Fer 
+ 
+  |  | Festoons 
+ 
+  |  | Fetchin 
+ 
+  |  | Fifteen 
+ 
+  |  | Fifty 
+ 
+  |  | Figg 
+ 
+  |  | Filch 
+ 
+  |  | Finally 
+ 
+  |  | Finch 
+ 
+  |  | Find 
+ 
+  |  | Fine 
+ 
+  |  | Finish 
+ 
+  |  | Finished 
+ 
+  |  | Finnigan 
+ 
+  |  | Fire 
+ 
+  |  | Firenze 
+ 
+  |  | Firs 
+ 
+  |  | First 
+ 
+  |  | Firsties 
+ 
+  |  | Fitch 
+ 
+  |  | Five 
+ 
+  |  | Flamel 
+ 
+  |  | Flaming 
+ 
+  |  | Flattened 
+ 
+  |  | Flavor 
+ 
+  |  | Fletchley 
+ 
+  |  | Flew 
+ 
+  |  | Flint 
+ 
+  |  | Flitwick 
+ 
+  |  | Flitwicles 
+ 
+  |  | Flocks 
+ 
+  |  | Floor 
+ 
+  |  | Flourish 
+ 
+  |  | Fluffy 
+ 
+  |  | Flushed 
+ 
+  |  | Flying 
+ 
+  |  | Follow 
+ 
+  |  | For 
+ 
+  |  | Force 
+ 
+  |  | Forces 
+ 
+  |  | Forest 
+ 
+  |  | Forge 
+ 
+  |  | Forget 
+ 
+  |  | Forgetfulness 
+ 
+  |  | Forgetting 
+ 
+  |  | Forgive 
+ 
+  |  | Fortunately 
+ 
+  |  | Foul 
+ 
+  |  | Found 
+ 
+  |  | Four 
+ 
+  |  | Fourth 
+ 
+  |  | Fred 
+ 
+  |  | Friar 
+ 
+  |  | Friday 
+ 
+  |  | Friends 
+ 
+  |  | Frog 
+ 
+  |  | Frogs 
+ 
+  |  | From 
+ 
+  |  | Fudge 
+ 
+  |  | Fungi 
+ 
+  |  | Funny 
+ 
+  |  | G 
+ 
+  |  | GET 
+ 
+  |  | GLASS 
+ 
+  |  | GO 
+ 
+  |  | GONE 
+ 
+  |  | GOT 
+ 
+  |  | GRINGOTTS 
+ 
+  |  | GRYFFINDOR 
+ 
+  |  | GRYFFINDORS 
+ 
+  |  | Galleon 
+ 
+  |  | Galleons 
+ 
+  |  | Gallopin 
+ 
+  |  | George 
+ 
+  |  | Get 
+ 
+  |  | Getting 
+ 
+  |  | Ginny 
+ 
+  |  | Give 
+ 
+  |  | Given 
+ 
+  |  | Gliding 
+ 
+  |  | Gloom 
+ 
+  |  | Go 
+ 
+  |  | Goblins 
+ 
+  |  | Godric 
+ 
+  |  | Going 
+ 
+  |  | Golden 
+ 
+  |  | Good 
+ 
+  |  | Goodness 
+ 
+  |  | Gordon 
+ 
+  |  | Gorgons 
+ 
+  |  | Goshawk 
+ 
+  |  | Got 
+ 
+  |  | Gotta 
+ 
+  |  | Goyle 
+ 
+  |  | Grab 
+ 
+  |  | Grade 
+ 
+  |  | Gran 
+ 
+  |  | Grand 
+ 
+  |  | Granger 
+ 
+  |  | Great 
+ 
+  |  | Gred 
+ 
+  |  | Greek 
+ 
+  |  | Green 
+ 
+  |  | Gregory 
+ 
+  |  | Grindelwald 
+ 
+  |  | Gringotts 
+ 
+  |  | Griphook 
+ 
+  |  | Grounds 
+ 
+  |  | Grow 
+ 
+  |  | Grunnings 
+ 
+  |  | Grunnion 
+ 
+  |  | Grunt 
+ 
+  |  | Gryffindor 
+ 
+  |  | Gryffindors 
+ 
+  |  | Guess 
+ 
+  |  | Guide 
+ 
+  |  | Gulpin 
+ 
+  |  | Gum 
+ 
+  |  | H 
+ 
+  |  | HALLOWEEN 
+ 
+  |  | HARRY 
+ 
+  |  | HAT 
+ 
+  |  | HAVE 
+ 
+  |  | HEADMASTER 
+ 
+  |  | HIM 
+ 
+  |  | HOGWARTS 
+ 
+  |  | HUFFLEPUFF 
+ 
+  |  | Ha 
+ 
+  |  | Haaaaaa 
+ 
+  |  | Had 
+ 
+  |  | Hadn 
+ 
+  |  | Hagrid 
+ 
+  |  | Hags 
+ 
+  |  | Hair 
+ 
+  |  | Half 
+ 
+  |  | Hall 
+ 
+  |  | Halloween 
+ 
+  |  | Ham 
+ 
+  |  | Hams 
+ 
+  |  | Hang 
+ 
+  |  | Hanging 
+ 
+  |  | Hannah 
+ 
+  |  | Happy 
+ 
+  |  | Harder 
+ 
+  |  | Hardly 
+ 
+  |  | Harold 
+ 
+  |  | Harry 
+ 
+  |  | Harvey 
  
   |  | Has 
  
-  |  | Hasta 
+  |  | Hat 
  
-  |  | Hay 
+  |  | Have 
  
-  |  | Haz 
+  |  | Haven 
  
-  |  | Hazme 
+  |  | Having 
  
   |  | He 
  
-  |  | Hemos 
+  |  | HeWho 
  
-  |  | Historias 
+  |  | Head 
  
-  |  | Hombrecito 
+  |  | Headless 
  
-  |  | Hubiera 
+  |  | Headmaster 
  
-  |  | Hum 
+  |  | Headmistress 
  
-  |  | Humillada 
+  |  | Heads 
  
-  |  | Iba 
+  |  | Heaps 
  
-  |  | Ignoraba 
+  |  | Heart 
  
-  |  | Imaginaos 
+  |  | Heaven 
  
-  |  | Imagináos 
+  |  | Hebridean 
  
-  |  | Indias 
+  |  | Hedwig 
  
-  |  | Indudablemente 
+  |  | Held 
  
-  |  | Insistió 
+  |  | Hello 
  
-  |  | Internacional 
+  |  | Help 
  
-  |  | Irritado 
+  |  | Hengist 
  
-  |  | Jamás 
+  |  | Her 
  
-  |  | Júpiter 
+  |  | Herbology 
  
-  |  | LEON 
+  |  | Herbs 
  
-  |  | La 
+  |  | Here 
  
-  |  | Lamentaba 
+  |  | Hermione 
  
-  |  | Lanzó 
+  |  | Hermlone 
+ 
+  |  | Hey 
+ 
+  |  | Hi 
+ 
+  |  | Higgs 
+ 
+  |  | High 
+ 
+  |  | Him 
+ 
+  |  | His 
+ 
+  |  | History 
+ 
+  |  | Hmm 
+ 
+  |  | Hmmm 
+ 
+  |  | Hog 
+ 
+  |  | Hoggy 
+ 
+  |  | Hogwarts 
+ 
+  |  | Hold 
+ 
+  |  | Holding 
+ 
+  |  | Hollow 
+ 
+  |  | Honestly 
+ 
+  |  | Hooch 
+ 
+  |  | Hope 
+ 
+  |  | Hopefully 
+ 
+  |  | Hopes 
+ 
+  |  | Hoping 
+ 
+  |  | Horrible 
+ 
+  |  | Horribly 
+ 
+  |  | Horror 
+ 
+  |  | Hotel 
+ 
+  |  | House 
+ 
+  |  | Houses 
+ 
+  |  | Hovering 
+ 
+  |  | How 
+ 
+  |  | Howard 
+ 
+  |  | However 
+ 
+  |  | Howling 
+ 
+  |  | Hufflepuff 
+ 
+  |  | Hufflepuffis 
+ 
+  |  | Hufflepuffs 
+ 
+  |  | Hullo 
+ 
+  |  | Humberto 
+ 
+  |  | Hundreds 
+ 
+  |  | Hungry 
+ 
+  |  | Hunting 
+ 
+  |  | Hurry 
+ 
+  |  | Hut 
+ 
+  |  | I 
+ 
+  |  | IN 
+ 
+  |  | INSULT 
+ 
+  |  | IT 
+ 
+  |  | Ickle 
+ 
+  |  | Icy 
+ 
+  |  | Id 
+ 
+  |  | Idiot 
+ 
+  |  | If 
+ 
+  |  | Important 
+ 
+  |  | In 
+ 
+  |  | Indeed 
+ 
+  |  | Inferno 
+ 
+  |  | Inside 
+ 
+  |  | Instead 
+ 
+  |  | International 
+ 
+  |  | Investigations 
+ 
+  |  | Ireland 
+ 
+  |  | Is 
+ 
+  |  | Isle 
+ 
+  |  | Isn 
+ 
+  |  | It 
+ 
+  |  | Its 
+ 
+  |  | JORDAN 
+ 
+  |  | JOURNEY 
+ 
+  |  | James 
+ 
+  |  | Jell 
+ 
+  |  | Jelly 
+ 
+  |  | Jigger 
+ 
+  |  | Jim 
+ 
+  |  | Johnson 
+ 
+  |  | Jordan 
+ 
+  |  | July 
+ 
+  |  | Jupiter 
+ 
+  |  | Jus 
+ 
+  |  | Just 
+ 
+  |  | Justin 
+ 
+  |  | KEEPER 
+ 
+  |  | KEYS 
+ 
+  |  | KILL 
+ 
+  |  | Katie 
+ 
+  |  | Keep 
+ 
+  |  | Keeper 
+ 
+  |  | Kent 
+ 
+  |  | Kept 
+ 
+  |  | Keys 
+ 
+  |  | King 
+ 
+  |  | Knew 
+ 
+  |  | Know 
+ 
+  |  | Knows 
+ 
+  |  | Knuts 
+ 
+  |  | LATEST 
+ 
+  |  | LETTER 
+ 
+  |  | LETTERS 
+ 
+  |  | LIAR 
+ 
+  |  | LIVED 
+ 
+  |  | LOOK 
+ 
+  |  | Lady 
  
   |  | Las 
  
-  |  | Le 
+  |  | Latest 
  
-  |  | Lentamente 
+  |  | Lavender 
  
-  |  | Les 
+  |  | Leaky 
  
-  |  | Levanté 
+  |  | Leave 
  
-  |  | Llegué 
+  |  | Leaves 
  
-  |  | Lo 
+  |  | Lee 
  
-  |  | Los 
+  |  | Leg 
  
-  |  | Luego 
+  |  | Legs 
  
-  |  | Majestad 
+  |  | Let 
  
-  |  | Marte 
+  |  | Levi 
  
-  |  | Mañana 
+  |  | Leviosa 
+ 
+  |  | Library 
+ 
+  |  | Licorice 
+ 
+  |  | Life 
+ 
+  |  | Light 
+ 
+  |  | Lights 
+ 
+  |  | Like 
+ 
+  |  | Lily 
+ 
+  |  | Lisa 
+ 
+  |  | Listen 
+ 
+  |  | Little 
+ 
+  |  | Living 
+ 
+  |  | Load 
+ 
+  |  | Locker 
+ 
+  |  | Locomotor 
+ 
+  |  | London 
+ 
+  |  | Longbottom 
+ 
+  |  | Look 
+ 
+  |  | Looking 
+ 
+  |  | Looks 
+ 
+  |  | Lord 
+ 
+  |  | Losing 
+ 
+  |  | Loss 
+ 
+  |  | Lots 
+ 
+  |  | Love 
+ 
+  |  | Lucky 
+ 
+  |  | MAD 
+ 
+  |  | MAGIC 
+ 
+  |  | MAN 
+ 
+  |  | MASTER 
+ 
+  |  | ME 
+ 
+  |  | MIDNIGHT 
+ 
+  |  | MIRROR 
+ 
+  |  | MOTORCYCLES 
+ 
+  |  | MR 
+ 
+  |  | MY 
+ 
+  |  | MacDougal 
+ 
+  |  | Mad 
+ 
+  |  | Madam 
+ 
+  |  | Magic 
+ 
+  |  | Magical 
+ 
+  |  | Mainly 
+ 
+  |  | Majorca 
+ 
+  |  | Make 
+ 
+  |  | Makers 
+ 
+  |  | Makes 
+ 
+  |  | Malcolm 
+ 
+  |  | Malfay 
+ 
+  |  | Malfoy 
+ 
+  |  | Malfoys 
+ 
+  |  | Malkin 
+ 
+  |  | Mandy 
+ 
+  |  | Many 
+ 
+  |  | Maple 
+ 
+  |  | Marcus 
+ 
+  |  | Marge 
+ 
+  |  | Mars 
+ 
+  |  | Master 
+ 
+  |  | Maybe 
+ 
+  |  | McGonagall 
+ 
+  |  | McGuffin 
+ 
+  |  | McKinnons 
  
   |  | Me 
  
-  |  | Mi 
+  |  | Meant 
  
-  |  | Miedo 
+  |  | Meanwhile 
  
-  |  | Mientras 
+  |  | Meet 
  
-  |  | Millones 
+  |  | Men 
  
-  |  | Ministro 
+  |  | Mere 
  
-  |  | Mira 
+  |  | Merlin 
  
-  |  | Miraba 
+  |  | Merry 
  
-  |  | Mirad 
+  |  | Midnight 
  
-  |  | Miré 
+  |  | Might 
  
-  |  | Moscas 
+  |  | Mighta 
  
-  |  | Nada 
+  |  | Millicent 
  
-  |  | Nadie 
+  |  | Mimblewimble 
  
-  |  | Naturalmente 
+  |  | Mimsy 
  
-  |  | Navidad 
+  |  | Mind 
  
-  |  | Necesito 
+  |  | Minerva 
  
-  |  | Ni 
+  |  | Minister 
  
-  |  | Ninguna 
+  |  | Ministry 
  
-  |  | Niños 
+  |  | Miranda 
+ 
+  |  | Mirror 
+ 
+  |  | Miss 
+ 
+  |  | Misters 
+ 
+  |  | Mm 
+ 
+  |  | Mmm 
+ 
+  |  | Moaning 
+ 
+  |  | Modern 
+ 
+  |  | Mom 
+ 
+  |  | Mommy 
+ 
+  |  | Monday 
+ 
+  |  | Moon 
+ 
+  |  | Morag 
+ 
+  |  | More 
+ 
+  |  | Morgana 
+ 
+  |  | Morning 
+ 
+  |  | Mortis 
+ 
+  |  | Most 
+ 
+  |  | Mother 
+ 
+  |  | Mount 
+ 
+  |  | Move 
+ 
+  |  | Mr 
+ 
+  |  | Mrs 
+ 
+  |  | Much 
+ 
+  |  | Muggle 
+ 
+  |  | Muggles 
+ 
+  |  | Mugwump 
+ 
+  |  | Mummy 
+ 
+  |  | Must 
+ 
+  |  | My 
+ 
+  |  | Mysterious 
+ 
+  |  | N 
+ 
+  |  | NEVER 
+ 
+  |  | NICOLAS 
+ 
+  |  | NINE 
+ 
+  |  | NMat 
+ 
+  |  | NO 
+ 
+  |  | NOF 
+ 
+  |  | NORBERT 
+ 
+  |  | NORWEGIAN 
+ 
+  |  | NOT 
+ 
+  |  | NOTHING 
+ 
+  |  | NOW 
+ 
+  |  | Nah 
+ 
+  |  | Named 
+ 
+  |  | Names 
+ 
+  |  | Nasty 
+ 
+  |  | Naughty 
+ 
+  |  | Nearly 
+ 
+  |  | Neck 
+ 
+  |  | Neither 
+ 
+  |  | Never 
+ 
+  |  | Nevertheless 
+ 
+  |  | Neville 
+ 
+  |  | New 
+ 
+  |  | Newt 
+ 
+  |  | Next 
+ 
+  |  | Nice 
+ 
+  |  | Nicholas 
+ 
+  |  | Nick 
+ 
+  |  | Nicolas 
+ 
+  |  | Night 
+ 
+  |  | Nimbus 
+ 
+  |  | Nine 
+ 
+  |  | Nitwit 
  
   |  | No 
  
-  |  | Norte 
+  |  | Nobody 
  
-  |  | Nueva 
+  |  | None 
  
-  |  | Nunca 
+  |  | Nope 
+ 
+  |  | Norbert 
+ 
+  |  | Norris 
+ 
+  |  | Norwegian 
+ 
+  |  | Not 
+ 
+  |  | Notable 
+ 
+  |  | Nothing 
+ 
+  |  | Nott 
+ 
+  |  | November 
+ 
+  |  | Now 
+ 
+  |  | Number 
+ 
+  |  | O 
+ 
+  |  | OF 
+ 
+  |  | OLD 
+ 
+  |  | ONE 
+ 
+  |  | OPEN 
+ 
+  |  | OR 
+ 
+  |  | OTHER 
+ 
+  |  | OUCH 
+ 
+  |  | OUT 
+ 
+  |  | OWN 
+ 
+  |  | Oak 
+ 
+  |  | Obviously 
+ 
+  |  | Occasions 
+ 
+  |  | Oddball 
+ 
+  |  | Oddment 
+ 
+  |  | Of 
+ 
+  |  | Off 
  
   |  | Oh 
  
-  |  | Ordénele 
+  |  | Okay 
  
-  |  | Oyes 
+  |  | Oliver 
  
-  |  | Pacífico 
+  |  | Ollivander 
  
-  |  | Para 
+  |  | Ollivanders 
  
-  |  | Parecerá 
+  |  | On 
  
-  |  | Pareciste 
+  |  | Once 
  
-  |  | Pensaba 
+  |  | One 
  
-  |  | Perdóname 
+  |  | Only 
  
-  |  | Pero 
+  |  | Ooh 
  
-  |  | Pido 
+  |  | Oooooh 
  
-  |  | Pierden 
+  |  | Oooooooh 
  
-  |  | Podría 
+  |  | Or 
  
-  |  | Podía 
+  |  | Order 
  
-  |  | Polo 
+  |  | Other 
  
-  |  | Poniéndome 
+  |  | Ouch 
  
-  |  | Por 
+  |  | Our 
  
-  |  | Porque 
+  |  | Out 
  
-  |  | Precisamente 
+  |  | Outer 
  
-  |  | Primero 
+  |  | Outside 
  
-  |  | Principito 
+  |  | Over 
  
-  |  | Procura 
+  |  | Owl 
  
-  |  | Proseguí 
+  |  | Owls 
  
-  |  | Puede 
+  |  | Own 
  
-  |  | Pueden 
+  |  | Oy 
  
-  |  | Puedo 
+  |  | P 
  
-  |  | Puesto 
+  |  | PARCEL 
  
-  |  | Píntame 
+  |  | PARENTS 
  
-  |  | Que 
+  |  | PAYING 
  
-  |  | Quedó 
+  |  | PLATFORM 
  
-  |  | Querer 
+  |  | POTIONS 
  
-  |  | Quería 
+  |  | POTTER 
  
-  |  | Quiere 
+  |  | Paddington 
  
-  |  | Quiero 
+  |  | Panicking 
  
-  |  | Quince 
+  |  | Pansy 
  
-  |  | Quinientos 
+  |  | Paracelsus 
  
-  |  | Quiso 
+  |  | Parkinson 
  
-  |  | Quizá 
+  |  | Parvati 
  
-  |  | Quién 
+  |  | Passersby 
  
-  |  | Quiénes 
+  |  | Password 
  
-  |  | Qué 
+  |  | Pasties 
  
-  |  | Realmente 
+  |  | Patil 
  
-  |  | Recordé 
+  |  | Paws 
  
-  |  | Recordó 
+  |  | Pay 
  
-  |  | Reflexioné 
+  |  | Pearly 
  
-  |  | Rehice 
+  |  | Peeling 
  
-  |  | Reinan 
+  |  | Peering 
  
-  |  | Representaba 
+  |  | Peeves 
  
-  |  | Respondí 
+  |  | Peevsie 
  
-  |  | Rusia 
+  |  | People 
  
-  |  | Sabes 
+  |  | Perched 
  
-  |  | Sabía 
+  |  | Percy 
+ 
+  |  | Perenelle 
+ 
+  |  | Perhaps 
+ 
+  |  | Perks 
+ 
+  |  | Petrificus 
+ 
+  |  | Petrified 
+ 
+  |  | Petunia 
+ 
+  |  | Pewter 
+ 
+  |  | Phyllida 
+ 
+  |  | Piers 
+ 
+  |  | Pig 
+ 
+  |  | Pince 
+ 
+  |  | Platform 
+ 
+  |  | Play 
+ 
+  |  | Please 
+ 
+  |  | Pleasure 
+ 
+  |  | Plenty 
+ 
+  |  | Pliable 
+ 
+  |  | Pointing 
+ 
+  |  | Poke 
+ 
+  |  | Polkiss 
+ 
+  |  | Poltergeist 
+ 
+  |  | Pomfrey 
+ 
+  |  | Pomftey 
+ 
+  |  | Pompously 
+ 
+  |  | Poor 
+ 
+  |  | Porpington 
+ 
+  |  | Positive 
+ 
+  |  | Potatoes 
+ 
+  |  | Potions 
+ 
+  |  | Potter 
+ 
+  |  | Potters 
+ 
+  |  | Powdered 
+ 
+  |  | Powerful 
+ 
+  |  | Prefect 
+ 
+  |  | Prefects 
+ 
+  |  | President 
+ 
+  |  | Pretend 
+ 
+  |  | Prewetts 
+ 
+  |  | Privately 
+ 
+  |  | Privet 
+ 
+  |  | Probably 
+ 
+  |  | Professor 
+ 
+  |  | Profit 
+ 
+  |  | Prophet 
+ 
+  |  | Protection 
+ 
+  |  | Ptolemy 
+ 
+  |  | Pucey 
+ 
+  |  | Pulling 
+ 
+  |  | Pumpkin 
+ 
+  |  | Put 
+ 
+  |  | QUARTERS 
+ 
+  |  | QUIDDITCH 
+ 
+  |  | Quaffle 
+ 
+  |  | Quarters 
+ 
+  |  | Quentin 
+ 
+  |  | Questions 
+ 
+  |  | Quick 
+ 
+  |  | Quidditch 
+ 
+  |  | Quietly 
+ 
+  |  | Quirrell 
+ 
+  |  | Quirtell 
+ 
+  |  | Quite 
+ 
+  |  | RAVENCLAW 
+ 
+  |  | REMINDED 
+ 
+  |  | RIDGEBACK 
+ 
+  |  | RUN 
+ 
+  |  | Railview 
+ 
+  |  | Ravenclaw 
+ 
+  |  | Ravenclaws 
+ 
+  |  | Reaching 
+ 
+  |  | Ready 
+ 
+  |  | Really 
+ 
+  |  | Recent 
+ 
+  |  | Reckon 
+ 
+  |  | Red 
+ 
+  |  | Rejoice 
+ 
+  |  | Remember 
+ 
+  |  | Remembrall 
+ 
+  |  | Report 
+ 
+  |  | Resident 
+ 
+  |  | Resign 
+ 
+  |  | Restricted 
+ 
+  |  | Revenges 
+ 
+  |  | Ridgeback 
+ 
+  |  | Ridgebacks 
+ 
+  |  | Right 
+ 
+  |  | Rise 
+ 
+  |  | Robes 
+ 
+  |  | Rock 
+ 
+  |  | Romania 
+ 
+  |  | Ron 
+ 
+  |  | Ronald 
+ 
+  |  | Ronan 
+ 
+  |  | Ronnie 
+ 
+  |  | Ronniekins 
+ 
+  |  | Room 
+ 
+  |  | Ropes 
+ 
+  |  | Rubbish 
+ 
+  |  | Rubeus 
+ 
+  |  | Ruddy 
+ 
+  |  | Run 
+ 
+  |  | S 
+ 
+  |  | SCHOOL 
+ 
+  |  | SCORE 
+ 
+  |  | SEIZE 
+ 
+  |  | SEVEN 
+ 
+  |  | SEVENTEEN 
+ 
+  |  | SHHHH 
+ 
+  |  | SILENCE 
+ 
+  |  | SIX 
+ 
+  |  | SIXTEEN 
+ 
+  |  | SLYTHERIN 
+ 
+  |  | SMASH 
+ 
+  |  | SNAKE 
+ 
+  |  | SO 
+ 
+  |  | SOME 
+ 
+  |  | SORTING 
+ 
+  |  | STOP 
+ 
+  |  | STUDENTS 
  
   |  | Sahara 
  
-  |  | Saqué 
+  |  | Said 
  
-  |  | Se 
+  |  | Sally 
  
-  |  | Sed 
+  |  | Same 
  
-  |  | Seguro 
+  |  | Saturday 
  
-  |  | Seguí 
+  |  | Saw 
  
-  |  | Según 
+  |  | Say 
  
-  |  | Sentí 
+  |  | Scabbers 
  
-  |  | Sentía 
+  |  | Scabbets 
  
-  |  | Será 
+  |  | Scamander 
  
-  |  | Serás 
+  |  | Scared 
  
-  |  | Sería 
+  |  | Scars 
  
-  |  | Señor 
+  |  | School 
  
-  |  | Si 
+  |  | Scooping 
  
-  |  | Siberia 
+  |  | Scotch 
  
-  |  | Siempre 
+  |  | Scowling 
  
-  |  | Siento 
+  |  | Screech 
  
-  |  | Significa 
+  |  | Scurrying 
  
-  |  | Siguiendo 
+  |  | Scuse 
  
-  |  | Sin 
+  |  | Sea 
  
-  |  | Sobre 
+  |  | Seamus 
  
-  |  | Solamente 
+  |  | Search 
  
-  |  | Somos 
+  |  | Second 
  
-  |  | Son 
+  |  | Section 
  
-  |  | Soy 
+  |  | See 
  
-  |  | Su 
+  |  | Seeing 
  
-  |  | Sur 
+  |  | Seeker 
  
-  |  | Sí 
+  |  | Seekers 
  
-  |  | Sólo 
+  |  | Seems 
  
-  |  | Súbitamente 
+  |  | Seize 
  
-  |  | Tal 
+  |  | Self 
  
-  |  | También 
+  |  | Send 
  
-  |  | Tampoco 
+  |  | Sending 
  
-  |  | Tartamudeaba 
+  |  | Sent 
  
-  |  | Te 
+  |  | September 
  
-  |  | Tendremos 
+  |  | Set 
  
-  |  | Tendrás 
+  |  | Setting 
  
-  |  | Tengo 
+  |  | Seven 
  
-  |  | Tenía 
+  |  | Seventeen 
  
-  |  | Tiene 
+  |  | Several 
  
-  |  | Tienen 
+  |  | Severus 
  
-  |  | Tienes 
+  |  | Shake 
  
-  |  | Tierra 
+  |  | Shaking 
  
-  |  | Titubeo 
+  |  | Shame 
  
-  |  | Todas 
+  |  | Shan 
  
-  |  | Todo 
+  |  | She 
  
-  |  | Todos 
+  |  | Shhh 
  
-  |  | Trata 
+  |  | Shhhh 
  
-  |  | Treinta 
+  |  | Shoo 
  
-  |  | Tres 
+  |  | Shooting 
  
-  |  | Tu 
+  |  | Should 
  
-  |  | Tus 
+  |  | Shouldn 
  
-  |  | Tuve 
+  |  | Show 
  
-  |  | Tuya 
+  |  | Shut 
  
-  |  | Tú 
+  |  | Sickle 
  
-  |  | Uf 
+  |  | Sickles 
  
-  |  | Un 
+  |  | Side 
  
-  |  | Una 
+  |  | Silver 
  
-  |  | Unas 
+  |  | Silvery 
  
-  |  | Unidos 
+  |  | Since 
  
-  |  | Uno 
+  |  | Sir 
  
-  |  | Vaciló 
+  |  | Sirius 
  
-  |  | Vamos 
+  |  | Sit 
  
-  |  | Van 
+  |  | Sitting 
  
-  |  | Vas 
+  |  | Sixty 
  
-  |  | Veintidós 
+  |  | Sizes 
  
-  |  | Veintiocho 
+  |  | Sleek 
  
-  |  | Ven 
+  |  | Slipping 
  
-  |  | Venus 
+  |  | Slowly 
  
-  |  | Verdad 
+  |  | Slytherin 
  
-  |  | Vergüenza 
+  |  | Slytherins 
  
-  |  | Ves 
+  |  | Smallest 
  
-  |  | Vete 
+  |  | Smarmy 
  
-  |  | Vi 
+  |  | Smelting 
  
-  |  | Vistos 
+  |  | Smeltings 
  
-  |  | Viví 
+  |  | Smiling 
  
-  |  | Volverás 
+  |  | Smoke 
  
-  |  | Volví 
+  |  | Sn 
  
-  |  | Vuelve 
+  |  | Snape 
  
-  |  | Vuestra 
+  |  | Snare 
  
-  |  | WERTH 
+  |  | Sniff 
  
-  |  | Y 
+  |  | Snitch 
  
-  |  | Ya 
+  |  | Snot 
  
-  |  | Yo 
+  |  | Snowy 
  
-  |  | Zelanda 
+  |  | So 
+ 
+  |  | Some 
+ 
+  |  | Somehow 
+ 
+  |  | Someone 
+ 
+  |  | Something 
+ 
+  |  | Sometimes 
+ 
+  |  | Sony 
+ 
+  |  | Soon 
+ 
+  |  | Sorc 
+ 
+  |  | Sorcerer 
+ 
+  |  | Sorry 
+ 
+  |  | Sorted 
+ 
+  |  | Sorting 
+ 
+  |  | Speaking 
+ 
+  |  | Species 
+ 
+  |  | Spells 
+ 
+  |  | Spinner 
+ 
+  |  | Spinnet 
+ 
+  |  | Spore 
+ 
+  |  | Spray 
+ 
+  |  | Sprout 
+ 
+  |  | Sprouts 
+ 
+  |  | St 
+ 
+  |  | Stairs 
+ 
+  |  | Stalagmite 
+ 
+  |  | Stand 
+ 
+  |  | Standard 
+ 
+  |  | Standing 
+ 
+  |  | Starving 
+ 
+  |  | Station 
+ 
+  |  | Stay 
+ 
+  |  | Step 
+ 
+  |  | Stick 
+ 
+  |  | Still 
+ 
+  |  | Stirring 
+ 
+  |  | Stone 
+ 
+  |  | Stones 
+ 
+  |  | Stonewall 
+ 
+  |  | Stop 
+ 
+  |  | Storm 
+ 
+  |  | Strange 
+ 
+  |  | Strict 
+ 
+  |  | Students 
+ 
+  |  | Study 
+ 
+  |  | Studying 
+ 
+  |  | Stupid 
+ 
+  |  | Suddenly 
+ 
+  |  | Sunday 
+ 
+  |  | Sundays 
+ 
+  |  | Sunshine 
+ 
+  |  | Suppose 
+ 
+  |  | Supreme 
+ 
+  |  | Sure 
+ 
+  |  | Surely 
+ 
+  |  | Surrey 
+ 
+  |  | Susan 
+ 
+  |  | Swap 
+ 
+  |  | Swish 
+ 
+  |  | Switch 
+ 
+  |  | Switching 
+ 
+  |  | T 
+ 
+  |  | TABLE 
+ 
+  |  | TEACH 
+ 
+  |  | TEN 
+ 
+  |  | THAT 
+ 
+  |  | THE 
+ 
+  |  | THEIR 
+ 
+  |  | THIRTEEN 
+ 
+  |  | THIS 
+ 
+  |  | THREE 
+ 
+  |  | THROUGH 
+ 
+  |  | TRAPDOOR 
+ 
+  |  | TREE 
+ 
+  |  | TRICKS 
+ 
+  |  | TWELVE 
+ 
+  |  | TWO 
+ 
+  |  | Table 
+ 
+  |  | Take 
+ 
+  |  | Taking 
+ 
+  |  | Tap 
+ 
+  |  | Taped 
+ 
+  |  | Tawny 
+ 
+  |  | Teach 
+ 
+  |  | Ted 
+ 
+  |  | Tell 
+ 
+  |  | Ten 
+ 
+  |  | Terence 
+ 
+  |  | Term 
+ 
+  |  | Terry 
+ 
+  |  | Thank 
+ 
+  |  | Thanks 
+ 
+  |  | Thanksss 
+ 
+  |  | That 
+ 
+  |  | The 
+ 
+  |  | Their 
+ 
+  |  | Them 
+ 
+  |  | Then 
+ 
+  |  | Theory 
+ 
+  |  | There 
+ 
+  |  | These 
+ 
+  |  | They 
+ 
+  |  | Thief 
+ 
+  |  | Things 
+ 
+  |  | Think 
+ 
+  |  | Thinking 
+ 
+  |  | Third 
+ 
+  |  | Thirteen 
+ 
+  |  | Thirty 
+ 
+  |  | This 
+ 
+  |  | Thomas 
+ 
+  |  | Those 
+ 
+  |  | Thought 
+ 
+  |  | Thousand 
+ 
+  |  | Thousands 
+ 
+  |  | Three 
+ 
+  |  | Through 
+ 
+  |  | Throw 
+ 
+  |  | Thursday 
+ 
+  |  | Tibbles 
+ 
+  |  | Time 
+ 
+  |  | Tiptoe 
+ 
+  |  | To 
+ 
+  |  | Today 
+ 
+  |  | Tokens 
+ 
+  |  | Told 
+ 
+  |  | Tom 
+ 
+  |  | Tongue 
+ 
+  |  | Tonight 
+ 
+  |  | Too 
+ 
+  |  | Took 
+ 
+  |  | Totalus 
+ 
+  |  | Tower 
+ 
+  |  | Transfiguration 
+ 
+  |  | Trevor 
+ 
+  |  | Tricky 
+ 
+  |  | Tried 
+ 
+  |  | Trimble 
+ 
+  |  | Troll 
+ 
+  |  | Trouble 
+ 
+  |  | True 
+ 
+  |  | Trust 
+ 
+  |  | Try 
+ 
+  |  | Trying 
+ 
+  |  | Tuesday 
+ 
+  |  | Tufty 
+ 
+  |  | Tulips 
+ 
+  |  | Turn 
+ 
+  |  | Turning 
+ 
+  |  | Turpin 
+ 
+  |  | Tut 
+ 
+  |  | Tweak 
+ 
+  |  | Twelve 
+ 
+  |  | Twentieth 
+ 
+  |  | Twenty 
+ 
+  |  | Twice 
+ 
+  |  | Two 
+ 
+  |  | Tying 
+ 
+  |  | Typical 
+ 
+  |  | UNIFORM 
+ 
+  |  | UP 
+ 
+  |  | UPF 
+ 
+  |  | Um 
+ 
+  |  | Uncle 
+ 
+  |  | Under 
+ 
+  |  | Underground 
+ 
+  |  | Underneath 
+ 
+  |  | Unfortunately 
+ 
+  |  | Unicorn 
+ 
+  |  | Unless 
+ 
+  |  | Until 
+ 
+  |  | Unusually 
+ 
+  |  | Up 
+ 
+  |  | Urgh 
+ 
+  |  | Uric 
+ 
+  |  | Use 
+ 
+  |  | Useful 
+ 
+  |  | VANISHING 
+ 
+  |  | VCR 
+ 
+  |  | VOLDEMORT 
+ 
+  |  | Vampires 
+ 
+  |  | Vanished 
+ 
+  |  | Vault 
+ 
+  |  | Vernon 
+ 
+  |  | Very 
+ 
+  |  | Viewers 
+ 
+  |  | Vindictus 
+ 
+  |  | Viridian 
+ 
+  |  | Vol 
+ 
+  |  | Voldemort 
+ 
+  |  | WANT 
+ 
+  |  | WEASLEY 
+ 
+  |  | WHAM 
+ 
+  |  | WHAP 
+ 
+  |  | WHAT 
+ 
+  |  | WHO 
+ 
+  |  | WITCH 
+ 
+  |  | WITCHCRAFT 
+ 
+  |  | WITH 
+ 
+  |  | WIZARDRY 
+ 
+  |  | WON 
+ 
+  |  | Waffling 
+ 
+  |  | Walking 
+ 
+  |  | Wandering 
+ 
+  |  | Wands 
+ 
+  |  | Want 
+ 
+  |  | Wanted 
+ 
+  |  | Warlock 
+ 
+  |  | Warlocks 
+ 
+  |  | Warts 
+ 
+  |  | Warty 
+ 
+  |  | Was 
+ 
+  |  | Watching 
+ 
+  |  | Way 
+ 
+  |  | We 
+ 
+  |  | Wearing 
+ 
+  |  | Weasley 
+ 
+  |  | Weasleys 
+ 
+  |  | Weather 
+ 
+  |  | Wednesday 
+ 
+  |  | Weird 
+ 
+  |  | Welcome 
+ 
+  |  | Well 
+ 
+  |  | Welsh 
+ 
+  |  | Were 
+ 
+  |  | Werewolf 
+ 
+  |  | West 
+ 
+  |  | What 
+ 
+  |  | Whatever 
+ 
+  |  | Wheeling 
+ 
+  |  | When 
+ 
+  |  | Whenever 
+ 
+  |  | Where 
+ 
+  |  | Wherever 
+ 
+  |  | Whether 
+ 
+  |  | Which 
+ 
+  |  | While 
+ 
+  |  | Whinging 
+ 
+  |  | Whispers 
+ 
+  |  | White 
+ 
+  |  | Who 
+ 
+  |  | Why 
+ 
+  |  | Wight 
+ 
+  |  | Will 
+ 
+  |  | Wing 
+ 
+  |  | Wingardium 
+ 
+  |  | Winged 
+ 
+  |  | Wiping 
+ 
+  |  | Wish 
+ 
+  |  | Wishing 
+ 
+  |  | Witchcraft 
+ 
+  |  | Witches 
+ 
+  |  | With 
+ 
+  |  | Within 
+ 
+  |  | Wizard 
+ 
+  |  | Wizarding 
+ 
+  |  | Wizardry 
+ 
+  |  | Wizards 
+ 
+  |  | Won 
+ 
+  |  | Wonder 
+ 
+  |  | Wood 
+ 
+  |  | Woodcroft 
+ 
+  |  | World 
+ 
+  |  | Worse 
+ 
+  |  | Worst 
+ 
+  |  | Would 
+ 
+  |  | Wouldn 
+ 
+  |  | Wow 
+ 
+  |  | Wriggling 
+ 
+  |  | Written 
+ 
+  |  | YEARS 
+ 
+  |  | YOU 
+ 
+  |  | YOUR 
+ 
+  |  | Ye 
+ 
+  |  | Yeah 
+ 
+  |  | Years 
+ 
+  |  | Yeh 
+ 
+  |  | Yer 
+ 
+  |  | Yes 
+ 
+  |  | Yesterday 
+ 
+  |  | Yet 
+ 
+  |  | Yew 
+ 
+  |  | Yorkshire 
+ 
+  |  | You 
+ 
+  |  | YouKnow 
+ 
+  |  | Young 
+ 
+  |  | Your 
+ 
+  |  | Yours 
+ 
+  |  | Yvonne 
+ 
+  |  | Zabini 
  
   |  | a 
  
-  |  | abajo 
+  |  | aback 
  
-  |  | abandona 
+  |  | able 
  
- abandona |  | do 
+  |  | abnormal 
  
- abandona |  | r 
+  |  | aboard 
  
-  |  | abandoné 
+  |  | abou 
  
-  |  | abandonó 
+ abou |  | t 
  
-  |  | abejorro 
+  |  | above 
  
-  |  | abierta 
+  |  | absurd 
  
- abierta |  | s 
+  |  | abysmal 
  
-  |  | abismo 
+  |  | accept 
  
-  |  | abismó 
+ accept |  | ed 
  
-  |  | abren 
+  |  | accident 
  
-  |  | abriendo 
+ accident |  | ally 
  
-  |  | abrigo 
+ accident |  | s 
  
-  |  | abrigué 
+  |  | account 
  
-  |  | abrirás 
+ account |  | ant 
  
-  |  | abrió 
+  |  | ache 
  
-  |  | absolutamente 
+  |  | achieve 
  
-  |  | absoluto 
+  |  | acid 
  
-  |  | abstenía 
+  |  | aconite 
  
-  |  | abstraído 
+  |  | across 
  
-  |  | absurdo 
+  |  | act 
  
-  |  | abundantemente 
+ act |  | ed 
  
-  |  | aburrido 
+ act |  | ing 
  
-  |  | aburriendo 
+ act |  | ually 
  
-  |  | aburro 
+  |  | add 
  
-  |  | acababa 
+ add |  | ed 
  
-  |  | acabar 
+ add |  | ress 
  
-  |  | acabas 
+ add |  | ressed 
  
-  |  | acabo 
+  |  | admirable 
  
-  |  | acaso 
+  |  | admiral 
  
-  |  | aceptó 
+  |  | admired 
  
-  |  | acercando 
+  |  | admirers 
  
-  |  | aclaman 
+  |  | admiring 
  
-  |  | aconseja 
+  |  | admitted 
  
- aconseja |  | ron 
+  |  | advanced 
  
-  |  | aconsejó 
+  |  | advancing 
  
-  |  | acordaba 
+  |  | adventure 
  
-  |  | acordarse 
+  |  | advice 
  
-  |  | actividad 
+  |  | advised 
  
-  |  | actos 
+  |  | aff 
  
-  |  | acuerdas 
+ aff |  | airs 
  
-  |  | acuerdo 
+ aff |  | ect 
  
-  |  | acá 
+ aff |  | ord 
  
-  |  | adelante 
+  |  | afraid 
  
-  |  | adelanto 
+  |  | after 
  
-  |  | además 
+ after |  | noon 
  
-  |  | adivinar 
+ after |  | noons 
  
- adivinar |  | éis 
+ after |  | ward 
  
-  |  | adivinó 
+  |  | again 
  
-  |  | adiós 
+ again |  | st 
  
-  |  | administro 
+  |  | age 
  
-  |  | admiración 
+ age |  | s 
  
-  |  | admirador 
+  |  | ago 
  
- admirador |  | es 
+ ago |  | ny 
  
-  |  | admirar 
+  |  | agree 
  
-  |  | admiras 
+ agree |  | d 
  
-  |  | admiro 
+  |  | ahead 
  
-  |  | admírame 
+  |  | air 
  
-  |  | adoran 
+ air |  | ily 
  
-  |  | adornadas 
+ air |  | plane 
  
-  |  | advertir 
+  |  | ajar 
  
-  |  | afiló 
+  |  | alarm 
  
-  |  | afirmaba 
+ alarm |  | ing 
  
-  |  | afirmativa 
+  |  | alchemist 
  
-  |  | afirmó 
+  |  | alchemy 
  
-  |  | agitada 
+  |  | alibis 
  
-  |  | agitado 
+  |  | alien 
  
- agitado |  | s 
+  |  | alive 
  
-  |  | agitan 
+  |  | all 
  
- agitan |  | do 
+ all |  | owed 
  
-  |  | agotando 
+  |  | almost 
  
-  |  | agradable 
+  |  | alone 
  
-  |  | agregué 
+  |  | along 
  
-  |  | agregó 
+ along |  | side 
  
-  |  | agua 
+  |  | alot 
  
-  |  | agujeros 
+  |  | aloud 
  
-  |  | ahora 
+  |  | already 
  
-  |  | ahorran 
+  |  | also 
  
-  |  | ahí 
+  |  | alternative 
  
-  |  | aire 
+  |  | although 
  
-  |  | aislado 
+  |  | always 
  
-  |  | ajada 
+  |  | am 
  
-  |  | ajustaba 
+  |  | amazed 
  
-  |  | al 
+  |  | amazement 
  
-  |  | alabanzas 
+  |  | amber 
  
-  |  | alabarse 
+  |  | ambition 
  
-  |  | alarga 
+  |  | ambling 
  
-  |  | alba 
- 
-  |  | alcancé 
- 
-  |  | alcanzó 
- 
-  |  | alegra 
- 
- alegra |  | n 
- 
-  |  | algo 
- 
-  |  | alguien 
- 
-  |  | alguna 
- 
- alguna |  | s 
- 
-  |  | alguno 
- 
- alguno |  | s 
- 
-  |  | algún 
- 
-  |  | alimento 
- 
-  |  | allá 
- 
-  |  | allí 
- 
-  |  | alrededor 
- 
-  |  | alta 
- 
-  |  | alto 
- 
-  |  | altura 
- 
-  |  | ama 
- 
- ama |  | bles 
- 
- ama |  | necer 
- 
- ama |  | polas 
- 
- ama |  | rillas 
- 
- ama |  | rillo 
- 
- ama |  | rla 
- 
- ama |  | ré 
- 
-  |  | amenazada 
- 
-  |  | amenazado 
- 
-  |  | amigas 
+  |  | amid 
  
   |  | amigo 
  
- amigo |  | s 
+  |  | among 
  
-  |  | amontonarse 
+  |  | amount 
  
-  |  | amor 
+  |  | amuse 
  
-  |  | amáis 
+  |  | an 
  
-  |  | ancho 
+  |  | ancient 
  
-  |  | anciano 
+  |  | and 
  
-  |  | anillo 
+  |  | angel 
  
-  |  | animado 
+  |  | anger 
  
-  |  | animales 
+  |  | angles 
  
-  |  | aniquilarla 
+  |  | angrier 
  
-  |  | aniversario 
+  |  | angrily 
  
-  |  | ante 
+  |  | angry 
  
- ante |  | rior 
+  |  | animal 
  
- ante |  | riores 
+ animal |  | s 
  
- ante |  | s 
+  |  | ankles 
  
-  |  | antigua 
+  |  | announced 
  
-  |  | apaga 
+  |  | annoy 
  
- apaga |  | ba 
+ annoy |  | ed 
  
- apaga |  | do 
+ annoy |  | ing 
  
- apaga |  | r 
+  |  | another 
  
- apaga |  | ran 
+  |  | answer 
  
- apaga |  | rlas 
+ answer |  | ed 
  
-  |  | apago 
+ answer |  | ing 
  
-  |  | apagó 
+ answer |  | s 
  
-  |  | aparecer 
+  |  | anti 
  
-  |  | apareció 
+  |  | anxiety 
  
-  |  | aparición 
+  |  | anxious 
  
-  |  | apariencia 
+ anxious |  | ly 
  
-  |  | aparte 
+  |  | any 
  
-  |  | apenas 
+ any |  | more 
  
-  |  | aplastan 
+ any |  | one 
  
-  |  | aplaudiendo 
+ any |  | thin 
  
-  |  | aplaudió 
+ any |  | thing 
  
-  |  | apoya 
+ any |  | time 
  
-  |  | aprender 
+ any |  | way 
  
-  |  | aprendido 
+ any |  | where 
  
-  |  | aprendí 
+  |  | apart 
  
- aprendí |  | a 
+  |  | apologized 
  
-  |  | apresurarse 
+  |  | appear 
  
-  |  | apresuréis 
+ appear |  | ance 
  
-  |  | apresuró 
+ appear |  | ed 
  
-  |  | apretado 
+  |  | applause 
  
- apretado |  | s 
+  |  | apple 
  
-  |  | apreté 
+  |  | approached 
  
-  |  | aprovecharla 
+  |  | approve 
  
-  |  | aprovechó 
+  |  | arching 
  
-  |  | aquel 
+  |  | archway 
  
- aquel |  | la 
+  |  | are 
  
- aquel |  | las 
+ are |  | n 
  
- aquel |  | lo 
+  |  | argue 
  
- aquel |  | los 
+ argue |  | d 
  
-  |  | aquí 
+  |  | arguing 
  
-  |  | arbusto 
+  |  | argument 
  
- arbusto |  | s 
+ argument |  | s 
  
-  |  | arden 
+  |  | arm 
  
-  |  | arena 
+ arm |  | chair 
  
- arena |  | s 
+ arm |  | chairs 
  
-  |  | armadura 
+ arm |  | ed 
  
-  |  | armiño 
+ arm |  | or 
  
-  |  | arranca 
+ arm |  | pit 
  
- arranca |  | r 
+ arm |  | s 
  
- arranca |  | rla 
+  |  | around 
  
-  |  | arrancó 
+  |  | arrangements 
  
-  |  | arrastrando 
+  |  | arrival 
  
-  |  | arrastrar 
+ arrival |  | s 
  
-  |  | arreglarse 
+  |  | arrived 
  
-  |  | arreglará 
+  |  | arriving 
  
-  |  | arrepintió 
+  |  | arrow 
  
-  |  | arte 
+ arrow |  | s 
  
-  |  | articular 
+  |  | art 
  
   |  | as 
  
-  |  | asistir 
+  |  | ashamed 
  
-  |  | asombrados 
+  |  | ashen 
  
-  |  | asombrarme 
+  |  | aside 
  
-  |  | aspecto 
+  |  | ask 
  
-  |  | asteroide 
+ ask |  | ed 
  
- asteroide |  | s 
+ ask |  | ew 
  
-  |  | astrónomo 
+ ask |  | in 
  
-  |  | astucias 
+ ask |  | ing 
  
-  |  | asustar 
+  |  | asleep 
  
-  |  | así 
+  |  | asphodel 
  
-  |  | atarlo 
+  |  | assistant 
  
-  |  | atas 
+  |  | assured 
  
-  |  | atención 
+  |  | astonishing 
  
-  |  | atentamente 
+ astonishing |  | ly 
  
-  |  | atormentado 
+  |  | astonishment 
  
-  |  | atormentó 
+  |  | astounding 
  
-  |  | atraerse 
+  |  | astride 
  
-  |  | atravesado 
+  |  | astronomy 
  
-  |  | atravesó 
+  |  | at 
  
-  |  | atreverme 
+  |  | ate 
  
-  |  | atrevió 
+  |  | atop 
  
-  |  | atrevía 
+ atta |  | ck 
  
-  |  | atárselo 
+ atta |  | cked 
  
-  |  | aun 
+  |  | attention 
  
- aun |  | que 
+  |  | attract 
  
-  |  | ausencia 
+ attract |  | ive 
  
-  |  | autoridad 
+  |  | audience 
  
-  |  | avance 
+  |  | aunt 
  
-  |  | ave 
+  |  | avoid 
  
- ave |  | nturas 
+  |  | await 
  
- ave |  | rgonzó 
+ await |  | ing 
  
- ave |  | riguar 
+ await |  | s 
  
- ave |  | ría 
+  |  | awake 
  
-  |  | aviones 
+  |  | award 
  
-  |  | avión 
+ award |  | ed 
  
-  |  | ayuda 
+ award |  | ing 
  
- ayuda |  | rle 
+  |  | away 
  
- ayuda |  | rte 
+  |  | awe 
  
-  |  | azar 
+  |  | awful 
  
-  |  | añadirle 
+  |  | awkward 
  
-  |  | añadiste 
+ awkward |  | ly 
  
-  |  | añadió 
+  |  | b 
  
-  |  | añadí 
+  |  | babble 
  
-  |  | año 
+  |  | baby 
  
- año |  | s 
+  |  | back 
  
-  |  | aún 
+ back |  | ed 
  
-  |  | bailan 
+ back |  | ground 
  
-  |  | bailaran 
+ back |  | pack 
  
-  |  | bajando 
+ back |  | s 
  
-  |  | bajarme 
+ back |  | ward 
  
-  |  | bajo 
+  |  | bacon 
  
-  |  | balde 
+  |  | bad 
  
-  |  | ballet 
+ bad |  | ge 
  
-  |  | balsa 
+ bad |  | ger 
  
-  |  | banco 
+ bad |  | ly 
  
-  |  | bandada 
+  |  | bag 
  
-  |  | baobab 
+ bag |  | gy 
  
- baobab |  | s 
+ bag |  | s 
  
-  |  | basta 
+  |  | baked 
  
- basta |  | ba 
+  |  | baker 
  
- basta |  | nte 
+ baker |  | y 
  
-  |  | bastidores 
+  |  | baking 
  
-  |  | bebedor 
+  |  | balancing 
  
-  |  | beber 
+  |  | bald 
  
-  |  | bebes 
+  |  | ball 
  
-  |  | bebido 
+ ball |  | oon 
  
-  |  | bebiendo 
+ ball |  | oons 
  
-  |  | bebiera 
+ ball |  | s 
  
-  |  | bebió 
+  |  | bananas 
  
-  |  | bella 
+  |  | band 
  
- bella |  | s 
+ band |  | aged 
  
-  |  | belleza 
+ band |  | ages 
  
-  |  | bello 
+  |  | bang 
  
-  |  | bendito 
+ bang |  | ed 
  
-  |  | bicho 
+ bang |  | ing 
  
-  |  | bien 
+ bang |  | s 
  
-  |  | biombo 
+  |  | bank 
  
-  |  | blanco 
+ bank |  | s 
+ 
+  |  | banner 
+ 
+  |  | banquet 
+ 
+  |  | bar 
+ 
+ bar |  | bers 
+ 
+ bar |  | e 
+ 
+ bar |  | ely 
+ 
+ bar |  | k 
+ 
+ bar |  | ked 
+ 
+ bar |  | ks 
+ 
+ bar |  | n 
+ 
+ bar |  | red 
+ 
+ bar |  | rels 
+ 
+ bar |  | rier 
+ 
+ bar |  | s 
+ 
+ bar |  | tender 
+ 
+  |  | baseball 
+ 
+  |  | basic 
+ 
+ basic |  | s 
+ 
+  |  | basket 
+ 
+ basket |  | ball 
+ 
+ basket |  | s 
+ 
+  |  | basking 
+ 
+  |  | bat 
+ 
+ bat |  | ed 
+ 
+ bat |  | h 
+ 
+ bat |  | hrobe 
+ 
+ bat |  | hrobes 
+ 
+ bat |  | hroom 
+ 
+ bat |  | s 
+ 
+ bat |  | tered 
+ 
+ bat |  | tle 
+ 
+ bat |  | ty 
+ 
+  |  | bawling 
+ 
+  |  | be 
+ 
+  |  | beach 
+ 
+  |  | beady 
+ 
+  |  | beak 
+ 
+ beak |  | s 
+ 
+  |  | beamed 
+ 
+  |  | beaming 
+ 
+  |  | bean 
+ 
+  |  | bear 
+ 
+ bear |  | d 
+ 
+ bear |  | ded 
+ 
+ bear |  | ing 
+ 
+  |  | beast 
+ 
+ beast |  | ie 
+ 
+ beast |  | s 
+ 
+  |  | beat 
+ 
+ beat |  | ing 
+ 
+  |  | beautiful 
+ 
+  |  | beauty 
+ 
+  |  | beaverskin 
+ 
+  |  | became 
+ 
+  |  | because 
+ 
+  |  | beckoned 
+ 
+  |  | become 
+ 
+ become |  | s 
+ 
+  |  | becoming 
+ 
+  |  | bed 
+ 
+ bed |  | room 
+ 
+ bed |  | rooms 
+ 
+ bed |  | s 
+ 
+ bed |  | spread 
+ 
+ bed |  | time 
+ 
+  |  | beech 
+ 
+  |  | beef 
+ 
+ beef |  | y 
+ 
+  |  | been 
+ 
+  |  | beet 
+ 
+ beet |  | le 
+ 
+ beet |  | les 
+ 
+  |  | before 
+ 
+  |  | beg 
+ 
+ beg |  | an 
+ 
+ beg |  | ging 
+ 
+ beg |  | in 
+ 
+ beg |  | inning 
+ 
+ beg |  | ins 
+ 
+ beg |  | un 
+ 
+  |  | behave 
+ 
+  |  | behaving 
+ 
+  |  | behavior 
+ 
+  |  | behead 
+ 
+  |  | behind 
+ 
+  |  | bein 
+ 
+ bein |  | g 
+ 
+ bein |  | gs 
+ 
+  |  | believe 
+ 
+ believe |  | d 
+ 
+ believe |  | s 
+ 
+  |  | bell 
+ 
+ bell |  | owed 
+ 
+  |  | belong 
+ 
+ belong |  | ed 
+ 
+ belong |  | ing 
+ 
+ belong |  | s 
+ 
+  |  | below 
+ 
+  |  | belt 
+ 
+ belt |  | ing 
+ 
+  |  | bend 
+ 
+ bend |  | ing 
+ 
+ bend |  | y 
+ 
+  |  | beneath 
+ 
+  |  | bent 
+ 
+  |  | berserk 
+ 
+  |  | beside 
+ 
+  |  | best 
+ 
+  |  | bet 
+ 
+ bet |  | ray 
+ 
+ bet |  | ter 
+ 
+ bet |  | ween 
+ 
+  |  | beware 
+ 
+  |  | bewildered 
+ 
+ bewitch |  | ed 
+ 
+ bewitch |  | ing 
+ 
+  |  | beyond 
+ 
+  |  | bezoar 
+ 
+  |  | biased 
+ 
+  |  | bicycle 
+ 
+  |  | bid 
+ 
+ bid |  | den 
+ 
+ bid |  | in 
+ 
+  |  | big 
+ 
+ big |  | ger 
+ 
+ big |  | gest 
+ 
+  |  | bike 
+ 
+  |  | bill 
+ 
+ bill |  | owing 
+ 
+ bill |  | s 
+ 
+  |  | bin 
+ 
+ bin |  | ding 
+ 
+ bin |  | oculars 
+ 
+  |  | bird 
+ 
+ bird |  | cage 
+ 
+ bird |  | s 
+ 
+  |  | birthday 
+ 
+ birthday |  | s 
+ 
+  |  | biscuits 
+ 
+  |  | bishop 
+ 
+  |  | bit 
+ 
+ bit |  | e 
+ 
+ bit |  | es 
+ 
+ bit |  | s 
+ 
+ bit |  | ten 
+ 
+ bit |  | ter 
+ 
+ bit |  | terly 
+ 
+  |  | black 
+ 
+ black |  | board 
+ 
+ black |  | ness 
+ 
+  |  | blame 
+ 
+  |  | blank 
+ 
+ blank |  | et 
+ 
+ blank |  | ets 
+ 
+ blank |  | ly 
+ 
+  |  | blast 
+ 
+  |  | blazing 
+ 
+  |  | blew 
+ 
+  |  | blimey 
+ 
+  |  | blinded 
+ 
+  |  | blinding 
+ 
+  |  | blink 
+ 
+ blink |  | ed 
+ 
+ blink |  | ing 
+ 
+  |  | blissfully 
+ 
+  |  | blistering 
+ 
+  |  | blob 
+ 
+  |  | block 
+ 
+ block |  | ed 
+ 
+ block |  | ing 
+ 
+  |  | bloke 
+ 
+  |  | blond 
+ 
+ blond |  | e 
+ 
+  |  | blood 
+ 
+ blood |  | curdling 
+ 
+ blood |  | iness 
+ 
+ blood |  | y 
+ 
+  |  | blossoming 
+ 
+  |  | blow 
+ 
+ blow |  | ing 
+ 
+ blow |  | n 
+ 
+  |  | blue 
+ 
+ blue |  | bell 
+ 
+  |  | blundering 
+ 
+  |  | blur 
+ 
+ blur |  | ted 
+ 
+  |  | blushed 
  
   |  | boa 
  
- boa |  | s 
+ boa |  | rd 
  
-  |  | boca 
+ boa |  | rded 
  
-  |  | bolsillo 
+ boa |  | rding 
  
-  |  | bondad 
+ boa |  | rhound 
  
-  |  | bonita 
+ boa |  | stful 
  
-  |  | bonito 
+ boa |  | t 
  
- bonito |  | s 
+ boa |  | ters 
  
-  |  | borracho 
+ boa |  | ts 
  
- borracho |  | s 
+  |  | bobbing 
  
-  |  | bosteces 
+  |  | bodied 
  
-  |  | bosteza 
+  |  | bodies 
  
- bosteza |  | n 
+  |  | body 
  
- bosteza |  | ndo 
+ body |  | guards 
  
- bosteza |  | r 
+  |  | boil 
  
-  |  | bostezos 
+ boil |  | ed 
  
-  |  | bostezó 
+ boil |  | ing 
  
-  |  | botellas 
+ boil |  | s 
  
-  |  | bozal 
+  |  | bolt 
  
-  |  | brazalete 
+ bolt |  | ed 
  
-  |  | brazos 
+  |  | bombing 
  
-  |  | breve 
+  |  | bombs 
+ 
+  |  | bonnet 
+ 
+ bonnet |  | s 
+ 
+  |  | bonus 
+ 
+  |  | boogerflavored 
+ 
+  |  | boogers 
+ 
+  |  | book 
+ 
+ book |  | s 
+ 
+ boom |  | ed 
+ 
+ boom |  | ing 
+ 
+  |  | boot 
+ 
+ boot |  | s 
+ 
+  |  | bored 
+ 
+ bored |  | om 
+ 
+  |  | boring 
+ 
+  |  | born 
+ 
+  |  | borrow 
+ 
+ borrow |  | ed 
+ 
+  |  | bossy 
+ 
+  |  | both 
+ 
+ both |  | er 
+ 
+ both |  | ered 
+ 
+ both |  | ering 
+ 
+ bott |  | le 
+ 
+ bott |  | les 
+ 
+ bott |  | om 
+ 
+  |  | bought 
+ 
+  |  | boulder 
+ 
+  |  | bounced 
+ 
+  |  | bouncing 
+ 
+  |  | bound 
+ 
+ bound |  | ed 
+ 
+ bound |  | s 
+ 
+  |  | bow 
+ 
+ bow |  | ed 
+ 
+ bow |  | l 
+ 
+ bow |  | lers 
+ 
+ bow |  | ling 
+ 
+  |  | box 
+ 
+ box |  | es 
+ 
+  |  | boy 
+ 
+ boy |  | s 
+ 
+  |  | braced 
+ 
+  |  | brain 
+ 
+ brain |  | s 
+ 
+  |  | branch 
+ 
+ branch |  | es 
+ 
+  |  | brand 
+ 
+ brand |  | ished 
+ 
+ brand |  | y 
+ 
+  |  | brary 
+ 
+  |  | brass 
+ 
+  |  | brave 
+ 
+ brave |  | ly 
+ 
+ brave |  | r 
+ 
+ brave |  | ry 
+ 
+  |  | bravo 
+ 
+  |  | bread 
+ 
+  |  | break 
+ 
+ break |  | fast 
+ 
+ break |  | ing 
+ 
+ break |  | s 
+ 
+  |  | breath 
+ 
+ breath |  | e 
+ 
+ breath |  | ed 
+ 
+ breath |  | ing 
+ 
+ breath |  | lessly 
+ 
+ breath |  | s 
+ 
+  |  | bred 
+ 
+  |  | breeding 
+ 
+  |  | breeze 
+ 
+  |  | breezy 
+ 
+  |  | brew 
+ 
+  |  | brick 
+ 
+ brick |  | s 
  
   |  | bridge 
  
-  |  | brillan 
+  |  | briefcase 
  
-  |  | brillar 
+  |  | bright 
  
-  |  | brinco 
+ bright |  | ly 
  
-  |  | brocal 
+  |  | brilliant 
  
-  |  | brotes 
+ brilliant |  | ly 
  
-  |  | bruscamente 
+  |  | brim 
  
-  |  | buen 
+  |  | bring 
  
- buen |  | a 
+ bring |  | ing 
  
- buen |  | as 
+  |  | briskly 
  
- buen |  | o 
+  |  | broad 
  
-  |  | bufanda 
+ broad |  | ly 
  
-  |  | bulón 
+  |  | broke 
  
-  |  | burlamos 
+ broke |  | n 
  
-  |  | buscado 
+  |  | bronze 
  
-  |  | buscan 
+  |  | brooding 
  
-  |  | buscar 
+  |  | broom 
  
- buscar |  | lo 
+ broom |  | s 
  
-  |  | buscas 
+ broom |  | shed 
  
-  |  | buscó 
+ broom |  | stick 
  
-  |  | cabellos 
+ broom |  | sticks 
  
-  |  | cabeza 
+  |  | brother 
  
-  |  | cabina 
+ brother |  | s 
  
-  |  | cabrían 
+  |  | brought 
  
-  |  | cabían 
+  |  | brown 
  
-  |  | cada 
+  |  | brushed 
  
-  |  | cae 
+  |  | brushing 
  
-  |  | caiga 
+  |  | bubbles 
  
-  |  | caja 
+  |  | buck 
  
-  |  | cajón 
+ buck |  | et 
  
-  |  | calendario 
+ buck |  | ing 
  
-  |  | calentar 
+ buck |  | le 
  
-  |  | callaba 
+ buck |  | led 
  
-  |  | callado 
+  |  | budge 
  
-  |  | callan 
+  |  | buffalo 
  
-  |  | callaron 
+  |  | build 
  
-  |  | callarse 
+ build |  | ing 
  
-  |  | callejear 
+ build |  | ings 
  
-  |  | calles 
+  |  | built 
  
-  |  | callé 
+  |  | bulging 
  
-  |  | calló 
+  |  | bull 
  
-  |  | calor 
+ bull |  | et 
  
-  |  | cambia 
+ bull |  | ets 
  
- cambia |  | do 
+ bull |  | ied 
  
- cambia |  | ron 
+ bull |  | y 
  
-  |  | cambie 
+  |  | bumped 
  
-  |  | cambio 
+  |  | bun 
  
-  |  | caminando 
+ bun |  | ch 
  
-  |  | caminar 
+ bun |  | ches 
  
- caminar |  | ás 
+ bun |  | dle 
  
- caminar |  | ía 
+ bun |  | dled 
  
-  |  | camino 
+ bun |  | dles 
  
- camino |  | s 
+ bun |  | ny 
  
-  |  | campos 
+  |  | buried 
  
-  |  | cansa 
+  |  | burly 
  
- cansa |  | do 
+  |  | burn 
  
- cansa |  | ncio 
+ burn |  | ed 
  
-  |  | cansó 
+ burn |  | ing 
  
-  |  | canta 
+ burn |  | ished 
  
-  |  | canto 
+ burn |  | s 
  
-  |  | capaz 
+ burn |  | t 
  
-  |  | capullo 
+  |  | burst 
  
-  |  | carabina 
+ burst |  | ing 
  
-  |  | caravana 
+  |  | burying 
  
-  |  | carcajada 
+  |  | bus 
  
-  |  | carecen 
+ bus |  | h 
  
-  |  | carnero 
+ bus |  | hy 
  
-  |  | carrera 
+ bus |  | iness 
  
-  |  | carroza 
+ bus |  | tled 
  
-  |  | casa 
+ bus |  | tling 
  
- casa |  | s 
+ bus |  | y 
  
-  |  | cascabeles 
+  |  | but 
  
-  |  | cascabelitos 
+ but |  | ter 
  
-  |  | caso 
+ but |  | tered 
  
-  |  | casualidad 
+  |  | buy 
  
-  |  | catástrofe 
+ buy |  | in 
  
-  |  | causa 
+ buy |  | ing 
  
-  |  | cayó 
+  |  | buzz 
  
-  |  | cazadores 
+ buzz |  | ing 
  
-  |  | cazan 
+  |  | by 
  
-  |  | caí 
+  |  | bye 
  
- caí |  | da 
+  |  | c 
  
- caí |  | do 
+  |  | cabbage 
  
-  |  | centelleó 
+ cabbage |  | s 
  
-  |  | centenares 
+  |  | cackle 
  
-  |  | cerca 
+ cackle |  | d 
  
-  |  | cerrada 
+  |  | cafru 
  
- cerrada |  | s 
+  |  | cage 
  
-  |  | cerrados 
+  |  | cake 
  
-  |  | cesó 
+ cake |  | s 
  
-  |  | charla 
+  |  | call 
  
-  |  | chimeneas 
+ call |  | ed 
  
-  |  | chocar 
+ call |  | ing 
  
-  |  | ciegos 
+ call |  | s 
  
-  |  | cielo 
+  |  | calm 
  
-  |  | cien 
+ calm |  | ing 
  
- cien |  | cia 
+ calm |  | ly 
  
- cien |  | to 
+  |  | came 
  
-  |  | ciertamente 
+ came |  | ra 
  
-  |  | cierto 
+  |  | can 
  
- cierto |  | s 
+ can |  | ary 
  
-  |  | cifras 
+ can |  | celed 
  
-  |  | cigarro 
+ can |  | dies 
  
-  |  | cima 
+ can |  | dlelight 
  
-  |  | cinco 
+ can |  | dles 
  
-  |  | cincuenta 
+ can |  | dy 
  
-  |  | circunstancia 
+ can |  | e 
  
-  |  | citas 
+ can |  | non 
  
-  |  | ciudades 
+ can |  | nonball 
  
-  |  | cogió 
+ can |  | not 
  
-  |  | coleccionar 
+ can |  | s 
  
-  |  | colega 
+ can |  | t 
  
-  |  | colgando 
+ can |  | tered 
  
-  |  | colocarlas 
+  |  | cap 
+ 
+ cap |  | tain 
+ 
+ cap |  | ture 
+ 
+  |  | car 
+ 
+ car |  | d 
+ 
+ car |  | ds 
+ 
+ car |  | e 
+ 
+ car |  | ed 
+ 
+ car |  | eful 
+ 
+ car |  | efully 
+ 
+ car |  | eless 
+ 
+ car |  | elessly 
+ 
+ car |  | etaker 
+ 
+ car |  | ousel 
+ 
+ car |  | pet 
+ 
+ car |  | pets 
+ 
+ car |  | riages 
+ 
+ car |  | ried 
+ 
+ car |  | rots 
+ 
+ car |  | ry 
+ 
+ car |  | rying 
+ 
+ car |  | s 
+ 
+ car |  | t 
+ 
+ car |  | toon 
+ 
+ car |  | ts 
+ 
+ car |  | ved 
+ 
+  |  | case 
+ 
+ case |  | s 
+ 
+  |  | cast 
+ 
+ cast |  | le 
+ 
+  |  | casually 
+ 
+  |  | cat 
+ 
+ cat |  | calling 
+ 
+ cat |  | ch 
+ 
+ cat |  | ches 
+ 
+ cat |  | s 
+ 
+  |  | caught 
+ 
+ caught |  | y 
+ 
+  |  | cauldron 
+ 
+ cauldron |  | s 
+ 
+  |  | cause 
+ 
+  |  | caution 
+ 
+  |  | ceased 
+ 
+  |  | ceiling 
+ 
+  |  | celebrate 
+ 
+ celebrate |  | d 
+ 
+  |  | celebrating 
+ 
+  |  | celebrations 
+ 
+  |  | celebrity 
+ 
+  |  | centaur 
+ 
+ centaur |  | s 
+ 
+  |  | center 
+ 
+  |  | centuries 
+ 
+  |  | century 
+ 
+  |  | cept 
+ 
+  |  | cereal 
+ 
+  |  | ceremony 
+ 
+  |  | certain 
+ 
+ certain |  | ly 
+ 
+  |  | chained 
+ 
+  |  | chains 
+ 
+  |  | chair 
+ 
+ chair |  | s 
+ 
+  |  | chalk 
+ 
+  |  | chamber 
+ 
+  |  | championship 
+ 
+  |  | chance 
+ 
+ chance |  | s 
+ 
+  |  | change 
+ 
+ change |  | d 
+ 
+  |  | changin 
+ 
+ changin |  | g 
+ 
+  |  | chappie 
+ 
+  |  | charged 
+ 
+  |  | charging 
+ 
+  |  | charm 
+ 
+ charm |  | s 
+ 
+  |  | chase 
+ 
+ chase |  | d 
+ 
+  |  | chasin 
+ 
+ chasin |  | g 
+ 
+  |  | chat 
+ 
+ chat |  | ter 
+ 
+ chat |  | tering 
+ 
+  |  | cheap 
+ 
+  |  | cheating 
+ 
+  |  | check 
+ 
+ check |  | ed 
+ 
+ check |  | ing 
+ 
+ check |  | mate 
+ 
+ check |  | up 
+ 
+  |  | cheek 
+ 
+ cheek |  | s 
+ 
+  |  | cheer 
+ 
+ cheer |  | ed 
+ 
+ cheer |  | ful 
+ 
+ cheer |  | fully 
+ 
+ cheer |  | ing 
+ 
+ cheer |  | s 
+ 
+ cheer |  | y 
+ 
+  |  | chess 
+ 
+ chess |  | board 
+ 
+ chess |  | men 
+ 
+  |  | chest 
+ 
+ chest |  | nut 
+ 
+  |  | chewed 
+ 
+  |  | chewing 
+ 
+  |  | chicken 
+ 
+ chicken |  | ed 
+ 
+  |  | child 
+ 
+ child |  | hood 
+ 
+ child |  | ishly 
+ 
+ child |  | ren 
+ 
+  |  | chilled 
+ 
+  |  | chilly 
+ 
+  |  | chimed 
+ 
+  |  | chimney 
+ 
+  |  | chip 
+ 
+ chip |  | olatas 
+ 
+ chip |  | ped 
+ 
+ chip |  | s 
+ 
+  |  | chivalry 
+ 
+  |  | chocolate 
+ 
+  |  | choice 
+ 
+  |  | choked 
+ 
+  |  | choking 
+ 
+  |  | choose 
+ 
+ choose |  | s 
+ 
+  |  | choosing 
+ 
+  |  | chopped 
+ 
+  |  | chops 
+ 
+  |  | chortled 
+ 
+  |  | chorused 
+ 
+  |  | chose 
+ 
+ chose |  | n 
+ 
+  |  | chucked 
+ 
+  |  | chuckle 
+ 
+ chuckle |  | d 
+ 
+  |  | chuckling 
+ 
+  |  | cigarette 
+ 
+  |  | cinemas 
+ 
+  |  | circled 
+ 
+  |  | circles 
+ 
+  |  | circling 
+ 
+  |  | circumstances 
+ 
+  |  | circus 
+ 
+  |  | city 
+ 
+  |  | clamber 
+ 
+ clamber |  | ed 
+ 
+  |  | clamped 
+ 
+  |  | clanged 
+ 
+  |  | clanging 
+ 
+  |  | clap 
+ 
+ clap |  | ped 
+ 
+ clap |  | ping 
+ 
+  |  | clasped 
+ 
+  |  | class 
+ 
+ class |  | es 
+ 
+ class |  | room 
+ 
+ class |  | rooms 
+ 
+  |  | clattering 
+ 
+  |  | claw 
+ 
+ claw |  | ed 
+ 
+ claw |  | s 
+ 
+  |  | clean 
+ 
+  |  | clear 
+ 
+ clear |  | ed 
+ 
+ clear |  | ing 
+ 
+ clear |  | ly 
+ 
+  |  | clenched 
+ 
+  |  | clever 
+ 
+ clever |  | ness 
+ 
+  |  | click 
+ 
+ click |  | ed 
+ 
+ click |  | ing 
+ 
+  |  | cliff 
+ 
+  |  | climb 
+ 
+ climb |  | ed 
+ 
+ climb |  | ing 
+ 
+  |  | clinging 
+ 
+  |  | clinking 
+ 
+  |  | cloak 
+ 
+ cloak |  | ed 
+ 
+ cloak |  | s 
+ 
+  |  | clobbered 
+ 
+  |  | clock 
+ 
+  |  | close 
+ 
+ close |  | d 
+ 
+ close |  | ly 
+ 
+ close |  | r 
+ 
+  |  | cloth 
+ 
+ cloth |  | es 
+ 
+  |  | cloud 
+ 
+ cloud |  | s 
+ 
+ cloud |  | y 
+ 
+  |  | clouted 
+ 
+  |  | club 
+ 
+  |  | clue 
+ 
+ clue |  | s 
+ 
+  |  | clung 
+ 
+  |  | clutched 
+ 
+  |  | clutching 
+ 
+  |  | coals 
+ 
+  |  | coast 
+ 
+  |  | coat 
+ 
+ coat |  | s 
+ 
+  |  | cobbled 
+ 
+  |  | cobras 
+ 
+  |  | cock 
+ 
+  |  | coconut 
+ 
+  |  | coffee 
+ 
+  |  | coils 
+ 
+  |  | coins 
+ 
+  |  | cold 
+ 
+ cold |  | er 
+ 
+ cold |  | ly 
+ 
+  |  | collapsed 
+ 
+  |  | collapsible 
+ 
+  |  | collar 
+ 
+  |  | collect 
+ 
+ collect |  | ed 
+ 
+ collect |  | ing 
  
   |  | color 
  
- color |  | ado 
+ color |  | coding 
  
- color |  | es 
+ color |  | ed 
  
-  |  | coman 
+ color |  | s 
+ 
+ comb |  | ination 
  
   |  | come 
  
- come |  | n 
+  |  | comfort 
  
- come |  | nzaba 
+ comfort |  | able 
  
- come |  | nzar 
+ comfort |  | ing 
  
- come |  | nzaron 
+  |  | comin 
  
- come |  | nzó 
+ comin |  | g 
  
- come |  | rciante 
+  |  | commanded 
  
- come |  | rá 
+  |  | commentary 
  
- come |  | ter 
+  |  | commentating 
  
-  |  | comido 
+  |  | commit 
  
-  |  | comienza 
+ commit |  | ting 
  
-  |  | comieran 
+  |  | common 
  
-  |  | como 
+  |  | company 
  
-  |  | compadecido 
+  |  | compared 
  
-  |  | compañeros 
+  |  | compartment 
  
-  |  | completa 
+ compartment |  | s 
  
-  |  | complicada 
+  |  | complain 
  
-  |  | complicado 
+ complain |  | ed 
  
-  |  | comprado 
+  |  | complete 
  
-  |  | compran 
+ complete |  | ly 
  
-  |  | comprar 
+  |  | complex 
  
-  |  | comprenden 
+  |  | complicated 
  
-  |  | comprender 
+  |  | computer 
  
- comprender |  | lo 
+  |  | concen 
  
- comprender |  | á 
+ concen |  | trate 
  
- comprender |  | ás 
+ concen |  | trating 
  
-  |  | comprendido 
+  |  | concern 
  
-  |  | comprendiendo 
+ concern |  | ed 
  
-  |  | comprendió 
+  |  | concrete 
  
-  |  | comprendo 
+ conduct |  | ed 
  
-  |  | comprendí 
+ conduct |  | or 
  
-  |  | comprensivo 
+  |  | confessed 
  
-  |  | comunicarle 
+  |  | confiscated 
  
-  |  | con 
+ confuse |  | d 
  
- con |  | cedió 
+  |  | confusing 
  
- con |  | cluyó 
+  |  | confusion 
  
- con |  | denar 
+  |  | conjured 
  
- con |  | denarás 
+  |  | constantly 
  
- con |  | diciones 
+  |  | constrictor 
  
- con |  | ductor 
+  |  | contact 
  
- con |  | fesarse 
+  |  | contained 
  
- con |  | fesó 
+  |  | containing 
  
- con |  | fiado 
+  |  | contains 
  
- con |  | fianza 
+  |  | continue 
  
- con |  | fundes 
+ continue |  | d 
  
- con |  | fuso 
+  |  | contrary 
  
- con |  | greso 
+  |  | control 
  
- con |  | junto 
+  |  | convince 
  
- con |  | migo 
+ convince |  | d 
  
- con |  | movedora 
+  |  | cooked 
  
- con |  | ocen 
+  |  | cool 
  
- con |  | ocer 
+ cool |  | ly 
  
- con |  | ocerle 
+  |  | copper 
  
- con |  | ocido 
+  |  | copy 
  
- con |  | ociera 
+ copy |  | ing 
  
- con |  | ocimiento 
+  |  | core 
  
- con |  | ocí 
+  |  | cork 
  
- con |  | ocía 
+  |  | corned 
  
- con |  | ozco 
+  |  | corner 
  
- con |  | servado 
+ corner |  | ed 
  
- con |  | servarla 
+ corner |  | s 
  
- con |  | sideración 
+  |  | cornflakes 
  
- con |  | signa 
+  |  | correcting 
  
- con |  | sigo 
+  |  | corridor 
  
- con |  | sigues 
+ corridor |  | s 
  
- con |  | siguiente 
+  |  | cost 
  
- con |  | solada 
+  |  | cough 
  
- con |  | solado 
+ cough |  | ed 
  
- con |  | solar 
+  |  | could 
  
- con |  | solarle 
+ could |  | a 
  
- con |  | suela 
+ could |  | n 
  
- con |  | sultando 
+  |  | council 
  
- con |  | tactos 
+  |  | count 
  
- con |  | tado 
+ count |  | ed 
  
- con |  | tando 
+ count |  | er 
  
- con |  | tar 
+ count |  | ercurse 
  
- con |  | templación 
+ count |  | ing 
  
- con |  | tener 
+ count |  | ry 
  
- con |  | tento 
+ count |  | ryside 
  
- con |  | tentos 
+  |  | couple 
  
- con |  | testaban 
+  |  | courage 
  
- con |  | testo 
+ courage |  | ous 
  
- con |  | testó 
+  |  | course 
  
- con |  | tigo 
+  |  | courtyard 
  
- con |  | tinentes 
+  |  | cousin 
  
- con |  | tinuaba 
+  |  | cover 
  
- con |  | tinuó 
+ cover |  | ed 
  
- con |  | tra 
+ cover |  | s 
  
- con |  | tradictorias 
+  |  | coward 
  
- con |  | tó 
+  |  | cowering 
  
- con |  | vencidas 
+  |  | cows 
  
- con |  | vencido 
+  |  | cozy 
  
- con |  | vencimiento 
+  |  | crack 
  
- con |  | vierten 
+ crack |  | ed 
  
-  |  | copia 
+ crack |  | er 
  
-  |  | coqueta 
+ crack |  | ers 
  
-  |  | corazón 
+ crack |  | ing 
  
-  |  | corbatas 
+ crack |  | s 
  
-  |  | corderillo 
+  |  | crammed 
  
-  |  | cordero 
+  |  | cranberry 
  
- cordero |  | s 
+  |  | craning 
  
-  |  | corre 
+  |  | crash 
  
- corre |  | a 
+ crash |  | ed 
  
- corre |  | r 
+ crash |  | es 
  
-  |  | corrientes 
+ crash |  | ing 
  
-  |  | corro 
+  |  | crate 
  
-  |  | corta 
+  |  | crawling 
  
- corta |  | rla 
+  |  | crazy 
  
-  |  | corteza 
+  |  | creak 
  
- corteza |  | s 
+ creak |  | ed 
  
-  |  | cortésmente 
+  |  | cream 
  
-  |  | cosa 
+ cream |  | s 
  
- cosa |  | s 
+  |  | create 
  
-  |  | cositas 
+  |  | creature 
  
-  |  | costó 
+ creature |  | s 
  
-  |  | crear 
+  |  | credit 
  
-  |  | crecer 
+  |  | creep 
  
-  |  | crecimiento 
+ creep |  | ers 
  
-  |  | creen 
+ creep |  | ing 
  
-  |  | creer 
+ creep |  | s 
  
- creer |  | án 
+ creep |  | y 
  
-  |  | crees 
+  |  | crept 
  
-  |  | creo 
+  |  | cried 
  
-  |  | crepúsculo 
+  |  | crime 
  
-  |  | creyó 
+  |  | cringed 
  
-  |  | crezca 
- 
-  |  | creía 
+  |  | crinkled 
  
   |  | crisis 
  
-  |  | crían 
+  |  | crisply 
  
-  |  | cuadros 
+  |  | criticizing 
  
-  |  | cuajado 
+  |  | croaked 
  
-  |  | cual 
+  |  | crooked 
  
- cual |  | es 
+  |  | cross 
  
- cual |  | quier 
+ cross |  | bow 
  
- cual |  | quiera 
+ cross |  | ed 
  
-  |  | cuando 
+ cross |  | ly 
  
-  |  | cuanto 
+  |  | crouched 
  
-  |  | cuarenta 
+  |  | crouching 
  
-  |  | cuarto 
+  |  | crowd 
  
-  |  | cuatro 
+ crowd |  | ed 
  
- cuatro |  | cientas 
+ crowd |  | s 
  
- cuatro |  | cientos 
+  |  | crown 
  
-  |  | cubo 
+  |  | cruel 
  
-  |  | cubre 
+  |  | crumbling 
  
-  |  | cuello 
+  |  | crumpets 
  
-  |  | cuenta 
+  |  | crumpled 
  
- cuenta |  | n 
+  |  | crunching 
  
-  |  | cuento 
+  |  | crush 
  
- cuento |  | s 
+ crush |  | ed 
  
-  |  | cuerda 
+ crush |  | ing 
  
-  |  | cuernos 
+  |  | crutches 
  
-  |  | cuero 
+  |  | cry 
  
-  |  | cuerpo 
+ cry |  | babies 
  
-  |  | cuestión 
+ cry |  | in 
  
-  |  | cuidado 
+ cry |  | ing 
  
- cuidado |  | s 
+ cry |  | stal 
  
- cuidado |  | samente 
+  |  | cunning 
  
-  |  | culpa 
+  |  | cup 
  
-  |  | cultivan 
+ cup |  | board 
  
-  |  | cumplas 
+ cup |  | s 
  
-  |  | cumplía 
+  |  | cure 
  
-  |  | curioso 
+ cure |  | d 
  
-  |  | cuándo 
+  |  | curious 
  
-  |  | cálculo 
+ curious |  | ly 
  
-  |  | cólera 
+  |  | curl 
  
-  |  | cómo 
+ curl |  | ed 
  
-  |  | da 
+ curl |  | ing 
  
-  |  | daba 
+ curl |  | y 
  
- daba |  | n 
+  |  | currently 
  
-  |  | dado 
+  |  | curry 
  
-  |  | dame 
+  |  | curse 
  
-  |  | dan 
+ curse |  | d 
  
- dan |  | za 
+ curse |  | s 
  
- dan |  | zaban 
+  |  | cursing 
  
-  |  | dar 
+  |  | curtain 
  
- dar |  | le 
+ curtain |  | s 
  
- dar |  | les 
+  |  | cushion 
  
- dar |  | se 
+  |  | customer 
  
- dar |  | án 
+  |  | cut 
  
- dar |  | é 
+ cut |  | ting 
  
- dar |  | ía 
+  |  | d 
  
-  |  | das 
+  |  | dabbed 
  
-  |  | daño 
+  |  | dad 
+ 
+  |  | dairy 
+ 
+  |  | daisies 
+ 
+  |  | damage 
+ 
+ damage |  | d 
+ 
+  |  | damn 
+ 
+  |  | damp 
+ 
+ damp |  | en 
+ 
+  |  | dancing 
+ 
+  |  | danger 
+ 
+ danger |  | ous 
+ 
+ danger |  | ously 
+ 
+  |  | dangling 
+ 
+  |  | dappled 
+ 
+  |  | dare 
+ 
+ dare |  | d 
+ 
+  |  | daring 
+ 
+  |  | dark 
+ 
+ dark |  | ened 
+ 
+ dark |  | ly 
+ 
+ dark |  | ness 
+ 
+  |  | darted 
+ 
+  |  | darting 
+ 
+  |  | dashed 
+ 
+  |  | dashing 
+ 
+  |  | date 
+ 
+ date |  | s 
+ 
+  |  | daughter 
+ 
+  |  | dawn 
+ 
+ dawn |  | ed 
+ 
+  |  | day 
+ 
+ day |  | light 
+ 
+ day |  | s 
+ 
+  |  | dazed 
  
   |  | de 
  
-  |  | deambular 
+  |  | dead 
  
-  |  | debajo 
+ dead |  | ly 
  
-  |  | debe 
+  |  | deafening 
  
- debe |  | n 
+  |  | deal 
  
- debe |  | s 
+ deal |  | er 
  
-  |  | debido 
+  |  | dear 
  
-  |  | debo 
+ dear |  | est 
  
-  |  | debí 
+ dear |  | ly 
  
- debí |  | a 
+ dear |  | s 
  
-  |  | decepcionado 
+  |  | death 
  
-  |  | decididamente 
+ death |  | s 
  
-  |  | decidido 
+  |  | debt 
  
-  |  | decidió 
+  |  | decent 
  
-  |  | decidme 
+  |  | decide 
  
-  |  | decimos 
+ decide |  | d 
  
-  |  | decir 
+  |  | decked 
  
- decir |  | le 
+  |  | declared 
  
- decir |  | les 
+  |  | decoration 
  
- decir |  | me 
+ decoration |  | s 
  
-  |  | decía 
+  |  | deep 
  
-  |  | dedicado 
+ deep |  | er 
  
-  |  | dedicar 
+ deep |  | est 
  
- dedicar |  | a 
+ deep |  | ly 
  
- dedicar |  | se 
+  |  | defeat 
  
-  |  | dedicatoria 
+ defeat |  | ed 
  
-  |  | dedo 
+  |  | defend 
  
- dedo |  | s 
+ defense |  | less 
  
-  |  | defenderse 
+  |  | definitely 
  
-  |  | defienden 
+  |  | defrosting 
  
-  |  | definitivamente 
+  |  | delayed 
  
-  |  | deja 
+  |  | delicate 
  
- deja |  | bas 
+ delicate |  | ly 
  
- deja |  | do 
+  |  | delicious 
  
- deja |  | r 
+  |  | delight 
  
- deja |  | ra 
+ delight |  | ed 
  
- deja |  | ran 
+ delight |  | s 
  
- deja |  | rse 
+  |  | deliver 
  
-  |  | dejé 
+ deliver |  | ed 
  
- dejé |  | is 
+ deliver |  | in 
  
-  |  | dejó 
+  |  | demand 
  
-  |  | del 
+ demand |  | ed 
  
- del |  | gado 
+ demand |  | s 
  
-  |  | demasiado 
+  |  | dense 
  
-  |  | demostración 
+  |  | dentists 
  
-  |  | demás 
+  |  | denying 
  
-  |  | dentro 
+  |  | depended 
  
-  |  | dependería 
+  |  | depressed 
  
-  |  | derecha 
+  |  | depressing 
  
-  |  | derecho 
+  |  | depths 
  
-  |  | desanimaron 
+  |  | describing 
  
-  |  | desaparecer 
+ desert |  | ed 
  
-  |  | desapareciendo 
+  |  | deserved 
  
-  |  | desaparición 
+  |  | deserves 
  
-  |  | desayunar 
+  |  | desire 
  
-  |  | desayuno 
+  |  | desk 
  
-  |  | descansar 
+ desk |  | s 
  
-  |  | descanses 
+ desk |  | top 
  
-  |  | descendía 
+  |  | desperate 
  
-  |  | desconcertado 
+ desperate |  | ly 
  
-  |  | desconocido 
+  |  | desserts 
  
-  |  | describirlo 
+  |  | destined 
  
-  |  | describirme 
+  |  | destiny 
  
-  |  | descubre 
+  |  | destroyed 
  
-  |  | descubrimiento 
+  |  | detention 
  
-  |  | descubrirlo 
+ detention |  | s 
  
-  |  | descubriré 
+  |  | determined 
  
-  |  | descubrió 
+  |  | detest 
  
-  |  | descubrí 
+ diagon |  | ally 
  
-  |  | descuidó 
+  |  | dial 
  
-  |  | desde 
+ dial |  | ing 
  
-  |  | deseabas 
+  |  | did 
  
-  |  | deseara 
+ did |  | n 
  
-  |  | desembarazarse 
+ did |  | nt 
  
-  |  | deseoso 
+  |  | die 
  
-  |  | desgraciadamente 
+ die |  | d 
  
-  |  | desgraciado 
+  |  | diff 
  
-  |  | desgracias 
+ diff |  | erence 
  
-  |  | deshollinados 
+ diff |  | erent 
  
-  |  | deshollinar 
+ diff |  | erently 
  
-  |  | deshollino 
+ diff |  | icult 
  
-  |  | desierto 
+ diff |  | iculty 
  
- desierto |  | s 
+  |  | dimpled 
  
-  |  | desilusionado 
+  |  | din 
  
-  |  | deslizar 
+ din |  | ing 
  
-  |  | desmontar 
+ din |  | ner 
  
-  |  | desobedecer 
+ din |  | nertime 
  
-  |  | despacho 
+  |  | direct 
  
-  |  | despedida 
+ direct |  | ed 
  
-  |  | despeinada 
+ direct |  | ing 
  
-  |  | despertado 
+ direct |  | ion 
  
-  |  | despertarme 
+ direct |  | ions 
  
-  |  | despertarse 
+ direct |  | ly 
  
-  |  | despertó 
+ direct |  | or 
  
-  |  | despreciado 
+  |  | dirt 
  
-  |  | después 
+ dirt |  | y 
  
-  |  | destornillar 
+  |  | disagree 
  
-  |  | desvariar 
+  |  | disappear 
  
-  |  | detalle 
+ disappear |  | ed 
  
- detalle |  | s 
+ disappear |  | ing 
  
-  |  | detenidamente 
+  |  | disappointed 
  
-  |  | detuve 
+  |  | disappointment 
  
-  |  | di 
+  |  | disapproving 
  
-  |  | diamante 
+ disapproving |  | ly 
  
-  |  | dibujado 
+  |  | discover 
  
-  |  | dibujar 
+ discover |  | ed 
  
- dibujar |  | é 
+ discover |  | ies 
  
-  |  | dibujo 
+ discover |  | y 
  
- dibujo |  | s 
+  |  | discuss 
  
-  |  | dibujé 
+ discuss |  | ing 
  
-  |  | dice 
+ discuss |  | ion 
  
-  |  | dicho 
+  |  | disgruntled 
  
- dicho |  | so 
+  |  | disgust 
  
-  |  | diciendo 
+ disgust |  | ed 
  
-  |  | diciéndole 
+ disgust |  | ing 
  
- diciéndole |  | s 
+  |  | dish 
  
-  |  | diciéndome 
+ dish |  | es 
  
-  |  | diciéndose 
+  |  | dislike 
  
-  |  | dicta 
+ dislike |  | d 
  
- dicta |  | dor 
+  |  | displeased 
  
-  |  | diera 
+  |  | distance 
  
-  |  | diez 
+  |  | distant 
  
-  |  | diferenciaba 
+  |  | distinctly 
  
-  |  | diferente 
+  |  | distracted 
  
- diferente |  | s 
+  |  | disturb 
  
-  |  | difícil 
+  |  | dium 
  
-  |  | digestión 
+  |  | dive 
  
-  |  | digiere 
+ dive |  | d 
  
-  |  | digo 
+ dive |  | rsion 
  
-  |  | dije 
+ dive |  | s 
  
- dije |  | ran 
+  |  | dividing 
  
-  |  | dijiste 
+  |  | do 
  
-  |  | dijo 
+  |  | dodge 
  
-  |  | dimensiones 
+ dodge |  | d 
  
-  |  | dio 
+ dodge |  | s 
  
-  |  | dirección 
+  |  | does 
  
-  |  | dirán 
+ does |  | n 
  
-  |  | dirás 
+  |  | dog 
  
-  |  | diría 
+ dog |  | s 
  
-  |  | disciplina 
+ doi |  | n 
  
-  |  | disfrutar 
+ doi |  | ng 
  
- disfrutar |  | a 
+  |  | dolphins 
  
-  |  | disgustar 
+  |  | don 
  
-  |  | disgustos 
+ don |  | e 
  
-  |  | dispuse 
+ don |  | keys 
  
-  |  | dispusiera 
+  |  | doom 
  
-  |  | dispuso 
+  |  | door 
  
-  |  | distancia 
+ door |  | bell 
  
-  |  | diste 
+ door |  | knob 
  
-  |  | distingue 
+ door |  | mat 
  
-  |  | distinguir 
+ door |  | post 
  
- distinguir |  | los 
+ door |  | s 
  
-  |  | distinguió 
+ door |  | step 
  
-  |  | distracción 
+ door |  | way 
  
-  |  | distrae 
+ door |  | ways 
  
-  |  | divertido 
+  |  | dormice 
  
-  |  | divisar 
+  |  | dormitories 
  
-  |  | divisó 
+  |  | dormitory 
  
-  |  | doble 
+  |  | dotted 
  
-  |  | doce 
+  |  | double 
  
-  |  | domesticado 
+ double |  | d 
  
-  |  | domestican 
+  |  | doubt 
  
-  |  | domesticar 
+ doubt |  | ed 
  
-  |  | domesticas 
+  |  | doughnut 
  
-  |  | domesticó 
+ doughnut |  | s 
  
-  |  | domestique 
+  |  | down 
  
- domestique |  | s 
+ down |  | fall 
  
-  |  | domestícame 
+ down |  | pour 
  
-  |  | donde 
+ down |  | right 
  
-  |  | doradas 
+ down |  | stairs 
  
-  |  | dorado 
+ down |  | ward 
  
- dorado |  | s 
+  |  | dozen 
  
-  |  | dormido 
+  |  | drafty 
  
-  |  | dormir 
+  |  | drag 
  
-  |  | dormí 
+ drag |  | ged 
  
- dormí |  | a 
+ drag |  | ging 
  
-  |  | dos 
+ drag |  | on 
  
- dos |  | cientas 
+ drag |  | ons 
  
-  |  | drama 
+  |  | drain 
  
-  |  | duda 
+ drain |  | ed 
  
- duda |  | r 
+  |  | dramatically 
  
-  |  | duerme 
+  |  | dratted 
  
- duerme |  | n 
+  |  | draw 
  
-  |  | dueño 
+ draw |  | back 
  
-  |  | dulce 
+ draw |  | ing 
  
- dulce |  | mente 
+ draw |  | l 
  
- dulce |  | s 
+ draw |  | ling 
  
-  |  | dulzura 
+ draw |  | n 
  
-  |  | duna 
+  |  | dreading 
  
-  |  | dura 
+  |  | dreadlocks 
  
- dura |  | ba 
+  |  | dream 
  
- dura |  | n 
+ dream |  | ed 
  
- dura |  | nte 
+ dream |  | ily 
  
- dura |  | rá 
+ dream |  | s 
  
-  |  | duro 
+  |  | drearns 
  
-  |  | débil 
+  |  | drenched 
  
- débil |  | es 
+  |  | dress 
  
-  |  | déjame 
+ dress |  | ed 
  
-  |  | día 
+  |  | drew 
  
- día |  | s 
+  |  | dribbling 
  
-  |  | dónde 
+  |  | dried 
  
-  |  | e 
+  |  | drift 
  
-  |  | echar 
+ drift |  | ed 
  
-  |  | echas 
+ drift |  | ing 
  
-  |  | eco 
+  |  | drills 
  
- eco |  | nomiza 
+  |  | drink 
  
-  |  | edad 
+ drink |  | er 
  
-  |  | efecto 
+ drink |  | ing 
  
-  |  | efímera 
+ drink |  | s 
  
- efímera |  | s 
+  |  | drip 
  
-  |  | ejecutase 
+ drip |  | ping 
  
-  |  | ejem 
+  |  | drive 
  
- ejem |  | plar 
+ drive |  | n 
  
- ejem |  | plo 
+ drive |  | way 
  
-  |  | ejerce 
+  |  | driving 
  
-  |  | ejercicio 
+  |  | drone 
  
-  |  | ejército 
+ drone |  | d 
  
-  |  | el 
+  |  | drooled 
  
-  |  | electricidad 
+  |  | drooling 
  
-  |  | elefante 
+  |  | droop 
  
- elefante |  | s 
+  |  | drop 
  
-  |  | elegante 
+ drop |  | ped 
  
-  |  | elegir 
+ drop |  | ping 
  
-  |  | elevó 
+ drop |  | s 
  
-  |  | ella 
+  |  | drove 
  
- ella |  | s 
+  |  | drowned 
  
-  |  | ello 
+  |  | druidess 
  
- ello |  | s 
+  |  | drummed 
  
-  |  | embajador 
+  |  | drumming 
  
-  |  | embargo 
+  |  | drunk 
  
-  |  | embellece 
+  |  | dry 
  
-  |  | emociona 
+  |  | ducked 
  
- emociona |  | do 
+  |  | ducks 
  
-  |  | empezaría 
+  |  | dud 
  
-  |  | empeño 
+  |  | due 
  
-  |  | emprendió 
+ due |  | l 
  
-  |  | en 
+ due |  | ls 
  
-  |  | encantada 
+  |  | duffers 
  
-  |  | encantador 
+  |  | dull 
  
- encantador |  | a 
+ dull |  | y 
  
-  |  | encender 
+  |  | dumbfounded 
  
- encender |  | lo 
+  |  | dump 
  
-  |  | encendidas 
+ dump |  | ed 
  
-  |  | encendió 
+ dump |  | y 
  
-  |  | encendía 
+  |  | dunderhead 
  
-  |  | encerró 
+ dunderhead |  | s 
  
-  |  | enciende 
+  |  | dungeon 
  
-  |  | encima 
+ dungeon |  | s 
  
-  |  | encogerán 
+  |  | dunno 
  
-  |  | encogiéndose 
+  |  | during 
  
-  |  | encontraba 
+  |  | dusk 
  
-  |  | encontrado 
+  |  | dust 
  
-  |  | encontrar 
+ dust |  | er 
  
- encontrar |  | as 
+ dust |  | y 
  
- encontrar |  | lo 
+  |  | duties 
  
- encontrar |  | los 
+  |  | dwarf 
  
- encontrar |  | me 
+  |  | dwell 
  
- encontrar |  | á 
+  |  | dyeing 
  
-  |  | encontré 
+  |  | dying 
  
-  |  | encontró 
+  |  | each 
  
-  |  | encuentra 
+  |  | eager 
  
- encuentra |  | n 
+ eager |  | ly 
  
- encuentra |  | s 
+  |  | eagle 
  
-  |  | enfermo 
+  |  | ear 
  
-  |  | enigmas 
+ ear |  | lier 
  
-  |  | enjugó 
+ ear |  | ly 
  
-  |  | enmohecida 
+ ear |  | muffs 
  
-  |  | enorme 
+ ear |  | n 
  
-  |  | enrojeciendo 
+ ear |  | ned 
  
-  |  | enrojeció 
+ ear |  | s 
  
-  |  | enroscó 
+ ear |  | shot 
  
-  |  | enseguida 
+ ear |  | splitting 
  
-  |  | enseñé 
+ ear |  | th 
  
-  |  | ensueño 
+ ear |  | ths 
  
-  |  | entendidos 
+  |  | easier 
  
-  |  | entera 
+  |  | easiest 
  
-  |  | enternecerme 
+  |  | easily 
  
-  |  | entienden 
+  |  | easy 
  
-  |  | entonces 
+  |  | eat 
  
-  |  | entrada 
+ eat |  | en 
  
-  |  | entrar 
+ eat |  | ing 
  
-  |  | entre 
+  |  | ebony 
  
- entre |  | abiertos 
+  |  | echoed 
  
- entre |  | tengo 
+  |  | echoes 
  
-  |  | entusiasmados 
+  |  | eclairs 
  
-  |  | envejecer 
+  |  | edge 
  
-  |  | envoltura 
+ edge |  | d 
  
-  |  | equivocaban 
+ edge |  | s 
  
-  |  | equivocado 
+  |  | edging 
  
-  |  | equivoco 
+  |  | eels 
  
-  |  | equivoque 
+  |  | eerie 
  
-  |  | era 
+  |  | effect 
  
- era |  | n 
+  |  | effort 
  
-  |  | eres 
+  |  | egg 
  
-  |  | erguía 
+ egg |  | s 
  
-  |  | errores 
+  |  | eh 
  
-  |  | erupciones 
+  |  | ehru 
  
-  |  | es 
+  |  | eight 
  
-  |  | esa 
+  |  | either 
  
- esa |  | s 
+  |  | elastic 
  
-  |  | esbozaron 
+  |  | elbow 
  
-  |  | esbozos 
+  |  | element 
  
-  |  | escabullían 
+  |  | elephant 
  
-  |  | escaló 
+  |  | eleven 
  
-  |  | escapar 
+ eleven |  | th 
  
-  |  | escena 
+  |  | else 
  
-  |  | esconder 
+  |  | em 
  
-  |  | escondido 
+  |  | embarrassed 
  
-  |  | escopetas 
+  |  | embedded 
  
-  |  | escriben 
+  |  | embers 
  
-  |  | escribimos 
+  |  | emerald 
  
-  |  | escribir 
+  |  | emerged 
  
-  |  | escribo 
+  |  | emptied 
  
-  |  | escribía 
+  |  | emptier 
  
-  |  | escuchado 
+  |  | empty 
  
-  |  | escurrió 
+ empty |  | ing 
  
-  |  | ese 
+  |  | enchantments 
  
- ese |  | ncial 
+  |  | enclose 
  
-  |  | esforcé 
+ enclose |  | d 
  
-  |  | esfuerzo 
+  |  | encouraging 
  
-  |  | eso 
+  |  | end 
  
- eso |  | s 
+ end |  | ed 
  
-  |  | especialmente 
+ end |  | ing 
  
-  |  | especie 
+ end |  | less 
  
-  |  | espera 
+ end |  | s 
  
- espera |  | ba 
+  |  | enemies 
  
- espera |  | d 
+  |  | enemy 
  
- espera |  | nza 
+  |  | engine 
  
- espera |  | r 
+  |  | engraved 
  
- espera |  | rme 
+  |  | engulfed 
  
- espera |  | ré 
+  |  | enjoy 
  
-  |  | espero 
+ enjoy |  | ing 
  
-  |  | espinas 
+ enjoy |  | s 
  
-  |  | esplendor 
+  |  | enormous 
  
-  |  | espléndida 
+  |  | enough 
  
-  |  | espléndido 
+  |  | enraged 
  
-  |  | esta 
+  |  | ensnaring 
  
- esta |  | ba 
+  |  | enter 
  
- esta |  | ban 
+ enter |  | ed 
  
- esta |  | bas 
+ enter |  | ing 
  
- esta |  | ca 
+  |  | entrance 
  
- esta |  | llar 
+ entrance |  | d 
  
- esta |  | lló 
+  |  | envelope 
  
- esta |  | mos 
+  |  | enviously 
  
- esta |  | r 
+  |  | equipment 
  
- esta |  | rá 
+  |  | er 
  
- esta |  | rás 
+  |  | erupted 
  
- esta |  | ré 
+  |  | escalator 
  
- esta |  | s 
+  |  | escape 
  
-  |  | este 
+  |  | escaping 
  
-  |  | estilográfica 
+  |  | especially 
  
-  |  | esto 
+ eve |  | n 
  
- esto |  | s 
+ eve |  | ning 
  
- esto |  | y 
+ eve |  | nings 
  
-  |  | estrella 
+ eve |  | nts 
  
- estrella |  | s 
+ eve |  | r 
  
-  |  | estropeado 
+ eve |  | ry 
  
-  |  | estudiado 
+ eve |  | rybody 
  
-  |  | estupefacto 
+ eve |  | ryone 
  
-  |  | estuviera 
+ eve |  | rythin 
  
-  |  | está 
+ eve |  | rything 
  
- está |  | n 
+ eve |  | rywhere 
  
- está |  | s 
+  |  | evil 
  
-  |  | esté 
+  |  | exact 
  
- esté |  | n 
+ exact |  | ly 
  
- esté |  | s 
+  |  | exam 
  
-  |  | eterna 
+ exam |  | ine 
  
- eterna |  | s 
+ exam |  | ined 
  
-  |  | etiqueta 
+ exam |  | ining 
  
-  |  | europea 
+ exam |  | s 
  
-  |  | evasión 
+  |  | exasperated 
  
-  |  | evidencia 
+  |  | exasperation 
  
-  |  | evidente 
+  |  | excellent 
  
-  |  | evitar 
+  |  | except 
  
- evitar |  | lo 
+  |  | exchange 
  
-  |  | exactamente 
+ exchange |  | d 
  
-  |  | exactitud 
+  |  | excited 
  
-  |  | exacto 
+ excited |  | ly 
  
-  |  | excepción 
+  |  | excitement 
  
-  |  | exclaman 
+  |  | exciting 
  
-  |  | exclamar 
+  |  | excuse 
  
-  |  | exclamó 
+  |  | exercise 
  
-  |  | excusa 
+  |  | exhausted 
  
-  |  | exhalar 
+  |  | existed 
  
-  |  | exige 
+  |  | existence 
  
-  |  | exigir 
+  |  | exits 
  
- exigir |  | é 
+  |  | expect 
  
-  |  | existe 
+ expect |  | ed 
  
- existe |  | n 
+ expect |  | ing 
  
-  |  | existido 
+ expect |  | s 
  
-  |  | experiencia 
+  |  | expelled 
  
-  |  | experimenté 
+  |  | experience 
  
-  |  | expertos 
+  |  | explain 
  
-  |  | explicaba 
+ explain |  | ed 
  
-  |  | explicaciones 
+ explain |  | ing 
  
-  |  | explicarse 
+  |  | explode 
  
-  |  | explicarás 
+ explode |  | d 
  
-  |  | explorador 
+  |  | exploding 
  
- explorador |  | es 
+  |  | explosion 
  
-  |  | exponen 
+ express |  | ion 
  
-  |  | extendiendo 
+  |  | extra 
  
-  |  | extinguido 
+ extra |  | ordinary 
  
- extinguido |  | s 
+  |  | extremely 
  
-  |  | extinguían 
+  |  | eye 
  
-  |  | extraordinarias 
+ eye |  | brows 
  
-  |  | extraordinario 
+ eye |  | d 
  
-  |  | extraña 
+ eye |  | glasses 
  
- extraña |  | s 
+ eye |  | s 
  
-  |  | extraño 
+  |  | f 
  
-  |  | extremadamente 
+  |  | fabulous 
  
-  |  | fabricando 
+  |  | face 
  
-  |  | faldón 
+ face |  | d 
  
-  |  | falsa 
+ face |  | down 
  
-  |  | faltaba 
+ face |  | s 
  
-  |  | faltan 
+  |  | facing 
  
-  |  | fanal 
+  |  | fact 
  
-  |  | fantasía 
+  |  | fade 
  
-  |  | farol 
+ fade |  | d 
  
- farol |  | ero 
+  |  | fading 
  
- farol |  | eros 
+  |  | fail 
  
- farol |  | es 
+ fail |  | ed 
  
-  |  | fastidioso 
+  |  | faint 
+ 
+ faint |  | est 
+ 
+ faint |  | ly 
+ 
+  |  | fair 
+ 
+  |  | faithful 
+ 
+ faithful |  | ly 
+ 
+  |  | fall 
+ 
+ fall |  | en 
+ 
+ fall |  | ing 
+ 
+  |  | faltered 
+ 
+  |  | fame 
+ 
+  |  | familiar 
+ 
+  |  | families 
+ 
+  |  | family 
+ 
+  |  | famous 
+ 
+  |  | fan 
+ 
+ fan |  | atic 
+ 
+ fan |  | gs 
+ 
+ fan |  | tastic 
+ 
+  |  | far 
+ 
+ far |  | ther 
+ 
+  |  | fascinated 
+ 
+  |  | fascinating 
+ 
+  |  | fashion 
+ 
+ fashion |  | ed 
+ 
+  |  | fast 
+ 
+ fast |  | en 
+ 
+ fast |  | ened 
+ 
+ fast |  | enings 
+ 
+ fast |  | er 
+ 
+ fast |  | est 
+ 
+  |  | fat 
+ 
+ fat |  | eful 
+ 
+ fat |  | her 
+ 
+ fat |  | tenin 
+ 
+  |  | fault 
  
   |  | favor 
  
- favor |  | ables 
+ favor |  | ed 
  
-  |  | felicidad 
+ favor |  | ite 
  
-  |  | feliz 
+ favor |  | s 
  
-  |  | feo 
+  |  | fear 
  
-  |  | fidelidad 
+ fear |  | ed 
  
-  |  | fiebre 
+  |  | feast 
  
-  |  | fiel 
+ feast |  | s 
  
- fiel |  | mente 
+  |  | feather 
  
-  |  | fiera 
+ feather |  | s 
  
- fiera |  | s 
+  |  | fed 
  
-  |  | fiesta 
+  |  | feeble 
  
-  |  | fijo 
+  |  | feed 
  
-  |  | fila 
+  |  | feel 
  
-  |  | fin 
+ feel |  | ing 
  
- fin |  | almente 
+ feel |  | ings 
  
- fin |  | girle 
+ feel |  | s 
  
-  |  | firmeza 
+  |  | feet 
  
-  |  | flor 
+  |  | fell 
  
- flor |  | ecido 
+  |  | felt 
  
- flor |  | es 
+  |  | fences 
  
-  |  | fondo 
+  |  | fer 
  
-  |  | forma 
+ fer |  | ociously 
  
- forma |  | ba 
+  |  | fetch 
  
-  |  | formulada 
+  |  | feverishly 
  
-  |  | formulado 
+  |  | few 
  
-  |  | fracaso 
+ few |  | er 
  
-  |  | francos 
+  |  | fiddling 
  
-  |  | frecuentemente 
+  |  | fidgeted 
  
-  |  | frente 
+  |  | fie 
  
-  |  | fresca 
+ fie |  | ld 
  
-  |  | fresco 
+ fie |  | lds 
  
-  |  | froté 
+ fie |  | rce 
  
-  |  | frustrada 
+ fie |  | rcely 
  
-  |  | frágil 
+  |  | fifteen 
  
-  |  | frío 
+  |  | fifth 
  
-  |  | fue 
+  |  | fifty 
  
- fue |  | go 
+  |  | fight 
  
- fue |  | nte 
+ fight |  | ing 
  
- fue |  | ntes 
+  |  | figure 
  
- fue |  | ra 
+ figure |  | s 
  
- fue |  | ran 
+  |  | fill 
  
- fue |  | se 
+ fill |  | ed 
  
-  |  | fácil 
+ fill |  | ing 
  
- fácil |  | mente 
+  |  | filthy 
  
-  |  | gallinas 
+  |  | finally 
  
-  |  | gana 
+  |  | find 
  
- gana |  | do 
+ find |  | ing 
  
- gana |  | s 
+ find |  | s 
  
-  |  | garabateé 
+  |  | fine 
  
-  |  | garras 
+ fine |  | r 
  
-  |  | general 
+ fine |  | st 
  
-  |  | gente 
+  |  | finger 
  
-  |  | geografía 
+ finger |  | s 
  
- geografía |  | s 
+ finger |  | tips 
  
-  |  | geranios 
+  |  | finish 
  
-  |  | germinado 
+ finish |  | ed 
  
-  |  | gesto 
+ finish |  | ing 
  
-  |  | geógrafo 
+  |  | fir 
  
- geógrafo |  | s 
+ fir |  | e 
  
-  |  | gimió 
+ fir |  | ecracker 
  
-  |  | gira 
+ fir |  | ecrackers 
  
-  |  | globo 
+ fir |  | elight 
  
-  |  | gobernante 
+ fir |  | eplace 
+ 
+ fir |  | es 
+ 
+ fir |  | ework 
+ 
+ fir |  | eworks 
+ 
+ fir |  | m 
+ 
+ fir |  | mly 
+ 
+ fir |  | s 
+ 
+ fir |  | st 
+ 
+ fir |  | sthand 
+ 
+  |  | fishy 
+ 
+  |  | fist 
+ 
+ fist |  | s 
+ 
+  |  | fit 
+ 
+ fit |  | ted 
+ 
+  |  | five 
+ 
+  |  | fix 
+ 
+ fix |  | ed 
+ 
+ fix |  | edly 
+ 
+ fix |  | ing 
+ 
+  |  | flagged 
+ 
+  |  | flailed 
+ 
+  |  | flailing 
+ 
+  |  | flame 
+ 
+ flame |  | s 
+ 
+  |  | flaming 
+ 
+  |  | flanked 
+ 
+  |  | flanks 
+ 
+  |  | flap 
+ 
+  |  | flared 
+ 
+  |  | flash 
+ 
+ flash |  | ed 
+ 
+ flash |  | ing 
+ 
+ flash |  | y 
+ 
+  |  | flat 
+ 
+ flat |  | ly 
+ 
+ flat |  | ten 
+ 
+ flat |  | tened 
+ 
+ flat |  | ter 
+ 
+ flat |  | tering 
+ 
+  |  | flavor 
+ 
+  |  | fleet 
+ 
+  |  | flew 
+ 
+  |  | flexible 
+ 
+  |  | flick 
+ 
+ flick |  | ed 
+ 
+ flick |  | ered 
+ 
+ flick |  | ering 
+ 
+ flick |  | ing 
+ 
+  |  | flies 
+ 
+  |  | flight 
+ 
+  |  | flimsy 
+ 
+  |  | flinched 
+ 
+  |  | fling 
+ 
+ fling |  | ing 
+ 
+  |  | flipped 
+ 
+  |  | flitted 
+ 
+  |  | flitting 
+ 
+  |  | floated 
+ 
+  |  | floating 
+ 
+  |  | flock 
+ 
+ flock |  | ing 
+ 
+  |  | flooded 
+ 
+  |  | flooding 
+ 
+  |  | floor 
+ 
+ floor |  | s 
+ 
+  |  | flop 
+ 
+ flop |  | ped 
+ 
+  |  | flow 
+ 
+ flow |  | ered 
+ 
+ flow |  | ing 
+ 
+  |  | fluff 
+ 
+ fluff |  | y 
+ 
+  |  | fluid 
+ 
+  |  | flung 
+ 
+  |  | flushed 
+ 
+  |  | flute 
+ 
+  |  | flutter 
+ 
+ flutter |  | ed 
+ 
+ flutter |  | ing 
+ 
+  |  | fly 
+ 
+ fly |  | in 
+ 
+ fly |  | ing 
+ 
+  |  | foghorn 
+ 
+  |  | folded 
+ 
+  |  | folds 
+ 
+  |  | folk 
+ 
+ folk |  | s 
+ 
+  |  | follow 
+ 
+ follow |  | ed 
+ 
+ follow |  | ers 
+ 
+ follow |  | ing 
+ 
+ follow |  | s 
+ 
+  |  | fond 
+ 
+ fond |  | ly 
+ 
+  |  | food 
+ 
+  |  | fool 
+ 
+ fool |  | ish 
+ 
+  |  | foot 
+ 
+ foot |  | ball 
+ 
+ foot |  | falls 
+ 
+ foot |  | steps 
+ 
+ foot |  | stool 
+ 
+  |  | for 
+ 
+ for |  | bid 
+ 
+ for |  | bidden 
+ 
+ for |  | ce 
+ 
+ for |  | ced 
+ 
+ for |  | cing 
+ 
+ for |  | ecast 
+ 
+ for |  | ehead 
+ 
+ for |  | eheads 
+ 
+ for |  | est 
+ 
+ for |  | ests 
+ 
+ for |  | etold 
+ 
+ for |  | ever 
+ 
+ for |  | evermore 
+ 
+ for |  | get 
+ 
+ for |  | gets 
+ 
+ for |  | gettin 
+ 
+ for |  | give 
+ 
+ for |  | got 
+ 
+ for |  | gotten 
+ 
+ for |  | k 
+ 
+ for |  | m 
+ 
+ for |  | tune 
+ 
+ for |  | ty 
+ 
+ for |  | ward 
+ 
+  |  | fought 
+ 
+  |  | foul 
+ 
+ foul |  | ed 
+ 
+ foul |  | s 
+ 
+  |  | found 
+ 
+  |  | four 
+ 
+ four |  | s 
+ 
+ four |  | teen 
+ 
+ four |  | th 
+ 
+  |  | frame 
+ 
+  |  | frantic 
+ 
+ frantic |  | ally 
+ 
+  |  | frayed 
+ 
+  |  | freak 
+ 
+  |  | freckles 
+ 
+  |  | free 
+ 
+ free |  | d 
+ 
+ free |  | dom 
+ 
+ free |  | ze 
+ 
+ free |  | zing 
+ 
+  |  | fret 
+ 
+  |  | fried 
+ 
+  |  | friend 
+ 
+ friend |  | ly 
+ 
+ friend |  | s 
+ 
+ friend |  | ship 
+ 
+  |  | fries 
+ 
+  |  | fright 
+ 
+ fright |  | en 
+ 
+ fright |  | ened 
+ 
+ fright |  | enin 
+ 
+ fright |  | ening 
+ 
+  |  | frog 
+ 
+ frog |  | s 
+ 
+  |  | from 
+ 
+  |  | front 
+ 
+  |  | frost 
+ 
+  |  | frown 
+ 
+ frown |  | ed 
+ 
+ frown |  | ing 
+ 
+  |  | froze 
+ 
+ froze |  | n 
+ 
+  |  | fruitcake 
+ 
+  |  | frying 
+ 
+  |  | fudge 
+ 
+  |  | ful 
+ 
+ ful |  | l 
+ 
+ ful |  | ler 
+ 
+ ful |  | ly 
+ 
+  |  | fumbling 
+ 
+  |  | fumes 
+ 
+  |  | fuming 
+ 
+  |  | fun 
+ 
+ fun |  | eral 
+ 
+ fun |  | gi 
+ 
+ fun |  | ny 
+ 
+  |  | fur 
+ 
+ fur |  | ious 
+ 
+ fur |  | iously 
+ 
+ fur |  | ling 
+ 
+ fur |  | niture 
+ 
+ fur |  | or 
+ 
+ fur |  | ther 
+ 
+ fur |  | y 
+ 
+  |  | fussing 
+ 
+  |  | future 
+ 
+  |  | g 
+ 
+  |  | gain 
+ 
+ gain |  | s 
+ 
+  |  | gales 
+ 
+  |  | gallery 
+ 
+  |  | galloped 
+ 
+ gallopin |  | g 
+ 
+  |  | galoshes 
+ 
+  |  | gambled 
+ 
+  |  | game 
+ 
+ game |  | keeper 
+ 
+ game |  | keeping 
+ 
+ game |  | s 
+ 
+  |  | gang 
+ 
+ gang |  | ling 
+ 
+  |  | gap 
+ 
+ gap |  | ed 
+ 
+ gap |  | s 
+ 
+  |  | gar 
+ 
+ gar |  | age 
+ 
+ gar |  | den 
+ 
+ gar |  | dens 
+ 
+ gar |  | goyles 
+ 
+ gar |  | lic 
+ 
+  |  | gasp 
+ 
+ gasp |  | ed 
+ 
+ gasp |  | ing 
+ 
+ gasp |  | s 
+ 
+  |  | gate 
+ 
+ gate |  | way 
+ 
+  |  | gathered 
+ 
+  |  | gathering 
+ 
+  |  | gaunt 
+ 
+  |  | gave 
+ 
+  |  | gawked 
+ 
+  |  | gawking 
+ 
+  |  | gaze 
+ 
+ gaze |  | d 
+ 
+  |  | genius 
+ 
+  |  | gentle 
+ 
+ gentle |  | man 
+ 
+  |  | gently 
+ 
+  |  | geroff 
+ 
+  |  | get 
+ 
+ get |  | s 
+ 
+ get |  | tin 
+ 
+ get |  | ting 
+ 
+ get |  | ups 
+ 
+  |  | ghost 
+ 
+ ghost |  | ie 
+ 
+ ghost |  | s 
+ 
+  |  | ghoulie 
+ 
+  |  | giant 
+ 
+  |  | gibber 
+ 
+  |  | gift 
+ 
+  |  | gigantic 
+ 
+  |  | giggled 
+ 
+  |  | gingerly 
+ 
+  |  | girl 
+ 
+ girl |  | s 
+ 
+  |  | git 
+ 
+  |  | give 
+ 
+ give |  | n 
+ 
+ give |  | s 
+ 
+  |  | giving 
+ 
+  |  | glad 
+ 
+  |  | glance 
+ 
+ glance |  | d 
+ 
+  |  | glancing 
+ 
+  |  | glared 
+ 
+  |  | glaring 
+ 
+  |  | glass 
+ 
+ glass |  | es 
+ 
+  |  | gleamed 
+ 
+  |  | gleaming 
+ 
+  |  | glee 
+ 
+ glee |  | fully 
+ 
+  |  | glided 
+ 
+  |  | glider 
+ 
+  |  | gliding 
+ 
+  |  | glimmered 
+ 
+  |  | glimpse 
+ 
+  |  | glinting 
+ 
+  |  | glistening 
+ 
+  |  | glittered 
+ 
+  |  | glittering 
+ 
+  |  | glittery 
+ 
+  |  | gloatingly 
+ 
+  |  | globes 
+ 
+  |  | gloom 
+ 
+ gloom |  | ily 
+ 
+ gloom |  | y 
+ 
+  |  | glory 
+ 
+  |  | gloves 
+ 
+  |  | glowed 
+ 
+  |  | glowing 
+ 
+  |  | glue 
+ 
+  |  | glumly 
+ 
+  |  | go 
+ 
+  |  | goal 
+ 
+  |  | goat 
+ 
+  |  | goblet 
+ 
+ goblet |  | s 
+ 
+  |  | goblin 
+ 
+ goblin |  | s 
+ 
+  |  | goes 
+ 
+  |  | goggle 
+ 
+  |  | goin 
+ 
+ goin |  | g 
+ 
+  |  | gold 
+ 
+ gold |  | en 
  
   |  | golf 
  
-  |  | gordo 
+  |  | gone 
  
-  |  | gota 
+  |  | gonna 
  
-  |  | gozaba 
+  |  | good 
  
-  |  | gozar 
+ good |  | ness 
  
-  |  | gracia 
+  |  | goose 
  
- gracia |  | s 
+  |  | gorilla 
  
-  |  | graciosa 
+  |  | gossiped 
  
-  |  | gramática 
+  |  | got 
+ 
+ got |  | ta 
+ 
+ got |  | ten 
+ 
+  |  | gown 
+ 
+  |  | grab 
+ 
+ grab |  | bed 
+ 
+ grade |  | s 
+ 
+  |  | gradually 
  
   |  | gran 
  
- gran |  | de 
+ gran |  | dfather 
  
- gran |  | des 
+ gran |  | dfathers 
  
- gran |  | dioso 
+ gran |  | dmother 
  
- gran |  | diosos 
+ gran |  | ite 
  
- gran |  | ito 
+  |  | grappling 
  
-  |  | grasa 
+  |  | grasp 
  
-  |  | grave 
+ grasp |  | ed 
  
- grave |  | dad 
+ grasp |  | ing 
  
- grave |  | mente 
+  |  | grass 
  
-  |  | gritar 
+ grass |  | y 
  
-  |  | grito 
+  |  | grate 
  
-  |  | gritó 
+ grate |  | ful 
  
-  |  | guardarles 
+  |  | gravy 
  
-  |  | guardavías 
+  |  | gray 
  
-  |  | guardo 
+ gray |  | ish 
  
-  |  | guerra 
+  |  | greasily 
  
-  |  | gusanos 
+  |  | greasy 
  
-  |  | gusta 
+  |  | great 
  
- gusta |  | do 
+ great |  | est 
  
- gusta |  | n 
+ great |  | ness 
  
- gusta |  | rá 
+  |  | greed 
  
- gusta |  | ría 
+  |  | green 
  
-  |  | gusto 
+ green |  | er 
  
-  |  | gustó 
+ green |  | house 
  
-  |  | guías 
+ green |  | houses 
+ 
+  |  | greeted 
+ 
+  |  | greeting 
+ 
+  |  | grew 
+ 
+  |  | grief 
+ 
+  |  | griffin 
+ 
+  |  | grim 
+ 
+ grim |  | ly 
+ 
+  |  | grin 
+ 
+ grin |  | ding 
+ 
+ grin |  | ned 
+ 
+ grin |  | ning 
+ 
+  |  | grip 
+ 
+ grip |  | ped 
+ 
+ grip |  | s 
+ 
+  |  | gritted 
+ 
+  |  | groan 
+ 
+ groan |  | ed 
+ 
+  |  | groped 
+ 
+  |  | ground 
+ 
+ ground |  | s 
+ 
+  |  | group 
+ 
+ group |  | s 
+ 
+  |  | grow 
+ 
+ grow |  | ing 
+ 
+ grow |  | led 
+ 
+ grow |  | ling 
+ 
+ grow |  | ls 
+ 
+ grow |  | n 
+ 
+  |  | grubby 
+ 
+  |  | grudgingly 
+ 
+  |  | gruffly 
+ 
+  |  | grumbled 
+ 
+  |  | grumpily 
+ 
+ grunt |  | ed 
+ 
+ grunt |  | ing 
+ 
+  |  | guard 
+ 
+ guard |  | ed 
+ 
+ guard |  | in 
+ 
+ guard |  | ing 
+ 
+ guard |  | s 
+ 
+  |  | guess 
+ 
+ guess |  | ing 
+ 
+  |  | guilty 
+ 
+  |  | gulp 
+ 
+ gulp |  | ed 
+ 
+  |  | gun 
+ 
+  |  | gym 
  
   |  | ha 
  
-  |  | haber 
+  |  | haaa 
  
- haber |  | me 
+  |  | had 
  
- haber |  | se 
+ had |  | n 
  
-  |  | habido 
+  |  | hag 
  
-  |  | habiendo 
+  |  | hair 
  
-  |  | habita 
+ hair |  | cut 
  
- habita |  | ba 
+ hair |  | cuts 
  
- habita |  | do 
+ hair |  | ed 
  
- habita |  | ntes 
+ hair |  | s 
  
-  |  | habito 
+ hair |  | y 
  
-  |  | habla 
+  |  | half 
  
- habla |  | ba 
+ half |  | heartedly 
  
- habla |  | ndo 
+ half |  | way 
  
- habla |  | r 
+  |  | hall 
  
- habla |  | ra 
+  |  | halt 
  
- habla |  | rles 
+ ham |  | burger 
  
- habla |  | rme 
+ ham |  | mer 
  
- habla |  | s 
+ ham |  | mered 
  
-  |  | habrá 
+ ham |  | mering 
  
-  |  | habré 
+  |  | hand 
  
-  |  | habría 
+ hand |  | ed 
  
-  |  | había 
+ hand |  | ful 
  
- había |  | mos 
+ hand |  | ing 
  
-  |  | hace 
+ hand |  | kerchief 
  
- hace |  | n 
+ hand |  | le 
  
- hace |  | r 
+ hand |  | s 
  
- hace |  | rle 
+ hand |  | some 
  
- hace |  | rlos 
+ hand |  | y 
  
- hace |  | rme 
+  |  | hang 
  
- hace |  | rte 
+ hang |  | er 
  
- hace |  | s 
+ hang |  | ing 
  
-  |  | hacia 
+ hang |  | ings 
  
-  |  | hacía 
+  |  | happen 
  
- hacía |  | n 
+ happen |  | ed 
  
-  |  | hadas 
+ happen |  | ing 
  
-  |  | hagan 
+ happen |  | s 
  
-  |  | hago 
+  |  | happier 
  
-  |  | hambre 
+  |  | happiest 
  
-  |  | han 
+  |  | happily 
  
-  |  | hará 
+  |  | happiness 
  
-  |  | haré 
+  |  | happy 
+ 
+  |  | harbor 
+ 
+  |  | hard 
+ 
+ hard |  | er 
+ 
+ hard |  | ly 
+ 
+  |  | harness 
+ 
+  |  | harp 
  
   |  | has 
  
- has |  | ta 
+ has |  | n 
  
-  |  | hay 
+  |  | hat 
  
- hay |  | as 
+ hat |  | ched 
+ 
+ hat |  | ches 
+ 
+ hat |  | ching 
+ 
+ hat |  | e 
+ 
+ hat |  | ed 
+ 
+ hat |  | es 
+ 
+ hat |  | ing 
+ 
+ hat |  | red 
+ 
+ hat |  | s 
+ 
+  |  | have 
+ 
+ have |  | n 
+ 
+  |  | havin 
+ 
+ havin |  | g 
+ 
+  |  | hawk 
  
   |  | he 
  
-  |  | hecho 
+  |  | head 
  
-  |  | helado 
+ head |  | ed 
  
-  |  | herido 
+ head |  | first 
  
-  |  | hermanos 
+ head |  | ing 
  
-  |  | hermosa 
+ head |  | less 
  
- hermosa |  | s 
+ head |  | light 
  
-  |  | hermoso 
+ head |  | master 
  
-  |  | herramientas 
+ head |  | mistress 
  
-  |  | hice 
+ head |  | s 
  
-  |  | hiciera 
+  |  | health 
  
-  |  | hicieron 
+  |  | heap 
  
-  |  | hierba 
+  |  | hear 
  
- hierba |  | s 
+ hear |  | d 
  
-  |  | historia 
+ hear |  | ing 
  
-  |  | hizo 
+ hear |  | t 
  
-  |  | hoja 
+ hear |  | ts 
  
-  |  | holgazanes 
+ hear |  | tstring 
  
-  |  | hombre 
+ hear |  | tstrings 
  
- hombre |  | cito 
+  |  | heave 
  
- hombre |  | s 
+ heave |  | d 
  
-  |  | hombros 
+ heave |  | n 
  
-  |  | honesto 
+ heave |  | ns 
  
-  |  | hongo 
+  |  | heavier 
  
-  |  | hora 
+  |  | heavily 
  
- hora |  | s 
+  |  | heaving 
  
-  |  | hoy 
+  |  | heavy 
  
-  |  | hubiera 
+  |  | hedges 
  
-  |  | hubiese 
+  |  | heed 
  
-  |  | huella 
+  |  | heel 
  
-  |  | huir 
+ heel |  | ed 
  
-  |  | hum 
+ heel |  | s 
  
- hum |  | anidad 
+  |  | held 
  
- hum |  | edecí 
+  |  | helicopters 
  
- hum |  | illarme 
+  |  | helmeted 
  
-  |  | hundió 
+  |  | help 
  
-  |  | iba 
+ help |  | ed 
  
- iba |  | n 
+ help |  | ing 
+ 
+ help |  | lessly 
+ 
+  |  | hem 
+ 
+  |  | her 
+ 
+ her |  | bs 
+ 
+ her |  | e 
+ 
+ her |  | o 
+ 
+ her |  | self 
+ 
+  |  | hesitated 
+ 
+  |  | hid 
+ 
+ hid |  | den 
+ 
+ hid |  | e 
+ 
+ hid |  | es 
+ 
+ hid |  | ing 
+ 
+  |  | high 
+ 
+ high |  | er 
+ 
+ high |  | security 
+ 
+ high |  | way 
+ 
+  |  | hills 
+ 
+  |  | him 
+ 
+ him |  | self 
+ 
+  |  | hind 
+ 
+  |  | hinge 
+ 
+ hinge |  | s 
+ 
+  |  | hint 
+ 
+  |  | hired 
+ 
+  |  | his 
+ 
+ his |  | sed 
+ 
+ his |  | sing 
+ 
+ his |  | tory 
+ 
+  |  | hit 
+ 
+ hit |  | ch 
+ 
+ hit |  | ting 
+ 
+  |  | hoarse 
+ 
+  |  | hobbled 
+ 
+  |  | hobby 
+ 
+  |  | hocus 
+ 
+  |  | hoisted 
+ 
+  |  | hold 
+ 
+ hold |  | ing 
+ 
+ hold |  | s 
+ 
+  |  | hole 
+ 
+ hole |  | s 
+ 
+  |  | holiday 
+ 
+ holiday |  | s 
+ 
+  |  | holly 
+ 
+  |  | home 
+ 
+ home |  | made 
+ 
+ home |  | work 
+ 
+  |  | honest 
+ 
+ honest |  | ly 
+ 
+  |  | honor 
+ 
+  |  | hood 
+ 
+ hood |  | ed 
+ 
+ hood |  | lums 
+ 
+  |  | hook 
+ 
+ hook |  | ed 
+ 
+  |  | hoops 
+ 
+  |  | hooted 
+ 
+  |  | hooting 
+ 
+  |  | hooves 
+ 
+  |  | hop 
+ 
+ hop |  | e 
+ 
+ hop |  | ed 
+ 
+ hop |  | eful 
+ 
+ hop |  | efully 
+ 
+ hop |  | ing 
+ 
+ hop |  | ped 
+ 
+  |  | horn 
+ 
+ horn |  | ed 
+ 
+ horn |  | s 
+ 
+ horn |  | y 
+ 
+  |  | horrible 
+ 
+  |  | horribly 
+ 
+  |  | horrified 
+ 
+  |  | horror 
+ 
+  |  | horse 
+ 
+ horse |  | s 
+ 
+  |  | hospital 
+ 
+  |  | hot 
+ 
+ hot |  | el 
+ 
+ hot |  | ly 
+ 
+  |  | hour 
+ 
+ hour |  | glasses 
+ 
+ hour |  | s 
+ 
+  |  | house 
+ 
+ house |  | s 
+ 
+  |  | hovered 
+ 
+  |  | how 
+ 
+ how |  | ever 
+ 
+ how |  | l 
+ 
+ how |  | led 
+ 
+ how |  | ling 
+ 
+ how |  | ls 
+ 
+  |  | huddle 
+ 
+  |  | huge 
+ 
+  |  | hugged 
+ 
+  |  | hugging 
+ 
+  |  | human 
+ 
+ human |  | s 
+ 
+  |  | humbugs 
+ 
+  |  | hummed 
+ 
+  |  | humming 
+ 
+  |  | humor 
+ 
+  |  | hunched 
+ 
+  |  | hundred 
+ 
+ hundred |  | s 
+ 
+  |  | hung 
+ 
+ hung |  | er 
+ 
+ hung |  | rily 
+ 
+ hung |  | ry 
+ 
+  |  | hunt 
+ 
+  |  | hurried 
+ 
+ hurried |  | ly 
+ 
+  |  | hurry 
+ 
+ hurry |  | ing 
+ 
+  |  | hurt 
+ 
+ hurt |  | ing 
+ 
+ hurt |  | led 
+ 
+ hurt |  | ling 
+ 
+ hurt |  | s 
+ 
+  |  | husband 
+ 
+  |  | hush 
+ 
+ hush |  | ed 
+ 
+ hush |  | ing 
+ 
+  |  | hut 
+ 
+  |  | hygienic 
+ 
+  |  | ice 
+ 
+  |  | icicles 
+ 
+  |  | icing 
+ 
+  |  | ickle 
+ 
+  |  | icy 
  
   |  | idea 
  
  idea |  | s 
  
-  |  | ido 
+  |  | identical 
  
-  |  | iglesias 
+  |  | idiot 
  
-  |  | ignoro 
+  |  | idly 
  
-  |  | igual 
+  |  | if 
  
- igual |  | es 
+  |  | ignore 
  
-  |  | iluminaba 
+ ignore |  | d 
  
-  |  | iluminado 
+  |  | ignoring 
  
-  |  | iluminó 
+  |  | ill 
  
-  |  | imagen 
+ ill |  | egal 
  
-  |  | imaginación 
+  |  | image 
  
-  |  | imaginan 
+  |  | imagination 
  
-  |  | imaginarse 
+  |  | imagine 
  
-  |  | implacable 
+ imagine |  | d 
  
-  |  | importa 
+  |  | imagining 
  
- importa |  | ban 
+  |  | immediately 
  
- importa |  | ncia 
+  |  | immortal 
  
- importa |  | nte 
+  |  | impatient 
  
- importa |  | ntes 
+ impatient |  | ly 
  
-  |  | imposible 
+  |  | important 
  
-  |  | impresionante 
+ important |  | ly 
  
-  |  | impuso 
+  |  | impossible 
  
-  |  | inclinado 
+  |  | imprecise 
  
-  |  | inclinó 
+  |  | impress 
  
-  |  | incluso 
+ impress |  | ed 
  
-  |  | inconveniente 
+ impress |  | ively 
  
-  |  | indicaciones 
+  |  | improve 
  
-  |  | indiferente 
+ improve |  | ment 
  
-  |  | indisciplina 
+  |  | in 
  
-  |  | indudable 
+  |  | inch 
  
- indudable |  | mente 
+ inch |  | ed 
  
-  |  | indulgencia 
+ inch |  | es 
  
-  |  | indulgentes 
+  |  | including 
  
-  |  | indultarás 
+  |  | increases 
  
-  |  | infestado 
+  |  | incredible 
  
-  |  | informen 
+  |  | incredibly 
  
-  |  | informes 
+  |  | indeed 
  
-  |  | informó 
+  |  | indoors 
  
-  |  | ingenioso 
+  |  | infernal 
  
-  |  | ingenua 
+  |  | inform 
  
- ingenua |  | mente 
+ inform |  | ation 
  
- ingenua |  | s 
+ inform |  | ed 
  
-  |  | ingenuidad 
+  |  | infusion 
  
-  |  | injusto 
+  |  | ing 
  
-  |  | inmediatamente 
+ ing |  | redients 
  
-  |  | inmensidad 
+  |  | injured 
  
-  |  | inmóvil 
+  |  | ink 
  
-  |  | inocente 
+ ink |  | y 
  
-  |  | inofensiva 
+  |  | innocent 
  
-  |  | inquieto 
+  |  | inscription 
  
-  |  | inquirió 
+  |  | inside 
  
-  |  | insignificantes 
+ inside |  | s 
  
-  |  | insoportable 
+  |  | insist 
  
-  |  | instante 
+ insist |  | ed 
  
-  |  | instintivamente 
+ insist |  | ing 
  
-  |  | instruirse 
+  |  | inspector 
  
-  |  | inteligencia 
+  |  | instant 
  
-  |  | inteligente 
+ instant |  | ly 
  
-  |  | intento 
+  |  | instead 
  
-  |  | interesa 
+  |  | instinct 
  
- interesa |  | n 
+  |  | instructions 
  
- interesa |  | nte 
+  |  | instruments 
  
- interesa |  | ntes 
+ insult |  | ed 
  
-  |  | interior 
+ insult |  | in 
  
-  |  | interlocutor 
+  |  | intently 
  
-  |  | interroga 
+  |  | inter 
  
- interroga |  | rlo 
+ inter |  | est 
  
-  |  | interrogó 
+ inter |  | ested 
  
-  |  | interrumpió 
+ inter |  | esting 
  
-  |  | interrumpí 
+ inter |  | estinglooking 
  
-  |  | interés 
+ inter |  | fere 
  
-  |  | intrigado 
+ inter |  | fering 
  
-  |  | intrigó 
+ inter |  | rupted 
  
-  |  | invariablemente 
+  |  | into 
  
-  |  | invención 
+  |  | introduce 
  
-  |  | inventando 
+ introduce |  | d 
  
-  |  | inverso 
+  |  | invented 
  
-  |  | investigación 
+  |  | invisibility 
  
   |  | invisible 
  
- invisible |  | s 
+  |  | involved 
  
-  |  | inútil 
+  |  | iron 
  
- inútil |  | mente 
+  |  | irritably 
  
-  |  | ir 
+  |  | is 
  
-  |  | irreparable 
+  |  | isn 
  
-  |  | irritado 
+  |  | it 
  
-  |  | irritó 
+  |  | its 
  
-  |  | irá 
+ its |  | elf 
  
-  |  | isla 
+  |  | ivy 
  
-  |  | islote 
+  |  | jabbed 
  
-  |  | izquierda 
+  |  | jacket 
  
-  |  | jamás 
+ jacket |  | s 
  
-  |  | jardín 
+  |  | jam 
  
-  |  | joven 
+ jam |  | med 
  
-  |  | juego 
+  |  | jar 
  
- juego |  | s 
+ jar |  | s 
  
-  |  | jueves 
+  |  | javelin 
  
-  |  | juez 
+  |  | jaws 
  
-  |  | jugado 
+  |  | jealous 
  
-  |  | jugar 
+ jealous |  | y 
  
-  |  | juicio 
+  |  | jeans 
  
- juicio |  | samente 
+  |  | jerk 
  
-  |  | jungla 
+ jerk |  | ed 
  
-  |  | junto 
+ jerk |  | ing 
  
-  |  | justicia 
+  |  | jet 
  
-  |  | juzgar 
+  |  | jewel 
  
- juzgar |  | la 
+ jewel |  | s 
  
- juzgar |  | me 
+  |  | jig 
  
- juzgar |  | se 
+  |  | jinx 
  
- juzgar |  | te 
+ jinx |  | ing 
  
- juzgar |  | ás 
+  |  | job 
  
-  |  | la 
+  |  | jog 
  
-  |  | labios 
+  |  | join 
  
-  |  | lado 
+ join |  | ed 
  
-  |  | ladrillo 
+ join |  | ing 
  
-  |  | lamentaba 
+  |  | joke 
  
-  |  | lanzó 
+ joke |  | s 
  
-  |  | largamente 
+  |  | joking 
  
-  |  | largas 
+  |  | jolt 
  
-  |  | largo 
+  |  | jostled 
+ 
+  |  | jot 
+ 
+  |  | journey 
+ 
+  |  | joy 
+ 
+  |  | judge 
+ 
+  |  | judging 
+ 
+  |  | juicy 
+ 
+  |  | jump 
+ 
+ jump |  | ed 
+ 
+ jump |  | ing 
+ 
+ jump |  | y 
+ 
+  |  | jus 
+ 
+ jus |  | t 
+ 
+  |  | keen 
+ 
+  |  | keep 
+ 
+ keep |  | er 
+ 
+ keep |  | ing 
+ 
+ keep |  | s 
+ 
+  |  | kept 
+ 
+  |  | ketchup 
+ 
+  |  | kettle 
+ 
+  |  | key 
+ 
+ key |  | hole 
+ 
+ key |  | s 
+ 
+  |  | kick 
+ 
+ kick |  | ed 
+ 
+ kick |  | ing 
+ 
+  |  | kid 
+ 
+ kid |  | ney 
+ 
+ kid |  | s 
+ 
+  |  | kill 
+ 
+ kill |  | ed 
+ 
+ kill |  | ers 
+ 
+ kill |  | in 
+ 
+ kill |  | ing 
+ 
+ kill |  | s 
+ 
+  |  | kind 
+ 
+ kind |  | a 
+ 
+ kind |  | ling 
+ 
+ kind |  | ly 
+ 
+ kind |  | s 
+ 
+  |  | king 
+ 
+  |  | kip 
+ 
+  |  | kiss 
+ 
+ kiss |  | ed 
+ 
+ kiss |  | ing 
+ 
+  |  | kit 
+ 
+ kit |  | chen 
+ 
+ kit |  | chens 
+ 
+  |  | knack 
+ 
+  |  | knee 
+ 
+ knee |  | s 
+ 
+  |  | knew 
+ 
+  |  | knickerbocker 
+ 
+ knickerbocker |  | s 
+ 
+  |  | knight 
+ 
+  |  | knitted 
+ 
+  |  | knitting 
+ 
+  |  | knobbly 
+ 
+  |  | knock 
+ 
+ knock |  | ed 
+ 
+ knock |  | ing 
+ 
+  |  | knot 
+ 
+  |  | know 
+ 
+ know |  | in 
+ 
+ know |  | ing 
+ 
+ know |  | ledge 
+ 
+ know |  | n 
+ 
+ know |  | s 
+ 
+  |  | knuckle 
+ 
+ knuckle |  | s 
+ 
+  |  | lace 
+ 
+  |  | laden 
+ 
+  |  | lady 
+ 
+  |  | laid 
+ 
+  |  | lake 
+ 
+  |  | lamb 
+ 
+  |  | lamp 
+ 
+ lamp |  | like 
+ 
+ lamp |  | s 
+ 
+  |  | land 
+ 
+ land |  | ed 
+ 
+ land |  | ing 
+ 
+  |  | lanes 
+ 
+  |  | languages 
+ 
+  |  | lanterns 
+ 
+  |  | lap 
+ 
+ lap |  | s 
+ 
+  |  | large 
+ 
+ large |  | r 
+ 
+ large |  | st 
  
   |  | las 
  
-  |  | latir 
+ las |  | t 
  
-  |  | le 
+ las |  | ted 
  
-  |  | lección 
+  |  | late 
  
-  |  | lejanía 
+ late |  | ly 
  
-  |  | lejos 
+ late |  | r 
  
-  |  | lenguaje 
+  |  | laugh 
  
-  |  | lenta 
+ laugh |  | ed 
  
- lenta |  | mente 
+ laugh |  | ing 
  
-  |  | les 
+ laugh |  | ter 
  
-  |  | levantando 
+  |  | law 
  
-  |  | levantó 
+ law |  | n 
  
-  |  | leyenda 
+ law |  | ns 
  
-  |  | libro 
+ law |  | s 
  
- libro |  | s 
+  |  | lay 
  
-  |  | ligera 
+  |  | lazily 
  
-  |  | ligero 
+  |  | lead 
  
-  |  | limpieza 
+ lead |  | er 
  
-  |  | llama 
+ lead |  | ing 
  
- llama |  | rán 
+  |  | league 
  
-  |  | llave 
+  |  | leaked 
  
-  |  | llega 
+  |  | leaking 
  
- llega |  | ban 
+  |  | lean 
  
- llega |  | da 
+ lean |  | ed 
  
- llega |  | do 
+ lean |  | ing 
  
- llega |  | n 
+  |  | leap 
  
- llega |  | r 
+ leap |  | ing 
  
- llega |  | rán 
+ leap |  | t 
  
-  |  | llegue 
+  |  | learn 
  
-  |  | llegáis 
+ learn |  | ed 
  
-  |  | llegó 
+ learn |  | ing 
  
-  |  | llema 
+  |  | least 
  
-  |  | llena 
+  |  | leather 
  
- llena |  | s 
+  |  | leave 
  
-  |  | llenos 
+ leave |  | s 
  
-  |  | llevaba 
+  |  | leaving 
  
- llevaba |  | n 
+  |  | lecture 
  
-  |  | llevan 
+  |  | lecturin 
  
- llevan |  | do 
+  |  | led 
  
-  |  | llevar 
+ led |  | gers 
  
- llevar |  | te 
+ lee |  | ring 
  
-  |  | llevase 
+  |  | left 
  
-  |  | llevármela 
+  |  | leg 
  
-  |  | lloraba 
+ leg |  | end 
  
-  |  | lloran 
+ leg |  | endary 
  
-  |  | llorar 
+ leg |  | ged 
  
- llorar |  | é 
+ leg |  | s 
  
-  |  | lloró 
+  |  | lemon 
+ 
+  |  | lend 
+ 
+  |  | length 
+ 
+  |  | lent 
+ 
+  |  | less 
+ 
+ less |  | ened 
+ 
+ less |  | on 
+ 
+ less |  | ons 
+ 
+  |  | let 
+ 
+ let |  | s 
+ 
+ let |  | ter 
+ 
+ let |  | ters 
+ 
+ let |  | ting 
+ 
+  |  | level 
+ 
+  |  | ley 
+ 
+  |  | li 
+ 
+  |  | librarian 
+ 
+  |  | library 
+ 
+  |  | licking 
+ 
+  |  | lid 
+ 
+ lid |  | s 
+ 
+  |  | lie 
+ 
+ lie |  | d 
+ 
+ lie |  | s 
+ 
+  |  | life 
+ 
+  |  | lift 
+ 
+ lift |  | ed 
+ 
+ lift |  | ing 
+ 
+  |  | light 
+ 
+ light |  | ed 
+ 
+ light |  | er 
+ 
+ light |  | est 
+ 
+ light |  | ing 
+ 
+ light |  | ning 
+ 
+ light |  | s 
+ 
+  |  | like 
+ 
+ like |  | d 
+ 
+ like |  | ly 
+ 
+ like |  | s 
+ 
+  |  | liking 
+ 
+  |  | limp 
+ 
+ limp |  | ed 
+ 
+ limp |  | ing 
+ 
+  |  | line 
+ 
+ line |  | d 
+ 
+ line |  | n 
+ 
+ line |  | s 
+ 
+  |  | lingered 
+ 
+  |  | lingering 
+ 
+  |  | lining 
+ 
+  |  | lion 
+ 
+ lion |  | fish 
+ 
+  |  | lip 
+ 
+ lip |  | ped 
+ 
+ lip |  | s 
+ 
+  |  | liquid 
+ 
+ liquid |  | s 
+ 
+  |  | list 
+ 
+ list |  | en 
+ 
+ list |  | ened 
+ 
+ list |  | ening 
+ 
+  |  | lit 
+ 
+ lit |  | tie 
+ 
+ lit |  | tle 
+ 
+  |  | live 
+ 
+ live |  | d 
+ 
+ live |  | r 
+ 
+ live |  | s 
+ 
+  |  | livid 
+ 
+  |  | living 
+ 
+  |  | lizards 
+ 
+  |  | ll 
  
   |  | lo 
  
-  |  | loco 
+ load |  | ed 
  
- loco |  | motora 
+ load |  | s 
  
-  |  | lograba 
+  |  | loathed 
  
-  |  | logrado 
+  |  | local 
  
-  |  | lograrlo 
+  |  | lock 
  
-  |  | lograría 
+ lock |  | ed 
  
-  |  | logré 
+ lock |  | er 
  
-  |  | los 
+  |  | logic 
  
-  |  | lucecitas 
+  |  | lonely 
  
-  |  | luces 
+  |  | long 
  
-  |  | lucía 
+ long |  | ed 
  
-  |  | luego 
+ long |  | er 
  
-  |  | lugar 
+ long |  | est 
  
- lugar |  | es 
+ long |  | ing 
  
-  |  | luna 
+ long |  | ingly 
  
-  |  | luz 
+  |  | look 
  
-  |  | lágrimas 
+ look |  | ed 
  
-  |  | lámina 
+ look |  | in 
  
-  |  | lámpara 
+ look |  | ing 
  
- lámpara |  | s 
+ look |  | s 
  
-  |  | lápices 
+  |  | loomed 
  
-  |  | lápiz 
+  |  | looming 
  
-  |  | lástima 
+  |  | loop 
  
-  |  | lúcido 
+ loop |  | s 
  
-  |  | lúgubre 
+ loop |  | y 
  
-  |  | madriguera 
+  |  | loose 
  
-  |  | magnífica 
+ loose |  | ning 
  
-  |  | magnífico 
+  |  | lopsided 
  
-  |  | majestuosamente 
+  |  | lose 
  
-  |  | majestuoso 
+  |  | losing 
  
-  |  | mal 
+  |  | lost 
  
- mal |  | a 
+  |  | lot 
  
- mal |  | as 
+ lot |  | s 
  
- mal |  | dad 
+ lot |  | ta 
  
- mal |  | humorado 
+  |  | loud 
  
- mal |  | os 
+ loud |  | er 
  
-  |  | manda 
+ loud |  | est 
  
-  |  | manera 
+ loud |  | ly 
  
- manera |  | s 
+  |  | love 
  
-  |  | mano 
+ love |  | d 
  
- mano |  | s 
+ love |  | ly 
  
-  |  | mansedumbre 
+ love |  | r 
  
-  |  | mantener 
+  |  | low 
  
- mantener |  | me 
+ low |  | er 
  
-  |  | manto 
+ low |  | ered 
  
-  |  | manzano 
+  |  | loyal 
+ 
+ loyal |  | ties 
+ 
+  |  | luck 
+ 
+ luck |  | y 
+ 
+  |  | luggage 
+ 
+  |  | lullaby 
+ 
+  |  | lumbered 
+ 
+  |  | luminous 
+ 
+  |  | lump 
+ 
+ lump |  | s 
+ 
+ lump |  | y 
+ 
+  |  | lunch 
+ 
+ lunch |  | time 
+ 
+  |  | lunged 
+ 
+  |  | lurch 
+ 
+ lurch |  | ed 
+ 
+  |  | lurking 
+ 
+  |  | lying 
+ 
+  |  | m 
+ 
+  |  | mad 
+ 
+ mad |  | e 
+ 
+ mad |  | ly 
+ 
+  |  | magic 
+ 
+ magic |  | al 
+ 
+  |  | magnificent 
+ 
+  |  | mahogany 
+ 
+  |  | mail 
+ 
+  |  | main 
+ 
+ main |  | ly 
+ 
+  |  | make 
+ 
+ make |  | r 
+ 
+ make |  | s 
+ 
+  |  | makin 
+ 
+ makin |  | g 
+ 
+  |  | malade 
+ 
+  |  | man 
+ 
+ man |  | age 
+ 
+ man |  | aged 
+ 
+ man |  | aging 
+ 
+ man |  | e 
+ 
+ man |  | gled 
+ 
+ man |  | iacs 
+ 
+ man |  | ner 
+ 
+ man |  | telpiece 
+ 
+ man |  | y 
+ 
+  |  | map 
+ 
+ map |  | s 
  
   |  | mar 
  
- mar |  | avillado 
+ mar |  | ble 
  
- mar |  | avilloso 
+ mar |  | bles 
  
- mar |  | avillosos 
+ mar |  | ch 
  
- mar |  | cha 
+ mar |  | ched 
  
- mar |  | chaba 
+ mar |  | k 
  
- mar |  | char 
+ mar |  | ked 
  
- mar |  | chó 
+ mar |  | kings 
  
- mar |  | es 
+ mar |  | ks 
  
- mar |  | ina 
+ mar |  | malade 
  
- mar |  | iposa 
+ mar |  | oon 
  
- mar |  | iposas 
+ mar |  | ried 
  
- mar |  | tillazo 
+ mar |  | shmallows 
  
- mar |  | tillo 
+  |  | massive 
  
-  |  | masticarla 
+  |  | master 
  
-  |  | matan 
+ master |  | ed 
  
-  |  | maté 
+  |  | match 
  
-  |  | mayor 
+ match |  | es 
  
- mayor |  | es 
+  |  | material 
  
-  |  | mañana 
+  |  | math 
  
- mañana |  | s 
+  |  | matter 
+ 
+  |  | mattress 
+ 
+  |  | mauve 
+ 
+  |  | may 
+ 
+ may |  | be 
+ 
+  |  | maze 
  
   |  | me 
  
-  |  | mecánico 
+  |  | meal 
  
-  |  | mecí 
+ meal |  | s 
  
-  |  | medianoche 
+  |  | mean 
  
-  |  | medio 
+ mean |  | in 
  
- medio |  | día 
+ mean |  | s 
  
-  |  | meditado 
+ mean |  | t 
  
-  |  | meditar 
+ mean |  | time 
  
-  |  | mejor 
+ mean |  | while 
  
- mejor |  | ado 
+  |  | measure 
  
-  |  | melancolía 
+ measure |  | d 
  
-  |  | melancólica 
+  |  | measuring 
  
- melancólica |  | mente 
+  |  | meddle 
  
-  |  | menor 
+  |  | meddlin 
  
-  |  | menos 
+ meddlin |  | g 
  
-  |  | mente 
+  |  | meet 
  
-  |  | mentira 
+ meet |  | ing 
  
-  |  | mes 
+  |  | mellow 
  
- mes |  | a 
+  |  | melt 
  
- mes |  | es 
+ melt |  | ed 
  
-  |  | meten 
+  |  | member 
  
-  |  | meterás 
+  |  | memorize 
  
-  |  | metros 
+  |  | memory 
  
-  |  | metálico 
+  |  | men 
  
-  |  | mezclas 
+ men |  | ded 
  
-  |  | mi 
+ men |  | tion 
  
-  |  | mide 
+ men |  | tioned 
  
-  |  | miedo 
+ men |  | tionin 
  
-  |  | miel 
+  |  | mercy 
  
-  |  | miente 
+  |  | mere 
  
-  |  | mientras 
+ mere |  | ly 
  
-  |  | migración 
+  |  | meringue 
  
-  |  | mil 
+  |  | merrily 
  
- mil |  | agrosa 
+  |  | meself 
  
- mil |  | las 
+  |  | mess 
  
- mil |  | lones 
+ mess |  | age 
  
-  |  | ministro 
+ mess |  | in 
  
-  |  | mintiera 
+ mess |  | ing 
  
-  |  | minuto 
+  |  | met 
  
- minuto |  | s 
+ met |  | al 
  
-  |  | mira 
+ met |  | ers 
  
- mira |  | ba 
+  |  | mice 
  
- mira |  | d 
+  |  | mid 
  
- mira |  | da 
+ mid |  | air 
  
- mira |  | do 
+ mid |  | dle 
  
- mira |  | ndo 
+ mid |  | night 
  
- mira |  | r 
+ mid |  | st 
  
- mira |  | rlas 
+  |  | miffed 
  
- mira |  | rás 
+  |  | might 
  
- mira |  | ré 
+ might |  | a 
  
-  |  | mire 
+ might |  | n 
  
- mire |  | s 
+  |  | miles 
  
-  |  | miré 
+  |  | milk 
  
-  |  | miró 
+ milk |  | man 
  
-  |  | mis 
+  |  | mind 
  
- mis |  | a 
+ mind |  | ed 
  
- mis |  | ma 
+ mind |  | s 
  
- mis |  | mas 
+  |  | mine 
  
- mis |  | mo 
+  |  | mingled 
  
- mis |  | mos 
+  |  | minuscule 
  
- mis |  | terio 
+  |  | minute 
  
- mis |  | teriosa 
+ minute |  | s 
  
- mis |  | terioso 
+  |  | mirror 
  
-  |  | mitin 
+  |  | miserable 
  
-  |  | moda 
+  |  | miserably 
  
-  |  | modelo 
+  |  | misery 
  
-  |  | modesta 
+  |  | miss 
  
- modesta |  | mente 
+ miss |  | ed 
  
-  |  | molesta 
+ miss |  | es 
  
- molesta |  | ban 
+ miss |  | ing 
  
- molesta |  | do 
+  |  | mist 
  
- molesta |  | s 
+ mist |  | ake 
  
-  |  | molesto 
+ mist |  | aken 
  
-  |  | molestó 
+ mist |  | akes 
  
-  |  | momento 
+ mist |  | aking 
  
- momento |  | s 
+ mist |  | letoe 
  
-  |  | monarca 
+ mist |  | y 
  
-  |  | monotonía 
+  |  | mixed 
  
-  |  | montaña 
+  |  | mixing 
  
- montaña |  | s 
+  |  | mixture 
  
-  |  | monótona 
+  |  | moan 
  
-  |  | morada 
+ moan |  | ed 
  
-  |  | moralidad 
+ moan |  | ing 
  
-  |  | moralista 
+ moan |  | s 
  
-  |  | mordedura 
+  |  | model 
  
-  |  | morder 
+  |  | modern 
  
- morder |  | te 
+  |  | moldy 
  
-  |  | morir 
+  |  | moleskin 
  
-  |  | mostraba 
+  |  | mom 
  
-  |  | mostró 
+ mom |  | ent 
  
-  |  | motor 
+ mom |  | ents 
  
-  |  | mover 
+ mom |  | my 
  
- mover |  | me 
+  |  | mon 
  
- mover |  | se 
+ mon |  | ey 
  
-  |  | movimientos 
+ mon |  | k 
  
-  |  | movía 
+ mon |  | kshood 
  
-  |  | mucha 
+ mon |  | ster 
  
- mucha |  | chas 
+ mon |  | strous 
  
- mucha |  | chito 
+ mon |  | th 
  
- mucha |  | chitos 
+ mon |  | ths 
  
- mucha |  | s 
+  |  | mood 
  
-  |  | mucho 
+  |  | moon 
  
-  |  | muchísimo 
+ moon |  | light 
  
-  |  | muere 
+ moon |  | s 
  
-  |  | muero 
+  |  | more 
  
-  |  | muerte 
+  |  | morning 
  
-  |  | muerto 
+  |  | mossy 
  
-  |  | multitud 
+  |  | most 
  
-  |  | mundo 
+ most |  | ly 
  
- mundo |  | s 
+  |  | moth 
  
-  |  | muro 
+ moth |  | er 
  
-  |  | muy 
+ moth |  | ers 
  
-  |  | muñeca 
+  |  | motion 
  
-  |  | máquina 
+ motion |  | less 
  
-  |  | más 
+  |  | motorcycle 
  
-  |  | mí 
+ motorcycle |  | s 
  
-  |  | mía 
+  |  | mounds 
  
- mía |  | s 
+  |  | mount 
  
-  |  | mío 
+ mount |  | ain 
  
-  |  | música 
+ mount |  | ains 
  
-  |  | nacer 
+ mount |  | ed 
  
-  |  | nacido 
+ mount |  | ing 
  
-  |  | nada 
+  |  | mouse 
  
-  |  | nadie 
+  |  | mouth 
  
-  |  | nariz 
+ mouth |  | ed 
  
-  |  | naturaleza 
+ mouth |  | ful 
  
-  |  | naturalmente 
+ mouth |  | s 
  
-  |  | navío 
+  |  | move 
  
-  |  | necesaria 
+ move |  | d 
  
-  |  | necesario 
+ move |  | ment 
  
- necesario |  | s 
+ move |  | ments 
  
-  |  | necesidad 
+  |  | movies 
  
-  |  | necesito 
+  |  | moving 
  
-  |  | negocios 
+  |  | much 
  
-  |  | negros 
+  |  | mud 
  
-  |  | ni 
+ mud |  | dy 
  
-  |  | nieve 
+  |  | muffins 
  
- nieve |  | s 
+  |  | muffled 
  
-  |  | ninguna 
+  |  | mugs 
  
-  |  | ningún 
+  |  | mule 
  
-  |  | niño 
+  |  | multilevel 
  
- niño |  | s 
+  |  | mum 
+ 
+ mum |  | bled 
+ 
+ mum |  | bling 
+ 
+  |  | murmur 
+ 
+ murmur |  | ed 
+ 
+  |  | muscle 
+ 
+  |  | muscular 
+ 
+  |  | music 
+ 
+  |  | must 
+ 
+ must |  | ache 
+ 
+ must |  | ached 
+ 
+ must |  | n 
+ 
+ must |  | y 
+ 
+  |  | mutely 
+ 
+  |  | mutter 
+ 
+ mutter |  | ed 
+ 
+ mutter |  | ing 
+ 
+  |  | my 
+ 
+  |  | myseff 
+ 
+  |  | myself 
+ 
+  |  | myst 
+ 
+ myst |  | erious 
+ 
+ myst |  | eriously 
+ 
+ myst |  | ery 
+ 
+ myst |  | ified 
+ 
+  |  | n 
+ 
+  |  | nag 
+ 
+ nag |  | ging 
+ 
+  |  | nail 
+ 
+ nail |  | ed 
+ 
+ nail |  | s 
+ 
+  |  | name 
+ 
+ name |  | s 
+ 
+  |  | narrow 
+ 
+ narrow |  | ed 
+ 
+ narrow |  | ly 
+ 
+  |  | nastier 
+ 
+  |  | nastily 
+ 
+  |  | nasty 
+ 
+  |  | nation 
+ 
+  |  | natural 
+ 
+ natural |  | ly 
+ 
+  |  | naughty 
+ 
+  |  | near 
+ 
+ near |  | by 
+ 
+ near |  | er 
+ 
+ near |  | est 
+ 
+ near |  | ly 
+ 
+ near |  | sighted 
+ 
+  |  | neat 
+ 
+ neat |  | ly 
+ 
+  |  | necessary 
+ 
+  |  | neck 
+ 
+ neck |  | s 
+ 
+  |  | need 
+ 
+ need |  | ed 
+ 
+ need |  | in 
+ 
+ need |  | le 
+ 
+ need |  | les 
+ 
+ need |  | n 
+ 
+ need |  | s 
+ 
+  |  | neighbor 
+ 
+ neighbor |  | s 
+ 
+  |  | neither 
+ 
+  |  | nephew 
+ 
+  |  | nerve 
+ 
+ nerve |  | s 
+ 
+  |  | nervous 
+ 
+ nervous |  | ly 
+ 
+  |  | net 
+ 
+ net |  | tle 
+ 
+ net |  | tles 
+ 
+  |  | never 
+ 
+  |  | new 
+ 
+ new |  | s 
+ 
+ new |  | scaster 
+ 
+ new |  | spaper 
+ 
+ new |  | spapers 
+ 
+  |  | next 
+ 
+  |  | nibble 
+ 
+  |  | nice 
+ 
+ nice |  | r 
+ 
+  |  | night 
+ 
+ night |  | fall 
+ 
+ night |  | mare 
+ 
+ night |  | mares 
+ 
+ night |  | s 
+ 
+ night |  | time 
+ 
+  |  | nine 
+ 
+  |  | ninth 
  
   |  | no 
  
-  |  | noche 
+  |  | noble 
  
- noche |  | s 
+  |  | nobody 
  
-  |  | nombre 
+  |  | nodded 
  
-  |  | nombro 
+  |  | nodding 
  
-  |  | nos 
+  |  | noise 
  
- nos |  | otros 
+ noise |  | lessly 
  
-  |  | nota 
+ noise |  | s 
  
-  |  | novecientos 
+  |  | noisy 
  
-  |  | nuestra 
+  |  | none 
  
- nuestra |  | s 
+ none |  | xplodable 
  
-  |  | nuestro 
+  |  | nonmagic 
  
-  |  | nueva 
+  |  | nonsense 
  
- nueva |  | mente 
+  |  | nonstop 
  
-  |  | nuevo 
+  |  | nor 
  
-  |  | numerosos 
+ nor |  | mal 
  
-  |  | nunca 
+ nor |  | mally 
  
-  |  | náufrago 
+  |  | nose 
  
-  |  | número 
+ nose |  | bleed 
  
- número |  | s 
+ nose |  | d 
+ 
+ nose |  | s 
+ 
+  |  | nosie 
+ 
+  |  | nostrils 
+ 
+  |  | nosy 
+ 
+  |  | not 
+ 
+ not |  | e 
+ 
+ not |  | ed 
+ 
+ not |  | es 
+ 
+ not |  | hin 
+ 
+ not |  | hing 
+ 
+ not |  | ice 
+ 
+ not |  | iced 
+ 
+ not |  | ices 
+ 
+ not |  | icing 
+ 
+  |  | now 
+ 
+ now |  | here 
+ 
+  |  | nudged 
+ 
+  |  | number 
+ 
+ number |  | s 
+ 
+  |  | numbly 
+ 
+  |  | nurse 
+ 
+ nurse |  | d 
+ 
+  |  | nuts 
  
   |  | o 
  
-  |  | obedece 
+  |  | oaf 
  
- obedece |  | n 
+  |  | oak 
  
-  |  | obedecido 
+  |  | object 
  
-  |  | obedeciese 
+ object |  | s 
  
-  |  | obediencia 
+  |  | observed 
  
-  |  | obra 
+  |  | obvious 
  
-  |  | observó 
+ obvious |  | ly 
  
-  |  | obstante 
+  |  | occasions 
  
-  |  | ocho 
+  |  | occurred 
  
-  |  | ociosa 
+  |  | odd 
  
-  |  | octavo 
+ odd |  | ly 
  
-  |  | oculta 
+  |  | of 
  
- oculta |  | ba 
+  |  | off 
  
- oculta |  | ban 
+ off |  | ended 
  
-  |  | ocupa 
+ off |  | ered 
  
- ocupa |  | ban 
+ off |  | hand 
  
- ocupa |  | ción 
+ off |  | ice 
  
- ocupa |  | do 
+  |  | often 
  
- ocupa |  | n 
+  |  | oh 
  
- ocupa |  | rme 
+  |  | oiled 
  
- ocupa |  | rse 
+  |  | okay 
  
-  |  | ocupo 
+  |  | old 
  
-  |  | ocurre 
+ old |  | er 
  
-  |  | ocurrido 
+ old |  | est 
  
-  |  | ocurrir 
+  |  | omen 
  
-  |  | ocurrió 
- 
-  |  | océano 
- 
- océano |  | s 
- 
-  |  | oficio 
- 
-  |  | oigo 
- 
-  |  | ojeada 
- 
-  |  | ojo 
- 
- ojo |  | s 
- 
-  |  | olerlas 
- 
-  |  | olido 
- 
-  |  | olvidaba 
- 
-  |  | olvidada 
- 
-  |  | olvidado 
- 
-  |  | olvidar 
- 
- olvidar |  | la 
- 
- olvidar |  | lo 
- 
-  |  | olvidó 
+  |  | on 
  
   |  | once 
  
-  |  | opinión 
+  |  | one 
  
-  |  | oponía 
+ one |  | s 
  
-  |  | oprimido 
+  |  | only 
  
-  |  | orden 
+  |  | onto 
  
- orden |  | ara 
+  |  | onward 
  
- orden |  | arme 
+  |  | open 
  
- orden |  | as 
+ open |  | ed 
  
- orden |  | o 
+ open |  | ing 
  
-  |  | ordinaria 
+  |  | opera 
  
-  |  | orejas 
+  |  | opinion 
  
-  |  | orgullo 
+  |  | opposite 
  
- orgullo |  | sa 
+  |  | or 
  
- orgullo |  | so 
+  |  | orange 
  
-  |  | origen 
+  |  | order 
  
-  |  | oro 
+ order |  | ed 
  
-  |  | orugas 
+ order |  | s 
  
-  |  | os 
+  |  | ordinary 
  
-  |  | otra 
+  |  | organized 
  
- otra |  | s 
+  |  | ornate 
  
-  |  | otro 
+  |  | other 
  
- otro |  | s 
+ other |  | s 
  
-  |  | oye 
+ other |  | wise 
  
- oye |  | n 
+  |  | ought 
  
- oye |  | ndo 
+ ought |  | a 
  
-  |  | oyó 
+  |  | ounce 
  
-  |  | oí 
+  |  | our 
  
-  |  | oía 
+ our |  | s 
  
-  |  | oído 
+ our |  | selves 
  
- oído |  | s 
+  |  | out 
  
-  |  | oír 
+ out |  | lawed 
  
-  |  | paciencia 
+ out |  | lines 
  
-  |  | padre 
+ out |  | rage 
  
-  |  | paisaje 
+ out |  | side 
  
-  |  | pajarillo 
+ out |  | skirts 
  
-  |  | palabra 
+ out |  | standing 
  
- palabra |  | s 
+ out |  | stretched 
  
-  |  | palomas 
+ out |  | ta 
+ 
+  |  | over 
+ 
+ over |  | coat 
+ 
+ over |  | grown 
+ 
+ over |  | head 
+ 
+ over |  | heard 
+ 
+ over |  | hearing 
+ 
+ over |  | shadowed 
+ 
+ over |  | take 
+ 
+ over |  | taking 
+ 
+ over |  | took 
+ 
+  |  | owe 
+ 
+  |  | owl 
+ 
+ owl |  | ery 
+ 
+ owl |  | s 
+ 
+  |  | own 
+ 
+ own |  | ed 
+ 
+ own |  | er 
+ 
+ own |  | ers 
+ 
+  |  | oyt 
+ 
+  |  | p 
+ 
+  |  | paced 
+ 
+  |  | paces 
+ 
+  |  | pacing 
+ 
+  |  | pack 
+ 
+ pack |  | age 
+ 
+ pack |  | ages 
+ 
+ pack |  | ed 
+ 
+ pack |  | ing 
+ 
+  |  | page 
+ 
+ page |  | s 
+ 
+  |  | paid 
+ 
+  |  | pain 
+ 
+ pain |  | ful 
+ 
+ pain |  | fully 
+ 
+ pain |  | s 
+ 
+ pain |  | t 
+ 
+ pain |  | ted 
+ 
+ pain |  | ting 
+ 
+  |  | pair 
+ 
+ pair |  | s 
+ 
+  |  | paisley 
+ 
+  |  | pajamas 
+ 
+  |  | palace 
+ 
+  |  | pale 
+ 
+ pale |  | r 
+ 
+  |  | palms 
+ 
+  |  | palomino 
  
   |  | pan 
  
-  |  | papel 
+ pan |  | els 
  
-  |  | paquetes 
+ pan |  | ic 
  
-  |  | para 
+ pan |  | icked 
  
-  |  | parece 
+ pan |  | ted 
  
- parece |  | n 
+ pan |  | ting 
  
- parece |  | r 
+  |  | paper 
  
- parece |  | rme 
+ paper |  | s 
  
- parece |  | rían 
+  |  | paraded 
  
- parece |  | s 
+  |  | parcel 
  
-  |  | parecido 
+  |  | parchment 
  
-  |  | pareciera 
+  |  | parents 
  
-  |  | parecieron 
+  |  | parked 
  
-  |  | pareció 
+  |  | parking 
  
-  |  | parecía 
+  |  | parks 
  
- parecía |  | n 
+  |  | parrot 
  
-  |  | parezca 
+  |  | part 
  
-  |  | partas 
+ part |  | ed 
  
-  |  | parte 
+ part |  | icularly 
  
-  |  | partida 
+ part |  | ies 
  
-  |  | partir 
+ part |  | ner 
  
-  |  | partió 
+ part |  | s 
  
-  |  | pasa 
+ part |  | y 
  
- pasa |  | ba 
+  |  | pass 
  
- pasa |  | da 
+ pass |  | age 
  
- pasa |  | do 
+ pass |  | ages 
  
- pasa |  | jero 
+ pass |  | ageway 
  
- pasa |  | n 
+ pass |  | ageways 
  
- pasa |  | r 
+ pass |  | ed 
  
- pasa |  | rlos 
+ pass |  | ersby 
  
-  |  | pasea 
+ pass |  | es 
  
- pasea |  | bas 
+ pass |  | ing 
  
-  |  | paseo 
+ pass |  | word 
  
-  |  | paso 
+  |  | past 
  
- paso |  | s 
+ past |  | ies 
  
-  |  | patas 
+ past |  | y 
  
-  |  | patentar 
+  |  | patch 
  
-  |  | paz 
+ patch |  | ed 
  
-  |  | país 
+ patch |  | work 
  
-  |  | pañuelo 
+  |  | pate 
  
-  |  | pedir 
+  |  | path 
  
-  |  | peligro 
+  |  | patient 
  
- peligro |  | s 
+  |  | patrolled 
  
- peligro |  | sa 
+  |  | patted 
  
-  |  | pena 
+  |  | pattern 
  
-  |  | pensado 
+  |  | patting 
  
-  |  | pensamiento 
+  |  | pause 
  
- pensamiento |  | s 
+ pause |  | d 
  
-  |  | pensando 
+  |  | pavement 
  
-  |  | pensar 
+  |  | paving 
  
-  |  | pensó 
+  |  | pawed 
  
-  |  | peor 
+  |  | pawn 
  
-  |  | pequeña 
+  |  | paws 
  
- pequeña |  | s 
+  |  | pay 
  
-  |  | pequeñitos 
+ pay |  | in 
  
-  |  | pequeño 
+  |  | pea 
  
- pequeño |  | s 
+ pea |  | ce 
  
-  |  | perderse 
+ pea |  | ceful 
  
-  |  | perderá 
+ pea |  | rly 
  
-  |  | perdida 
+ pea |  | s 
  
-  |  | perdido 
+  |  | pebbles 
  
-  |  | perdió 
+  |  | pecked 
  
-  |  | perdonármelo 
+  |  | peculiar 
  
-  |  | perdón 
+  |  | peeling 
  
- perdón |  | ame 
+  |  | peered 
  
- perdón |  | eme 
+  |  | peering 
  
-  |  | perezoso 
+  |  | pellets 
  
-  |  | perfeccionadas 
+  |  | pelt 
  
-  |  | perfectamente 
+ pelt |  | ed 
  
-  |  | perfecto 
+ pelt |  | ing 
  
-  |  | perfora 
+ pelt |  | s 
  
-  |  | perfumaba 
+  |  | penalty 
  
-  |  | permite 
+  |  | pence 
  
-  |  | permitía 
+  |  | people 
  
-  |  | pero 
+  |  | pep 
  
-  |  | perplejo 
+ pep |  | per 
  
-  |  | persiguen 
+ pep |  | permint 
  
-  |  | persiguiendo 
+ pep |  | permints 
  
-  |  | persona 
+  |  | percent 
  
- persona |  | s 
+  |  | perched 
  
-  |  | pertenece 
+  |  | perfect 
  
-  |  | pesa 
+ perfect |  | ly 
  
- pesa |  | dilla 
+  |  | perform 
  
- pesa |  | do 
+ perform |  | ed 
  
- pesa |  | r 
+  |  | perhaps 
  
-  |  | picada 
+  |  | person 
  
-  |  | pide 
+ person |  | al 
+ 
+ person |  | ally 
+ 
+  |  | persuade 
+ 
+  |  | petrified 
+ 
+  |  | pewter 
+ 
+  |  | pheasants 
+ 
+  |  | phials 
+ 
+  |  | phoenix 
+ 
+ phoenix |  | es 
+ 
+  |  | phone 
+ 
+  |  | phoning 
+ 
+  |  | photographs 
+ 
+  |  | photos 
+ 
+  |  | pick 
+ 
+ pick |  | ed 
+ 
+ pick |  | ing 
+ 
+ pick |  | led 
+ 
+  |  | picture 
+ 
+ picture |  | s 
  
   |  | pie 
  
- pie |  | dra 
+ pie |  | ce 
  
- pie |  | dras 
+ pie |  | ces 
  
- pie |  | nso 
+ pie |  | r 
  
- pie |  | rdan 
+ pie |  | rced 
  
- pie |  | rde 
+ pie |  | rcing 
  
- pie |  | rden 
+ pie |  | s 
  
- pie |  | rnas 
+  |  | pig 
  
-  |  | pilotar 
+ pig |  | tails 
  
-  |  | pintor 
+  |  | pile 
  
-  |  | placer 
+ pile |  | d 
  
-  |  | planeta 
+ pile |  | s 
  
- planeta |  | s 
+  |  | pillow 
  
-  |  | planta 
+  |  | pin 
  
-  |  | plaza 
+ pin |  | ched 
  
-  |  | pliegues 
+ pin |  | eapple 
  
-  |  | población 
+ pin |  | g 
  
-  |  | pobres 
+ pin |  | k 
  
-  |  | pocas 
+ pin |  | ned 
  
-  |  | poco 
+ pin |  | ning 
  
-  |  | poder 
+ pin |  | pricks 
  
- poder |  | osas 
+  |  | pipe 
  
- poder |  | oso 
+ pipe |  | d 
  
-  |  | podido 
+  |  | pitch 
  
-  |  | podrá 
+  |  | pity 
  
- podrá |  | s 
+  |  | place 
  
-  |  | podré 
+ place |  | d 
  
-  |  | podría 
+ place |  | s 
  
- podría |  | n 
+  |  | plain 
  
-  |  | podía 
+ plain |  | ly 
  
-  |  | política 
+  |  | plan 
  
-  |  | pondría 
+ plan |  | ets 
  
-  |  | pone 
+ plan |  | ned 
  
- pone |  | r 
+ plan |  | t 
  
- pone |  | rla 
+ plan |  | ts 
  
- pone |  | rse 
+  |  | plastic 
  
-  |  | ponga 
+  |  | plate 
  
-  |  | poniendo 
+ plate |  | s 
  
-  |  | ponérmela 
+  |  | platform 
  
-  |  | por 
+ platform |  | s 
  
- por |  | que 
+  |  | platters 
  
-  |  | posea 
+  |  | play 
  
-  |  | poseen 
+ play |  | ed 
  
-  |  | poseer 
+ play |  | er 
  
- poseer |  | las 
+ play |  | ers 
  
-  |  | poseo 
+ play |  | fully 
  
-  |  | poseía 
+ play |  | in 
  
-  |  | posibilidad 
+ play |  | ing 
  
-  |  | posible 
+ play |  | s 
  
- posible |  | s 
+  |  | pleaded 
  
-  |  | pozo 
+  |  | please 
  
- pozo |  | s 
+ please |  | d 
  
-  |  | poético 
+  |  | plotting 
  
-  |  | preciados 
+  |  | plowed 
  
-  |  | preciosa 
+  |  | plump 
  
-  |  | precisamente 
+  |  | plunged 
  
-  |  | precisión 
+  |  | pocket 
  
-  |  | preciso 
+ pocket |  | ed 
  
-  |  | prefiere 
+ pocket |  | s 
  
-  |  | pregunta 
+  |  | pocus 
  
- pregunta |  | d 
+ pocus |  | s 
  
- pregunta |  | n 
+  |  | point 
  
- pregunta |  | ndo 
+ point |  | ed 
  
- pregunta |  | r 
+ point |  | ing 
  
- pregunta |  | s 
+ point |  | s 
  
-  |  | pregunte 
+ point |  | y 
  
- pregunte |  | s 
+  |  | poison 
  
-  |  | pregunto 
+ poison |  | ous 
  
-  |  | pregunté 
+ poison |  | s 
  
-  |  | preguntó 
+ poke |  | d 
  
-  |  | preocupado 
+ poke |  | r 
  
-  |  | preocuparán 
+  |  | poking 
  
-  |  | preparación 
+  |  | poles 
  
-  |  | preparar 
+  |  | polite 
  
-  |  | preparativos 
+ polite |  | ly 
  
-  |  | presa 
+ polite |  | r 
  
-  |  | presencia 
+  |  | poltergeist 
  
- presencia |  | r 
+  |  | poor 
  
-  |  | presente 
+ poor |  | er 
  
-  |  | previamente 
+  |  | pop 
  
-  |  | preámbulo 
+ pop |  | kin 
  
-  |  | primer 
+ pop |  | ped 
  
- primer |  | a 
+ pop |  | ular 
  
- primer |  | o 
+  |  | porcupine 
  
- primer |  | os 
+  |  | pork 
  
-  |  | principio 
+  |  | porridge 
  
-  |  | principito 
+  |  | portrait 
  
-  |  | prisa 
+ portrait |  | s 
  
-  |  | problema 
+  |  | pose 
  
- problema |  | s 
+  |  | positions 
  
-  |  | profunda 
+ positive |  | ly 
  
-  |  | prohíbo 
+  |  | possession 
  
-  |  | prolongues 
+  |  | possible 
  
-  |  | promesa 
+  |  | possibly 
  
-  |  | pronto 
+  |  | post 
  
-  |  | pronunciadas 
+ post |  | age 
  
-  |  | proporciones 
+ post |  | card 
  
-  |  | proposición 
+ post |  | er 
  
-  |  | propuso 
+ post |  | ers 
  
- proseguí |  | a 
+ post |  | man 
  
-  |  | prosiguió 
+ post |  | s 
  
-  |  | protegerlas 
+  |  | potato 
  
-  |  | provisión 
+ potato |  | es 
  
-  |  | proyectos 
+  |  | potion 
  
-  |  | prueba 
+ potion |  | making 
  
- prueba |  | s 
+ potion |  | s 
  
-  |  | príncipe 
+  |  | pouch 
  
-  |  | príncipito 
+  |  | pounced 
  
-  |  | próxima 
+  |  | pound 
  
- próxima |  | mente 
+ pound |  | ing 
  
-  |  | próximo 
+  |  | poured 
  
-  |  | pude 
+  |  | pouring 
  
-  |  | pudiera 
+  |  | powdered 
  
- pudiera |  | n 
+  |  | powders 
  
-  |  | pudo 
+  |  | power 
  
-  |  | pueblan 
+ power |  | ful 
  
-  |  | pueblo 
+ power |  | s 
  
-  |  | pueda 
+  |  | ppose 
  
-  |  | puede 
+ ppose |  | d 
  
- puede |  | n 
+  |  | practical 
  
- puede |  | s 
+  |  | practice 
  
-  |  | puedo 
+  |  | practicing 
  
-  |  | pues 
+  |  | praying 
  
- pues |  | ta 
+  |  | precious 
  
- pues |  | tas 
+  |  | precisely 
  
- pues |  | to 
+  |  | prefect 
  
-  |  | puntas 
+ prefect |  | s 
  
-  |  | puntiagudo 
+  |  | prefer 
  
-  |  | punto 
+  |  | prepared 
  
-  |  | puntualmente 
+  |  | present 
  
-  |  | punzante 
+ present |  | ing 
  
-  |  | pura 
+ present |  | s 
  
-  |  | puro 
+  |  | press 
  
-  |  | puse 
+ press |  | ed 
  
-  |  | pusieran 
+ press |  | ure 
  
-  |  | pusimos 
+  |  | pretend 
  
-  |  | puso 
+ pretend |  | ed 
  
-  |  | página 
+ pretend |  | ing 
  
-  |  | pájaros 
+  |  | pretty 
  
-  |  | pálida 
+  |  | prevent 
  
-  |  | pálido 
+  |  | price 
  
-  |  | pétalos 
+  |  | prickle 
  
-  |  | píldoras 
+ prickle |  | d 
  
-  |  | píntame 
+  |  | prince 
  
-  |  | púrpura 
+  |  | private 
  
-  |  | que 
+ private |  | ly 
  
- que |  | da 
+  |  | probably 
  
- que |  | daba 
+  |  | problem 
  
- que |  | dado 
+ problem |  | s 
  
- que |  | dar 
+  |  | processor 
  
- que |  | darse 
+  |  | prodded 
  
- que |  | darán 
+  |  | prodding 
  
- que |  | de 
+  |  | produced 
  
- que |  | dé 
+  |  | produces 
  
- que |  | dó 
+  |  | program 
  
- que |  | jarse 
+ program |  | s 
  
- que |  | rido 
+  |  | promise 
  
- que |  | ría 
+ promise |  | d 
  
-  |  | quien 
+  |  | promisin 
  
-  |  | quiera 
+  |  | promptly 
  
- quiera |  | s 
+  |  | proof 
  
-  |  | quiere 
+  |  | proper 
  
- quiere |  | n 
+ proper |  | ly 
  
- quiere |  | s 
+  |  | propped 
  
-  |  | quiero 
+  |  | protect 
  
-  |  | quince 
+ protect |  | ed 
  
-  |  | quinientos 
+ protect |  | ing 
  
-  |  | quinto 
+ protect |  | ion 
  
-  |  | quisiera 
+ protect |  | ive 
  
-  |  | quiso 
+  |  | proud 
  
-  |  | quitan 
+ proud |  | est 
  
-  |  | quitándose 
+ proud |  | ly 
  
-  |  | quité 
+  |  | prove 
  
-  |  | quizá 
+  |  | proving 
  
- quizá |  | s 
+  |  | provoked 
  
-  |  | quién 
+  |  | prowling 
  
-  |  | qué 
+  |  | prune 
  
-  |  | rabillo 
+  |  | pub 
  
-  |  | racha 
+ pub |  | lic 
  
-  |  | ramita 
+  |  | puddin 
  
-  |  | rara 
+ puddin |  | g 
  
-  |  | raro 
+ puddin |  | gs 
  
-  |  | rata 
+  |  | puff 
  
-  |  | rato 
+ puff |  | ed 
  
-  |  | rayar 
+ puff |  | ing 
  
-  |  | rayo 
+  |  | pull 
  
-  |  | razona 
+ pull |  | ed 
  
- razona |  | ble 
+ pull |  | ing 
  
- razona |  | bles 
+  |  | pumpkin 
  
- razona |  | miento 
+ pumpkin |  | s 
  
-  |  | razones 
+  |  | punch 
  
-  |  | razón 
+ punch |  | ed 
  
-  |  | raíces 
+ punch |  | ing 
+ 
+  |  | puncture 
+ 
+ puncture |  | s 
+ 
+  |  | punished 
+ 
+  |  | punishing 
+ 
+  |  | punishment 
+ 
+ punishment |  | s 
+ 
+  |  | pupils 
+ 
+  |  | puppet 
+ 
+  |  | pure 
+ 
+  |  | purple 
+ 
+  |  | purpose 
+ 
+  |  | pursed 
+ 
+  |  | push 
+ 
+ push |  | ed 
+ 
+ push |  | ing 
+ 
+  |  | put 
+ 
+ put |  | s 
+ 
+ put |  | ted 
+ 
+ put |  | ting 
+ 
+  |  | puzzle 
+ 
+ puzzle |  | ment 
+ 
+  |  | pythons 
+ 
+  |  | quailed 
+ 
+  |  | quarter 
+ 
+ quarter |  | s 
+ 
+  |  | quaver 
+ 
+  |  | queasy 
+ 
+  |  | queen 
+ 
+  |  | question 
+ 
+ question |  | s 
+ 
+  |  | quick 
+ 
+ quick |  | er 
+ 
+ quick |  | ly 
+ 
+  |  | quiet 
+ 
+ quiet |  | ly 
+ 
+  |  | quill 
+ 
+ quill |  | s 
+ 
+  |  | quilt 
+ 
+  |  | quite 
+ 
+  |  | quiver 
+ 
+ quiver |  | ed 
+ 
+ quiver |  | ing 
+ 
+  |  | quiz 
+ 
+  |  | rabbit 
+ 
+ rabbit |  | in 
+ 
+  |  | racing 
+ 
+  |  | racket 
+ 
+  |  | radish 
+ 
+  |  | rage 
+ 
+ rage |  | d 
+ 
+  |  | ragged 
+ 
+  |  | rags 
+ 
+  |  | railway 
+ 
+  |  | rain 
+ 
+ rain |  | bow 
+ 
+  |  | raise 
+ 
+ raise |  | d 
+ 
+  |  | raising 
+ 
+  |  | raisins 
+ 
+  |  | rammed 
+ 
+  |  | ran 
+ 
+ ran |  | dom 
+ 
+ ran |  | g 
+ 
+ ran |  | ting 
+ 
+  |  | rapidly 
+ 
+  |  | rapped 
+ 
+  |  | rapping 
+ 
+  |  | rare 
+ 
+ rare |  | ly 
+ 
+  |  | raspberry 
+ 
+  |  | rasping 
+ 
+  |  | rat 
+ 
+ rat |  | her 
+ 
+ rat |  | ions 
+ 
+ rat |  | s 
+ 
+ rat |  | tle 
+ 
+ rat |  | tled 
+ 
+ rat |  | tling 
+ 
+  |  | ravine 
+ 
+  |  | raw 
+ 
+  |  | ray 
+ 
+  |  | re 
+ 
+  |  | reach 
+ 
+ reach |  | ed 
+ 
+ reach |  | ing 
+ 
+  |  | read 
+ 
+ read |  | in 
+ 
+ read |  | ing 
+ 
+ read |  | y 
  
   |  | real 
  
- real |  | izar 
+ real |  | ize 
  
-  |  | rebaño 
+ real |  | ized 
  
-  |  | rechazado 
+ real |  | izing 
  
-  |  | recibe 
+ real |  | ly 
  
-  |  | recibida 
+  |  | rear 
  
-  |  | recibir 
+ rear |  | ed 
  
-  |  | reclama 
+  |  | reason 
  
-  |  | recobró 
+ reason |  | ably 
  
-  |  | recogiendo 
+ reason |  | s 
  
-  |  | reconocer 
+  |  | rebellions 
  
- reconocer |  | la 
+  |  | receive 
  
- reconocer |  | lo 
+ receive |  | d 
  
-  |  | reconozca 
+ receive |  | r 
  
-  |  | recordar 
+  |  | recent 
  
- recordar |  | lo 
+  |  | recited 
  
-  |  | recordó 
+  |  | reciting 
  
-  |  | recorrido 
+  |  | reckon 
  
-  |  | rectamente 
+ reckon |  | s 
  
-  |  | recuento 
+  |  | recognize 
  
-  |  | recuerdan 
+ recognize |  | d 
  
-  |  | recuerdo 
+  |  | record 
  
- recuerdo |  | s 
+ record |  | ed 
  
-  |  | redondos 
+  |  | red 
  
-  |  | reflexiones 
+ red |  | der 
  
-  |  | reflexión 
+ red |  | dish 
  
-  |  | regadera 
+ red |  | headed 
  
-  |  | regado 
+  |  | reeled 
  
-  |  | regalaré 
+  |  | ref 
  
-  |  | regalo 
+ ref |  | eree 
  
-  |  | registro 
+ ref |  | ereed 
  
-  |  | región 
+ ref |  | ereeing 
  
-  |  | regulados 
+ ref |  | erees 
  
-  |  | regularmente 
+ ref |  | lected 
  
-  |  | regó 
+ ref |  | lection 
  
-  |  | rehice 
+ ref |  | lections 
  
-  |  | reinar 
+ ref |  | use 
  
-  |  | reino 
+ ref |  | used 
  
-  |  | relación 
+ ref |  | using 
  
-  |  | relatos 
+  |  | related 
  
-  |  | relámpago 
+  |  | relation 
  
-  |  | remordimientos 
+  |  | relatives 
  
-  |  | rencor 
+  |  | relax 
  
-  |  | renunciado 
+ relax |  | ed 
  
-  |  | reparación 
+  |  | relief 
  
-  |  | reparado 
+  |  | relieved 
  
-  |  | repetir 
+  |  | reliving 
  
-  |  | repitiendo 
+  |  | remains 
  
-  |  | repitió 
+  |  | remarkably 
  
-  |  | replicó 
+  |  | remember 
  
-  |  | repollos 
+ remember |  | ed 
  
-  |  | reposar 
+ remember |  | ing 
  
-  |  | reposo 
+ remember |  | s 
  
-  |  | reposó 
+  |  | remind 
  
-  |  | representaba 
+ remind |  | ed 
  
-  |  | reproches 
+ remind |  | ing 
  
-  |  | reputación 
+ remind |  | s 
  
-  |  | resfriada 
+  |  | remorse 
  
-  |  | resiste 
+  |  | remote 
  
- resiste |  | ncia 
+  |  | removed 
  
-  |  | respetada 
+  |  | rent 
  
-  |  | respetuosamente 
+  |  | repair 
  
-  |  | resplandece 
+ repair |  | ed 
  
-  |  | resplandor 
+  |  | repeated 
  
-  |  | responde 
+  |  | replaced 
  
-  |  | respondido 
+  |  | replacing 
  
-  |  | respondiera 
+  |  | replied 
  
-  |  | respondieron 
+  |  | reply 
  
-  |  | respondió 
+  |  | report 
  
-  |  | respondí 
+ report |  | ed 
  
- respondí |  | a 
+ report |  | s 
  
-  |  | responsable 
+  |  | reptile 
  
-  |  | respuesta 
+  |  | require 
  
-  |  | resto 
+  |  | rescued 
  
-  |  | resuelvo 
+  |  | reserve 
  
-  |  | resulta 
+  |  | resign 
  
- resulta |  | do 
+  |  | resist 
  
-  |  | retenerlo 
+  |  | resolution 
  
-  |  | retraso 
+  |  | respect 
  
-  |  | retrato 
+  |  | responsible 
  
- retrato |  | s 
+  |  | rest 
  
-  |  | reumatismo 
+ rest |  | aurant 
  
-  |  | revelado 
+ rest |  | aurants 
  
-  |  | revelaron 
+ rest |  | ed 
  
-  |  | revolución 
+ rest |  | ing 
  
-  |  | revolvió 
+ rest |  | less 
  
-  |  | revólver 
+ rest |  | ricted 
  
-  |  | rey 
+  |  | results 
  
- rey |  | es 
+  |  | retracing 
  
-  |  | reía 
+  |  | return 
  
-  |  | reír 
+ return |  | ed 
  
-  |  | reíste 
+  |  | reveal 
  
-  |  | rico 
+  |  | revenge 
  
-  |  | ridículo 
+  |  | revolting 
  
-  |  | riego 
+  |  | reward 
  
-  |  | riendo 
+  |  | ribbon 
  
-  |  | riesen 
+  |  | ribs 
  
-  |  | riesgo 
+  |  | rice 
  
-  |  | risa 
+  |  | rich 
  
-  |  | rito 
+  |  | rickety 
  
- rito |  | s 
+  |  | rid 
  
-  |  | rió 
+ rid |  | e 
  
-  |  | rocas 
+ rid |  | ers 
  
-  |  | roció 
+ rid |  | iculous 
  
-  |  | rodeándome 
+ rid |  | ing 
  
-  |  | rodilla 
+  |  | riffraff 
  
-  |  | rojos 
+  |  | rifle 
  
-  |  | roldana 
+  |  | rigged 
  
-  |  | rosa 
+  |  | right 
  
- rosa |  | l 
+  |  | rigid 
  
- rosa |  | les 
+  |  | ring 
  
- rosa |  | s 
+ ring |  | ing 
  
-  |  | rostro 
+  |  | rip 
  
-  |  | rubor 
+ rip |  | ped 
  
- rubor |  | izó 
+ rip |  | ping 
  
-  |  | rugiendo 
+ rip |  | pled 
  
-  |  | rugió 
+  |  | rise 
  
-  |  | ruido 
+  |  | rising 
  
-  |  | ruina 
+  |  | risk 
+ 
+ risk |  | s 
+ 
+ risk |  | y 
+ 
+  |  | rivers 
+ 
+  |  | road 
+ 
+  |  | roaming 
+ 
+  |  | roar 
+ 
+ roar |  | ed 
+ 
+ roar |  | ing 
+ 
+ roar |  | s 
+ 
+  |  | roast 
+ 
+  |  | rob 
+ 
+ rob |  | e 
+ 
+ rob |  | es 
+ 
+  |  | rock 
+ 
+ rock |  | er 
+ 
+ rock |  | et 
+ 
+ rock |  | eted 
+ 
+ rock |  | s 
+ 
+  |  | roll 
+ 
+ roll |  | ed 
+ 
+ roll |  | ing 
+ 
+ roll |  | s 
+ 
+  |  | roof 
+ 
+  |  | room 
+ 
+ room |  | s 
+ 
+  |  | root 
+ 
+ root |  | ed 
+ 
+ root |  | ing 
+ 
+ root |  | s 
+ 
+  |  | rope 
+ 
+ rope |  | s 
+ 
+  |  | rose 
+ 
+  |  | rot 
+ 
+ rot |  | ted 
+ 
+  |  | roughly 
+ 
+  |  | round 
+ 
+ round |  | ed 
+ 
+  |  | route 
+ 
+  |  | row 
+ 
+ row |  | boat 
+ 
+ row |  | s 
+ 
+  |  | rub 
+ 
+ rub |  | bed 
+ 
+ rub |  | ber 
+ 
+ rub |  | bing 
+ 
+ rub |  | bish 
+ 
+ rub |  | ies 
+ 
+  |  | ruddy 
+ 
+  |  | rude 
+ 
+  |  | ruefully 
+ 
+  |  | ruff 
+ 
+ ruff |  | led 
+ 
+  |  | rugs 
+ 
+  |  | ruined 
+ 
+  |  | ruins 
+ 
+  |  | rule 
+ 
+ rule |  | breaking 
+ 
+ rule |  | s 
+ 
+  |  | rumbled 
+ 
+  |  | rumbling 
+ 
+  |  | rummaged 
+ 
+  |  | rummaging 
  
   |  | rumor 
  
-  |  | rábano 
+ rumor |  | s 
  
-  |  | rápidamente 
+  |  | run 
  
-  |  | rápido 
+ run |  | nin 
  
- rápido |  | s 
+ run |  | ning 
  
-  |  | ríe 
+  |  | rush 
  
- ríe |  | n 
+ rush |  | ed 
  
-  |  | ríos 
+  |  | rustling 
  
-  |  | sabe 
+  |  | ry 
  
- sabe |  | mos 
+  |  | s 
  
- sabe |  | n 
+  |  | sa 
  
- sabe |  | r 
+  |  | sacked 
  
- sabe |  | rlo 
+  |  | sacrifices 
  
- sabe |  | s 
+  |  | sad 
  
-  |  | sabido 
+ sad |  | ly 
  
-  |  | sabio 
+ sad |  | ness 
  
- sabio |  | s 
+  |  | safe 
  
-  |  | sabré 
+ safe |  | ly 
  
-  |  | sabía 
+ safe |  | st 
  
-  |  | sacando 
+ safe |  | ty 
  
-  |  | sacar 
+  |  | sagged 
  
-  |  | sacudía 
+  |  | said 
  
-  |  | saharianos 
+  |  | sailed 
  
-  |  | salado 
+  |  | saintly 
  
-  |  | saldrá 
+  |  | saints 
  
-  |  | sale 
+  |  | saliva 
  
-  |  | salido 
+  |  | sallow 
  
-  |  | salir 
+  |  | same 
  
-  |  | salió 
+  |  | sandwich 
  
-  |  | saltar 
+ sandwich |  | es 
  
-  |  | salto 
+  |  | sandy 
  
-  |  | saludar 
+  |  | sank 
  
- saludar |  | le 
+  |  | sapphires 
  
-  |  | saludó 
+  |  | sardine 
  
-  |  | salvo 
+  |  | sat 
  
-  |  | salían 
+  |  | sauce 
  
-  |  | saqué 
+  |  | sausage 
  
-  |  | satisfecho 
+ sausage |  | s 
  
-  |  | se 
+  |  | savage 
+ 
+  |  | savaging 
+ 
+  |  | save 
+ 
+ save |  | d 
+ 
+  |  | saving 
+ 
+  |  | saw 
+ 
+  |  | say 
+ 
+ say |  | in 
+ 
+ say |  | ing 
+ 
+ say |  | s 
+ 
+  |  | sc 
+ 
+  |  | scabby 
+ 
+  |  | scales 
+ 
+  |  | scandal 
+ 
+  |  | scar 
+ 
+ scar |  | ed 
+ 
+ scar |  | let 
+ 
+ scar |  | s 
+ 
+  |  | scattering 
+ 
+  |  | scene 
+ 
+  |  | scented 
+ 
+  |  | schedules 
+ 
+  |  | school 
+ 
+  |  | science 
+ 
+  |  | scissors 
+ 
+  |  | scoop 
+ 
+  |  | scooted 
+ 
+  |  | score 
+ 
+ score |  | d 
+ 
+  |  | scoring 
+ 
+  |  | scowl 
+ 
+ scowl |  | ing 
+ 
+  |  | scrabbling 
+ 
+  |  | scrambled 
+ 
+  |  | scrambling 
+ 
+  |  | scraped 
+ 
+  |  | scraping 
+ 
+  |  | scratch 
+ 
+ scratch |  | ing 
+ 
+ scratch |  | y 
+ 
+  |  | scrawl 
+ 
+ scrawl |  | ed 
+ 
+  |  | scrawny 
+ 
+  |  | scream 
+ 
+ scream |  | ed 
+ 
+ scream |  | ing 
+ 
+ scream |  | s 
+ 
+  |  | screech 
+ 
+ screech |  | ed 
+ 
+  |  | screwed 
+ 
+  |  | scribbled 
+ 
+  |  | scribbling 
+ 
+  |  | scroll 
+ 
+  |  | scruff 
+ 
+ scruff |  | s 
+ 
+  |  | scudding 
+ 
+  |  | scuffles 
+ 
+  |  | scurried 
+ 
+  |  | scuttled 
  
   |  | sea 
  
- sea |  | n 
+ sea |  | l 
  
-  |  | seco 
+ sea |  | rch 
  
-  |  | secreto 
+ sea |  | rched 
  
-  |  | sed 
+ sea |  | rching 
  
-  |  | seguida 
+ sea |  | red 
  
-  |  | segunda 
+ sea |  | son 
  
-  |  | segundo 
+ sea |  | t 
  
- segundo |  | s 
+ sea |  | ting 
  
-  |  | segura 
+ sea |  | ts 
  
- segura |  | mente 
+ sea |  | weed 
  
-  |  | seguro 
+  |  | sec 
  
- seguí |  | a 
+ sec |  | ond 
  
- seguí |  | an 
+ sec |  | ondary 
  
-  |  | según 
+ sec |  | onds 
  
-  |  | seis 
+ sec |  | ret 
  
- seis |  | cientos 
+ sec |  | retary 
  
-  |  | selva 
+ sec |  | retly 
  
-  |  | semana 
+ sec |  | rets 
  
- semana |  | s 
+ sec |  | tion 
  
-  |  | semejante 
+ sec |  | urity 
  
- semejante |  | s 
+  |  | see 
  
-  |  | semiconfidencia 
+ see |  | ing 
  
-  |  | semilla 
+ see |  | k 
  
- semilla |  | s 
+ see |  | m 
  
-  |  | sencilla 
+ see |  | med 
  
-  |  | sencillez 
+ see |  | ming 
  
-  |  | sencillo 
+ see |  | ms 
  
-  |  | sentado 
+ see |  | n 
  
-  |  | sentarme 
+ see |  | ping 
  
-  |  | sentarse 
+ see |  | s 
  
-  |  | sentarte 
+ seize |  | d 
  
-  |  | sentarás 
+  |  | seizing 
  
-  |  | sentido 
+ self |  | ish 
  
-  |  | sentimiento 
+ self |  | stirring 
  
-  |  | sentirme 
+  |  | sell 
  
-  |  | sentiré 
+ sell |  | ing 
  
-  |  | sentiría 
+  |  | send 
  
-  |  | senté 
+ send |  | ing 
  
-  |  | sentí 
+  |  | sense 
  
- sentí |  | a 
+ sense |  | s 
  
- sentí |  | an 
+  |  | sensible 
  
-  |  | sentó 
+  |  | sent 
  
-  |  | separaré 
+  |  | separated 
  
-  |  | sepas 
+  |  | separately 
  
-  |  | sepáis 
+  |  | separating 
  
-  |  | ser 
+  |  | serious 
  
- ser |  | ia 
+ serious |  | ly 
  
- ser |  | ias 
+  |  | serpent 
  
- ser |  | io 
+  |  | servant 
  
- ser |  | piente 
+  |  | served 
  
- ser |  | pientes 
+  |  | service 
  
- ser |  | vido 
+  |  | session 
  
- ser |  | virles 
+  |  | set 
  
- ser |  | virá 
+ set |  | s 
  
- ser |  | virían 
+ set |  | ting 
  
- ser |  | á 
+ set |  | tled 
  
- ser |  | án 
+ set |  | tling 
  
- ser |  | ás 
+  |  | seven 
  
- ser |  | é 
+ seven |  | teen 
  
- ser |  | ía 
+ seven |  | th 
  
-  |  | sesenta 
+ seven |  | ty 
  
-  |  | setecientos 
+  |  | several 
  
-  |  | setenta 
+  |  | severe 
  
-  |  | sexto 
+  |  | shabby 
  
-  |  | señalarte 
+  |  | shack 
  
-  |  | señaló 
+  |  | shade 
  
-  |  | señor 
+  |  | shadow 
  
-  |  | si 
+ shadow |  | s 
  
-  |  | sido 
+ shadow |  | y 
  
-  |  | siempre 
+  |  | shaggy 
  
-  |  | siendo 
+  |  | shake 
  
-  |  | sienes 
+ shake |  | n 
  
-  |  | siente 
+  |  | shakily 
  
- siente |  | n 
+  |  | shaking 
  
-  |  | siento 
+  |  | shall 
  
-  |  | siete 
+ shall |  | ows 
  
-  |  | significa 
+  |  | shame 
  
- significa |  | ba 
+  |  | shape 
  
-  |  | sigue 
+ shape |  | d 
  
-  |  | siguiente 
+ shape |  | less 
  
-  |  | siguió 
+ shape |  | s 
  
-  |  | silencio 
+  |  | share 
  
- silencio |  | samente 
+ share |  | d 
  
-  |  | silla 
+  |  | sharing 
  
-  |  | silvestres 
+  |  | sharp 
  
-  |  | simpatía 
+ sharp |  | er 
+ 
+ sharp |  | ly 
+ 
+  |  | shaves 
+ 
+  |  | she 
+ 
+ she |  | ared 
+ 
+ she |  | d 
+ 
+ she |  | ep 
+ 
+ she |  | er 
+ 
+ she |  | et 
+ 
+ she |  | ets 
+ 
+ she |  | lf 
+ 
+ she |  | lling 
+ 
+ she |  | lves 
+ 
+ she |  | rry 
+ 
+  |  | shields 
+ 
+  |  | shifty 
+ 
+  |  | shimmering 
+ 
+  |  | shinin 
+ 
+ shinin |  | g 
+ 
+  |  | shiny 
+ 
+  |  | shivered 
+ 
+  |  | shivering 
+ 
+  |  | shock 
+ 
+ shock |  | ed 
+ 
+  |  | shoes 
+ 
+  |  | shone 
+ 
+ shoo |  | k 
+ 
+ shoo |  | t 
+ 
+ shoo |  | ting 
+ 
+  |  | shop 
+ 
+ shop |  | ping 
+ 
+ shop |  | s 
+ 
+  |  | shore 
+ 
+  |  | short 
+ 
+ short |  | cut 
+ 
+ short |  | cuts 
+ 
+ short |  | er 
+ 
+ short |  | ly 
+ 
+  |  | shot 
+ 
+  |  | should 
+ 
+ should |  | a 
+ 
+ should |  | er 
+ 
+ should |  | ers 
+ 
+ should |  | n 
+ 
+  |  | shout 
+ 
+ shout |  | ed 
+ 
+ shout |  | in 
+ 
+ shout |  | ing 
+ 
+ shout |  | s 
+ 
+  |  | shove 
+ 
+ shove |  | d 
+ 
+ shove |  | ling 
+ 
+  |  | show 
+ 
+ show |  | ed 
+ 
+ show |  | ers 
+ 
+ show |  | ing 
+ 
+ show |  | n 
+ 
+ show |  | s 
+ 
+  |  | shrank 
+ 
+  |  | shredded 
+ 
+  |  | shriek 
+ 
+ shriek |  | ed 
+ 
+ shriek |  | ing 
+ 
+ shriek |  | s 
+ 
+  |  | shrill 
+ 
+ shrill |  | y 
+ 
+  |  | shrink 
+ 
+ shrink |  | ing 
+ 
+  |  | shriveled 
+ 
+  |  | shrunk 
+ 
+  |  | shuddered 
+ 
+  |  | shuffled 
+ 
+  |  | shuffling 
+ 
+  |  | shut 
+ 
+ shut |  | ting 
+ 
+  |  | sick 
+ 
+ sick |  | ening 
+ 
+ sick |  | le 
+ 
+  |  | side 
+ 
+ side |  | s 
+ 
+ side |  | ways 
+ 
+  |  | sidled 
+ 
+  |  | sigh 
+ 
+ sigh |  | ed 
+ 
+ sigh |  | t 
+ 
+ sigh |  | tings 
+ 
+  |  | sign 
+ 
+ sign |  | ature 
+ 
+ sign |  | ed 
+ 
+ sign |  | s 
+ 
+  |  | silence 
+ 
+  |  | silent 
+ 
+ silent |  | ly 
+ 
+  |  | silk 
+ 
+ silk |  | ily 
+ 
+  |  | silly 
+ 
+  |  | silver 
+ 
+ silver |  | y 
+ 
+  |  | similar 
+ 
+  |  | simmering 
  
   |  | simple 
  
- simple |  | mente 
- 
- simple |  | s 
- 
-  |  | simplificado 
- 
-  |  | simularía 
+  |  | simply 
  
   |  | sin 
  
- sin |  | número 
+ sin |  | ce 
  
- sin |  | o 
+ sin |  | cerely 
  
- sin |  | tió 
+ sin |  | g 
  
-  |  | siquiera 
+ sin |  | ging 
  
-  |  | sirve 
+ sin |  | gle 
  
- sirve |  | n 
+ sin |  | gled 
  
-  |  | sitio 
+ sin |  | gsong 
  
-  |  | sobre 
+ sin |  | ister 
  
-  |  | sois 
+ sin |  | k 
  
-  |  | sol 
+ sin |  | king 
  
- sol |  | a 
+ sin |  | ks 
  
- sol |  | amente 
+  |  | sipped 
  
- sol |  | as 
+  |  | sir 
  
- sol |  | icitar 
+  |  | sister 
  
- sol |  | lozos 
+  |  | sit 
  
- sol |  | o 
+ sit |  | ting 
  
- sol |  | tado 
+  |  | six 
  
- sol |  | tó 
+ six |  | teen 
  
-  |  | sombrero 
+ six |  | th 
  
-  |  | sombría 
+ six |  | ty 
  
-  |  | sometido 
+  |  | size 
  
-  |  | somos 
+ size |  | d 
+ 
+  |  | sizing 
+ 
+  |  | sizzling 
+ 
+  |  | skidding 
+ 
+  |  | skies 
+ 
+  |  | skimming 
+ 
+  |  | skin 
+ 
+ skin |  | nier 
+ 
+ skin |  | ny 
+ 
+  |  | skip 
+ 
+ skip |  | ped 
+ 
+ skip |  | ping 
+ 
+  |  | skulking 
+ 
+  |  | sky 
+ 
+ sky |  | ward 
+ 
+  |  | slain 
+ 
+  |  | slam 
+ 
+ slam |  | med 
+ 
+ slam |  | ming 
+ 
+  |  | slapping 
+ 
+  |  | slay 
+ 
+  |  | sleek 
+ 
+  |  | sleep 
+ 
+ sleep |  | ily 
+ 
+ sleep |  | iness 
+ 
+ sleep |  | ing 
+ 
+ sleep |  | less 
+ 
+ sleep |  | s 
+ 
+ sleep |  | y 
+ 
+  |  | sleeve 
+ 
+ sleeve |  | s 
+ 
+  |  | slender 
+ 
+  |  | slept 
+ 
+  |  | slice 
+ 
+  |  | slid 
+ 
+ slid |  | ing 
+ 
+  |  | slight 
+ 
+ slight |  | est 
+ 
+ slight |  | ly 
+ 
+  |  | slimy 
+ 
+  |  | slinking 
+ 
+  |  | slip 
+ 
+ slip |  | ped 
+ 
+ slip |  | pers 
+ 
+ slip |  | pery 
+ 
+ slip |  | ping 
+ 
+  |  | slithering 
+ 
+  |  | slits 
+ 
+  |  | slope 
+ 
+ slope |  | d 
+ 
+  |  | sloping 
+ 
+  |  | slot 
+ 
+ slot |  | ted 
+ 
+  |  | slouched 
+ 
+  |  | slow 
+ 
+ slow |  | ed 
+ 
+ slow |  | ing 
+ 
+ slow |  | ly 
+ 
+  |  | slug 
+ 
+ slug |  | s 
+ 
+  |  | slumped 
+ 
+  |  | slyly 
+ 
+  |  | small 
+ 
+ small |  | er 
+ 
+ small |  | est 
+ 
+  |  | smarten 
+ 
+  |  | smarter 
+ 
+  |  | smartly 
+ 
+  |  | smash 
+ 
+ smash |  | ed 
+ 
+  |  | smatter 
+ 
+  |  | smell 
+ 
+ smell |  | ed 
+ 
+ smell |  | ing 
+ 
+ smell |  | y 
+ 
+  |  | smile 
+ 
+ smile |  | d 
+ 
+ smile |  | s 
+ 
+  |  | smiling 
+ 
+  |  | smirking 
+ 
+  |  | smoke 
+ 
+ smoke |  | d 
+ 
+  |  | smoking 
+ 
+  |  | smooth 
+ 
+ smooth |  | er 
+ 
+ smooth |  | ly 
+ 
+  |  | smothering 
+ 
+  |  | smudged 
+ 
+  |  | smuggle 
+ 
+  |  | snake 
+ 
+ snake |  | like 
+ 
+ snake |  | s 
+ 
+  |  | snap 
+ 
+ snap |  | ped 
+ 
+  |  | snarled 
+ 
+  |  | snatch 
+ 
+ snatch |  | ed 
+ 
+ snatch |  | ing 
+ 
+  |  | sneak 
+ 
+ sneak |  | ed 
+ 
+ sneak |  | ers 
+ 
+ sneak |  | ing 
+ 
+  |  | sneer 
+ 
+ sneer |  | ed 
+ 
+ sneer |  | ing 
+ 
+  |  | sneeze 
+ 
+ sneeze |  | d 
+ 
+  |  | sniff 
+ 
+ sniff |  | ed 
+ 
+ sniff |  | ing 
+ 
+ sniff |  | ling 
+ 
+ sniff |  | y 
+ 
+  |  | sniggered 
+ 
+  |  | snigget 
+ 
+  |  | sniveled 
+ 
+  |  | snoozed 
+ 
+  |  | snoozing 
+ 
+  |  | snored 
+ 
+  |  | snores 
+ 
+  |  | snoring 
+ 
+  |  | snorted 
+ 
+  |  | snout 
+ 
+  |  | snow 
+ 
+ snow |  | ball 
+ 
+ snow |  | balls 
+ 
+ snow |  | y 
+ 
+  |  | snuffbox 
+ 
+  |  | snuffling 
+ 
+  |  | so 
+ 
+  |  | soared 
+ 
+  |  | soaring 
+ 
+  |  | sob 
+ 
+ sob |  | bed 
+ 
+ sob |  | bing 
+ 
+ sob |  | s 
+ 
+  |  | soccer 
+ 
+  |  | socks 
+ 
+  |  | sofa 
+ 
+  |  | soft 
+ 
+ soft |  | est 
+ 
+ soft |  | ly 
+ 
+  |  | sold 
+ 
+  |  | solid 
+ 
+  |  | solutions 
+ 
+  |  | some 
+ 
+ some |  | body 
+ 
+ some |  | fink 
+ 
+ some |  | how 
+ 
+ some |  | one 
+ 
+ some |  | rsault 
+ 
+ some |  | thin 
+ 
+ some |  | thing 
+ 
+ some |  | time 
+ 
+ some |  | times 
+ 
+ some |  | where 
  
   |  | son 
  
- son |  | aba 
+ son |  | g 
  
- son |  | reía 
+ son |  | s 
  
- son |  | risa 
+  |  | soon 
  
- son |  | risas 
+ soon |  | er 
  
- son |  | rió 
+  |  | soothe 
  
- son |  | rojó 
+ sorc |  | erer 
  
-  |  | soportar 
+  |  | sore 
  
-  |  | soporte 
+  |  | sorrowful 
  
-  |  | sorprender 
+  |  | sorry 
  
-  |  | sorprendido 
+  |  | sort 
  
-  |  | sorprendió 
+ sort |  | a 
  
-  |  | sorpresa 
+ sort |  | ed 
  
-  |  | soy 
+ sort |  | s 
  
-  |  | soñando 
+  |  | soul 
  
-  |  | su 
+  |  | sound 
  
-  |  | suavemente 
+ sound |  | ed 
  
-  |  | suavidad 
+ sound |  | ing 
  
-  |  | subí 
+ sound |  | s 
  
-  |  | sucede 
+  |  | sp 
  
-  |  | sucedido 
+  |  | space 
  
-  |  | sucedió 
+ space |  | s 
  
-  |  | suelo 
+  |  | sparkling 
  
-  |  | suelta 
+  |  | sparks 
  
-  |  | suerte 
+  |  | spasm 
  
-  |  | sueño 
+  |  | spat 
  
-  |  | suficiente 
+  |  | spawn 
  
- suficiente |  | s 
+  |  | speak 
  
-  |  | sufrir 
+ speak |  | er 
  
-  |  | sufro 
+ speak |  | in 
  
-  |  | suma 
+ speak |  | ing 
  
- suma |  | s 
+  |  | spear 
  
-  |  | suministre 
+ spear |  | ed 
  
-  |  | supe 
+  |  | special 
  
-  |  | suplico 
+ special |  | ly 
  
-  |  | supo 
+  |  | specimen 
  
- sur |  | tidor 
+  |  | speck 
  
-  |  | sus 
+  |  | spectacles 
  
- sus |  | piro 
+  |  | spectacular 
  
- sus |  | piró 
+ spectacular |  | ly 
  
-  |  | suya 
+  |  | spectators 
  
-  |  | sé 
+  |  | sped 
  
-  |  | séptimo 
+  |  | speech 
  
-  |  | sí 
+ speech |  | less 
  
-  |  | sólo 
+  |  | speed 
  
-  |  | súbdito 
+ speed |  | ing 
  
- súbdito |  | s 
+ speed |  | s 
  
-  |  | súbitamente 
+ speed |  | y 
  
-  |  | taburete 
+  |  | spell 
  
-  |  | tal 
+ spell |  | ed 
  
-  |  | también 
+ spell |  | s 
  
-  |  | tampoco 
+  |  | spend 
  
-  |  | tan 
+ spend |  | ing 
  
- tan |  | ta 
+  |  | spent 
  
- tan |  | tas 
+  |  | spider 
  
- tan |  | to 
+ spider |  | s 
  
- tan |  | tos 
+  |  | spilled 
  
-  |  | tarde 
+  |  | spilling 
  
-  |  | te 
+  |  | spinach 
  
-  |  | tejado 
+  |  | spindly 
  
-  |  | telescopio 
+  |  | spine 
  
-  |  | temblar 
+  |  | spinning 
  
-  |  | temer 
+  |  | spiny 
  
-  |  | temo 
+  |  | spiral 
  
-  |  | tendido 
+  |  | spirits 
  
-  |  | tendremos 
+  |  | spite 
  
-  |  | tendrás 
+  |  | splashes 
  
-  |  | tendría 
+  |  | splattered 
  
-  |  | tenemos 
+  |  | spleens 
  
-  |  | tener 
+  |  | splendid 
  
-  |  | tengo 
+  |  | split 
  
-  |  | tenido 
+  |  | spluttered 
  
-  |  | tentativa 
+  |  | spluttering 
  
-  |  | tenéis 
+  |  | spoil 
  
-  |  | tenía 
+ spoil |  | s 
  
- tenía |  | mos 
+  |  | spoke 
  
-  |  | tercer 
+ spoke |  | n 
  
- tercer |  | a 
+ spoke |  | sgoblin 
  
-  |  | termina 
+  |  | sport 
  
- termina |  | do 
+ sport |  | s 
  
- termina |  | r 
+  |  | spot 
  
-  |  | ternura 
+ spot |  | s 
  
-  |  | terrible 
+ spot |  | ted 
  
- terrible |  | s 
+ spot |  | ting 
  
-  |  | tesoro 
+  |  | sprang 
  
-  |  | ti 
+  |  | sprawled 
  
-  |  | tiempo 
+  |  | spray 
  
- tiempo |  | s 
+  |  | spread 
  
-  |  | tiendas 
+ spread |  | ing 
  
-  |  | tiene 
+  |  | spring 
  
- tiene |  | n 
+ spring |  | y 
  
- tiene |  | s 
+  |  | sprinted 
  
-  |  | tierra 
+  |  | sprinting 
  
-  |  | tigres 
+  |  | spun 
  
-  |  | tinta 
+  |  | spurt 
  
-  |  | tipo 
+  |  | spying 
  
-  |  | tire 
+  |  | square 
  
-  |  | tiros 
+ square |  | s 
  
-  |  | titulaba 
+  |  | squashed 
  
-  |  | tobillo 
+  |  | squashy 
  
-  |  | tocaba 
+  |  | squat 
  
-  |  | toco 
+  |  | squawked 
  
-  |  | tocó 
+  |  | squeak 
  
-  |  | toda 
+ squeak |  | ed 
  
- toda |  | s 
+ squeak |  | y 
  
- toda |  | vía 
+  |  | squeal 
  
-  |  | todo 
+ squeal |  | ed 
  
- todo |  | s 
+  |  | squeeze 
  
-  |  | tolero 
+ squeeze |  | d 
  
-  |  | toma 
+  |  | squid 
  
- toma |  | do 
+  |  | squinted 
  
- toma |  | mos 
+  |  | squinting 
  
-  |  | tomen 
+  |  | st 
  
-  |  | tomé 
+  |  | stabbing 
  
-  |  | tono 
+  |  | stack 
  
-  |  | tonta 
+ stack |  | ed 
  
-  |  | tonterías 
+ stack |  | s 
  
-  |  | tonto 
+  |  | stadium 
  
-  |  | torpe 
+  |  | staff 
  
-  |  | tos 
+ staff |  | room 
  
- tos |  | ería 
+  |  | stage 
  
- tos |  | ió 
+  |  | staggered 
  
-  |  | totalmente 
+  |  | staggerin 
  
-  |  | trabajaban 
+  |  | stain 
  
-  |  | trabajado 
+ stain |  | ed 
  
-  |  | trabajar 
+  |  | staircase 
  
-  |  | trabajo 
+ staircase |  | s 
  
- trabajo |  | s 
+  |  | stairs 
  
-  |  | trabajé 
+  |  | stalactite 
  
-  |  | traga 
+ stalactite |  | s 
  
- traga |  | ba 
+  |  | stalagmite 
  
-  |  | tragedia 
+ stalagmite |  | s 
  
-  |  | traiga 
+  |  | stale 
  
-  |  | traje 
+  |  | stalking 
  
-  |  | tranquila 
+  |  | stammered 
  
- tranquila |  | mente 
+  |  | stammering 
  
-  |  | tranquilizó 
+  |  | stamp 
  
-  |  | tranquilo 
+ stamp |  | ing 
  
-  |  | transformara 
+ stamp |  | s 
  
-  |  | transformarse 
+  |  | stand 
  
-  |  | trapo 
+ stand |  | ard 
  
-  |  | trasladarse 
+ stand |  | ing 
  
-  |  | trata 
+ stand |  | s 
  
- trata |  | do 
+  |  | stare 
  
- trata |  | ndo 
+ stare |  | d 
  
- trata |  | rse 
+  |  | stargazers 
  
- trata |  | ré 
+  |  | staring 
  
-  |  | trate 
+  |  | starry 
  
-  |  | tratándose 
+  |  | stars 
  
-  |  | través 
+  |  | start 
  
-  |  | trazar 
+ start |  | ed 
  
-  |  | treinta 
+ start |  | ing 
  
-  |  | tren 
+ start |  | led 
  
- tren |  | es 
+ start |  | s 
  
-  |  | tres 
+  |  | starved 
  
- tres |  | cientos 
+  |  | state 
  
-  |  | trigo 
+  |  | station 
  
-  |  | triste 
+  |  | statue 
  
- triste |  | s 
+ statue |  | s 
  
- triste |  | za 
+  |  | stay 
  
-  |  | trono 
+ stay |  | ed 
  
-  |  | trueno 
+ stay |  | ing 
  
-  |  | tu 
+  |  | steadied 
  
-  |  | turco 
+  |  | steadily 
  
-  |  | turno 
+  |  | steady 
  
-  |  | tus 
+  |  | steak 
  
-  |  | tuve 
+  |  | steal 
  
-  |  | tuviera 
+  |  | steam 
  
- tuviera |  | s 
+ steam |  | rollered 
  
-  |  | tuya 
+  |  | steel 
  
- tuya |  | s 
+ steel |  | ing 
  
-  |  | tuyo 
+  |  | steep 
  
- tuyo |  | s 
+ steep |  | ly 
  
-  |  | tímidamente 
+  |  | steered 
  
-  |  | tú 
+  |  | steering 
+ 
+  |  | stench 
+ 
+  |  | step 
+ 
+ step |  | ped 
+ 
+ step |  | s 
+ 
+  |  | stern 
+ 
+ stern |  | ly 
+ 
+  |  | stewed 
+ 
+  |  | stick 
+ 
+ stick |  | ing 
+ 
+ stick |  | s 
+ 
+ stick |  | y 
+ 
+  |  | stiff 
+ 
+ stiff |  | ily 
+ 
+ stiff |  | ly 
+ 
+  |  | stifling 
+ 
+  |  | still 
+ 
+  |  | stinking 
+ 
+  |  | stitch 
+ 
+ stitch |  | es 
+ 
+  |  | stoat 
+ 
+  |  | stoked 
+ 
+  |  | stole 
+ 
+ stole |  | n 
+ 
+  |  | stomach 
+ 
+  |  | stomping 
+ 
+  |  | stone 
+ 
+ stone |  | s 
+ 
+  |  | stood 
+ 
+  |  | stool 
+ 
+ stool |  | s 
+ 
+  |  | stooping 
+ 
+  |  | stop 
+ 
+ stop |  | ped 
+ 
+ stop |  | per 
+ 
+ stop |  | ping 
+ 
+ stop |  | s 
+ 
+  |  | stored 
+ 
+  |  | stores 
+ 
+  |  | stories 
+ 
+  |  | storm 
+ 
+ storm |  | ed 
+ 
+ storm |  | y 
+ 
+  |  | story 
+ 
+  |  | stove 
+ 
+  |  | stra 
+ 
+ stra |  | ight 
+ 
+ stra |  | ightened 
+ 
+ stra |  | ightening 
+ 
+ stra |  | ined 
+ 
+ stra |  | ining 
+ 
+ stra |  | nded 
+ 
+ stra |  | nge 
+ 
+ stra |  | ngely 
+ 
+ stra |  | nger 
+ 
+ stra |  | ngers 
+ 
+ stra |  | ngled 
+ 
+ stra |  | pping 
+ 
+ stra |  | ps 
+ 
+ stra |  | w 
+ 
+ stra |  | wberries 
+ 
+ stra |  | wberry 
+ 
+ stra |  | y 
+ 
+ stra |  | yed 
+ 
+ stra |  | ying 
+ 
+  |  | streak 
+ 
+ streak |  | ed 
+ 
+  |  | stream 
+ 
+ stream |  | ed 
+ 
+ stream |  | ing 
+ 
+  |  | street 
+ 
+ street |  | s 
+ 
+  |  | strength 
+ 
+ strength |  | ened 
+ 
+  |  | stretch 
+ 
+ stretch |  | ed 
+ 
+ stretch |  | ing 
+ 
+  |  | strict 
+ 
+ strict |  | ly 
+ 
+  |  | striding 
+ 
+  |  | string 
+ 
+ string |  | s 
+ 
+  |  | striped 
+ 
+  |  | strode 
+ 
+  |  | stroke 
+ 
+ stroke |  | d 
+ 
+  |  | strong 
+ 
+ strong |  | er 
+ 
+ strong |  | ly 
+ 
+  |  | struck 
+ 
+  |  | struggle 
+ 
+ struggle |  | d 
+ 
+  |  | struggling 
+ 
+  |  | stubs 
+ 
+  |  | stuck 
+ 
+  |  | student 
+ 
+ student |  | s 
+ 
+  |  | study 
+ 
+ study |  | in 
+ 
+ study |  | ing 
+ 
+  |  | stuff 
+ 
+ stuff |  | ed 
+ 
+ stuff |  | ing 
+ 
+  |  | stumbled 
+ 
+  |  | stumbling 
+ 
+  |  | stump 
+ 
+ stump |  | ed 
+ 
+  |  | stung 
+ 
+  |  | stunned 
+ 
+  |  | stunt 
+ 
+  |  | stupid 
+ 
+ stupid |  | est 
+ 
+ stupid |  | ly 
+ 
+  |  | stutter 
+ 
+ stutter |  | ing 
+ 
+  |  | subject 
+ 
+ subject |  | s 
+ 
+  |  | substance 
+ 
+  |  | substitutes 
+ 
+  |  | subtle 
+ 
+  |  | such 
+ 
+  |  | sucked 
+ 
+  |  | sudden 
+ 
+ sudden |  | ly 
+ 
+  |  | suffering 
+ 
+  |  | sugar 
+ 
+  |  | suggest 
+ 
+ suggest |  | ed 
+ 
+  |  | suit 
+ 
+ suit |  | s 
+ 
+  |  | summat 
+ 
+  |  | summer 
+ 
+  |  | sun 
+ 
+ sun |  | burn 
+ 
+ sun |  | k 
+ 
+ sun |  | light 
+ 
+ sun |  | ny 
+ 
+ sun |  | rise 
+ 
+ sun |  | shine 
+ 
+  |  | supple 
+ 
+  |  | supply 
+ 
+  |  | supporting 
+ 
+  |  | suppose 
+ 
+ suppose |  | d 
+ 
+  |  | sure 
+ 
+ sure |  | ly 
+ 
+  |  | surged 
+ 
+  |  | surname 
+ 
+  |  | surprise 
+ 
+ surprise |  | d 
+ 
+ surprise |  | s 
+ 
+  |  | surprising 
+ 
+  |  | surrounded 
+ 
+  |  | surrounding 
+ 
+  |  | survive 
+ 
+  |  | suspect 
+ 
+ suspect |  | ed 
+ 
+  |  | suspend 
+ 
+ suspend |  | ed 
+ 
+  |  | suspension 
+ 
+  |  | suspicion 
+ 
+  |  | suspicious 
+ 
+  |  | swaggered 
+ 
+  |  | swallow 
+ 
+ swallow |  | ed 
+ 
+  |  | swam 
+ 
+ swap |  | ped 
+ 
+ swap |  | ping 
+ 
+  |  | swarmin 
+ 
+ swarmin |  | g 
+ 
+  |  | swarthy 
+ 
+  |  | swayed 
+ 
+  |  | swaying 
+ 
+  |  | swear 
+ 
+ swear |  | ing 
+ 
+  |  | sweat 
+ 
+ sweat |  | er 
+ 
+ sweat |  | ers 
+ 
+ sweat |  | ing 
+ 
+ sweat |  | y 
+ 
+  |  | sweeping 
+ 
+  |  | sweet 
+ 
+ sweet |  | s 
+ 
+ sweet |  | ums 
+ 
+  |  | swelled 
+ 
+  |  | swelling 
+ 
+  |  | sweltering 
+ 
+  |  | swept 
+ 
+  |  | swift 
+ 
+ swift |  | ly 
+ 
+  |  | swig 
+ 
+  |  | swimming 
+ 
+  |  | swipe 
+ 
+  |  | swish 
+ 
+ swish |  | ed 
+ 
+ swish |  | ing 
+ 
+ swish |  | y 
+ 
+  |  | swollen 
+ 
+  |  | swoop 
+ 
+ swoop |  | ed 
+ 
+ swoop |  | ing 
+ 
+  |  | sword 
+ 
+  |  | swore 
+ 
+  |  | sworn 
+ 
+  |  | swung 
+ 
+  |  | syllable 
+ 
+  |  | symbols 
+ 
+  |  | t 
+ 
+  |  | ta 
+ 
+  |  | tabby 
+ 
+  |  | table 
+ 
+ table |  | s 
+ 
+  |  | tackled 
+ 
+  |  | tackling 
+ 
+  |  | tags 
+ 
+  |  | tail 
+ 
+ tail |  | coats 
+ 
+  |  | take 
+ 
+ take |  | n 
+ 
+ take |  | s 
+ 
+  |  | takin 
+ 
+ takin |  | g 
+ 
+  |  | talent 
+ 
+  |  | talk 
+ 
+ talk |  | ed 
+ 
+ talk |  | ing 
+ 
+  |  | tall 
+ 
+ tall |  | er 
+ 
+ tall |  | est 
+ 
+  |  | tame 
+ 
+  |  | tangled 
+ 
+  |  | tangles 
+ 
+  |  | tank 
+ 
+  |  | tantrum 
+ 
+  |  | tap 
+ 
+ tap |  | dance 
+ 
+ tap |  | e 
+ 
+ tap |  | ed 
+ 
+ tap |  | estries 
+ 
+ tap |  | estry 
+ 
+ tap |  | ped 
+ 
+ tap |  | ping 
+ 
+  |  | tarantula 
+ 
+  |  | tart 
+ 
+ tart |  | an 
+ 
+ tart |  | s 
+ 
+  |  | taste 
+ 
+ taste |  | d 
+ 
+  |  | tasty 
+ 
+  |  | taught 
+ 
+  |  | taunting 
+ 
+  |  | tawny 
+ 
+  |  | tea 
+ 
+ tea |  | bags 
+ 
+ tea |  | ch 
+ 
+ tea |  | cher 
+ 
+ tea |  | chers 
+ 
+ tea |  | ches 
+ 
+ tea |  | ching 
+ 
+ tea |  | cups 
+ 
+ tea |  | m 
+ 
+ tea |  | ms 
+ 
+ tea |  | pot 
+ 
+ tea |  | r 
+ 
+ tea |  | rful 
+ 
+ tea |  | ring 
+ 
+ tea |  | rs 
+ 
+ ted |  | dy 
+ 
+  |  | teeth 
+ 
+  |  | teh 
+ 
+  |  | telephone 
+ 
+  |  | telescope 
+ 
+ telescope |  | s 
+ 
+  |  | television 
+ 
+  |  | tell 
+ 
+ tell |  | in 
+ 
+ tell |  | ing 
+ 
+ tell |  | s 
+ 
+  |  | temper 
+ 
+  |  | ten 
+ 
+ ten |  | d 
+ 
+ ten |  | drils 
+ 
+ ten |  | nis 
+ 
+ ten |  | pin 
+ 
+ ten |  | s 
+ 
+ ten |  | t 
+ 
+ ten |  | tacles 
+ 
+  |  | ter 
+ 
+ ter |  | m 
+ 
+ ter |  | ms 
+ 
+ ter |  | rible 
+ 
+ ter |  | rified 
+ 
+ ter |  | ror 
+ 
+  |  | test 
+ 
+ test |  | ing 
+ 
+  |  | th 
+ 
+  |  | than 
+ 
+ than |  | k 
+ 
+ than |  | ked 
+ 
+ than |  | kful 
+ 
+ than |  | ks 
+ 
+  |  | that 
+ 
+  |  | the 
+ 
+ the |  | ir 
+ 
+ the |  | m 
+ 
+ the |  | mselves 
+ 
+ the |  | n 
+ 
+ the |  | re 
+ 
+ the |  | refore 
+ 
+ the |  | rn 
+ 
+ the |  | se 
+ 
+ the |  | y 
+ 
+  |  | thick 
+ 
+ thick |  | er 
+ 
+ thick |  | ly 
+ 
+ thick |  | set 
+ 
+  |  | thieves 
+ 
+  |  | thin 
+ 
+ thin |  | g 
+ 
+ thin |  | gs 
+ 
+ thin |  | k 
+ 
+ thin |  | king 
+ 
+ thin |  | ks 
+ 
+ thin |  | ner 
+ 
+ thin |  | nest 
+ 
+  |  | third 
+ 
+  |  | thirst 
+ 
+  |  | thirteen 
+ 
+  |  | thirty 
+ 
+  |  | this 
+ 
+  |  | those 
+ 
+  |  | though 
+ 
+ though |  | t 
+ 
+ though |  | tfully 
+ 
+ though |  | ts 
+ 
+  |  | thousand 
+ 
+ thousand |  | s 
+ 
+  |  | thrashing 
+ 
+  |  | threatening 
+ 
+  |  | three 
+ 
+ three |  | quarters 
+ 
+ three |  | s 
+ 
+  |  | threshold 
+ 
+  |  | threw 
+ 
+  |  | throat 
+ 
+ throat |  | s 
+ 
+  |  | thronging 
+ 
+  |  | through 
+ 
+ through |  | out 
+ 
+  |  | throw 
+ 
+ throw |  | ing 
+ 
+ throw |  | n 
+ 
+  |  | thud 
+ 
+  |  | thumbs 
+ 
+  |  | thump 
+ 
+ thump |  | in 
+ 
+ thump |  | ing 
+ 
+  |  | thunder 
+ 
+ thunder |  | ed 
+ 
+ thunder |  | ous 
+ 
+  |  | thus 
+ 
+  |  | tick 
+ 
+ tick |  | ed 
+ 
+ tick |  | et 
+ 
+ tick |  | ets 
+ 
+ tick |  | led 
+ 
+ tick |  | ling 
+ 
+  |  | tidier 
+ 
+  |  | tidy 
+ 
+  |  | tie 
+ 
+ tie |  | d 
+ 
+  |  | tight 
+ 
+ tight |  | ened 
+ 
+ tight |  | er 
+ 
+ tight |  | ly 
+ 
+ tight |  | s 
+ 
+  |  | til 
+ 
+  |  | time 
+ 
+ time |  | s 
+ 
+  |  | timidly 
+ 
+  |  | tin 
+ 
+ tin |  | ge 
+ 
+ tin |  | gle 
+ 
+ tin |  | kling 
+ 
+ tin |  | ned 
+ 
+ tin |  | y 
+ 
+  |  | tipped 
+ 
+  |  | tips 
+ 
+  |  | tiptoe 
+ 
+ tiptoe |  | d 
+ 
+  |  | tired 
+ 
+  |  | title 
+ 
+ title |  | s 
+ 
+  |  | to 
+ 
+  |  | toad 
+ 
+ toad |  | less 
+ 
+ toad |  | s 
+ 
+  |  | toast 
+ 
+ toast |  | ing 
+ 
+  |  | today 
+ 
+  |  | toe 
+ 
+  |  | toffee 
+ 
+  |  | together 
+ 
+  |  | toil 
+ 
+ toil |  | et 
+ 
+ toil |  | ets 
+ 
+  |  | told 
+ 
+ tom |  | atoes 
+ 
+ tom |  | orrow 
+ 
+  |  | tone 
+ 
+  |  | tongue 
+ 
+  |  | tonight 
+ 
+  |  | too 
+ 
+ too |  | k 
+ 
+ too |  | thless 
+ 
+  |  | top 
+ 
+ top |  | most 
+ 
+ top |  | pled 
+ 
+  |  | torches 
+ 
+  |  | tore 
+ 
+  |  | torn 
+ 
+  |  | tortoise 
+ 
+  |  | torture 
+ 
+  |  | tosh 
+ 
+  |  | tottered 
+ 
+  |  | tottering 
+ 
+  |  | touch 
+ 
+ touch |  | ed 
+ 
+ touch |  | es 
+ 
+ touch |  | ing 
+ 
+  |  | tourists 
+ 
+  |  | toward 
+ 
+  |  | tower 
+ 
+ tower |  | ed 
+ 
+ tower |  | ing 
+ 
+ tower |  | s 
+ 
+  |  | town 
+ 
+ town |  | s 
+ 
+  |  | toys 
+ 
+  |  | track 
+ 
+ track |  | s 
+ 
+  |  | traffic 
+ 
+  |  | trail 
+ 
+ trail |  | ed 
+ 
+ trail |  | ing 
+ 
+  |  | train 
+ 
+ train |  | ed 
+ 
+ train |  | ing 
+ 
+ train |  | s 
+ 
+  |  | trances 
+ 
+  |  | transfer 
+ 
+  |  | transfiguration 
+ 
+  |  | transfigured 
+ 
+  |  | transfixed 
+ 
+  |  | transform 
+ 
+  |  | transparent 
+ 
+  |  | transport 
+ 
+  |  | trapdoor 
+ 
+  |  | trapped 
+ 
+  |  | trash 
+ 
+  |  | traveled 
+ 
+  |  | treacle 
+ 
+  |  | treasure 
+ 
+  |  | treat 
+ 
+ treat |  | ed 
+ 
+ treat |  | ing 
+ 
+  |  | treble 
+ 
+  |  | tree 
+ 
+ tree |  | s 
+ 
+  |  | tremble 
+ 
+ tremble |  | d 
+ 
+  |  | tremblin 
+ 
+ tremblin |  | g 
+ 
+  |  | trials 
+ 
+  |  | trick 
+ 
+ trick |  | ed 
+ 
+ trick |  | ling 
+ 
+ trick |  | y 
+ 
+  |  | tried 
+ 
+  |  | tries 
+ 
+  |  | trifle 
+ 
+  |  | trip 
+ 
+ trip |  | e 
+ 
+ trip |  | ped 
+ 
+ trip |  | ping 
+ 
+  |  | triumph 
+ 
+ triumph |  | ant 
+ 
+ triumph |  | s 
+ 
+  |  | trodden 
+ 
+  |  | troduced 
+ 
+  |  | troll 
+ 
+ troll |  | ey 
+ 
+ troll |  | s 
+ 
+  |  | troops 
+ 
+  |  | trophy 
+ 
+  |  | trot 
+ 
+ trot |  | ting 
+ 
+  |  | trouble 
+ 
+ trouble |  | some 
+ 
+  |  | trousers 
+ 
+  |  | trowels 
+ 
+  |  | trudged 
+ 
+  |  | true 
+ 
+  |  | truly 
+ 
+  |  | trunk 
+ 
+ trunk |  | s 
+ 
+  |  | trust 
+ 
+ trust |  | ed 
+ 
+ trust |  | ing 
+ 
+  |  | truth 
+ 
+ truth |  | ful 
+ 
+  |  | try 
+ 
+ try |  | in 
+ 
+ try |  | ing 
+ 
+  |  | tub 
+ 
+  |  | tuck 
+ 
+ tuck |  | ed 
+ 
+  |  | tuft 
+ 
+ tuft |  | s 
+ 
+  |  | tugged 
+ 
+  |  | tugging 
+ 
+  |  | tumbled 
+ 
+  |  | tumbling 
+ 
+  |  | tune 
+ 
+  |  | tunnel 
+ 
+ tunnel |  | s 
+ 
+  |  | turban 
+ 
+  |  | tureens 
+ 
+  |  | turkey 
+ 
+ turkey |  | s 
+ 
+  |  | turn 
+ 
+ turn |  | ed 
+ 
+ turn |  | in 
+ 
+ turn |  | ing 
+ 
+ turn |  | ips 
+ 
+ turn |  | s 
+ 
+  |  | turrets 
+ 
+  |  | tut 
+ 
+  |  | twanging 
+ 
+  |  | twelve 
+ 
+  |  | twenty 
+ 
+  |  | twice 
+ 
+  |  | twig 
+ 
+ twig |  | s 
+ 
+  |  | twin 
+ 
+ twin |  | kled 
+ 
+ twin |  | kling 
+ 
+ twin |  | s 
+ 
+  |  | twist 
+ 
+ twist |  | ed 
+ 
+ twist |  | ing 
+ 
+  |  | twitched 
+ 
+  |  | twitching 
+ 
+  |  | two 
+ 
+ two |  | s 
+ 
+  |  | tyke 
+ 
+  |  | type 
+ 
+ type |  | s 
+ 
+  |  | ube 
+ 
+  |  | ugly 
+ 
+  |  | umbrella 
  
   |  | un 
  
-  |  | una 
+  |  | unDursleyish 
  
- una |  | s 
+  |  | unable 
  
-  |  | universal 
+  |  | unafraid 
  
-  |  | universo 
+  |  | unbearable 
  
-  |  | uno 
+  |  | unbelievable 
  
- uno |  | s 
+  |  | unblinkingly 
  
-  |  | urgencia 
+  |  | unbroken 
  
-  |  | usted 
+  |  | uncertainly 
  
- usted |  | es 
+  |  | uncle 
  
-  |  | utilizaba 
+  |  | uncoiling 
  
-  |  | va 
+  |  | uncomfortable 
  
-  |  | vacaciones 
+  |  | under 
  
-  |  | vacilante 
+ under |  | ground 
  
-  |  | vacilo 
+ under |  | growth 
  
-  |  | vaciló 
+ under |  | neath 
  
-  |  | vacías 
+ under |  | stand 
  
-  |  | vale 
+ under |  | stood 
  
-  |  | valor 
+  |  | undred 
  
-  |  | valía 
+  |  | uneasy 
  
-  |  | vamos 
+  |  | unexpected 
+ 
+  |  | unfair 
+ 
+  |  | unfolded 
+ 
+  |  | unfolding 
+ 
+  |  | unfortunate 
+ 
+  |  | unicorn 
+ 
+ unicorn |  | s 
+ 
+  |  | uniform 
+ 
+  |  | unknown 
+ 
+  |  | unless 
+ 
+  |  | unlike 
+ 
+  |  | unlocked 
+ 
+  |  | unluckily 
+ 
+  |  | unpleasant 
+ 
+  |  | unpopular 
+ 
+  |  | unraveled 
+ 
+  |  | unseated 
+ 
+  |  | unseen 
+ 
+  |  | unsettled 
+ 
+  |  | unsticking 
+ 
+  |  | untidy 
+ 
+  |  | until 
+ 
+  |  | untouched 
+ 
+  |  | unused 
+ 
+  |  | unusual 
+ 
+ unusual |  | ly 
+ 
+  |  | unwelcome 
+ 
+  |  | unwrap 
+ 
+ unwrap |  | ped 
+ 
+ unwrap |  | ping 
+ 
+  |  | up 
+ 
+  |  | upon 
+ 
+  |  | upper 
+ 
+  |  | upright 
+ 
+  |  | uprising 
+ 
+  |  | uproar 
+ 
+  |  | upset 
+ 
+  |  | upside 
+ 
+  |  | upstairs 
+ 
+  |  | upturned 
+ 
+  |  | upward 
+ 
+  |  | urged 
+ 
+  |  | urgent 
+ 
+ urgent |  | ly 
+ 
+  |  | us 
+ 
+  |  | use 
+ 
+ use |  | d 
+ 
+ use |  | ful 
+ 
+ use |  | less 
+ 
+ use |  | s 
+ 
+  |  | ushered 
+ 
+  |  | using 
+ 
+  |  | usual 
+ 
+ usual |  | ly 
+ 
+  |  | utter 
+ 
+  |  | vacation 
+ 
+ vacation |  | ing 
+ 
+  |  | vacuum 
+ 
+  |  | vain 
+ 
+  |  | valuable 
+ 
+  |  | value 
+ 
+  |  | vampire 
+ 
+ vampire |  | s 
  
   |  | van 
  
- van |  | idad 
+ van |  | ish 
  
- van |  | idoso 
+ van |  | ished 
  
- van |  | idosos 
+ van |  | ishing 
  
-  |  | vas 
+  |  | vapor 
  
-  |  | vaya 
+  |  | vast 
  
- vaya |  | s 
+  |  | vault 
+ 
+ vault |  | s 
  
   |  | ve 
  
-  |  | vea 
+  |  | veins 
  
- vea |  | n 
+  |  | velvet 
  
-  |  | veces 
+ velvet |  | y 
  
-  |  | veinte 
+  |  | versus 
  
-  |  | veinticuatro 
+  |  | very 
  
-  |  | veintidós 
+  |  | vibrate 
  
-  |  | veintiocho 
+  |  | vibrating 
  
-  |  | vejada 
+  |  | vicious 
  
-  |  | vejado 
+  |  | victims 
  
-  |  | veleta 
+  |  | victory 
  
-  |  | ven 
+  |  | video 
  
- ven |  | dan 
+  |  | view 
  
- ven |  | des 
+  |  | vigorously 
  
- ven |  | drá 
+  |  | village 
  
- ven |  | eno 
+  |  | violent 
  
- ven |  | gas 
+ violent |  | ly 
  
- ven |  | go 
+  |  | violet 
  
- ven |  | ir 
+  |  | visible 
  
- ven |  | tana 
+  |  | vision 
  
- ven |  | tanas 
+  |  | visit 
  
- ven |  | ía 
+ visit |  | ed 
  
-  |  | veo 
+ visit |  | ing 
  
-  |  | ver 
+ visit |  | or 
  
- ver |  | dad 
+ visit |  | ors 
  
- ver |  | daderamente 
+  |  | voice 
  
- ver |  | dadero 
+ voice |  | s 
  
- ver |  | de 
+  |  | voicing 
  
- ver |  | güenza 
+ vol |  | ume 
  
- ver |  | lo 
+  |  | vomitflavored 
  
- ver |  | te 
+  |  | waddling 
  
- ver |  | ás 
+  |  | waffle 
  
- ver |  | éis 
+  |  | wafting 
  
- ves |  | tido 
+  |  | waggled 
  
- ves |  | tir 
+  |  | wailed 
  
- ves |  | tía 
+  |  | waist 
  
-  |  | vete 
+  |  | wait 
  
-  |  | vez 
+ wait |  | ed 
  
-  |  | veía 
+ wait |  | in 
  
-  |  | vi 
+ wait |  | ing 
  
-  |  | viajado 
+  |  | wake 
  
-  |  | viajan 
+ wake |  | s 
  
-  |  | viajar 
+  |  | waking 
  
-  |  | viaje 
+  |  | walk 
  
- viaje |  | ros 
+ walk |  | ed 
  
-  |  | viajáis 
+ walk |  | ing 
  
-  |  | vida 
+  |  | wall 
  
-  |  | vidrio 
+ wall |  | ed 
  
- vidrio |  | s 
+ wall |  | s 
  
-  |  | vieja 
+  |  | walnut 
  
- vieja |  | s 
+  |  | wand 
  
-  |  | viejo 
+ wand |  | er 
  
-  |  | viene 
+ wand |  | ered 
  
- viene |  | s 
+ wand |  | ering 
  
-  |  | viento 
+ wand |  | erings 
  
-  |  | viese 
+ wand |  | s 
  
-  |  | vigila 
+  |  | want 
  
- vigila |  | do 
+ want |  | ed 
  
-  |  | vinieras 
+ want |  | in 
  
-  |  | vio 
+ want |  | ing 
  
-  |  | virgen 
+ want |  | s 
  
-  |  | visita 
+  |  | ward 
  
- visita |  | rlos 
+ ward |  | robes 
  
- visita |  | rme 
+  |  | warm 
  
-  |  | visite 
+ warm |  | er 
  
-  |  | vistazo 
+ warm |  | th 
  
-  |  | viste 
+  |  | warn 
  
-  |  | visto 
+ warn |  | ed 
  
-  |  | viva 
+ warn |  | ing 
  
-  |  | vive 
+  |  | warty 
  
-  |  | vividas 
+  |  | was 
  
-  |  | vivir 
+ was |  | h 
  
-  |  | vivo 
+ was |  | n 
  
- viví |  | a 
+ was |  | te 
  
-  |  | viña 
+ was |  | ted 
  
-  |  | vocecita 
+ was |  | tepaper 
  
-  |  | volaba 
+ was |  | ters 
  
-  |  | volado 
+  |  | watch 
  
-  |  | volar 
+ watch |  | ed 
  
-  |  | volcanes 
+ watch |  | ers 
  
-  |  | volcán 
+ watch |  | in 
  
- volcán |  | icas 
+ watch |  | ing 
  
-  |  | voluntad 
+  |  | water 
  
-  |  | volver 
+ water |  | ed 
  
-  |  | volviendo 
+ water |  | ing 
  
-  |  | volvió 
+ water |  | y 
  
-  |  | volví 
+  |  | wave 
  
- volví |  | a 
+ wave |  | d 
  
- volví |  | as 
+ wave |  | s 
  
-  |  | vosotros 
+  |  | waving 
  
-  |  | voy 
+  |  | wax 
  
-  |  | voz 
+  |  | way 
  
-  |  | vuela 
+ way |  | s 
  
-  |  | vuelta 
+  |  | we 
  
- vuelta |  | s 
+  |  | weak 
  
-  |  | vuelto 
+ weak |  | ly 
  
-  |  | vuelve 
+  |  | weapon 
  
- vuelve |  | n 
+  |  | wear 
  
-  |  | vuelvo 
+ wear |  | ing 
  
- vuestra |  | s 
+ wear |  | s 
  
-  |  | vínculos 
+  |  | weather 
+ 
+ weather |  | man 
+ 
+  |  | weave 
+ 
+  |  | weaving 
+ 
+  |  | wee 
+ 
+ wee |  | ds 
+ 
+ wee |  | k 
+ 
+ wee |  | kly 
+ 
+ wee |  | ks 
+ 
+  |  | weigh 
+ 
+ weigh |  | ed 
+ 
+ weigh |  | ing 
+ 
+ weigh |  | t 
+ 
+  |  | weird 
+ 
+ weird |  | est 
+ 
+ weird |  | os 
+ 
+  |  | welcome 
+ 
+  |  | well 
+ 
+  |  | went 
+ 
+  |  | were 
+ 
+ were |  | n 
+ 
+ were |  | wolf 
+ 
+ were |  | wolves 
+ 
+  |  | wet 
+ 
+  |  | whacked 
+ 
+  |  | what 
+ 
+ what |  | ever 
+ 
+  |  | wheedled 
+ 
+  |  | wheel 
+ 
+ wheel |  | ed 
+ 
+ wheel |  | ing 
+ 
+  |  | wheezed 
+ 
+  |  | wheezing 
+ 
+  |  | whelk 
+ 
+  |  | when 
+ 
+ when |  | ever 
+ 
+  |  | where 
+ 
+ where |  | ver 
+ 
+  |  | whether 
+ 
+  |  | which 
+ 
+ which |  | ever 
+ 
+  |  | while 
+ 
+  |  | whimper 
+ 
+ whimper |  | ed 
+ 
+ whimper |  | ing 
+ 
+  |  | whined 
+ 
+  |  | whipped 
+ 
+  |  | whippy 
+ 
+  |  | whirl 
+ 
+ whirl |  | ed 
+ 
+  |  | whisk 
+ 
+ whisk |  | ed 
+ 
+ whisk |  | ers 
+ 
+ whisk |  | ery 
+ 
+  |  | whisper 
+ 
+ whisper |  | ed 
+ 
+ whisper |  | ers 
+ 
+ whisper |  | ing 
+ 
+ whisper |  | s 
+ 
+  |  | whistle 
+ 
+ whistle |  | d 
+ 
+  |  | whistling 
+ 
+  |  | white 
+ 
+  |  | whittled 
+ 
+  |  | whizzing 
+ 
+  |  | who 
+ 
+ who |  | ever 
+ 
+ who |  | le 
+ 
+ who |  | m 
+ 
+ who |  | op 
+ 
+ who |  | oped 
+ 
+ who |  | oshing 
+ 
+ who |  | se 
+ 
+  |  | why 
+ 
+  |  | wicked 
+ 
+ wicked |  | ly 
+ 
+  |  | wide 
+ 
+ wide |  | ly 
+ 
+ wide |  | r 
+ 
+  |  | wife 
+ 
+  |  | wig 
+ 
+  |  | wild 
+ 
+ wild |  | er 
+ 
+ wild |  | ly 
+ 
+  |  | will 
+ 
+ will |  | ing 
+ 
+ will |  | ow 
+ 
+  |  | win 
+ 
+ win |  | d 
+ 
+ win |  | ding 
+ 
+ win |  | dmill 
+ 
+ win |  | dow 
+ 
+ win |  | dows 
+ 
+ win |  | dowsill 
+ 
+ win |  | ds 
+ 
+ win |  | e 
+ 
+ win |  | g 
+ 
+ win |  | gs 
+ 
+ win |  | ked 
+ 
+ win |  | ning 
+ 
+ win |  | s 
+ 
+ win |  | ter 
+ 
+  |  | wipe 
+ 
+ wipe |  | d 
+ 
+  |  | wiping 
+ 
+  |  | wise 
+ 
+  |  | wish 
+ 
+ wish |  | ed 
+ 
+ wish |  | ing 
+ 
+  |  | wit 
+ 
+ wit |  | ch 
+ 
+ wit |  | chcraft 
+ 
+ wit |  | ches 
+ 
+ wit |  | h 
+ 
+ wit |  | hin 
+ 
+ wit |  | hout 
+ 
+ wit |  | ted 
+ 
+  |  | wizard 
+ 
+ wizard |  | in 
+ 
+ wizard |  | ing 
+ 
+ wizard |  | ry 
+ 
+ wizard |  | s 
+ 
+  |  | wizened 
+ 
+  |  | wohsi 
+ 
+  |  | woke 
+ 
+ woke |  | n 
+ 
+  |  | wolfing 
+ 
+  |  | wolfsbane 
+ 
+  |  | woman 
+ 
+  |  | women 
+ 
+  |  | won 
+ 
+ won |  | der 
+ 
+ won |  | dered 
+ 
+ won |  | derful 
+ 
+ won |  | dering 
+ 
+  |  | wood 
+ 
+ wood |  | en 
+ 
+ wood |  | s 
+ 
+  |  | woolen 
+ 
+  |  | word 
+ 
+ word |  | s 
+ 
+  |  | wore 
+ 
+  |  | work 
+ 
+ work |  | ed 
+ 
+ work |  | ing 
+ 
+ work |  | s 
+ 
+  |  | world 
+ 
+  |  | wormwood 
+ 
+  |  | worried 
+ 
+  |  | worry 
+ 
+ worry |  | ing 
+ 
+  |  | worse 
+ 
+  |  | worst 
+ 
+  |  | worth 
+ 
+  |  | would 
+ 
+ would |  | n 
+ 
+  |  | wouln 
+ 
+  |  | wound 
+ 
+ wound |  | ed 
+ 
+  |  | woven 
+ 
+  |  | wrapped 
+ 
+  |  | wrenched 
+ 
+  |  | wrestle 
+ 
+ wrestle |  | d 
+ 
+  |  | wrestling 
+ 
+  |  | wriggled 
+ 
+  |  | wriggles 
+ 
+  |  | wringing 
+ 
+  |  | wrinkled 
+ 
+  |  | wrist 
+ 
+ wrist |  | s 
+ 
+ wrist |  | watch 
+ 
+ wrist |  | watches 
+ 
+  |  | write 
+ 
+ write |  | r 
+ 
+  |  | writing 
+ 
+  |  | written 
+ 
+  |  | wrong 
+ 
+ wrong |  | ly 
+ 
+  |  | wrote 
+ 
+  |  | wrought 
  
   |  | y 
  
-  |  | ya 
+  |  | yard 
  
-  |  | yo 
+  |  | yawned 
  
-  |  | zancadas 
+  |  | yawning 
  
-  |  | zorro 
+  |  | yeah 
  
- zorro |  | s 
+  |  | year 
  
-  |  | África 
+ year |  | s 
  
-  |  | Únicamente 
+  |  | yeh 
  
-  |  | ánimo 
+ yeh |  | ve 
  
-  |  | árbol 
+  |  | yell 
  
- árbol |  | es 
+ yell |  | ed 
  
-  |  | él 
+ yell |  | ing 
  
-  |  | ése 
+ yell |  | ow 
  
-  |  | ésta 
+ yell |  | owish 
  
- ésta |  | s 
+ yell |  | s 
  
-  |  | éste 
+  |  | yelp 
  
-  |  | ópera 
+ yelp |  | s 
  
-  |  | órdenes 
+  |  | yer 
  
-  |  | última 
+ yer |  | self 
  
-  |  | últimos 
+ yer |  | selves 
  
-  |  | única 
+  |  | yes 
  
- única |  | s 
+ yes |  | terday 
  
-  |  | único 
+  |  | yet 
  
- único |  | s 
+  |  | you 
  
-  |  | útil 
+ you |  | ng 
  
- útil |  | es 
+ you |  | nger 
+ 
+ you |  | ngest 
+ 
+ you |  | ngsters 
+ 
+ you |  | r 
+ 
+ you |  | rs 
+ 
+ you |  | rself 
+ 
+ you |  | rselves 
+ 
+ you |  | th 
+ 
+  |  | zigzagging 
+ 
+  |  | zombie 
+ 
+  |  | zoo 
+ 
+ zoo |  | m 
+ 
+ zoo |  | med 
+ 
+ zoo |  | ming 
  
