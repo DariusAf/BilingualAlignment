@@ -34,6 +34,8 @@ from math import log
 import functions as func
 import sys
 import radixtrie as art
+
+
 class Gold:
     def __init__(self):
 
@@ -88,21 +90,10 @@ class Gold:
         # Best sig (see .word_best_sig() for construction)
         self._word_bsig = None
         self._bsig_word = None
-        #Text is list of words
+        # Text is list of words
         self._text = None
         self._set = None
 
-###
-
-###
-    @property
-    def stable_split(self):
-        return self._stable_split
-
-
-    @property
-    def stable_sig(self):
-        return self._stable_sig
 ###
 
 ###

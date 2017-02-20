@@ -5,6 +5,7 @@ Created on Sat Nov 12 15:39:02 2016
 @author: Toulemont
 """
 
+
 def quick_sort_dict(adict, list_of_keys, left, right, checkpoint):
     """
     This function aims to build a quicksort algorithm for dictionaries where keys
@@ -69,7 +70,7 @@ def quick_sort_list(alist, left, right, checkpoint):
         return alist
 
 
-def jaro_winkler(str1, str2, alpha = 0.8):
+def jaro_winkler(str1, str2, alpha=0.8):
     """
     Computes the Jaro-winkler distance between two strings given as input.
     https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance
@@ -88,12 +89,14 @@ def jaro_winkler(str1, str2, alpha = 0.8):
                     t += 1
                     last_corr = j
     dist = (m/len(str1) + m/len(str2) + (m-t)/max(1, m))/3
-        # prefix
+    # prefix
     common_prefix = 0
     while common_prefix < min([5, len(str1), len(str2)]) \
         and str1[common_prefix] == str2[common_prefix]:
         common_prefix += 1
     return dist*alpha + (1-dist*alpha)*common_prefix/5
 
+
 def tolower(s):
+    """ To be used with map """
     return s.lower()

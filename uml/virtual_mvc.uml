@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/BilingualAlignment-master/virtual_mvc.py</OriginalElement>
+  <nodes>
+    <node x="353.0" y="240.0">virtual_mvc.VirtualModel</node>
+    <node x="539.0" y="240.0">virtual_mvc.VirtualView</node>
+    <node x="0.0" y="320.0">virtual_mvc.LinkErrorMVC</node>
+    <node x="197.1851851851852" y="0.0">_collections_abc.Hashable</node>
+    <node x="43.0" y="240.0">Exception</node>
+    <node x="357.0" y="160.0">virtual_mvc.VirtualMVC</node>
+    <node x="31.0" y="160.0">BaseException</node>
+    <node x="235.1851851851852" y="80.0">object</node>
+    <node x="148.0" y="240.0">virtual_mvc.VirtualController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="virtual_mvc.VirtualController" target="virtual_mvc.VirtualMVC">
+      <point x="0.0" y="-15.0" />
+      <point x="240.5" y="215.0" />
+      <point x="383.3333333333333" y="215.0" />
+      <point x="-52.666666666666686" y="15.0" />
+    </edge>
+    <edge source="object" target="_collections_abc.Hashable">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="Exception" target="BaseException">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="BaseException" target="object">
+      <point x="0.0" y="-15.0" />
+      <point x="85.5" y="135.0" />
+      <point x="251.9351851851852" y="135.0" />
+      <point x="-16.75" y="15.0" />
+    </edge>
+    <edge source="virtual_mvc.VirtualMVC" target="object">
+      <point x="0.0" y="-15.0" />
+      <point x="436.0" y="135.0" />
+      <point x="285.4351851851852" y="135.0" />
+      <point x="16.75" y="15.0" />
+    </edge>
+    <edge source="virtual_mvc.VirtualModel" target="virtual_mvc.VirtualMVC">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="virtual_mvc.LinkErrorMVC" target="Exception">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="virtual_mvc.VirtualView" target="virtual_mvc.VirtualMVC">
+      <point x="0.0" y="-15.0" />
+      <point x="617.5" y="215.0" />
+      <point x="488.66666666666663" y="215.0" />
+      <point x="52.66666666666663" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="348.0" y="175.0" />
+  <SelectedNodes>
+    <node>virtual_mvc.VirtualController</node>
+  </SelectedNodes>
+  <Categories />
+</Diagram>
+

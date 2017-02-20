@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/BilingualAlignment-master/widgets.py</OriginalElement>
+  <nodes>
+    <node x="189.555" y="320.0">PyQt4.QtGui.QBoxLayout.QBoxLayout</node>
+    <node x="619.8050000000001" y="400.0">PyQt4.QtGui.QAbstractScrollArea.QAbstractScrollArea</node>
+    <node x="0.0" y="160.0">PyQt4.QtGui.QLayoutItem.QLayoutItem</node>
+    <node x="537.2216666666666" y="0.0">_collections_abc.Hashable</node>
+    <node x="208.555" y="240.0">PyQt4.QtGui.QLayout.QLayout</node>
+    <node x="547.8050000000001" y="480.0">PyQt4.QtGui.QTextEdit.QTextEdit</node>
+    <node x="1230.8899999999999" y="400.0">widgets.LoadingWindow</node>
+    <node x="569.7650000000001" y="320.0">widgets.UiWindow</node>
+    <node x="810.8900000000001" y="320.0">PyQt4.QtGui.QFrame.QFrame</node>
+    <node x="370.55500000000006" y="480.0">widgets.ColumnInfo</node>
+    <node x="545.2150000000001" y="160.0">PyQt4.QtCore.QObject.QObject</node>
+    <node x="840.3050000000001" y="560.0">widgets.TextEditor</node>
+    <node x="775.8050000000001" y="480.0">PyQt4.QtGui.QPlainTextEdit.QPlainTextEdit</node>
+    <node x="1020.8900000000001" y="320.0">widgets.AlignmentDisplay</node>
+    <node x="47.555000000000064" y="400.0">PyQt4.QtGui.QVBoxLayout.QVBoxLayout</node>
+    <node x="264.0" y="160.0">_collections_abc.Sized</node>
+    <node x="913.3050000000001" y="240.0">PyQt4.QtGui.QWidget.QWidget</node>
+    <node x="575.2216666666666" y="80.0">object</node>
+    <node x="986.4300000000001" y="160.0">PyQt4.QtGui.QPaintDevice.QPaintDevice</node>
+    <node x="315.555" y="400.0">PyQt4.QtGui.QHBoxLayout.QHBoxLayout</node>
+    <node x="591.3050000000001" y="560.0">widgets.TextInfo</node>
+    <node x="957.8050000000001" y="400.0">widgets.OccurrenceSideBar</node>
+    <node x="1217.3899999999999" y="320.0">PyQt4.QtGui.QDialog.QDialog</node>
+    <node x="13.055000000000064" y="480.0">widgets.check_choices</node>
+    <node x="187.055" y="480.0">widgets.UiColumn</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="PyQt4.QtGui.QAbstractScrollArea.QAbstractScrollArea" target="PyQt4.QtGui.QFrame.QFrame">
+      <point x="0.0" y="-15.0" />
+      <point x="778.8050000000001" y="375.0" />
+      <point x="858.3900000000001" y="375.0" />
+      <point x="-47.5" y="15.0" />
+    </edge>
+    <edge source="widgets.AlignmentDisplay" target="PyQt4.QtGui.QWidget.QWidget">
+      <point x="0.0" y="-15.0" />
+      <point x="1106.89" y="300.0" />
+      <point x="1038.305" y="300.0" />
+      <point x="25.0" y="15.0" />
+    </edge>
+    <edge source="widgets.OccurrenceSideBar" target="PyQt4.QtGui.QFrame.QFrame">
+      <point x="0.0" y="-15.0" />
+      <point x="1046.805" y="375.0" />
+      <point x="953.3900000000001" y="375.0" />
+      <point x="47.5" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtCore.QObject.QObject" target="object">
+      <point x="0.0" y="-15.0" />
+      <point x="645.7150000000001" y="140.0" />
+      <point x="608.7216666666666" y="140.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QHBoxLayout.QHBoxLayout" target="PyQt4.QtGui.QBoxLayout.QBoxLayout">
+      <point x="-5.6843418860808015E-14" y="-15.0" />
+      <point x="441.55499999999995" y="375.0" />
+      <point x="365.055" y="375.0" />
+      <point x="58.5" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QPlainTextEdit.QPlainTextEdit" target="PyQt4.QtGui.QAbstractScrollArea.QAbstractScrollArea">
+      <point x="0.0" y="-15.0" />
+      <point x="905.8050000000001" y="455.0" />
+      <point x="858.3050000000001" y="455.0" />
+      <point x="79.5" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QDialog.QDialog" target="PyQt4.QtGui.QWidget.QWidget">
+      <point x="0.0" y="-15.0" />
+      <point x="1313.3899999999999" y="290.0" />
+      <point x="1088.305" y="290.0" />
+      <point x="75.0" y="15.0" />
+    </edge>
+    <edge source="widgets.check_choices" target="PyQt4.QtGui.QVBoxLayout.QVBoxLayout">
+      <point x="0.0" y="-15.0" />
+      <point x="90.05500000000006" y="455.0" />
+      <point x="109.55500000000006" y="455.0" />
+      <point x="-62.0" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QVBoxLayout.QVBoxLayout" target="PyQt4.QtGui.QBoxLayout.QBoxLayout">
+      <point x="0.0" y="-15.0" />
+      <point x="171.55500000000006" y="375.0" />
+      <point x="248.055" y="375.0" />
+      <point x="-58.5" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QLayout.QLayout" target="PyQt4.QtCore.QObject.QObject">
+      <point x="65.33333333333331" y="-15.0" />
+      <point x="371.8883333333333" y="215.0" />
+      <point x="595.4650000000001" y="215.0" />
+      <point x="-50.25" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QLayout.QLayout" target="_collections_abc.Sized">
+      <point x="0.0" y="-15.0" />
+      <point x="306.555" y="215.0" />
+      <point x="324.5" y="215.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="object" target="_collections_abc.Hashable">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="widgets.TextInfo" target="PyQt4.QtGui.QTextEdit.QTextEdit">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="widgets.LoadingWindow" target="PyQt4.QtGui.QDialog.QDialog">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QLayoutItem.QLayoutItem" target="object">
+      <point x="0.0" y="-15.0" />
+      <point x="122.0" y="140.0" />
+      <point x="586.3883333333333" y="140.0" />
+      <point x="-22.33333333333337" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QWidget.QWidget" target="PyQt4.QtGui.QPaintDevice.QPaintDevice">
+      <point x="50.0" y="-15.0" />
+      <point x="1063.305" y="215.0" />
+      <point x="1110.43" y="215.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QPaintDevice.QPaintDevice" target="object">
+      <point x="0.0" y="-15.0" />
+      <point x="1110.43" y="130.0" />
+      <point x="631.0550000000001" y="130.0" />
+      <point x="22.33333333333337" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QLayout.QLayout" target="PyQt4.QtGui.QLayoutItem.QLayoutItem">
+      <point x="-65.33333333333331" y="-15.0" />
+      <point x="241.2216666666667" y="215.0" />
+      <point x="122.0" y="215.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="widgets.UiWindow" target="PyQt4.QtGui.QWidget.QWidget">
+      <point x="0.0" y="-15.0" />
+      <point x="636.2650000000001" y="290.0" />
+      <point x="938.3050000000001" y="290.0" />
+      <point x="-75.0" y="15.0" />
+    </edge>
+    <edge source="widgets.TextEditor" target="PyQt4.QtGui.QPlainTextEdit.QPlainTextEdit">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QWidget.QWidget" target="PyQt4.QtCore.QObject.QObject">
+      <point x="-50.0" y="-15.0" />
+      <point x="963.3050000000001" y="215.0" />
+      <point x="695.9650000000001" y="215.0" />
+      <point x="50.25" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QTextEdit.QTextEdit" target="PyQt4.QtGui.QAbstractScrollArea.QAbstractScrollArea">
+      <point x="0.0" y="-15.0" />
+      <point x="651.8050000000001" y="455.0" />
+      <point x="699.3050000000001" y="455.0" />
+      <point x="-79.5" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QFrame.QFrame" target="PyQt4.QtGui.QWidget.QWidget">
+      <point x="0.0" y="-15.0" />
+      <point x="905.8900000000001" y="300.0" />
+      <point x="988.3050000000001" y="300.0" />
+      <point x="-25.0" y="15.0" />
+    </edge>
+    <edge source="widgets.ColumnInfo" target="PyQt4.QtGui.QHBoxLayout.QHBoxLayout">
+      <point x="-5.6843418860808015E-14" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="PyQt4.QtGui.QBoxLayout.QBoxLayout" target="PyQt4.QtGui.QLayout.QLayout">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="widgets.UiColumn" target="PyQt4.QtGui.QVBoxLayout.QVBoxLayout">
+      <point x="0.0" y="-15.0" />
+      <point x="253.055" y="455.0" />
+      <point x="233.55500000000006" y="455.0" />
+      <point x="62.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7713286713286713" x="705.0" y="295.0" />
+  <SelectedNodes>
+    <node>widgets.UiColumn</node>
+  </SelectedNodes>
+  <Categories />
+</Diagram>
+

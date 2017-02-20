@@ -168,7 +168,7 @@ class TextEditor(QtGui.QPlainTextEdit):
         cursor.mergeCharFormat(format_text)
 
     def refresh_highlight(self, word_str, color="yellow", first_pos=-1, last_pos=-1):
-        """ Highlights word_str """
+        """ Highlights word_str between two positions """
         if word_str != "":
             cursor = self.textCursor()
 
@@ -200,6 +200,11 @@ class TextEditor(QtGui.QPlainTextEdit):
                 index = pattern.search(reduced_text, viewport_pos)
 
     def scroll_highlight(self, current_word):
+        """
+        A fast highlighting of words !
+        We only update the part of the text that appear and disappear on screen
+        while scrolling.
+        """
         if current_word != "":
             first_pos = self.firstVisibleBlock().position()
             last_pos = self.cursorForPosition(QtCore.QPoint(self.viewport().width() - 1,
@@ -269,45 +274,43 @@ class TextInfo(QtGui.QTextEdit):
     def set_word(self, w):
         self.head = "Informations sur «<em>{}</em>»".format(w)
 
-
     def set_text(self, text):
         self.setHtml('<p style="font-weight:bold; font-size:12px; color:#555;">{}</p>{}'.format(self.head, text))
 
 
 class ColumnInfo(QtGui.QHBoxLayout):
-    def __init__(self,name):
+    def __init__(self):
         super(ColumnInfo, self).__init__()
         self.setSpacing(5)
-        self.setMargin(2)
-        #Open Icon
+        # self.setMargin(2)
+
+        # Open Icon
         self.open = QtGui.QToolButton()
         self.open.setIcon(QIcon("./images/open.png"))
+        self.open.setStyleSheet("QToolButton {border : none;}")
 
-        #Search bar
+        # Search bar
         self.searchLine = QtGui.QLineEdit()
         self.searchLine.setPlaceholderText("Search...")
         self.search = QtGui.QToolButton()
         self.search.setIcon(QIcon("./images/search.png"))
+        self.search.setStyleSheet("QToolButton {border : none;}")
 
-        #align button
-        self.alignBtn = QtGui.QPushButton("Aligner")
-
-        #organize
+        # Organize
         self.addWidget(self.open)
         self.addWidget(self.searchLine)
         self.addWidget(self.search)
-        self.addWidget(self.alignBtn)
 
 
 class UiColumn(QtGui.QVBoxLayout):
     def __init__(self, name):
         super(UiColumn, self).__init__()
         self.setSpacing(5)
-        self.setMargin(0)
+        self.setMargin(5)
 
         # init Widgets
         self.label = QtGui.QLabel("<b>{}</b>".format(name))
-        self.columnInfo = ColumnInfo(name)
+        self.columnInfo = ColumnInfo()
         self.align_disp = AlignmentDisplay()
         self.info_word = TextInfo("Information sur le mot")
         self.see_also = TextInfo("Autres déclinaisons")
@@ -321,6 +324,7 @@ class UiColumn(QtGui.QVBoxLayout):
         self.addWidget(self.see_also)
         self.addItem(QtGui.QSpacerItem(350, 5, QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Minimum))
 
+
 class UiWindow(QtGui.QWidget):
     def __init__(self):
         super(UiWindow, self).__init__()
@@ -331,8 +335,8 @@ class UiWindow(QtGui.QWidget):
         self.grid.setMargin(0)
 
         # add widgets
-        self.column1 = UiColumn("Texte 1")
-        self.column2 = UiColumn("Texte 2")
+        self.column1 = UiColumn("Texte original")
+        self.column2 = UiColumn("Texte traduit à aligner")
         self.grid.addLayout(self.column1)
         self.grid.addLayout(self.column2)
 

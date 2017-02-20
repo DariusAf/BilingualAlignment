@@ -1,37 +1,28 @@
 # Bilingual Alignment
 
-We will try to align the words of a text and its translation.
+We try to automatically align the words of a text and its translation, based on their vector of apparition.
 
+In order to launch the interface please execute main.py.
 
-In order to launch the interface please execute the following command : run example_gui
-in Ipython or any python interpreter.
+The interface relies on the **PyQT4** cross-platform. 
 
+## Pour la DTW :
 
-Le code définissant la DTW se trouve dans mvc.py
+* *mvc.py* : l'algorithme d'alignement est entièrement contenu dans la partie modèle
 
-Pour la classification morphologique, il a deux modules : 
+## Pour la classification morphologique, il a deux modules : 
 
-radixtrie.py : définition du trie et du patricia trie
-goldsmith.py : définition de la méthode de classification morphologique. 
-functions.py :  définition de différents fonctions utilisées dans le module goldsmith. 
+* *radixtrie.py* : définition du trie et du patricia trie
+* *goldsmith.py* : définition de la méthode de classification morphologique. 
+* *functions.py* :  définition de différents fonctions utilisées dans le module goldsmith. 
                 ( quick_sort pour les dictionnaires etc...)
 
+## Pour l'interface :
 
-save_data :
+*virtual_mvc.py* : architecture générique model - view - controller
+*mvc.py* : contient la DTW et les éléments de codes pour l'alignement
+*widgets.py* : définition des widgets de l'interface
 
-Pour l'interface :
+## Les autres fichiers :
 
-mvc.py : architecture model - view - controller
-widgets.py : définition des widgets
-virtual_mvc.py, interface.py : outils pour l'interface
-
-
-Pour lancer l'interface : exécuter run example_gui.py 
-
-
-Les autres fichiers à savoir : 
-example_main_mvc.py : exemple d'utilisation de l'architecture mvc
-GUI_test1.py ; GUI_test2.py : test de l'interface, n'a aucun impact sur le reste du code.
-
-
-mvcpy.uml ; virtual_mvc.uml ; widgets.uml : définition des diagrammes uml utilisés dans  le rapport.
+* *example_main_mvc.py* : utilisation sans interface du modèle pour des essais rapides
