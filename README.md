@@ -25,4 +25,4 @@ The interface relies on the **PyQT4** cross-platform.
 
 ## Les autres fichiers :
 
-* *example_main_mvc.py* : utilisation sans interface du modèle pour des essais rapides
+* *main.py* : utilisation sans interface du modèle pour des essais rapides
